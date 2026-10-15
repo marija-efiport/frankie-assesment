@@ -8,6 +8,3 @@
 # Keep the compressed export in Git LFS; exclude its unpacked copy.
 /output/frankie-export-*/
 
-# Large derived indexes remain available locally and can be regenerated.
-/outputs/frankie-message-analysis/message_index.csv
-/outputs/frankie-source-analysis/message-source-index.csv
