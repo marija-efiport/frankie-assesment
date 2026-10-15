@@ -1,0 +1,59 @@
+Source
+output/frankie-export-20261013T095511Z/messages.jsonl; 427,081 records; 4,173 conversations; period 2025-04-16 to 2026-10-13.
+
+Review coverage
+All records were processed automatically. Content review covered a pilot of 40 episodes and 4 additional examples of other outcomes. Not all conversations were manually assessed.
+
+Request coverage
+58,449 previously detected request messages: 9,239 lunch requests + 49,121 other requests + 89 explicit opt-outs. The earlier classification is heuristic and may miss implicit requests.
+
+Episode
+42,444 automatic segments: each starts with a candidate request and ends after a 30-minute gap since the last inbound message or a change in the detected topic. Messages are sorted by timestamp.
+
+Episode boundaries
+One episode is not necessarily one task. Related requests may be split when the topic changes; several needs may remain together. The episode count is therefore not the number of distinct user problems.
+
+Sampling
+Python random.Random(20261013); 4 episodes from each of 10 preselected groups, without filtering on positive or negative outcomes. This is a small, unweighted stratified pilot.
+
+Actual use case
+The automated topic is retained for traceability; the usecase column contains the assessment from reading the conversation. Topic errors were found, for example a Career Services contact request classified as IT.
+
+User criterion
+Frankie must supply the requested information in the conversation. Sending the user to Canvas, linking to a source or advising them to ask a service does not count as a successfully answered question. User confirmation of accessing a service does not change this criterion.
+
+Direct answer
+The requested content is supplied in the conversation; historical accuracy remains unverified. Completeness and accuracy require separate assessment. A supporting link does not disqualify an answer that already contains the requested information.
+
+Partial answer / navigation / referral
+Supplies some help or sends the user to find the content themselves. Even a correctly supplied, explicitly requested link is classified as navigation, outside direct substantive answers. A requested email address or opening hours are direct information; telling the user to ask an advisor instead of answering is not.
+
+Response problem
+A visible unresolved issue, inappropriate flow, disputed answer or verifiable error. This does not mean every disputed statement is factually incorrect.
+
+Unverified status
+A bot claim about registration or opt-out without confirmation of execution or state. A CRM/preference log or reliable subsequent evidence is needed.
+
+User confirmation
+An explicit it worked / hat geklappt confirms only the particular step: navigation, a technical problem or a transaction. It does not itself establish successful direct answering. Thanks, OK and silence are insufficient.
+
+Automated signals
+Fallback, clarification, referral and positive/negative phrases are incomplete regex indicators. They may overlap and do not measure success rates. Negations are excluded from the positive indicator; confirmation must follow an outbound message.
+
+Replies within the window
+Counts outbound messages and a limited set of menu/ticket/confirmation templates. UCS is not treated as a bot because its role is unconfirmed. Zero means no reply detected by these rules, not necessarily that no message was sent.
+
+Independent verification
+Historical menus, events, regulations, timetables, personal statuses and preference states were not verified. Knowledge-base references and sent-reply counts do not prove accuracy or task completion.
+
+BookStack / CRM
+knowledge_sources supplies associated documents; numeric IDs are BookStack candidates under the documented architecture. A confirmation template shows a communication flow, not a complete transaction record.
+
+Export integrity
+The export completed with 4 list/detail count discrepancies; it is not an atomic snapshot. The 824 repeated message_id records within conversations have different timestamps; they were retained as separate records and may represent versions.
+
+Traceability
+Source line is the 1-based line number in the original messages.jsonl. EP IDs apply to this script version. Table dates are UTC. Links and emails are masked in derived transcripts; this is not full anonymisation.
+
+Conclusion limit
+12 of the 40 reviewed episodes contain a direct answer under the stricter criterion; factual accuracy is unverified. The other 28 do not meet that criterion in the review or have an unverifiable status. This is not an overall success-rate estimate; the sample also includes navigation and transactions.

@@ -1,0 +1,121 @@
+{
+  "population": 42444,
+  "method": "All explicit request turns in a group must have answer-like information or requested navigation, with no explicit inability/service-unavailable response in the same turn and no detected user-negative signal in the group. Templates and unverified transaction confirmations do not qualify. Existing message-pattern classifications are reused. No sample extrapolation.",
+  "limitations": "Response-content proxy only, not semantic fulfillment, factual accuracy, satisfaction or verified action completion. False positives and false negatives remain. Mixed groups and clarification across turns can lower the proxy. All unproven groups remain in denominator; unproven does not mean failed.",
+  "validation_against_existing_100": {
+    "true_positive": 38,
+    "true_negative": 34,
+    "false_positive": 8,
+    "false_negative": 20
+  },
+  "topics": [
+    {
+      "topic": "Other / context-dependent text",
+      "help_requests": 12033,
+      "served_proxy": 4124,
+      "served_percent": 34.3
+    },
+    {
+      "topic": "Food / lunch / canteen",
+      "help_requests": 8707,
+      "served_proxy": 7216,
+      "served_percent": 82.9
+    },
+    {
+      "topic": "Events / clubs / networking",
+      "help_requests": 6779,
+      "served_proxy": 2361,
+      "served_percent": 34.8
+    },
+    {
+      "topic": "Registration / tickets / attendance",
+      "help_requests": 3141,
+      "served_proxy": 1172,
+      "served_percent": 37.3
+    },
+    {
+      "topic": "Timetables / classes / courses",
+      "help_requests": 2637,
+      "served_proxy": 904,
+      "served_percent": 34.3
+    },
+    {
+      "topic": "Opening Week / onboarding",
+      "help_requests": 2269,
+      "served_proxy": 792,
+      "served_percent": 34.9
+    },
+    {
+      "topic": "Exams / grades / assignments",
+      "help_requests": 1652,
+      "served_proxy": 529,
+      "served_percent": 32.0
+    },
+    {
+      "topic": "Campus / facilities / transport",
+      "help_requests": 1603,
+      "served_proxy": 735,
+      "served_percent": 45.9
+    },
+    {
+      "topic": "IT / Canvas / accounts",
+      "help_requests": 1118,
+      "served_proxy": 463,
+      "served_percent": 41.4
+    },
+    {
+      "topic": "Documents / student ID / administration",
+      "help_requests": 824,
+      "served_proxy": 322,
+      "served_percent": 39.1
+    },
+    {
+      "topic": "Careers / jobs / internships",
+      "help_requests": 581,
+      "served_proxy": 206,
+      "served_percent": 35.5
+    },
+    {
+      "topic": "Study advisors / staff contacts",
+      "help_requests": 515,
+      "served_proxy": 266,
+      "served_percent": 51.7
+    },
+    {
+      "topic": "Fees / scholarships / funding",
+      "help_requests": 186,
+      "served_proxy": 59,
+      "served_percent": 31.7
+    },
+    {
+      "topic": "Assistant capabilities / technical feedback",
+      "help_requests": 185,
+      "served_proxy": 46,
+      "served_percent": 24.9
+    },
+    {
+      "topic": "Unsubscribe / stop notifications",
+      "help_requests": 80,
+      "served_proxy": 1,
+      "served_percent": 1.2
+    },
+    {
+      "topic": "Notification preferences / opt-out",
+      "help_requests": 64,
+      "served_proxy": 16,
+      "served_percent": 25.0
+    },
+    {
+      "topic": "Housing / visas / relocation",
+      "help_requests": 50,
+      "served_proxy": 9,
+      "served_percent": 18.0
+    },
+    {
+      "topic": "Wellbeing / personal support",
+      "help_requests": 20,
+      "served_proxy": 8,
+      "served_percent": 40.0
+    }
+  ]
+}

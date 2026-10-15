@@ -1,0 +1,19 @@
+﻿topic,grouped_requests,distinct_users,user_messages,example,example_source_line,example_timestamp
+Food / lunch / canteen,8204,1079,10316,What is the menu today,144673,2026-09-28 11:00:12.020174+00:00
+Events / clubs / networking,4311,1791,9436,Today's events?,89344,2026-09-24 07:37:01.550157+00:00
+Registration / tickets / attendance,1969,1213,3883,How to register for venture hub,4553,2026-09-14 09:23:16.733968+00:00
+Timetables / classes / courses,1919,1049,3936,Can you give me full class schedule,146186,2026-08-08 11:08:00.902162+00:00
+Opening Week / onboarding,1599,973,3036,What is the dresscode for the first and also the second day of orientation week?,94963,2026-08-23 19:36:42.526231+00:00
+Exams / grades / assignments,1558,716,3138,Where can I see my exam schedule?,111405,2026-10-07 16:06:47.055176+00:00
+Campus / facilities / transport,1081,716,2055,How can i print things in the library,192,2025-12-13 12:30:09.573100+00:00
+IT / Canvas / accounts,836,572,1780,When can I go to the it support?,25924,2025-10-02 16:43:54.091994+00:00
+Documents / student ID / administration,593,464,1052,What should I do if I lost my student id,273361,2025-11-11 18:43:53.448934+00:00
+Careers / jobs / internships,489,367,993,Can you provide feedback on my cv?,5145,2025-05-26 13:18:36.137972+00:00
+Study advisors / staff contacts,422,318,756,Do you know who my Study advisor ist,264513,2026-08-22 17:01:37.261064+00:00
+Fees / scholarships / funding,163,133,318,Where can I find the invoice,1449,2026-09-12 05:54:39.444651+00:00
+Assistant capabilities / technical feedback,150,134,369,Perfekt wofür steht ow und was kannst du?,5010,2025-07-29 13:01:01.278304+00:00
+Unsubscribe / stop notifications,77,64,103,Could you please stop sending me the lunch menu,397024,2025-05-12 09:17:51.442498+00:00
+Notification preferences / opt-out,47,44,106,Can you turn on notification please,231094,2025-08-24 12:41:51.979232+00:00
+Housing / visas / relocation,43,37,115,can you help with like finding accommodation?,20655,2026-08-21 15:50:32.594491+00:00
+Wellbeing / personal support,19,17,48,What to do if I have academic stress from this university? Whom do I contact,61487,2026-04-29 10:32:06.899137+00:00
+Other / context-dependent text,8049,2413,15062,which incident?,12261,2026-05-28 15:17:05.258506+00:00

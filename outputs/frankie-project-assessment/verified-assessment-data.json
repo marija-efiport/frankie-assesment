@@ -1,0 +1,831 @@
+{
+  "sha256": "d30399181684018f6b61f7e919e974b5739ad8d770cca289c1e968d45a6a5812",
+  "records": 427081,
+  "directions": {
+    "outbound": 168409,
+    "inbound": 93987,
+    "template": 164256,
+    "ucs": 429
+  },
+  "users": 4173,
+  "inbound_users": 3838,
+  "unique_ids": 426257,
+  "exact_duplicate_keys": 0,
+  "first_timestamp": "2025-04-16 12:55:41.372596+00:00",
+  "last_timestamp": "2026-10-13 10:09:01.191920+00:00",
+  "raw_messages_in_segments": 77356,
+  "raw_messages_outside_segments": 16631,
+  "request_like_messages": 58449,
+  "request_users": 3475,
+  "ranking": [
+    {
+      "use_case": "Other / context-dependent text",
+      "estimated_request_segments": 12213,
+      "distinct_users": 2732,
+      "request_like_messages": 16673,
+      "raw_user_messages_in_segments": 22740,
+      "Recorded KB references": 3621,
+      "Event ID association": 31,
+      "Event template inference": 0,
+      "Canteen template inference": 0,
+      "No eligible reply": 494,
+      "Reply without these source markers": 8067
+    },
+    {
+      "use_case": "Food / lunch / canteen",
+      "estimated_request_segments": 8604,
+      "distinct_users": 1189,
+      "request_like_messages": 9925,
+      "raw_user_messages_in_segments": 10914,
+      "Recorded KB references": 468,
+      "Event ID association": 12,
+      "Event template inference": 0,
+      "Canteen template inference": 337,
+      "No eligible reply": 123,
+      "Reply without these source markers": 7670
+    },
+    {
+      "use_case": "Events / clubs / networking",
+      "estimated_request_segments": 6767,
+      "distinct_users": 2215,
+      "request_like_messages": 10282,
+      "raw_user_messages_in_segments": 14450,
+      "Recorded KB references": 817,
+      "Event ID association": 95,
+      "Event template inference": 174,
+      "Canteen template inference": 0,
+      "No eligible reply": 292,
+      "Reply without these source markers": 5403
+    },
+    {
+      "use_case": "Registration / tickets / attendance",
+      "estimated_request_segments": 3141,
+      "distinct_users": 1578,
+      "request_like_messages": 4251,
+      "raw_user_messages_in_segments": 6223,
+      "Recorded KB references": 731,
+      "Event ID association": 90,
+      "Event template inference": 192,
+      "Canteen template inference": 0,
+      "No eligible reply": 107,
+      "Reply without these source markers": 2044
+    },
+    {
+      "use_case": "Timetables / classes / courses",
+      "estimated_request_segments": 2637,
+      "distinct_users": 1335,
+      "request_like_messages": 3865,
+      "raw_user_messages_in_segments": 5222,
+      "Recorded KB references": 1223,
+      "Event ID association": 1,
+      "Event template inference": 0,
+      "Canteen template inference": 0,
+      "No eligible reply": 68,
+      "Reply without these source markers": 1345
+    },
+    {
+      "use_case": "Opening Week / onboarding",
+      "estimated_request_segments": 2245,
+      "distinct_users": 1231,
+      "request_like_messages": 3258,
+      "raw_user_messages_in_segments": 4301,
+      "Recorded KB references": 564,
+      "Event ID association": 0,
+      "Event template inference": 151,
+      "Canteen template inference": 0,
+      "No eligible reply": 93,
+      "Reply without these source markers": 1454
+    },
+    {
+      "use_case": "Exams / grades / assignments",
+      "estimated_request_segments": 1652,
+      "distinct_users": 775,
+      "request_like_messages": 2615,
+      "raw_user_messages_in_segments": 3322,
+      "Recorded KB references": 1097,
+      "Event ID association": 6,
+      "Event template inference": 0,
+      "Canteen template inference": 0,
+      "No eligible reply": 36,
+      "Reply without these source markers": 513
+    },
+    {
+      "use_case": "Campus / facilities / transport",
+      "estimated_request_segments": 1601,
+      "distinct_users": 967,
+      "request_like_messages": 2280,
+      "raw_user_messages_in_segments": 2983,
+      "Recorded KB references": 623,
+      "Event ID association": 4,
+      "Event template inference": 0,
+      "Canteen template inference": 0,
+      "No eligible reply": 28,
+      "Reply without these source markers": 946
+    },
+    {
+      "use_case": "IT / Canvas / accounts",
+      "estimated_request_segments": 1118,
+      "distinct_users": 718,
+      "request_like_messages": 1726,
+      "raw_user_messages_in_segments": 2454,
+      "Recorded KB references": 546,
+      "Event ID association": 2,
+      "Event template inference": 0,
+      "Canteen template inference": 0,
+      "No eligible reply": 23,
+      "Reply without these source markers": 547
+    },
+    {
+      "use_case": "Documents / student ID / administration",
+      "estimated_request_segments": 812,
+      "distinct_users": 605,
+      "request_like_messages": 1130,
+      "raw_user_messages_in_segments": 1435,
+      "Recorded KB references": 368,
+      "Event ID association": 0,
+      "Event template inference": 0,
+      "Canteen template inference": 0,
+      "No eligible reply": 29,
+      "Reply without these source markers": 415
+    },
+    {
+      "use_case": "Careers / jobs / internships",
+      "estimated_request_segments": 580,
+      "distinct_users": 425,
+      "request_like_messages": 867,
+      "raw_user_messages_in_segments": 1187,
+      "Recorded KB references": 249,
+      "Event ID association": 5,
+      "Event template inference": 0,
+      "Canteen template inference": 0,
+      "No eligible reply": 15,
+      "Reply without these source markers": 311
+    },
+    {
+      "use_case": "Study advisors / staff contacts",
+      "estimated_request_segments": 515,
+      "distinct_users": 383,
+      "request_like_messages": 725,
+      "raw_user_messages_in_segments": 933,
+      "Recorded KB references": 320,
+      "Event ID association": 1,
+      "Event template inference": 0,
+      "Canteen template inference": 0,
+      "No eligible reply": 6,
+      "Reply without these source markers": 188
+    },
+    {
+      "use_case": "Fees / scholarships / funding",
+      "estimated_request_segments": 186,
+      "distinct_users": 152,
+      "request_like_messages": 293,
+      "raw_user_messages_in_segments": 371,
+      "Recorded KB references": 110,
+      "Event ID association": 1,
+      "Event template inference": 0,
+      "Canteen template inference": 0,
+      "No eligible reply": 5,
+      "Reply without these source markers": 70
+    },
+    {
+      "use_case": "Assistant capabilities / technical feedback",
+      "estimated_request_segments": 159,
+      "distinct_users": 144,
+      "request_like_messages": 255,
+      "raw_user_messages_in_segments": 396,
+      "Recorded KB references": 51,
+      "Event ID association": 0,
+      "Event template inference": 0,
+      "Canteen template inference": 0,
+      "No eligible reply": 12,
+      "Reply without these source markers": 96
+    },
+    {
+      "use_case": "Unsubscribe / stop notifications",
+      "estimated_request_segments": 80,
+      "distinct_users": 66,
+      "request_like_messages": 91,
+      "raw_user_messages_in_segments": 106,
+      "Recorded KB references": 0,
+      "Event ID association": 0,
+      "Event template inference": 0,
+      "Canteen template inference": 0,
+      "No eligible reply": 32,
+      "Reply without these source markers": 48
+    },
+    {
+      "use_case": "Notification preferences / opt-out",
+      "estimated_request_segments": 64,
+      "distinct_users": 60,
+      "request_like_messages": 90,
+      "raw_user_messages_in_segments": 138,
+      "Recorded KB references": 17,
+      "Event ID association": 0,
+      "Event template inference": 0,
+      "Canteen template inference": 0,
+      "No eligible reply": 9,
+      "Reply without these source markers": 38
+    },
+    {
+      "use_case": "Housing / visas / relocation",
+      "estimated_request_segments": 50,
+      "distinct_users": 43,
+      "request_like_messages": 86,
+      "raw_user_messages_in_segments": 132,
+      "Recorded KB references": 21,
+      "Event ID association": 0,
+      "Event template inference": 0,
+      "Canteen template inference": 0,
+      "No eligible reply": 2,
+      "Reply without these source markers": 27
+    },
+    {
+      "use_case": "Wellbeing / personal support",
+      "estimated_request_segments": 20,
+      "distinct_users": 18,
+      "request_like_messages": 37,
+      "raw_user_messages_in_segments": 49,
+      "Recorded KB references": 11,
+      "Event ID association": 0,
+      "Event template inference": 0,
+      "Canteen template inference": 0,
+      "No eligible reply": 0,
+      "Reply without these source markers": 9
+    }
+  ],
+  "source_message_counts": {
+    "Unattributed outgoing content": 129923,
+    "User-authored input": 93987,
+    "CRM event workflow (event ID present)": 92086,
+    "CRM/event communication (inferred)": 38672,
+    "Other templates / workflow content": 28145,
+    "BookStack-linked knowledge base": 36774,
+    "Canteen / lunch service (inferred)": 7485,
+    "Mixed KB sources (BookStack candidate + other)": 9
+  },
+  "knowledge_reference_entries": 292361,
+  "template_groups": {
+    "Event invitations / announcements": 97975,
+    "Event / campus digests": 20135,
+    "Scholarships / funding": 2929,
+    "Feedback / surveys": 4633,
+    "Community / careers / other notices": 4371,
+    "Language course announcements": 1849,
+    "Campus operational notices": 3843,
+    "Service / system notices": 4032,
+    "Event confirmations / tickets": 3571,
+    "Event reminders": 903,
+    "Onboarding / welcome": 6362,
+    "Lunch menus / subscriptions": 7912,
+    "Opening Week schedules / logistics": 5088,
+    "Preferences / consent / assistant menu": 497,
+    "Event cancellations": 138,
+    "Internal reports": 18
+  },
+  "knowledge_documents": 565,
+  "top_documents": [
+    [
+      "1151 - Intake 2025-BSc Orientation Week (bsc-2)",
+      6404
+    ],
+    [
+      "10 - Frankfurt campus (all-programs)",
+      5012
+    ],
+    [
+      "892 - General Examination Info (examination-office)",
+      4804
+    ],
+    [
+      "840 - Semester abroad - All programs (international-office)",
+      4583
+    ],
+    [
+      "19 - The Steubing Learning Centre - Library (library)",
+      4330
+    ],
+    [
+      "27 - IT Support (all-programs)",
+      3334
+    ],
+    [
+      "980 - Other people (fs-staff)",
+      3246
+    ],
+    [
+      "181 - Career Services - General (career-services)",
+      3096
+    ],
+    [
+      "1098 - Homecoming attendees info (alumni)",
+      3048
+    ],
+    [
+      "48 - Student ID (all-programs)",
+      2875
+    ],
+    [
+      "638 - Information on how to use the library 20250218 (library)",
+      2777
+    ],
+    [
+      "54 - Exam schedule (all-programs)",
+      2670
+    ],
+    [
+      "15 - Studying at FS - general information (all-programs)",
+      2662
+    ],
+    [
+      "1153 - Your FS Team BBA Intake 2025 (bba)",
+      2354
+    ],
+    [
+      "12 - Frankfurt campus - floor plan directions (all-programs)",
+      2315
+    ]
+  ],
+  "topic_documents": {
+    "Timetables / classes / courses": [
+      [
+        "840 - Semester abroad - All programs (international-office)",
+        399
+      ],
+      [
+        "16 - Programme information (all-programs)",
+        257
+      ],
+      [
+        "1151 - Intake 2025-BSc Orientation Week (bsc-2)",
+        234
+      ],
+      [
+        "195 - FS Bachelors in PEM (all-programs)",
+        203
+      ],
+      [
+        "892 - General Examination Info (examination-office)",
+        196
+      ]
+    ],
+    "Opening Week / onboarding": [
+      [
+        "1151 - Intake 2025-BSc Orientation Week (bsc-2)",
+        342
+      ],
+      [
+        "1169 - Buddies - intake 2025 (bsc-2)",
+        119
+      ],
+      [
+        "817 - Intake 2025-MoF Specific Academic Calendar Info & Links (pem)",
+        102
+      ],
+      [
+        "643 - Intake 2025-Orientation Week links (MoF) (mof)",
+        93
+      ],
+      [
+        "45 - Orientation/Opening Week/Days (all-programs)",
+        88
+      ]
+    ],
+    "Study advisors / staff contacts": [
+      [
+        "15 - Studying at FS - general information (all-programs)",
+        161
+      ],
+      [
+        "892 - General Examination Info (examination-office)",
+        122
+      ],
+      [
+        "11 - Student Help Desk (all-programs)",
+        99
+      ],
+      [
+        "982 - Grades (all-programs)",
+        96
+      ],
+      [
+        "824 - Invoices & Tuition Fees (all-programs)",
+        95
+      ]
+    ],
+    "Exams / grades / assignments": [
+      [
+        "892 - General Examination Info (examination-office)",
+        645
+      ],
+      [
+        "54 - Exam schedule (all-programs)",
+        506
+      ],
+      [
+        "840 - Semester abroad - All programs (international-office)",
+        405
+      ],
+      [
+        "893 - Sick Notes/Inability to Take an Exam Info (examination-office)",
+        287
+      ],
+      [
+        "982 - Grades (all-programs)",
+        143
+      ]
+    ],
+    "Registration / tickets / attendance": [
+      [
+        "1151 - Intake 2025-BSc Orientation Week (bsc-2)",
+        184
+      ],
+      [
+        "181 - Career Services - General (career-services)",
+        125
+      ],
+      [
+        "19 - The Steubing Learning Centre - Library (library)",
+        110
+      ],
+      [
+        "46 - Public transport - D-ticket (all-programs)",
+        103
+      ],
+      [
+        "10 - Frankfurt campus (all-programs)",
+        83
+      ]
+    ],
+    "Campus / facilities / transport": [
+      [
+        "19 - The Steubing Learning Centre - Library (library)",
+        247
+      ],
+      [
+        "10 - Frankfurt campus (all-programs)",
+        227
+      ],
+      [
+        "638 - Information on how to use the library 20250218 (library)",
+        173
+      ],
+      [
+        "27 - IT Support (all-programs)",
+        115
+      ],
+      [
+        "12 - Frankfurt campus - floor plan directions (all-programs)",
+        105
+      ]
+    ],
+    "Documents / student ID / administration": [
+      [
+        "48 - Student ID (all-programs)",
+        150
+      ],
+      [
+        "1151 - Intake 2025-BSc Orientation Week (bsc-2)",
+        92
+      ],
+      [
+        "19 - The Steubing Learning Centre - Library (library)",
+        78
+      ],
+      [
+        "825 - Online Campus (CLM) (canvas-online-campus)",
+        70
+      ],
+      [
+        "20 - Printing (all-programs)",
+        59
+      ]
+    ],
+    "IT / Canvas / accounts": [
+      [
+        "27 - IT Support (all-programs)",
+        286
+      ],
+      [
+        "19 - The Steubing Learning Centre - Library (library)",
+        225
+      ],
+      [
+        "10 - Frankfurt campus (all-programs)",
+        158
+      ],
+      [
+        "638 - Information on how to use the library 20250218 (library)",
+        149
+      ],
+      [
+        "48 - Student ID (all-programs)",
+        142
+      ]
+    ],
+    "Food / lunch / canteen": [
+      [
+        "197 - Alliance - Canteen (alliance)",
+        276
+      ],
+      [
+        "10 - Frankfurt campus (all-programs)",
+        231
+      ],
+      [
+        "196 - Alliance - Deli (alliance)",
+        182
+      ],
+      [
+        "12 - Frankfurt campus - floor plan directions (all-programs)",
+        120
+      ],
+      [
+        "202 - House Rules (all-programs)",
+        117
+      ]
+    ],
+    "Other / context-dependent text": [
+      [
+        "10 - Frankfurt campus (all-programs)",
+        843
+      ],
+      [
+        "1151 - Intake 2025-BSc Orientation Week (bsc-2)",
+        614
+      ],
+      [
+        "19 - The Steubing Learning Centre - Library (library)",
+        585
+      ],
+      [
+        "1098 - Homecoming attendees info (alumni)",
+        570
+      ],
+      [
+        "980 - Other people (fs-staff)",
+        546
+      ]
+    ],
+    "Events / clubs / networking": [
+      [
+        "1151 - Intake 2025-BSc Orientation Week (bsc-2)",
+        280
+      ],
+      [
+        "181 - Career Services - General (career-services)",
+        155
+      ],
+      [
+        "980 - Other people (fs-staff)",
+        104
+      ],
+      [
+        "1169 - Buddies - intake 2025 (bsc-2)",
+        95
+      ],
+      [
+        "1153 - Your FS Team BBA Intake 2025 (bba)",
+        85
+      ]
+    ],
+    "Fees / scholarships / funding": [
+      [
+        "1151 - Intake 2025-BSc Orientation Week (bsc-2)",
+        45
+      ],
+      [
+        "840 - Semester abroad - All programs (international-office)",
+        41
+      ],
+      [
+        "30 - Scholarships (all-programs)",
+        29
+      ],
+      [
+        "824 - Invoices & Tuition Fees (all-programs)",
+        29
+      ],
+      [
+        "947 - Semester on Leave (all-programs)",
+        20
+      ]
+    ],
+    "Notification preferences / opt-out": [
+      [
+        "181 - Career Services - General (career-services)",
+        8
+      ],
+      [
+        "840 - Semester abroad - All programs (international-office)",
+        6
+      ],
+      [
+        "183 - Career Days (career-services)",
+        5
+      ],
+      [
+        "407 - Jürgen Moormann (fs-staff)",
+        5
+      ],
+      [
+        "1151 - Intake 2025-BSc Orientation Week (bsc-2)",
+        4
+      ]
+    ],
+    "Careers / jobs / internships": [
+      [
+        "181 - Career Services - General (career-services)",
+        134
+      ],
+      [
+        "185 - Career Services (career-services)",
+        103
+      ],
+      [
+        "1098 - Homecoming attendees info (alumni)",
+        56
+      ],
+      [
+        "182 - Career Services - Career Counseling (career-services)",
+        55
+      ],
+      [
+        "980 - Other people (fs-staff)",
+        50
+      ]
+    ],
+    "Assistant capabilities / technical feedback": [
+      [
+        "27 - IT Support (all-programs)",
+        27
+      ],
+      [
+        "14 - Frankfurt School - general information (all-programs)",
+        23
+      ],
+      [
+        "19 - The Steubing Learning Centre - Library (library)",
+        17
+      ],
+      [
+        "980 - Other people (fs-staff)",
+        15
+      ],
+      [
+        "1098 - Homecoming attendees info (alumni)",
+        8
+      ]
+    ],
+    "Housing / visas / relocation": [
+      [
+        "1151 - Intake 2025-BSc Orientation Week (bsc-2)",
+        8
+      ],
+      [
+        "1169 - Buddies - intake 2025 (bsc-2)",
+        5
+      ],
+      [
+        "695 - Intake 2025-Programme Overview & Course Plan (3 Semester Track) (MoF) (mof)",
+        4
+      ],
+      [
+        "646 - Intake 2025-Programme Overview & Course Plan (4 Semester Track) (MoF) (mof)",
+        4
+      ],
+      [
+        "709 - Intake 2025-Programme Overview & Course Plan (3 Semester Lateral Track) (MoF) (mof)",
+        4
+      ]
+    ],
+    "Wellbeing / personal support": [
+      [
+        "31 - (Psycho-)Social Counselling and Coaching (personal-well-being-and-coaching)",
+        8
+      ],
+      [
+        "980 - Other people (fs-staff)",
+        7
+      ],
+      [
+        "730 - Mental Health First Aid (all-programs)",
+        5
+      ],
+      [
+        "892 - General Examination Info (examination-office)",
+        4
+      ],
+      [
+        "1098 - Homecoming attendees info (alumni)",
+        4
+      ]
+    ],
+    "Unsubscribe / stop notifications": []
+  },
+  "source_segment_users": {
+    "Recorded KB references": 1742,
+    "Reply without these source markers": 3003,
+    "Event template inference": 413,
+    "No eligible reply": 1008,
+    "Canteen template inference": 140,
+    "Event ID association": 189
+  },
+  "module_mentions": [
+    {
+      "module": "Market Risks Modelling",
+      "messages": 0,
+      "users": 0
+    },
+    {
+      "module": "Financial Engineering",
+      "messages": 2,
+      "users": 2
+    },
+    {
+      "module": "Advanced Corporate Valuation",
+      "messages": 3,
+      "users": 2
+    },
+    {
+      "module": "Debt Finance",
+      "messages": 4,
+      "users": 4
+    },
+    {
+      "module": "Equity Finance",
+      "messages": 1,
+      "users": 1
+    },
+    {
+      "module": "Restructuring & Strategic Management Control",
+      "messages": 0,
+      "users": 0
+    },
+    {
+      "module": "Financial Information & Decision Making",
+      "messages": 0,
+      "users": 0
+    },
+    {
+      "module": "Risk Governance & Organisation",
+      "messages": 0,
+      "users": 0
+    },
+    {
+      "module": "Credit Risk",
+      "messages": 0,
+      "users": 0
+    },
+    {
+      "module": "Financing Sustainability & Transformation",
+      "messages": 0,
+      "users": 0
+    },
+    {
+      "module": "Managing ESG",
+      "messages": 0,
+      "users": 0
+    },
+    {
+      "module": "Portfolio Optimization in Continuous Time",
+      "messages": 2,
+      "users": 1
+    },
+    {
+      "module": "FinTech: Disruptive Innovation?",
+      "messages": 0,
+      "users": 0
+    },
+    {
+      "module": "Financial Markets & Institutions",
+      "messages": 1,
+      "users": 1
+    },
+    {
+      "module": "Derivates Analytics",
+      "messages": 0,
+      "users": 0
+    }
+  ],
+  "monthly_inbound": {
+    "2025-04": 1020,
+    "2025-05": 4453,
+    "2025-06": 667,
+    "2025-07": 2215,
+    "2025-08": 15949,
+    "2025-09": 6127,
+    "2025-10": 3511,
+    "2025-11": 3110,
+    "2025-12": 2091,
+    "2026-01": 1082,
+    "2026-02": 2566,
+    "2026-03": 2156,
+    "2026-04": 1798,
+    "2026-05": 3166,
+    "2026-06": 890,
+    "2026-07": 1443,
+    "2026-08": 23647,
+    "2026-09": 15305,
+    "2026-10": 2791
+  }
+}

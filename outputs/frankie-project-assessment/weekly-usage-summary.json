@@ -1,0 +1,279 @@
+{
+  "timezone": "Europe/Budapest",
+  "first_date": "2025-04-16",
+  "last_date": "2026-10-13",
+  "complete_weeks": 77,
+  "active_users": 3838,
+  "active_week_bins": {
+    "5–12": 1525,
+    "27+": 83,
+    "2–4": 1115,
+    "13–26": 336,
+    "1": 779
+  },
+  "users_active_multiple_weeks": 3059,
+  "median_active_weeks": 5.0,
+  "average_wau_complete_weeks": 304.45454545454544,
+  "median_wau_complete_weeks": 252,
+  "streak_users_at_least": {
+    "2": 2498,
+    "3": 1677,
+    "4": 1120,
+    "8": 174,
+    "12": 21
+  },
+  "recent_period": [
+    "2026-09-14",
+    "2026-10-11"
+  ],
+  "recent_active_users": 1266,
+  "recent_week_bins": {
+    "1": 613,
+    "2": 337,
+    "3": 185,
+    "4": 131
+  },
+  "recent_detected_request_users": 1172,
+  "recent_detected_request_every_week": 99,
+  "detected_request_streak_4plus_users": 872,
+  "recent_weekly_activity": [
+    {
+      "week_start": "2026-09-14",
+      "week_end": "2026-09-20",
+      "complete_week": true,
+      "active_users": 712,
+      "inbound_messages": 3082,
+      "first_observed_users": 24,
+      "returning_from_any_earlier_week": 688,
+      "also_active_previous_week": 407,
+      "previous_week_users": 768,
+      "previous_week_return_percent": 52.99
+    },
+    {
+      "week_start": "2026-09-21",
+      "week_end": "2026-09-27",
+      "complete_week": true,
+      "active_users": 638,
+      "inbound_messages": 2642,
+      "first_observed_users": 18,
+      "returning_from_any_earlier_week": 620,
+      "also_active_previous_week": 364,
+      "previous_week_users": 712,
+      "previous_week_return_percent": 51.12
+    },
+    {
+      "week_start": "2026-09-28",
+      "week_end": "2026-10-04",
+      "complete_week": true,
+      "active_users": 509,
+      "inbound_messages": 1774,
+      "first_observed_users": 11,
+      "returning_from_any_earlier_week": 498,
+      "also_active_previous_week": 277,
+      "previous_week_users": 638,
+      "previous_week_return_percent": 43.42
+    },
+    {
+      "week_start": "2026-10-05",
+      "week_end": "2026-10-11",
+      "complete_week": true,
+      "active_users": 507,
+      "inbound_messages": 1830,
+      "first_observed_users": 13,
+      "returning_from_any_earlier_week": 494,
+      "also_active_previous_week": 230,
+      "previous_week_users": 509,
+      "previous_week_return_percent": 45.19
+    }
+  ],
+  "cohort_return": [
+    {
+      "weeks_after_first_observed_activity": 1,
+      "eligible_users": 3824,
+      "returned_in_exact_week": 1548,
+      "percent": 40.48
+    },
+    {
+      "weeks_after_first_observed_activity": 4,
+      "eligible_users": 3771,
+      "returned_in_exact_week": 1284,
+      "percent": 34.05
+    },
+    {
+      "weeks_after_first_observed_activity": 8,
+      "eligible_users": 3299,
+      "returned_in_exact_week": 604,
+      "percent": 18.31
+    },
+    {
+      "weeks_after_first_observed_activity": 12,
+      "eligible_users": 2495,
+      "returned_in_exact_week": 223,
+      "percent": 8.94
+    }
+  ],
+  "use_case_repeat": [
+    {
+      "use_case": "Other / context-dependent text",
+      "users": 2732,
+      "used_in_2plus_weeks": 1856,
+      "repeat_week_percent": 67.94,
+      "used_in_4plus_consecutive_complete_weeks": 171,
+      "users_in_last_four_weeks": 644,
+      "used_in_all_last_four_weeks": 10
+    },
+    {
+      "use_case": "Food / lunch / canteen",
+      "users": 1189,
+      "used_in_2plus_weeks": 689,
+      "repeat_week_percent": 57.95,
+      "used_in_4plus_consecutive_complete_weeks": 176,
+      "users_in_last_four_weeks": 255,
+      "used_in_all_last_four_weeks": 25
+    },
+    {
+      "use_case": "Events / clubs / networking",
+      "users": 2215,
+      "used_in_2plus_weeks": 1217,
+      "repeat_week_percent": 54.94,
+      "used_in_4plus_consecutive_complete_weeks": 85,
+      "users_in_last_four_weeks": 538,
+      "used_in_all_last_four_weeks": 4
+    },
+    {
+      "use_case": "Registration / tickets / attendance",
+      "users": 1578,
+      "used_in_2plus_weeks": 641,
+      "repeat_week_percent": 40.62,
+      "used_in_4plus_consecutive_complete_weeks": 15,
+      "users_in_last_four_weeks": 298,
+      "used_in_all_last_four_weeks": 2
+    },
+    {
+      "use_case": "Timetables / classes / courses",
+      "users": 1335,
+      "used_in_2plus_weeks": 506,
+      "repeat_week_percent": 37.9,
+      "used_in_4plus_consecutive_complete_weeks": 4,
+      "users_in_last_four_weeks": 97,
+      "used_in_all_last_four_weeks": 0
+    },
+    {
+      "use_case": "Opening Week / onboarding",
+      "users": 1231,
+      "used_in_2plus_weeks": 426,
+      "repeat_week_percent": 34.61,
+      "used_in_4plus_consecutive_complete_weeks": 3,
+      "users_in_last_four_weeks": 4,
+      "used_in_all_last_four_weeks": 0
+    },
+    {
+      "use_case": "Exams / grades / assignments",
+      "users": 775,
+      "used_in_2plus_weeks": 263,
+      "repeat_week_percent": 33.94,
+      "used_in_4plus_consecutive_complete_weeks": 2,
+      "users_in_last_four_weeks": 137,
+      "used_in_all_last_four_weeks": 0
+    },
+    {
+      "use_case": "Campus / facilities / transport",
+      "users": 967,
+      "used_in_2plus_weeks": 287,
+      "repeat_week_percent": 29.68,
+      "used_in_4plus_consecutive_complete_weeks": 3,
+      "users_in_last_four_weeks": 134,
+      "used_in_all_last_four_weeks": 0
+    },
+    {
+      "use_case": "IT / Canvas / accounts",
+      "users": 718,
+      "used_in_2plus_weeks": 187,
+      "repeat_week_percent": 26.04,
+      "used_in_4plus_consecutive_complete_weeks": 1,
+      "users_in_last_four_weeks": 84,
+      "used_in_all_last_four_weeks": 0
+    },
+    {
+      "use_case": "Documents / student ID / administration",
+      "users": 605,
+      "used_in_2plus_weeks": 122,
+      "repeat_week_percent": 20.17,
+      "used_in_4plus_consecutive_complete_weeks": 0,
+      "users_in_last_four_weeks": 44,
+      "used_in_all_last_four_weeks": 0
+    },
+    {
+      "use_case": "Careers / jobs / internships",
+      "users": 425,
+      "used_in_2plus_weeks": 68,
+      "repeat_week_percent": 16.0,
+      "used_in_4plus_consecutive_complete_weeks": 0,
+      "users_in_last_four_weeks": 94,
+      "used_in_all_last_four_weeks": 0
+    },
+    {
+      "use_case": "Study advisors / staff contacts",
+      "users": 383,
+      "used_in_2plus_weeks": 74,
+      "repeat_week_percent": 19.32,
+      "used_in_4plus_consecutive_complete_weeks": 0,
+      "users_in_last_four_weeks": 27,
+      "used_in_all_last_four_weeks": 0
+    },
+    {
+      "use_case": "Fees / scholarships / funding",
+      "users": 152,
+      "used_in_2plus_weeks": 20,
+      "repeat_week_percent": 13.16,
+      "used_in_4plus_consecutive_complete_weeks": 0,
+      "users_in_last_four_weeks": 13,
+      "used_in_all_last_four_weeks": 0
+    },
+    {
+      "use_case": "Assistant capabilities / technical feedback",
+      "users": 144,
+      "used_in_2plus_weeks": 10,
+      "repeat_week_percent": 6.94,
+      "used_in_4plus_consecutive_complete_weeks": 0,
+      "users_in_last_four_weeks": 13,
+      "used_in_all_last_four_weeks": 0
+    },
+    {
+      "use_case": "Unsubscribe / stop notifications",
+      "users": 66,
+      "used_in_2plus_weeks": 9,
+      "repeat_week_percent": 13.64,
+      "used_in_4plus_consecutive_complete_weeks": 0,
+      "users_in_last_four_weeks": 4,
+      "used_in_all_last_four_weeks": 0
+    },
+    {
+      "use_case": "Notification preferences / opt-out",
+      "users": 60,
+      "used_in_2plus_weeks": 2,
+      "repeat_week_percent": 3.33,
+      "used_in_4plus_consecutive_complete_weeks": 0,
+      "users_in_last_four_weeks": 5,
+      "used_in_all_last_four_weeks": 0
+    },
+    {
+      "use_case": "Housing / visas / relocation",
+      "users": 43,
+      "used_in_2plus_weeks": 2,
+      "repeat_week_percent": 4.65,
+      "used_in_4plus_consecutive_complete_weeks": 0,
+      "users_in_last_four_weeks": 3,
+      "used_in_all_last_four_weeks": 0
+    },
+    {
+      "use_case": "Wellbeing / personal support",
+      "users": 18,
+      "used_in_2plus_weeks": 1,
+      "repeat_week_percent": 5.56,
+      "used_in_4plus_consecutive_complete_weeks": 0,
+      "users_in_last_four_weeks": 2,
+      "used_in_all_last_four_weeks": 0
+    }
+  ]
+}

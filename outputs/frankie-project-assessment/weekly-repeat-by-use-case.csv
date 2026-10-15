@@ -1,0 +1,19 @@
+﻿use_case,users,used_in_2plus_weeks,repeat_week_percent,used_in_4plus_consecutive_complete_weeks,users_in_last_four_weeks,used_in_all_last_four_weeks
+Other / context-dependent text,2732,1856,67.94,171,644,10
+Food / lunch / canteen,1189,689,57.95,176,255,25
+Events / clubs / networking,2215,1217,54.94,85,538,4
+Registration / tickets / attendance,1578,641,40.62,15,298,2
+Timetables / classes / courses,1335,506,37.9,4,97,0
+Opening Week / onboarding,1231,426,34.61,3,4,0
+Exams / grades / assignments,775,263,33.94,2,137,0
+Campus / facilities / transport,967,287,29.68,3,134,0
+IT / Canvas / accounts,718,187,26.04,1,84,0
+Documents / student ID / administration,605,122,20.17,0,44,0
+Careers / jobs / internships,425,68,16.0,0,94,0
+Study advisors / staff contacts,383,74,19.32,0,27,0
+Fees / scholarships / funding,152,20,13.16,0,13,0
+Assistant capabilities / technical feedback,144,10,6.94,0,13,0
+Unsubscribe / stop notifications,66,9,13.64,0,4,0
+Notification preferences / opt-out,60,2,3.33,0,5,0
+Housing / visas / relocation,43,2,4.65,0,3,0
+Wellbeing / personal support,18,1,5.56,0,2,0

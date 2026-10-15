@@ -1,0 +1,72 @@
+{
+  "first_export_timestamp": "2025-04-16T12:55:41.372596+00:00",
+  "last_export_timestamp": "2026-10-13T10:09:01.191920+00:00",
+  "active_users": 3838,
+  "week_definition": "Consecutive 168-hour periods starting at each user first observed inbound timestamp; week 1 begins at elapsed time zero.",
+  "return_eligible_users": 3817,
+  "returned_in_a_later_complete_week": 2978,
+  "return_percent": 78.02,
+  "rows": [
+    {
+      "week_since_first_message": 2,
+      "days_since_first_message": "8-14",
+      "users_observed_for_full_period": 3817,
+      "users_active_in_that_week": 1615,
+      "active_in_that_week_percent": 42.31,
+      "users_active_every_week_from_first_message": 1615,
+      "continuous_percent": 42.31
+    },
+    {
+      "week_since_first_message": 4,
+      "days_since_first_message": "22-28",
+      "users_observed_for_full_period": 3777,
+      "users_active_in_that_week": 1372,
+      "active_in_that_week_percent": 36.33,
+      "users_active_every_week_from_first_message": 622,
+      "continuous_percent": 16.47
+    },
+    {
+      "week_since_first_message": 8,
+      "days_since_first_message": "50-56",
+      "users_observed_for_full_period": 3336,
+      "users_active_in_that_week": 614,
+      "active_in_that_week_percent": 18.41,
+      "users_active_every_week_from_first_message": 65,
+      "continuous_percent": 1.95
+    },
+    {
+      "week_since_first_message": 12,
+      "days_since_first_message": "78-84",
+      "users_observed_for_full_period": 2495,
+      "users_active_in_that_week": 211,
+      "active_in_that_week_percent": 8.46,
+      "users_active_every_week_from_first_message": 4,
+      "continuous_percent": 0.16
+    },
+    {
+      "week_since_first_message": 26,
+      "days_since_first_message": "176-182",
+      "users_observed_for_full_period": 2447,
+      "users_active_in_that_week": 228,
+      "active_in_that_week_percent": 9.32,
+      "users_active_every_week_from_first_message": 0,
+      "continuous_percent": 0.0
+    },
+    {
+      "week_since_first_message": 52,
+      "days_since_first_message": "358-364",
+      "users_observed_for_full_period": 2281,
+      "users_active_in_that_week": 131,
+      "active_in_that_week_percent": 5.74,
+      "users_active_every_week_from_first_message": 0,
+      "continuous_percent": 0.0
+    }
+  ],
+  "active_week_bins": {
+    "5–12": 1456,
+    "27+": 82,
+    "2–4": 1139,
+    "13–26": 310,
+    "1": 851
+  }
+}

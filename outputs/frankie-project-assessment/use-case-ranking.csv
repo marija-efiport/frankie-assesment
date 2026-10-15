@@ -1,0 +1,19 @@
+﻿use_case,estimated_request_segments,distinct_users,request_like_messages,raw_user_messages_in_segments,Recorded KB references,Event ID association,Event template inference,Canteen template inference,No eligible reply,Reply without these source markers
+Other / context-dependent text,12213,2732,16673,22740,3621,31,0,0,494,8067
+Food / lunch / canteen,8604,1189,9925,10914,468,12,0,337,123,7670
+Events / clubs / networking,6767,2215,10282,14450,817,95,174,0,292,5403
+Registration / tickets / attendance,3141,1578,4251,6223,731,90,192,0,107,2044
+Timetables / classes / courses,2637,1335,3865,5222,1223,1,0,0,68,1345
+Opening Week / onboarding,2245,1231,3258,4301,564,0,151,0,93,1454
+Exams / grades / assignments,1652,775,2615,3322,1097,6,0,0,36,513
+Campus / facilities / transport,1601,967,2280,2983,623,4,0,0,28,946
+IT / Canvas / accounts,1118,718,1726,2454,546,2,0,0,23,547
+Documents / student ID / administration,812,605,1130,1435,368,0,0,0,29,415
+Careers / jobs / internships,580,425,867,1187,249,5,0,0,15,311
+Study advisors / staff contacts,515,383,725,933,320,1,0,0,6,188
+Fees / scholarships / funding,186,152,293,371,110,1,0,0,5,70
+Assistant capabilities / technical feedback,159,144,255,396,51,0,0,0,12,96
+Unsubscribe / stop notifications,80,66,91,106,0,0,0,0,32,48
+Notification preferences / opt-out,64,60,90,138,17,0,0,0,9,38
+Housing / visas / relocation,50,43,86,132,21,0,0,0,2,27
+Wellbeing / personal support,20,18,37,49,11,0,0,0,0,9

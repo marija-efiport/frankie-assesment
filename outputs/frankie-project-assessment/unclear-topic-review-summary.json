@@ -1,0 +1,58 @@
+{
+  "groups_reclassified": 180,
+  "messages_in_reclassified_groups": 263,
+  "remaining_unclear": 12033,
+  "original_unclear": 12213,
+  "by_topic": [
+    {
+      "topic": "Food / lunch / canteen",
+      "groups": 103,
+      "users": 31,
+      "messages": 110,
+      "new_total": 8707
+    },
+    {
+      "topic": "Assistant capabilities / technical feedback",
+      "groups": 26,
+      "users": 24,
+      "messages": 56,
+      "new_total": 185
+    },
+    {
+      "topic": "Opening Week / onboarding",
+      "groups": 24,
+      "users": 24,
+      "messages": 56,
+      "new_total": 2269
+    },
+    {
+      "topic": "Events / clubs / networking",
+      "groups": 12,
+      "users": 11,
+      "messages": 22,
+      "new_total": 6779
+    },
+    {
+      "topic": "Documents / student ID / administration",
+      "groups": 12,
+      "users": 12,
+      "messages": 14,
+      "new_total": 824
+    },
+    {
+      "topic": "Campus / facilities / transport",
+      "groups": 2,
+      "users": 2,
+      "messages": 4,
+      "new_total": 1603
+    },
+    {
+      "topic": "Careers / jobs / internships",
+      "groups": 1,
+      "users": 1,
+      "messages": 1,
+      "new_total": 581
+    }
+  ],
+  "method": "Limited targeted first pass, not a full review of all unclear groups. Explicit initial wording plus individually inspected context. Group boundaries unchanged. Context does not verify response accuracy."
+}

@@ -1,0 +1,80 @@
+{
+  "population": "Every outbound and template record in the selected full export",
+  "total_frankie_records": 332665,
+  "regular_outbound_records": 168409,
+  "template_records": 164256,
+  "raw_export_records": 427081,
+  "user_records_excluded": 93987,
+  "unknown_sender_records_excluded": 429,
+  "source_sha256": "d30399181684018f6b61f7e919e974b5739ad8d770cca289c1e968d45a6a5812",
+  "method": "Priority-ordered pattern rules, every message assigned once; no sampled counts extrapolated.",
+  "limitation": "Content patterns are not contextual proof of a complete, correct or useful answer; unclear messages are not counted as direct answers.",
+  "rows": [
+    {
+      "code": "info",
+      "category": "Answer-like information or instructions detected",
+      "messages": 39312,
+      "percent_regular": 23.34
+    },
+    {
+      "code": "info_link",
+      "category": "Answer-like information or instructions PLUS a link detected",
+      "messages": 4626,
+      "percent_regular": 2.75
+    },
+    {
+      "code": "unable",
+      "category": "Contains explicit inability or missing-information wording",
+      "messages": 12084,
+      "percent_regular": 7.18
+    },
+    {
+      "code": "requested_link",
+      "category": "Link/navigation; link or location requested in the nearest user message",
+      "messages": 1553,
+      "percent_regular": 0.92
+    },
+    {
+      "code": "redirect",
+      "category": "Link or referral without detected answer content; request match not established",
+      "messages": 12123,
+      "percent_regular": 7.2
+    },
+    {
+      "code": "clarify",
+      "category": "Asks for clarification or more context",
+      "messages": 561,
+      "percent_regular": 0.33
+    },
+    {
+      "code": "transaction",
+      "category": "Booking, ticket or preference-status communication",
+      "messages": 981,
+      "percent_regular": 0.58
+    },
+    {
+      "code": "service",
+      "category": "Maintenance/service-unavailable notice",
+      "messages": 214,
+      "percent_regular": 0.13
+    },
+    {
+      "code": "social",
+      "category": "Greeting, acknowledgement, offer or conversational follow-up",
+      "messages": 30003,
+      "percent_regular": 17.82
+    },
+    {
+      "code": "unclear",
+      "category": "Other text/media; direct versus partial answer cannot be determined by these rules",
+      "messages": 66952,
+      "percent_regular": 39.76
+    },
+    {
+      "code": "template",
+      "category": "Automatic/template messages, counted separately from regular text",
+      "messages": 164256,
+      "percent_regular": null
+    }
+  ]
+}

@@ -1,0 +1,195 @@
+{
+  "counts": {
+    "remaining_groups": 12033,
+    "user_messages": 22477,
+    "groups_with_regular_reply": 11544,
+    "groups_with_recorded_sources": 3580,
+    "initial_message_5_words_or_fewer": 4477,
+    "menu_like_first_three_replies": 384
+  },
+  "note": "Diagnostic flags overlap. Reply patterns are review candidates, not new topic assignments or verified answers.",
+  "common_initial_messages": [
+    [
+      "where",
+      10
+    ],
+    [
+      "what is it about",
+      10
+    ],
+    [
+      "heute?",
+      9
+    ],
+    [
+      "was ist das",
+      8
+    ],
+    [
+      "was ist morgen",
+      8
+    ],
+    [
+      "what happened?",
+      8
+    ],
+    [
+      "dresscode?",
+      7
+    ],
+    [
+      "welche gruppe bin ich heute",
+      7
+    ],
+    [
+      "what is that",
+      7
+    ],
+    [
+      "was gibt’s",
+      7
+    ],
+    [
+      "when?",
+      7
+    ],
+    [
+      "and today?",
+      7
+    ],
+    [
+      "what is the dresscode?",
+      6
+    ],
+    [
+      "whats that",
+      6
+    ],
+    [
+      "where is it?",
+      6
+    ],
+    [
+      "apply for what?",
+      6
+    ],
+    [
+      "when is it",
+      6
+    ],
+    [
+      "how",
+      6
+    ],
+    [
+      "where is it",
+      6
+    ],
+    [
+      "in welchem track bin ich?",
+      6
+    ],
+    [
+      "what’s the dress code?",
+      6
+    ],
+    [
+      "whats the dress code",
+      6
+    ],
+    [
+      "is there a dress code?",
+      6
+    ],
+    [
+      "what is the student support fair",
+      6
+    ],
+    [
+      "what is that?",
+      6
+    ],
+    [
+      "what is the dress code",
+      6
+    ],
+    [
+      "how are you?",
+      6
+    ],
+    [
+      "who is <first_name> <last_name>",
+      6
+    ],
+    [
+      "and for today?",
+      6
+    ],
+    [
+      "when",
+      5
+    ]
+  ],
+  "menu_candidates": [
+    {
+      "id": "EP000075",
+      "question": "Und heute?",
+      "reply": "*Dienstag, 13. Oktober* 1. *Blumenkohlsuppe | Mandeln* — 2,50 € 2. *Gebratene Hähnchenbrust | Kürbiscreme | Kokoskraut | Spinatsalat* — 7,90 € 3. *Massaman-Linsencurry | Ingwerreis* — 4,90 € 4. *Salatauswahl vom Büffet | Verschiedene Toppings | Cerealien | Dressing | ca. 600g* — 5,80 € 5. *Massaman-Linsencurry | Ingwerreis* — 4,90 € 6. *Joghurt-Panna Cotta | Honig-Granola* — 2,30 €"
+    },
+    {
+      "id": "EP000366",
+      "question": "Hey Frankie was gibt’s zum Mittag",
+      "reply": "*Freitag, 30.01.2026* 1. *Brokkolisuppe | Mandeln*: 2,50 € 2. *Red Thai Gemüse Curry | Chinakohlgemüse | Kurkumareis*: 4,90 € 3. *Gedünsteter Fisch des Tages | Lauchgemüse | Butter-Kartoffel | Velouté*: 8,00 € 4. *Hähnchen Frikadelle | Tomatenreis | Krautsalat | Gurkendip | Rote Zwiebel*: 7,80 € 5. *Salatauswahl vom Büffet | Verschiedene Toppings | Cerealien | Dressing*: 5,80 € 6. *Red Thai Gemüse Curry | Chinakohlgemüse | Kurkumareis*: 4,90 € 7. *Panna Cotta | Amarettini | Waldbeere*: 2,30 €"
+    },
+    {
+      "id": "EP000629",
+      "question": "Und heute ?",
+      "reply": "*Mittwoch, 20.08.2025* 1. *Zwiebelcremesuppe | Thymian*: 2,50 € 2. *Gebratenes Spiegelei | Rahmspinat | Salzkartoffeln*: 4,90 € 3. *\"Pulled Beef Burger\" Coleslaw | Paprikarelish | Käsesauce | Salat | Wedges dupliziert*: 8,10 € 4. *Salatauswahl vom Büffet | Verschiedene Toppings | Cerealien | Dressing*: 5,80 € 5. *Rahmspinat | Salzkartoffeln*: 4,90 € 6. *Quarkcreme | Apfel | Zimt*: 2,30 €"
+    },
+    {
+      "id": "EP000659",
+      "question": "Und heute ?",
+      "reply": "*Samstag, 10. Oktober* 1. *Kürbis-Orangensuppe* — 2,50 € 2. *Kartoffelgratin | Kleiner Salat | Joghurt-Dressing* — 4,90 € 3. *Mediterranes Putengeschnetzeltes | Reis | Rucola* — 7,60 € 4. *Kartoffelgratin | Kleiner Salat | Joghurt-Dressing* — 4,90 €"
+    },
+    {
+      "id": "EP000660",
+      "question": "Und heute ?",
+      "reply": "*Montag, 12. Oktober* 1. *Kürbis-Orangensuppe | Kerbel* — 2,50 € 2. *Kürbis-Bratwurst | Wirsinggemüse | Schupfnudeln | Jus* — 7,80 € 3. *Linguini in veganer Sahnesauce | Erbsen | Champignons* — 4,90 € 4. *Salatauswahl vom Büffet | Verschiedene Toppings | Cerealien | Dressing | ca. 600g* — 5,80 € 5. *Linguini in veganer Sahnesauce | Erbsen | Champignons* — 4,90 € 6. *Vanille-Pflaumenbecher | Krokant* — 2,30 €"
+    },
+    {
+      "id": "EP001366",
+      "question": "Na pewno?",
+      "reply": "*Thursday, September 10th* 1. *Cauliflower-Vanilla Soup* — 2,50 € 2. *Penne Caprese | Fruity Tomato Sauce | Basil Pesto | Mozzarella* — 4,90 € 3. *Vienna-style schnitzel | Wild mushroom cream sauce | French fries* — 7,80 € 4. *Misoyaki Hähnchenstreifen | Stir Fry | Ingwerreis* — 7,90 € 5. *Salad Selection from Buffet | Various Toppings | Cereals | Dressing | around 600 gr* — 5,80 € 6. *Penne Caprese | Fruity Tomato Sauce | Basil Pesto* — 4,90 € 7. *Vanilla Cream | Plum* — 2,30 €"
+    },
+    {
+      "id": "EP002102",
+      "question": "Saturday?",
+      "reply": "*Saturday, September 26th* 1. *Carrot-Orange Soup* — 2,50 € 2. *Fried beef sausage | Triplets | Carrot and Cajun salad | BBQ dip* — 7,90 € 3. *Mediterranean white pumpkin tart | sour cream | pumpkin | cherry tomatoes | rocket and spinach salad | beetroot honey* — 5,90 € 4. *Vegan merguez | Couscous | Ratatouille* — 4,90 € 5. *Berry tiramisu* — 2,30 €"
+    },
+    {
+      "id": "EP002237",
+      "question": "ist heute waffle day?",
+      "reply": "*Donnerstag, 11.09.2025* 1. *Petersilienvelouté | Pumpernickel*: 2,50 € 2. *Vegetarische Graupen-Paella | Gemüse | Paprikajoghurt*: 4,90 € 3. *Schnitzel Wiener Art | Kroketten | Blumenkohl | Pfefferrahmsauce*: 7,80 € 4. *Putengeschnetzeltes in Black Beansauce | Stir Fry | Sesamreis*: 8,00 € 5. *Salatauswahl vom Büffet | Verschiedene Toppings | Cerealien | Dressing*: 5,80 € 6. *Vegetarische Graupen-Paella | Gemüse | Joghurt*: 4,90 € 7. *Cardamon Crème Brûlée*: 2,30 €"
+    },
+    {
+      "id": "EP002251",
+      "question": "lunchtime?",
+      "reply": "*Monday, 10.11.2025* 1. *Kartoffelsuppe | Kardamom*: 2,50 € 2. *Buntes Gemüse | Zitronenreis | Gremolata*: 4,90 € 3. *\"Bauerneintopf\" Kartoffel | Karotte | Bohnen | Sellerie | Bohnenkraut | Wienerle*: 6,90 € 4. *Hähnchenkeule in Thymian-Weißweinsauce | Vichy Karotten | Spätzle*: 7,80 € 5. *Salad Selection from Buffet | Various Toppings | Cereals | Dressing*: 5,80 € 6. *\"Bauerneintopf\" Kartoffel | Karotte | Bohnen | Sellerie | Bohnenkraut*: 4,90 € 7. *Rote Grütze | Vanilla Sauce*: 2,30 €"
+    },
+    {
+      "id": "EP002681",
+      "question": "Was gibt’s zu essenxheute",
+      "reply": "*Dienstag, 6. Oktober* 1. *Indische Linsensuppe* — 2,50 € 2. *Hähnchenbrust Caprese | Pesto-Gnocchi | Tomatenragout* — 7,80 € 3. *Green Thai Gemüse Curry | Reis* — 4,90 € 4. *Salatauswahl vom Büffet | Verschiedene Toppings | Cerealien | Dressing | ca. 600g* — 5,80 € 5. *Green Thai Gemüse Curry | Reis* — 4,90 € 6. *Mohncreme | Honig-Granola* — 2,30 €"
+    },
+    {
+      "id": "EP003047",
+      "question": "Was gibt's zu Mittag",
+      "reply": "*Freitag, 26.09.2025* 1. *Karotten-Mandelsuppe*: 2,50 € 2. *Mujadara | Gebratener Reis | Linsen | Korianderjoghurt*: 4,90 € 3. *Gebratene Frikadelle | Kürbiscreme | Senfjus | Bohnen*: 7,80 € 4. *Gedünsteter Kapseehecht | Gefüllte Pasta in Erbsen-Zitronensauce | Salbei Croûtons*: 8,20 € 5. *Salatauswahl vom Büffet | Verschiedene Toppings | Cerealien | Dressing*: 5,80 € 6. *Mujadara | Gebratener Reis | Linsen | Korianderjoghurt*: 4,90 € 7. *Kokos Panna Cotta | Mango*: 2,30 €"
+    },
+    {
+      "id": "EP003149",
+      "question": "was gibt es zu mittag? auf deutsch.",
+      "reply": "*Montag, 12. Oktober* 1. *Kürbis-Orangensuppe | Kerbel* — 2,50 € 2. *Kürbis-Bratwurst | Wirsinggemüse | Schupfnudeln | Jus* — 7,80 € 3. *Linguini in veganer Sahnesauce | Erbsen | Champignons* — 4,90 € 4. *Salatauswahl vom Büffet | Verschiedene Toppings | Cerealien | Dressing | ca. 600g* — 5,80 € 5. *Linguini in veganer Sahnesauce | Erbsen | Champignons* — 4,90 € 6. *Vanille-Pflaumenbecher | Krokant* — 2,30 €"
+    }
+  ]
+}

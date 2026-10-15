@@ -1,0 +1,113 @@
+{
+  "sample_size": 100,
+  "population_segments": 42444,
+  "seed": 20261014,
+  "sampling": "Uniform simple random sample without replacement from all indexed request segments; one analyst review.",
+  "review_target": "Initial user need and refinements within the segment; unrelated later needs excluded from primary judgment.",
+  "rows": [
+    {
+      "code": "D",
+      "category": "Direct information or instructions supplied",
+      "count": 47,
+      "percent": 47,
+      "wilson_95_percent": [
+        37.5,
+        56.7
+      ]
+    },
+    {
+      "code": "N",
+      "category": "Requested link or navigation supplied",
+      "count": 11,
+      "percent": 11,
+      "wilson_95_percent": [
+        6.3,
+        18.6
+      ]
+    },
+    {
+      "code": "P",
+      "category": "Partial answer; requested detail still missing",
+      "count": 9,
+      "percent": 9,
+      "wilson_95_percent": [
+        4.8,
+        16.2
+      ]
+    },
+    {
+      "code": "L",
+      "category": "Referral or redirection instead of requested answer",
+      "count": 6,
+      "percent": 6,
+      "wilson_95_percent": [
+        2.8,
+        12.5
+      ]
+    },
+    {
+      "code": "U",
+      "category": "Explicitly unable to provide the requested information",
+      "count": 16,
+      "percent": 16,
+      "wilson_95_percent": [
+        10.1,
+        24.4
+      ]
+    },
+    {
+      "code": "C",
+      "category": "Clarification loop; no answer reached",
+      "count": 1,
+      "percent": 1,
+      "wilson_95_percent": [
+        0.2,
+        5.4
+      ]
+    },
+    {
+      "code": "T",
+      "category": "Ticket/status response; completion unverified",
+      "count": 3,
+      "percent": 3,
+      "wilson_95_percent": [
+        1.0,
+        8.5
+      ]
+    },
+    {
+      "code": "Z",
+      "category": "No substantive answer or wrong response",
+      "count": 6,
+      "percent": 6,
+      "wilson_95_percent": [
+        2.8,
+        12.5
+      ]
+    },
+    {
+      "code": "X",
+      "category": "Insufficient context to judge",
+      "count": 1,
+      "percent": 1,
+      "wilson_95_percent": [
+        0.2,
+        5.4
+      ]
+    }
+  ],
+  "direct_or_requested_navigation": {
+    "count": 58,
+    "wilson_95_percent": [
+      48.2,
+      67.2
+    ]
+  },
+  "referral_or_explicit_unavailable": {
+    "count": 22,
+    "wilson_95_percent": [
+      15.0,
+      31.1
+    ]
+  }
+}

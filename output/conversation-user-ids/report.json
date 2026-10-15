@@ -1,0 +1,18 @@
+{
+  "scope": "supplied pages only, NOT all users",
+  "unique_users": 197,
+  "sources": [
+    {
+      "file": "response_1791881088460.json",
+      "page": 1,
+      "total": 2287,
+      "returned_conversations": 100
+    },
+    {
+      "file": "response_1791880941346.json",
+      "page": 1,
+      "total": 4173,
+      "returned_conversations": 100
+    }
+  ]
+}

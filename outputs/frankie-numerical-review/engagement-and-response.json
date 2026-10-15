@@ -1,0 +1,250 @@
+{
+  "whole_history": {
+    "start": "2025-04-16",
+    "end": "2026-10-13",
+    "calendar_days": 546,
+    "calendar_weeks_touched": 79,
+    "complete_weeks": 77,
+    "active_users": 3838,
+    "received_only_users": 335,
+    "active_week_bins": {
+      "5-12 weeks": 1525,
+      "27+ weeks": 83,
+      "2-4 weeks": 1115,
+      "13-26 weeks": 336,
+      "1 week": 779
+    },
+    "active_day_bins": {
+      "8-14 days": 1010,
+      "31-60 days": 137,
+      "15-30 days": 555,
+      "61+ days": 29,
+      "4-7 days": 853,
+      "2-3 days": 589,
+      "1 day": 665
+    },
+    "average_dau_complete_dates": 66.90625,
+    "average_wau_complete_weeks": 304.45454545454544,
+    "users_multiple_days": 3173,
+    "users_multiple_weeks": 3059,
+    "max_active_days": 109,
+    "max_active_weeks": 47,
+    "users_active_every_calendar_day": 0,
+    "users_active_every_calendar_week": 0
+  },
+  "period": {
+    "start": "2026-09-14",
+    "end": "2026-10-11",
+    "timezone": "Europe/Berlin",
+    "description": "last four complete Monday-Sunday weeks before the export"
+  },
+  "all_users": 4173,
+  "all_active_users": 3838,
+  "message_counts": {
+    "outbound": 168409,
+    "inbound": 93987,
+    "template": 164256,
+    "ucs": 429
+  },
+  "window_users": 1266,
+  "window_recipients": 3621,
+  "received_without_incoming": 2355,
+  "weekly_users": [
+    {
+      "start": "2026-09-14",
+      "end": "2026-09-20",
+      "users": 712
+    },
+    {
+      "start": "2026-09-21",
+      "end": "2026-09-27",
+      "users": 638
+    },
+    {
+      "start": "2026-09-28",
+      "end": "2026-10-04",
+      "users": 509
+    },
+    {
+      "start": "2026-10-05",
+      "end": "2026-10-11",
+      "users": 507
+    }
+  ],
+  "daily_users": [
+    {
+      "date": "2026-09-14",
+      "users": 280
+    },
+    {
+      "date": "2026-09-15",
+      "users": 176
+    },
+    {
+      "date": "2026-09-16",
+      "users": 175
+    },
+    {
+      "date": "2026-09-17",
+      "users": 192
+    },
+    {
+      "date": "2026-09-18",
+      "users": 150
+    },
+    {
+      "date": "2026-09-19",
+      "users": 86
+    },
+    {
+      "date": "2026-09-20",
+      "users": 95
+    },
+    {
+      "date": "2026-09-21",
+      "users": 324
+    },
+    {
+      "date": "2026-09-22",
+      "users": 153
+    },
+    {
+      "date": "2026-09-23",
+      "users": 124
+    },
+    {
+      "date": "2026-09-24",
+      "users": 139
+    },
+    {
+      "date": "2026-09-25",
+      "users": 80
+    },
+    {
+      "date": "2026-09-26",
+      "users": 78
+    },
+    {
+      "date": "2026-09-27",
+      "users": 59
+    },
+    {
+      "date": "2026-09-28",
+      "users": 205
+    },
+    {
+      "date": "2026-09-29",
+      "users": 146
+    },
+    {
+      "date": "2026-09-30",
+      "users": 107
+    },
+    {
+      "date": "2026-10-01",
+      "users": 90
+    },
+    {
+      "date": "2026-10-02",
+      "users": 79
+    },
+    {
+      "date": "2026-10-03",
+      "users": 40
+    },
+    {
+      "date": "2026-10-04",
+      "users": 51
+    },
+    {
+      "date": "2026-10-05",
+      "users": 156
+    },
+    {
+      "date": "2026-10-06",
+      "users": 121
+    },
+    {
+      "date": "2026-10-07",
+      "users": 125
+    },
+    {
+      "date": "2026-10-08",
+      "users": 122
+    },
+    {
+      "date": "2026-10-09",
+      "users": 103
+    },
+    {
+      "date": "2026-10-10",
+      "users": 62
+    },
+    {
+      "date": "2026-10-11",
+      "users": 57
+    }
+  ],
+  "average_dau": 127.67857142857143,
+  "median_dau": 121.5,
+  "min_dau": 40,
+  "max_dau": 324,
+  "average_wau": 591.5,
+  "weekly_consistency": {
+    "3": 185,
+    "1": 613,
+    "2": 337,
+    "4": 131
+  },
+  "active_day_bins": {
+    "4-7 days": 234,
+    "1 day": 500,
+    "2-3 days": 445,
+    "8-13 days": 83,
+    "14-19 days": 4
+  },
+  "every_day_28": 0,
+  "every_weekday_20": 0,
+  "at_least_20_days": 0,
+  "at_least_3_days_each_week": 2,
+  "monthly_active": {
+    "2025-04": 292,
+    "2025-05": 881,
+    "2025-06": 199,
+    "2025-07": 648,
+    "2025-08": 1256,
+    "2025-09": 1212,
+    "2025-10": 749,
+    "2025-11": 723,
+    "2025-12": 486,
+    "2026-01": 377,
+    "2026-02": 585,
+    "2026-03": 497,
+    "2026-04": 487,
+    "2026-05": 687,
+    "2026-06": 232,
+    "2026-07": 363,
+    "2026-08": 1428,
+    "2026-09": 1607,
+    "2026-10": 665
+  },
+  "outbound_source": {
+    "no_source_marker": 129495,
+    "knowledge_references": 36782,
+    "event_id_no_knowledge_ref": 2132
+  },
+  "turn_response": {
+    "all_user_turns": 89410,
+    "followed_by_template": 5481,
+    "request_turns": 57470,
+    "followed_by_outbound": 82127,
+    "request_followed_by_outbound": 55223,
+    "no_outgoing_within_30min": 1760,
+    "request_followed_by_template": 1636,
+    "request_no_outgoing_within_30min": 593,
+    "followed_by_ucs": 42,
+    "request_followed_by_ucs": 18
+  },
+  "temporal_response_delay_median_seconds": 9.6547935,
+  "candidate_count": 338
+}

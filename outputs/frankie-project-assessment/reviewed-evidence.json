@@ -1,0 +1,1940 @@
+[
+  {
+    "id": "EP001540",
+    "topic": "Timetables / classes / courses",
+    "transcript": [
+      {
+        "line": 12622,
+        "direction": "inbound",
+        "timestamp": "2025-07-31 19:46:55.093225+00:00",
+        "text": "and where can i pay for my math pre course?",
+        "template": "",
+        "sources": []
+      },
+      {
+        "line": 12621,
+        "direction": "outbound",
+        "timestamp": "2025-07-31 19:46:58.567275+00:00",
+        "text": "For the Pre-course Mathematics, payment details are usually sent via email along with registration information. If you haven't received them yet, I recommend reaching out to the admissions office for confirmation. They should be able to provide you with all the necessary details. 😊",
+        "template": "",
+        "sources": [
+          "1150 - Intake 2025 - Academic Calendar (CBA) (bsc-2)",
+          "1151 - Intake 2025-BSc Orientation Week (bsc-2)"
+        ]
+      }
+    ],
+    "sources": [
+      "1150 - Intake 2025 - Academic Calendar (CBA) (bsc-2)",
+      "1151 - Intake 2025-BSc Orientation Week (bsc-2)"
+    ]
+  },
+  {
+    "id": "EP003259",
+    "topic": "IT / Canvas / accounts",
+    "transcript": [
+      {
+        "line": 25924,
+        "direction": "inbound",
+        "timestamp": "2025-10-02 16:43:54.091994+00:00",
+        "text": "When can I go to the it support?",
+        "template": "",
+        "sources": []
+      },
+      {
+        "line": 25923,
+        "direction": "outbound",
+        "timestamp": "2025-10-02 16:44:07.439512+00:00",
+        "text": "You can visit the IT Student Support Desk in the library. It's open Monday to Friday from 12:00 to 14:00 and 16:00 to 17:00.",
+        "template": "",
+        "sources": [
+          "31 - (Psycho-)Social Counselling and Coaching (personal-well-being-and-coaching)",
+          "27 - IT Support (all-programs)",
+          "1115 - FS Asia Society (student-initiatives)",
+          "11 - Student Help Desk (all-programs)",
+          "292 - Learning Lab (other-bsc)",
+          "1109 - FS Chess (student-initiatives)"
+        ]
+      },
+      {
+        "line": 25922,
+        "direction": "outbound",
+        "timestamp": "2025-10-02 16:44:08.171848+00:00",
+        "text": "Feel free to reach out to them via email at [email] or by calling +49 69 154008 111 if you need assistance outside these hours.",
+        "template": "",
+        "sources": [
+          "31 - (Psycho-)Social Counselling and Coaching (personal-well-being-and-coaching)",
+          "27 - IT Support (all-programs)",
+          "1115 - FS Asia Society (student-initiatives)",
+          "11 - Student Help Desk (all-programs)",
+          "292 - Learning Lab (other-bsc)",
+          "1109 - FS Chess (student-initiatives)"
+        ]
+      }
+    ],
+    "sources": [
+      "11 - Student Help Desk (all-programs)",
+      "1109 - FS Chess (student-initiatives)",
+      "1115 - FS Asia Society (student-initiatives)",
+      "27 - IT Support (all-programs)",
+      "292 - Learning Lab (other-bsc)",
+      "31 - (Psycho-)Social Counselling and Coaching (personal-well-being-and-coaching)"
+    ]
+  },
+  {
+    "id": "EP003333",
+    "topic": "Registration / tickets / attendance",
+    "transcript": [
+      {
+        "line": 26367,
+        "direction": "inbound",
+        "timestamp": "2026-09-24 15:28:00.552124+00:00",
+        "text": "Musste man sich vorher anmelden?",
+        "template": "",
+        "sources": []
+      },
+      {
+        "line": 26366,
+        "direction": "outbound",
+        "timestamp": "2026-09-24 15:28:15.523707+00:00",
+        "text": "Ja, dafür musste man sich vorher anmelden. In der Erinnerung stand ja auch, dass du deine Teilnahme ggf. wieder canceln sollst, wenn du nicht kommst.",
+        "template": "",
+        "sources": []
+      },
+      {
+        "line": 26365,
+        "direction": "inbound",
+        "timestamp": "2026-09-24 15:28:40.707806+00:00",
+        "text": "Ich kann kommen und ich habe mich auch angemeldet…wo ist mein QR Code?",
+        "template": "",
+        "sources": []
+      },
+      {
+        "line": 26364,
+        "direction": "outbound",
+        "timestamp": "2026-09-24 15:28:50.783792+00:00",
+        "text": "Ich kann den QR-Code hier leider nicht sehen. Schau bitte in die *Buchungsbestätigung* oder die *Ticket-Mail* zu dem Event, da ist der QR-Code normalerweise drin.",
+        "template": "",
+        "sources": []
+      },
+      {
+        "line": 26363,
+        "direction": "outbound",
+        "timestamp": "2026-09-24 15:28:55.808788+00:00",
+        "text": "Wenn du sie nicht findest, such in deinem Postfach nach dem Eventnamen oder nach einer Mail von FS/Career Services, manchmal landet das auch im Spam.",
+        "template": "",
+        "sources": []
+      }
+    ],
+    "sources": []
+  },
+  {
+    "id": "EP005035",
+    "topic": "Events / clubs / networking",
+    "transcript": [
+      {
+        "line": 41107,
+        "direction": "inbound",
+        "timestamp": "2026-08-28 22:57:04.149240+00:00",
+        "text": "Are there any Workshops tomorrow",
+        "template": "",
+        "sources": []
+      },
+      {
+        "line": 41106,
+        "direction": "outbound",
+        "timestamp": "2026-08-28 22:57:12.887831+00:00",
+        "text": "The only workshop I can confirm for tomorrow is the *Talentschuppen workshop*, 10:30 to 14:00.",
+        "template": "",
+        "sources": []
+      },
+      {
+        "line": 41105,
+        "direction": "outbound",
+        "timestamp": "2026-08-28 22:57:17.889037+00:00",
+        "text": "If you want to know whether there’s anything else on your day, check your personal Opening Week schedule, that’s the source of truth for booked events and room details.",
+        "template": "",
+        "sources": []
+      },
+      {
+        "line": 41104,
+        "direction": "inbound",
+        "timestamp": "2026-08-28 22:57:43.040417+00:00",
+        "text": "Morgen der 29.08",
+        "template": "",
+        "sources": []
+      },
+      {
+        "line": 41103,
+        "direction": "outbound",
+        "timestamp": "2026-08-28 22:57:54.274083+00:00",
+        "text": "Am Freitag, 29.08., ist nur der *Talentschuppen-Workshop* bestätigt, von *10:30 bis 14:00*.",
+        "template": "",
+        "sources": []
+      }
+    ],
+    "sources": []
+  },
+  {
+    "id": "EP005682",
+    "topic": "Timetables / classes / courses",
+    "transcript": [
+      {
+        "line": 46220,
+        "direction": "inbound",
+        "timestamp": "2026-08-27 19:03:25.461474+00:00",
+        "text": "Tell me tomorrows schedule please",
+        "template": "",
+        "sources": []
+      },
+      {
+        "line": 46219,
+        "direction": "outbound",
+        "timestamp": "2026-08-27 19:03:35.677655+00:00",
+        "text": "09:00-10:00 - Case Solution Deutsche Bank",
+        "template": "",
+        "sources": []
+      },
+      {
+        "line": 46218,
+        "direction": "outbound",
+        "timestamp": "2026-08-27 19:03:40.677105+00:00",
+        "text": "10:30-12:30 - New Skies, New Roots: getting ready to feel at home away from home (EN)",
+        "template": "",
+        "sources": []
+      }
+    ],
+    "sources": []
+  },
+  {
+    "id": "EP009480",
+    "topic": "Documents / student ID / administration",
+    "transcript": [
+      {
+        "line": 78340,
+        "direction": "inbound",
+        "timestamp": "2026-09-21 14:35:56.161930+00:00",
+        "text": "Will I get some kind of certificate?",
+        "template": "",
+        "sources": []
+      },
+      {
+        "line": 78339,
+        "direction": "outbound",
+        "timestamp": "2026-09-21 14:36:21.629651+00:00",
+        "text": "I don’t have any info confirming a certificate for this workshop, so I can’t promise one.",
+        "template": "",
+        "sources": []
+      },
+      {
+        "line": 78338,
+        "direction": "inbound",
+        "timestamp": "2026-09-21 14:36:30.643587+00:00",
+        "text": "Easy",
+        "template": "",
+        "sources": []
+      }
+    ],
+    "sources": []
+  },
+  {
+    "id": "EP009682",
+    "topic": "IT / Canvas / accounts",
+    "transcript": [
+      {
+        "line": 80102,
+        "direction": "inbound",
+        "timestamp": "2026-09-08 15:55:14.076224+00:00",
+        "text": "I want all the emails fs sends me to my personal email that i used for the enrollment (not frankie) to be sent to my newly activated fs email address on outlook",
+        "template": "",
+        "sources": []
+      },
+      {
+        "line": 80101,
+        "direction": "outbound",
+        "timestamp": "2026-09-08 15:55:23.593817+00:00",
+        "text": "Yep, that’s *not* a Frankie setting.",
+        "template": "",
+        "sources": []
+      },
+      {
+        "line": 80100,
+        "direction": "outbound",
+        "timestamp": "2026-09-08 15:55:28.578101+00:00",
+        "text": "What you want is the *FS account / Outlook email routing* to be updated, so messages go to your newly activated FS address instead of the old enrollment email.",
+        "template": "",
+        "sources": []
+      },
+      {
+        "line": 80099,
+        "direction": "outbound",
+        "timestamp": "2026-09-08 15:55:33.591536+00:00",
+        "text": "Smallest next step: contact *FS IT / the service desk* or the campus support team that handles student email accounts, and ask them to update the email destination on your student account.",
+        "template": "",
+        "sources": []
+      },
+      {
+        "line": 80098,
+        "direction": "outbound",
+        "timestamp": "2026-09-08 15:55:38.576439+00:00",
+        "text": "If you want, I can draft the exact message for you in one line so you can just send it.",
+        "template": "",
+        "sources": []
+      },
+      {
+        "line": 80097,
+        "direction": "inbound",
+        "timestamp": "2026-09-08 15:56:24.295188+00:00",
+        "text": "Yes that would be perfect - also with the regarding email adress to send to",
+        "template": "",
+        "sources": []
+      },
+      {
+        "line": 80096,
+        "direction": "outbound",
+        "timestamp": "2026-09-08 15:56:34.480625+00:00",
+        "text": "Send it to *FS IT / the service desk / campus support team* that handles student email accounts.",
+        "template": "",
+        "sources": []
+      },
+      {
+        "line": 80095,
+        "direction": "outbound",
+        "timestamp": "2026-09-08 15:56:35.790823+00:00",
+        "text": "You can paste this:",
+        "template": "",
+        "sources": []
+      },
+      {
+        "line": 80094,
+        "direction": "outbound",
+        "timestamp": "2026-09-08 15:56:38.797097+00:00",
+        "text": "*Subject:* Update student email destination",
+        "template": "",
+        "sources": []
+      },
+      {
+        "line": 80093,
+        "direction": "outbound",
+        "timestamp": "2026-09-08 15:56:43.801238+00:00",
+        "text": "Hi, could you please update the email destination on my student account so FS emails are sent to my newly activated FS Outlook address instead of my old enrollment email?",
+        "template": "",
+        "sources": []
+      },
+      {
+        "line": 80092,
+        "direction": "outbound",
+        "timestamp": "2026-09-08 15:56:46.358619+00:00",
+        "text": "Thanks, <first_name> <last_name>",
+        "template": "",
+        "sources": []
+      },
+      {
+        "line": 80091,
+        "direction": "inbound",
+        "timestamp": "2026-09-08 15:57:18.577544+00:00",
+        "text": "Please also the regarding email adress i should send this to",
+        "template": "",
+        "sources": []
+      },
+      {
+        "line": 80090,
+        "direction": "outbound",
+        "timestamp": "2026-09-08 15:57:27.374326+00:00",
+        "text": "I don’t have a verified FS IT or service desk email address in this chat, so I can’t safely name one.",
+        "template": "",
+        "sources": []
+      },
+      {
+        "line": 80089,
+        "direction": "outbound",
+        "timestamp": "2026-09-08 15:57:32.362033+00:00",
+        "text": "Best move is to use the official student IT or service desk contact from the FS website or portal. If you paste the contact page or the email address here, I’ll check it with you in two seconds and tell you if it looks like the right one.",
+        "template": "",
+        "sources": []
+      },
+      {
+        "line": 80088,
+        "direction": "inbound",
+        "timestamp": "2026-09-08 16:21:47.335881+00:00",
+        "text": "Okay, i will do that as soon as i am on campus again Quickly please: What is ai tutor and how can i use it or activate it",
+        "template": "",
+        "sources": []
+      },
+      {
+        "line": 80087,
+        "direction": "outbound",
+        "timestamp": "2026-09-08 16:21:57.416276+00:00",
+        "text": "I don’t have verified info here on what *AI Tutor* is or how to activate it, so I don’t want to make up steps and send you in circles.",
+        "template": "",
+        "sources": []
+      },
+      {
+        "line": 80086,
+        "direction": "outbound",
+        "timestamp": "2026-09-08 16:22:02.454021+00:00",
+        "text": "If you send me the official page, a screenshot, or the exact wording you’re seeing, I’ll translate it into plain English and tell you what to do next.",
+        "template": "",
+        "sources": []
+      }
+    ],
+    "sources": []
+  },
+  {
+    "id": "EP009921",
+    "topic": "Opening Week / onboarding",
+    "transcript": [
+      {
+        "line": 82637,
+        "direction": "inbound",
+        "timestamp": "2026-08-21 10:27:13.914012+00:00",
+        "text": "Wie kann ich Tickets für den Abend im Gibson nächste Woche Donnerstag bestellen? Ist ja auch Teil der Opening Week.",
+        "template": "",
+        "sources": []
+      },
+      {
+        "line": 82636,
+        "direction": "outbound",
+        "timestamp": "2026-08-21 10:27:22.653769+00:00",
+        "text": "Ich hab hier leider keine Ticket-Details für den Gibson-Abend. Schau am besten in deinen persönlichen Opening-Week-Plan, da steht der genaue Eventname und meistens auch, wie das läuft.",
+        "template": "",
+        "sources": []
+      },
+      {
+        "line": 82635,
+        "direction": "outbound",
+        "timestamp": "2026-08-21 10:27:27.619139+00:00",
+        "text": "Wenn du mir den exakten Namen von dem Abend schreibst, sag ich dir direkt, ob wir gerade über das richtige Ding reden oder ob da noch ein anderer Termin gemeint ist.",
+        "template": "",
+        "sources": []
+      },
+      {
+        "line": 82634,
+        "direction": "inbound",
+        "timestamp": "2026-08-21 10:30:12.021378+00:00",
+        "text": "THURSDAY — Gibson loves Frankfurt School💃 11PM–open end | Gibson Time to hit the dance floor! Join us for a night at Gibson with the entire new intake.",
+        "template": "",
+        "sources": []
+      },
+      {
+        "line": 82633,
+        "direction": "outbound",
+        "timestamp": "2026-08-21 10:30:50.379083+00:00",
+        "text": "yeah, that’s the Gibson Opening Week night, the right one",
+        "template": "",
+        "sources": []
+      },
+      {
+        "line": 82632,
+        "direction": "outbound",
+        "timestamp": "2026-08-21 10:30:55.384510+00:00",
+        "text": "I still don’t have the actual ticket ordering details here, so I don’t want to make something up and send you on a wild goose chase like a clown",
+        "template": "",
+        "sources": []
+      },
+      {
+        "line": 82631,
+        "direction": "outbound",
+        "timestamp": "2026-08-21 10:31:00.536931+00:00",
+        "text": "check your personal Opening Week schedule for the official link or instructions, and if you paste the text here I’ll help you decode it fast",
+        "template": "",
+        "sources": []
+      }
+    ],
+    "sources": []
+  },
+  {
+    "id": "EP010318",
+    "topic": "IT / Canvas / accounts",
+    "transcript": [
+      {
+        "line": 86180,
+        "direction": "inbound",
+        "timestamp": "2026-08-16 14:43:35.146832+00:00",
+        "text": "is there an email account through which I can write directly to the Career service team ?",
+        "template": "",
+        "sources": []
+      },
+      {
+        "line": 86179,
+        "direction": "outbound",
+        "timestamp": "2026-08-16 14:43:43.196093+00:00",
+        "text": "Yes, write to [email]",
+        "template": "",
+        "sources": []
+      },
+      {
+        "line": 86178,
+        "direction": "inbound",
+        "timestamp": "2026-08-16 14:44:00.658119+00:00",
+        "text": "thanks again, very kind of you",
+        "template": "",
+        "sources": []
+      },
+      {
+        "line": 86177,
+        "direction": "outbound",
+        "timestamp": "2026-08-16 14:44:07.620817+00:00",
+        "text": "of course, anytime",
+        "template": "",
+        "sources": []
+      }
+    ],
+    "sources": []
+  },
+  {
+    "id": "EP011309",
+    "topic": "Opening Week / onboarding",
+    "transcript": [
+      {
+        "line": 94963,
+        "direction": "inbound",
+        "timestamp": "2026-08-23 19:36:42.526231+00:00",
+        "text": "What is the dresscode for the first and also the second day of orientation week?",
+        "template": "",
+        "sources": []
+      },
+      {
+        "line": 94962,
+        "direction": "outbound",
+        "timestamp": "2026-08-23 19:36:52.996419+00:00",
+        "text": "First day, *business attire* for the Programme-Specific Day and the Opening Ceremony.",
+        "template": "",
+        "sources": []
+      },
+      {
+        "line": 94961,
+        "direction": "outbound",
+        "timestamp": "2026-08-23 19:36:55.845192+00:00",
+        "text": "Second day, *casual attire* for Team Day.",
+        "template": "",
+        "sources": []
+      }
+    ],
+    "sources": []
+  },
+  {
+    "id": "EP013057",
+    "topic": "Exams / grades / assignments",
+    "transcript": [
+      {
+        "line": 111406,
+        "direction": "inbound",
+        "timestamp": "2026-10-07 16:05:49.167328+00:00",
+        "text": "Where do I find time edit? So I can see my exams?",
+        "template": "",
+        "sources": []
+      },
+      {
+        "line": 111405,
+        "direction": "inbound",
+        "timestamp": "2026-10-07 16:06:47.055176+00:00",
+        "text": "Where can I see my exam schedule?",
+        "template": "",
+        "sources": []
+      },
+      {
+        "line": 111404,
+        "direction": "outbound",
+        "timestamp": "2026-10-07 16:12:20.238903+00:00",
+        "text": "You can see your individual exam and retake schedule in *TimeEdit* here: [link]",
+        "template": "",
+        "sources": []
+      },
+      {
+        "line": 111403,
+        "direction": "outbound",
+        "timestamp": "2026-10-07 16:12:25.125776+00:00",
+        "text": "The exam schedule is also available here: [link]",
+        "template": "",
+        "sources": []
+      },
+      {
+        "line": 111402,
+        "direction": "inbound",
+        "timestamp": "2026-10-07 16:12:39.412892+00:00",
+        "text": "Thanks",
+        "template": "",
+        "sources": []
+      },
+      {
+        "line": 111401,
+        "direction": "outbound",
+        "timestamp": "2026-10-07 16:13:12.565658+00:00",
+        "text": "Anytime.",
+        "template": "",
+        "sources": []
+      }
+    ],
+    "sources": []
+  },
+  {
+    "id": "EP015666",
+    "topic": "IT / Canvas / accounts",
+    "transcript": [
+      {
+        "line": 135648,
+        "direction": "inbound",
+        "timestamp": "2026-08-12 12:02:09.705727+00:00",
+        "text": "Link zu Canvas?",
+        "template": "",
+        "sources": []
+      },
+      {
+        "line": 135647,
+        "direction": "outbound",
+        "timestamp": "2026-08-12 12:02:18.868344+00:00",
+        "text": "[link]",
+        "template": "",
+        "sources": []
+      }
+    ],
+    "sources": []
+  },
+  {
+    "id": "EP016734",
+    "topic": "Food / lunch / canteen",
+    "transcript": [
+      {
+        "line": 144673,
+        "direction": "inbound",
+        "timestamp": "2026-09-28 11:00:12.020174+00:00",
+        "text": "What is the menu today",
+        "template": "",
+        "sources": []
+      },
+      {
+        "line": 144672,
+        "direction": "outbound",
+        "timestamp": "2026-09-28 11:00:20.081242+00:00",
+        "text": "*Monday, September 28th* 1. *Pumpkin Cream Soup | Pumpkin Seeds* — 2,50 € 2. *Farfalle in a tomato and pepper sauce | Spring onions | Courgettes* — 4,90 € 3. *Bratwurst | Mustard sauce | Sauerkraut | Mashed potatoes* — 7,80 € 4. *Turkey piccata | Tomato risotto | Button mushrooms | Pesto* — 7,90 € 5. *Salad Selection from Buffet | Various Toppings | Cereals | Dressing | around 600 gr* — 5,80 € 6. *Farfalle in a tomato and pepper sauce | Spring onions | Courgettes* — 4,90 € 7. *Vanilla cream | Orange | Brittle* — 2,30 €",
+        "template": "",
+        "sources": []
+      },
+      {
+        "line": 144671,
+        "direction": "outbound",
+        "timestamp": "2026-09-28 11:08:30.096295+00:00",
+        "text": "Hi <first_name>, here’s what’s coming up at FS: 🧇 *The First Weeks Unpacked:* Talk openly about how your first weeks at FS are really going, with anonymous polls, senior student insights, Q&A and fresh waffles • Mon, 28 Sep • 19:00–20:30 • Skyline Student Lounge 💼 *Consulting Career Workshop:* Learn about consulting careers, recruiting, fit & case interviews, with first-hand insights from a McKinsey consultant and FS alumna • Tue, 29 Sep • 18:00–19:45 • FS Campus ✨ *Stand Out from the Crowd:* Learn how to identify and communicate your strengths, stand out in applications and make employers remember you • Tue, 6 Oct • 08:30–09:00 • Online 🎙️ *C-Level Insights with Prof. Jörg Rocholl:* Explore pension reform, European capital markets and how a capital-funded pension could shape Europe’s competitiveness • Tue, 6 Oct • 18:00–20:00 Let me know if you’re interested!",
+        "template": "",
+        "sources": []
+      }
+    ],
+    "sources": []
+  },
+  {
+    "id": "EP016830",
+    "topic": "Timetables / classes / courses",
+    "transcript": [
+      {
+        "line": 146186,
+        "direction": "inbound",
+        "timestamp": "2026-08-08 11:08:00.902162+00:00",
+        "text": "Can you give me full class schedule",
+        "template": "",
+        "sources": []
+      },
+      {
+        "line": 146185,
+        "direction": "outbound",
+        "timestamp": "2026-08-08 11:08:09.338755+00:00",
+        "text": "Not yet, it’s still being prepared. Your personal lecture schedule and the 2026-27 academic calendar will be available soon in *Canvas* and the *Online Campus calendar*, that’s where you should check next.",
+        "template": "",
+        "sources": []
+      },
+      {
+        "line": 146184,
+        "direction": "inbound",
+        "timestamp": "2026-08-08 11:09:25.973455+00:00",
+        "text": "Ok",
+        "template": "",
+        "sources": []
+      }
+    ],
+    "sources": []
+  },
+  {
+    "id": "EP018735",
+    "topic": "Events / clubs / networking",
+    "transcript": [
+      {
+        "line": 163823,
+        "direction": "inbound",
+        "timestamp": "2026-08-22 16:32:08.216484+00:00",
+        "text": "Haben mich überall angemeldet, wann bekomme ich das Ticket für Apfelwein und alle anderen Events außer Freigut, Gibson und Fortuna, die habe ich schon",
+        "template": "",
+        "sources": []
+      },
+      {
+        "line": 163822,
+        "direction": "outbound",
+        "timestamp": "2026-08-22 16:32:19.062286+00:00",
+        "text": "Ja, die Tickets kommen am *Morgen des jeweiligen Events* rein, so wie ich’s dir vorhin schon gesagt hab.",
+        "template": "",
+        "sources": []
+      },
+      {
+        "line": 163821,
+        "direction": "outbound",
+        "timestamp": "2026-08-22 16:32:24.051401+00:00",
+        "text": "Für die Sachen, die du noch meinst, gilt also erstmal genau das gleiche, *am Eventmorgen checken*, dann sollte das Ticket da sein. Wenn du willst, sag mir einfach *welches Event genau* du meinst, dann geh ich’s mit dir einzeln durch.",
+        "template": "",
+        "sources": []
+      },
+      {
+        "line": 163820,
+        "direction": "inbound",
+        "timestamp": "2026-08-22 16:33:24.887008+00:00",
+        "text": "Wo bekomme ich die dann",
+        "template": "",
+        "sources": []
+      },
+      {
+        "line": 163819,
+        "direction": "outbound",
+        "timestamp": "2026-08-22 16:33:37.136811+00:00",
+        "text": "Hier in diesem WhatsApp-Chat, direkt als Nachricht von mir. Du musst nichts extra suchen, einfach morgens hier reinschauen, dann kommt das Ticket in den Thread.",
+        "template": "",
+        "sources": []
+      }
+    ],
+    "sources": []
+  },
+  {
+    "id": "EP018758",
+    "topic": "Opening Week / onboarding",
+    "transcript": [
+      {
+        "line": 164023,
+        "direction": "inbound",
+        "timestamp": "2025-08-06 06:06:42.330067+00:00",
+        "text": "When can I register for opening week?",
+        "template": "",
+        "sources": []
+      },
+      {
+        "line": 164022,
+        "direction": "outbound",
+        "timestamp": "2025-08-06 06:06:53.181625+00:00",
+        "text": "Hey Greta! You'll receive an invite from me directly through WhatsApp for the Opening Week registration. I'll also send you all the relevant information regarding schedules and workshops. 📩",
+        "template": "",
+        "sources": [
+          "48 - Student ID (all-programs)",
+          "188 - Career Days 2024 (career-services)",
+          "45 - Orientation/Opening Week/Days (all-programs)",
+          "1151 - Intake 2025-BSc Orientation Week (bsc-2)",
+          "28 - Academic calendar (all-programs)"
+        ]
+      },
+      {
+        "line": 164021,
+        "direction": "outbound",
+        "timestamp": "2025-08-06 06:06:54.159975+00:00",
+        "text": "Is there anything else you'd like to know about the exciting start of your FS journey?",
+        "template": "",
+        "sources": [
+          "48 - Student ID (all-programs)",
+          "188 - Career Days 2024 (career-services)",
+          "45 - Orientation/Opening Week/Days (all-programs)",
+          "1151 - Intake 2025-BSc Orientation Week (bsc-2)",
+          "28 - Academic calendar (all-programs)"
+        ]
+      }
+    ],
+    "sources": [
+      "1151 - Intake 2025-BSc Orientation Week (bsc-2)",
+      "188 - Career Days 2024 (career-services)",
+      "28 - Academic calendar (all-programs)",
+      "45 - Orientation/Opening Week/Days (all-programs)",
+      "48 - Student ID (all-programs)"
+    ]
+  },
+  {
+    "id": "EP020554",
+    "topic": "Opening Week / onboarding",
+    "transcript": [
+      {
+        "line": 180695,
+        "direction": "inbound",
+        "timestamp": "2026-08-29 08:31:42.847847+00:00",
+        "text": "When is the Bachelor opening ceremony?",
+        "template": "",
+        "sources": []
+      },
+      {
+        "line": 180694,
+        "direction": "outbound",
+        "timestamp": "2026-08-29 08:31:47.908527+00:00",
+        "text": "Here's your QR for Bachelor Opening Ceremony.",
+        "template": "",
+        "sources": []
+      },
+      {
+        "line": 180693,
+        "direction": "outbound",
+        "timestamp": "2026-08-29 08:31:52.897961+00:00",
+        "text": "I can’t confirm the exact time from here. Please check your official Opening Week schedule or program sheet for the confirmed Bachelor opening ceremony time.",
+        "template": "",
+        "sources": []
+      }
+    ],
+    "sources": []
+  },
+  {
+    "id": "EP025397",
+    "topic": "Exams / grades / assignments",
+    "transcript": [
+      {
+        "line": 224887,
+        "direction": "inbound",
+        "timestamp": "2026-05-27 12:51:27.760594+00:00",
+        "text": "Is it possible to write the thesis in German?",
+        "template": "",
+        "sources": []
+      },
+      {
+        "line": 224886,
+        "direction": "outbound",
+        "timestamp": "2026-05-27 12:51:36.408918+00:00",
+        "text": "No, the thesis has to be written in English, no exceptions.",
+        "template": "",
+        "sources": []
+      },
+      {
+        "line": 224885,
+        "direction": "inbound",
+        "timestamp": "2026-05-27 12:52:28.228570+00:00",
+        "text": "but at the introduction week they said if did the first 3 semesters in German then is it possible to write it in german?",
+        "template": "",
+        "sources": []
+      },
+      {
+        "line": 224884,
+        "direction": "outbound",
+        "timestamp": "2026-05-27 12:52:36.902102+00:00",
+        "text": "Yeah, I get why that sounds conflicting.",
+        "template": "",
+        "sources": []
+      },
+      {
+        "line": 224883,
+        "direction": "outbound",
+        "timestamp": "2026-05-27 12:52:40.888229+00:00",
+        "text": "Based on the thesis rules I have here, it still has to be in English, and I can’t confirm a German-language exception from this info.",
+        "template": "",
+        "sources": []
+      },
+      {
+        "line": 224882,
+        "direction": "outbound",
+        "timestamp": "2026-05-27 12:52:45.899877+00:00",
+        "text": "If they said something different in intro week, check with your study advisor or the programme team, because if there’s any exception at all, it would have to come from your specific programme guidance.",
+        "template": "",
+        "sources": []
+      }
+    ],
+    "sources": []
+  },
+  {
+    "id": "EP027728",
+    "topic": "Exams / grades / assignments",
+    "transcript": [
+      {
+        "line": 247835,
+        "direction": "inbound",
+        "timestamp": "2026-03-08 18:28:06.951733+00:00",
+        "text": "Kannst du mir den Plan schicken welche nachschreibe Klausuren in den nächsten Tagen sind",
+        "template": "",
+        "sources": []
+      },
+      {
+        "line": 247834,
+        "direction": "outbound",
+        "timestamp": "2026-03-08 18:28:17.998860+00:00",
+        "text": "Viel Erfolg beim Lernen! 📚✨",
+        "template": "",
+        "sources": [
+          "378 - Ronald Gleich (fs-staff)",
+          "402 - Edgar Löw (fs-staff)",
+          "383 - Thomas Heidorn (fs-staff)",
+          "430 - Rainer Sibbel (fs-staff)",
+          "407 - Jürgen Moormann (fs-staff)"
+        ]
+      },
+      {
+        "line": 247833,
+        "direction": "outbound",
+        "timestamp": "2026-03-08 18:28:18.904328+00:00",
+        "text": "Für den Klausurplan kannst du diesen Link verwenden: [link]",
+        "template": "",
+        "sources": [
+          "378 - Ronald Gleich (fs-staff)",
+          "402 - Edgar Löw (fs-staff)",
+          "383 - Thomas Heidorn (fs-staff)",
+          "430 - Rainer Sibbel (fs-staff)",
+          "407 - Jürgen Moormann (fs-staff)"
+        ]
+      },
+      {
+        "line": 247832,
+        "direction": "inbound",
+        "timestamp": "2026-03-08 18:34:43.181322+00:00",
+        "text": "Wann ist der nachschreibetermin für die Klausur im Fach Grundlagen der BWL",
+        "template": "",
+        "sources": []
+      },
+      {
+        "line": 247831,
+        "direction": "outbound",
+        "timestamp": "2026-03-08 18:34:54.629282+00:00",
+        "text": "Für genaue Informationen zu Nachschreibeterminen, kannst du den Klausurplan hier einsehen: [link]",
+        "template": "",
+        "sources": [
+          "209 - Language courses - general information (languages)",
+          "369 - Pia Domschke (fs-staff)",
+          "378 - Ronald Gleich (fs-staff)",
+          "453 - Jörg Schlüchtermann (fs-staff)",
+          "383 - Thomas Heidorn (fs-staff)",
+          "372 - Martin Faust (fs-staff)",
+          "407 - Jürgen Moormann (fs-staff)"
+        ]
+      },
+      {
+        "line": 247830,
+        "direction": "outbound",
+        "timestamp": "2026-03-08 18:34:55.600917+00:00",
+        "text": "Viel Erfolg bei der Vorbereitung! 📘",
+        "template": "",
+        "sources": [
+          "209 - Language courses - general information (languages)",
+          "369 - Pia Domschke (fs-staff)",
+          "378 - Ronald Gleich (fs-staff)",
+          "453 - Jörg Schlüchtermann (fs-staff)",
+          "383 - Thomas Heidorn (fs-staff)",
+          "372 - Martin Faust (fs-staff)",
+          "407 - Jürgen Moormann (fs-staff)"
+        ]
+      },
+      {
+        "line": 247829,
+        "direction": "inbound",
+        "timestamp": "2026-03-08 18:35:58.393593+00:00",
+        "text": "Kannst du mir nicht einfach den Plan geben?",
+        "template": "",
+        "sources": []
+      },
+      {
+        "line": 247828,
+        "direction": "outbound",
+        "timestamp": "2026-03-08 18:36:46.812161+00:00",
+        "text": "Ich verstehe, dass du den Plan direkt haben möchtest. Leider kann ich dir nur den Link zum Klausurplan geben: [link]",
+        "template": "",
+        "sources": [
+          "378 - Ronald Gleich (fs-staff)",
+          "430 - Rainer Sibbel (fs-staff)",
+          "383 - Thomas Heidorn (fs-staff)",
+          "209 - Language courses - general information (languages)"
+        ]
+      },
+      {
+        "line": 247827,
+        "direction": "outbound",
+        "timestamp": "2026-03-08 18:36:47.703059+00:00",
+        "text": "Dort findest du alle Details zu den Nachschreibeterminen. Viel Erfolg beim Lernen! 📚",
+        "template": "",
+        "sources": [
+          "378 - Ronald Gleich (fs-staff)",
+          "430 - Rainer Sibbel (fs-staff)",
+          "383 - Thomas Heidorn (fs-staff)",
+          "209 - Language courses - general information (languages)"
+        ]
+      },
+      {
+        "line": 247826,
+        "direction": "inbound",
+        "timestamp": "2026-03-08 18:55:29.117283+00:00",
+        "text": "Aber der link führt nicht zu einem generellen Klausurenplan",
+        "template": "",
+        "sources": []
+      },
+      {
+        "line": 247825,
+        "direction": "outbound",
+        "timestamp": "2026-03-08 18:55:41.214403+00:00",
+        "text": "Oh, das ist ja ärgerlich! Leider kann ich dir nur den Link zur Verfügung stellen. Vielleicht hilft es, direkt auf der Seite nach \"Klausurenplan\" zu suchen oder dich an deinen Studienberater Bertram Begüm zu wenden. Du kannst sie per E-Mail unter [email] erreichen oder einen Termin über diesen Link buchen: [link] Ich hoffe, das hilft weiter! 📅",
+        "template": "",
+        "sources": [
+          "408 - Ulf Moslener (fs-staff)",
+          "378 - Ronald Gleich (fs-staff)",
+          "383 - Thomas Heidorn (fs-staff)",
+          "1075 - BSc Concentration Module Descriptions May 2025 (bsc)",
+          "401 - Horst Löchel (fs-staff)",
+          "424 - Christoph Schalast (fs-staff)"
+        ]
+      }
+    ],
+    "sources": [
+      "1075 - BSc Concentration Module Descriptions May 2025 (bsc)",
+      "209 - Language courses - general information (languages)",
+      "369 - Pia Domschke (fs-staff)",
+      "372 - Martin Faust (fs-staff)",
+      "378 - Ronald Gleich (fs-staff)",
+      "383 - Thomas Heidorn (fs-staff)",
+      "401 - Horst Löchel (fs-staff)",
+      "402 - Edgar Löw (fs-staff)",
+      "407 - Jürgen Moormann (fs-staff)",
+      "408 - Ulf Moslener (fs-staff)",
+      "424 - Christoph Schalast (fs-staff)",
+      "430 - Rainer Sibbel (fs-staff)",
+      "453 - Jörg Schlüchtermann (fs-staff)"
+    ]
+  },
+  {
+    "id": "EP027787",
+    "topic": "Events / clubs / networking",
+    "transcript": [
+      {
+        "line": 248551,
+        "direction": "inbound",
+        "timestamp": "2026-09-05 15:23:49.743699+00:00",
+        "text": "Hi Frankie! What events are coming up?",
+        "template": "",
+        "sources": []
+      },
+      {
+        "line": 248550,
+        "direction": "outbound",
+        "timestamp": "2026-09-05 15:23:58.923494+00:00",
+        "text": "*FS Championship Kick-off*, Saturday, 5 September 2026 at 16:00",
+        "template": "",
+        "sources": []
+      },
+      {
+        "line": 248549,
+        "direction": "outbound",
+        "timestamp": "2026-09-05 15:24:03.504501+00:00",
+        "text": "*FS Latino Society Kick-off*, Saturday, 5 September 2026 at 19:30",
+        "template": "",
+        "sources": []
+      },
+      {
+        "line": 248548,
+        "direction": "outbound",
+        "timestamp": "2026-09-05 15:24:07.304621+00:00",
+        "text": "*Blood Donation Day*, Monday, 7 September 2026 at 12:00",
+        "template": "",
+        "sources": []
+      },
+      {
+        "line": 248547,
+        "direction": "outbound",
+        "timestamp": "2026-09-05 15:24:12.383596+00:00",
+        "text": "*Co-Found a Synthetic Biology Startup - Futury Summer School 2026*, Monday, 7 September 2026 at 13:00",
+        "template": "",
+        "sources": []
+      },
+      {
+        "line": 248546,
+        "direction": "outbound",
+        "timestamp": "2026-09-05 15:24:16.667499+00:00",
+        "text": "*FS Business Case Kick-off*, Monday, 7 September 2026 at 13:00",
+        "template": "",
+        "sources": []
+      },
+      {
+        "line": 248545,
+        "direction": "outbound",
+        "timestamp": "2026-09-05 15:24:19.588769+00:00",
+        "text": "[link]",
+        "template": "",
+        "sources": []
+      }
+    ],
+    "sources": []
+  },
+  {
+    "id": "EP027987",
+    "topic": "Events / clubs / networking",
+    "transcript": [
+      {
+        "line": 250634,
+        "direction": "inbound",
+        "timestamp": "2026-09-06 12:41:26.023275+00:00",
+        "text": "Hi Frankie! Tell me more about the event \"2. Frankfurt School Real Estate Career Day 2026\"?",
+        "template": "",
+        "sources": []
+      },
+      {
+        "line": 250633,
+        "direction": "outbound",
+        "timestamp": "2026-09-06 12:41:39.651840+00:00",
+        "text": "Okay, we’re still missing the one bit that matters, the *registration section* of the event page.",
+        "template": "",
+        "sources": []
+      },
+      {
+        "line": 250632,
+        "direction": "outbound",
+        "timestamp": "2026-09-06 12:41:44.656675+00:00",
+        "text": "Send a clear screenshot of just that part, or paste the text under the sign-up button, and I’ll tell you exactly what to do next.",
+        "template": "",
+        "sources": []
+      }
+    ],
+    "sources": []
+  },
+  {
+    "id": "EP029344",
+    "topic": "Study advisors / staff contacts",
+    "transcript": [
+      {
+        "line": 264513,
+        "direction": "inbound",
+        "timestamp": "2026-08-22 17:01:37.261064+00:00",
+        "text": "Do you know who my Study advisor ist",
+        "template": "",
+        "sources": []
+      },
+      {
+        "line": 264512,
+        "direction": "outbound",
+        "timestamp": "2026-08-22 17:01:48.177931+00:00",
+        "text": "Yes, your study advisor is *Begüm Bertram*.",
+        "template": "",
+        "sources": []
+      },
+      {
+        "line": 264511,
+        "direction": "inbound",
+        "timestamp": "2026-08-22 17:02:35.678209+00:00",
+        "text": "Ok, is there a possibility to contact him",
+        "template": "",
+        "sources": []
+      },
+      {
+        "line": 264510,
+        "direction": "outbound",
+        "timestamp": "2026-08-22 17:02:46.219294+00:00",
+        "text": "Yes, you can reach the study advisor through the *Student Help Desk*, Monday to Friday.",
+        "template": "",
+        "sources": []
+      },
+      {
+        "line": 264509,
+        "direction": "outbound",
+        "timestamp": "2026-08-22 17:02:51.216015+00:00",
+        "text": "If your question is a bit unclear, they can point you to the right team or person.",
+        "template": "",
+        "sources": []
+      }
+    ],
+    "sources": []
+  },
+  {
+    "id": "EP030246",
+    "topic": "Documents / student ID / administration",
+    "transcript": [
+      {
+        "line": 273361,
+        "direction": "inbound",
+        "timestamp": "2025-11-11 18:43:53.448934+00:00",
+        "text": "What should I do if I lost my student id",
+        "template": "",
+        "sources": []
+      },
+      {
+        "line": 273360,
+        "direction": "outbound",
+        "timestamp": "2025-11-11 18:44:05.166123+00:00",
+        "text": "Oh no, losing your student ID can be a bit of a hassle, but don't worry!",
+        "template": "",
+        "sources": []
+      },
+      {
+        "line": 273359,
+        "direction": "outbound",
+        "timestamp": "2025-11-11 18:44:05.857128+00:00",
+        "text": "First, report the loss immediately to your study advisor or email [email]. You'll need to pay a replacement fee of 20 Euros, following the payment instructions on the invoice.",
+        "template": "",
+        "sources": [
+          "892 - General Examination Info (examination-office)",
+          "45 - Orientation/Opening Week/Days (all-programs)",
+          "10 - Frankfurt campus (all-programs)",
+          "48 - Student ID (all-programs)"
+        ]
+      },
+      {
+        "line": 273358,
+        "direction": "outbound",
+        "timestamp": "2025-11-11 18:44:06.856164+00:00",
+        "text": "If someone else is picking up your new ID, make sure they have an informal confirmation from you and your study advisor.",
+        "template": "",
+        "sources": [
+          "892 - General Examination Info (examination-office)",
+          "45 - Orientation/Opening Week/Days (all-programs)",
+          "10 - Frankfurt campus (all-programs)",
+          "48 - Student ID (all-programs)"
+        ]
+      },
+      {
+        "line": 273357,
+        "direction": "outbound",
+        "timestamp": "2025-11-11 18:44:07.855539+00:00",
+        "text": "Stay calm, you'll have it sorted out in no time! 😊",
+        "template": "",
+        "sources": [
+          "892 - General Examination Info (examination-office)",
+          "45 - Orientation/Opening Week/Days (all-programs)",
+          "10 - Frankfurt campus (all-programs)",
+          "48 - Student ID (all-programs)"
+        ]
+      }
+    ],
+    "sources": [
+      "10 - Frankfurt campus (all-programs)",
+      "45 - Orientation/Opening Week/Days (all-programs)",
+      "48 - Student ID (all-programs)",
+      "892 - General Examination Info (examination-office)"
+    ]
+  },
+  {
+    "id": "EP030500",
+    "topic": "Study advisors / staff contacts",
+    "transcript": [
+      {
+        "line": 276001,
+        "direction": "inbound",
+        "timestamp": "2026-08-28 12:13:03.158767+00:00",
+        "text": "I am in english track 4 of bba ..whos my study advisor?",
+        "template": "",
+        "sources": []
+      },
+      {
+        "line": 276000,
+        "direction": "outbound",
+        "timestamp": "2026-08-28 12:13:12.900998+00:00",
+        "text": "I can’t verify the study advisor for *English Track 4 of BBA* from the info I have here.",
+        "template": "",
+        "sources": []
+      },
+      {
+        "line": 275999,
+        "direction": "outbound",
+        "timestamp": "2026-08-28 12:13:17.900854+00:00",
+        "text": "The quickest reliable source is your personal Opening Week schedule or the BBA program office. If you paste the line that mentions the advisor, I’ll help you read it.",
+        "template": "",
+        "sources": []
+      }
+    ],
+    "sources": []
+  },
+  {
+    "id": "EP030621",
+    "topic": "Registration / tickets / attendance",
+    "transcript": [
+      {
+        "line": 277752,
+        "direction": "inbound",
+        "timestamp": "2026-08-25 14:40:39.134000+00:00",
+        "text": "am i registered?",
+        "template": "",
+        "sources": []
+      },
+      {
+        "line": 277751,
+        "direction": "outbound",
+        "timestamp": "2026-08-25 14:40:47.651143+00:00",
+        "text": "Yes, you’re registered for Opening Week.",
+        "template": "",
+        "sources": []
+      },
+      {
+        "line": 277750,
+        "direction": "outbound",
+        "timestamp": "2026-08-25 14:40:52.669164+00:00",
+        "text": "The bit that’s still separate is the workshop or session selection, so I’m not claiming anything about that yet. But for Opening Week itself, you’re in.",
+        "template": "",
+        "sources": []
+      },
+      {
+        "line": 277749,
+        "direction": "outbound",
+        "timestamp": "2026-08-25 14:40:57.559227+00:00",
+        "text": "If you want, I can help you figure out what you still need to do next.",
+        "template": "",
+        "sources": []
+      },
+      {
+        "line": 277748,
+        "direction": "inbound",
+        "timestamp": "2026-08-25 14:41:04.717704+00:00",
+        "text": "sure",
+        "template": "",
+        "sources": []
+      },
+      {
+        "line": 277747,
+        "direction": "outbound",
+        "timestamp": "2026-08-25 14:41:13.536193+00:00",
+        "text": "Yep, the only separate thing left is *choosing your workshop/session*.",
+        "template": "",
+        "sources": []
+      },
+      {
+        "line": 277746,
+        "direction": "outbound",
+        "timestamp": "2026-08-25 14:41:18.004214+00:00",
+        "text": "If you want, send me the options and I’ll help you pick one fast.",
+        "template": "",
+        "sources": []
+      }
+    ],
+    "sources": []
+  },
+  {
+    "id": "EP030944",
+    "topic": "Documents / student ID / administration",
+    "transcript": [
+      {
+        "line": 281784,
+        "direction": "inbound",
+        "timestamp": "2026-08-24 06:03:11.101875+00:00",
+        "text": "How do you know the document is Vorrecht?",
+        "template": "",
+        "sources": []
+      },
+      {
+        "line": 281783,
+        "direction": "inbound",
+        "timestamp": "2026-08-24 06:03:16.708646+00:00",
+        "text": "Correct?",
+        "template": "",
+        "sources": []
+      },
+      {
+        "line": 281782,
+        "direction": "outbound",
+        "timestamp": "2026-08-24 06:03:42.850930+00:00",
+        "text": "No, I don’t know that from here.",
+        "template": "",
+        "sources": []
+      },
+      {
+        "line": 281781,
+        "direction": "outbound",
+        "timestamp": "2026-08-24 06:03:47.822483+00:00",
+        "text": "I only know the text you typed out from the document, not whether it’s the official or authoritative version. And yeah, I shouldn’t have presented the time as confirmed from my side.",
+        "template": "",
+        "sources": []
+      },
+      {
+        "line": 281780,
+        "direction": "outbound",
+        "timestamp": "2026-08-24 06:03:52.846833+00:00",
+        "text": "So the honest version is, I can read what you pasted, but I can’t verify the document itself.",
+        "template": "",
+        "sources": []
+      },
+      {
+        "line": 281779,
+        "direction": "inbound",
+        "timestamp": "2026-08-24 06:25:01.504748+00:00",
+        "text": "But I do the Master in Management Maybe then it is at 9:30",
+        "template": "",
+        "sources": []
+      },
+      {
+        "line": 281778,
+        "direction": "outbound",
+        "timestamp": "2026-08-24 06:25:11.879862+00:00",
+        "text": "No, I can’t confirm 9:30 from here, and I shouldn’t guess based on the programme name alone.",
+        "template": "",
+        "sources": []
+      },
+      {
+        "line": 281777,
+        "direction": "outbound",
+        "timestamp": "2026-08-24 06:25:16.877674+00:00",
+        "text": "Master in Management could have its own slot, sure, but I need the exact line from the schedule that shows *your programme* and the registration time. Paste that bit here, and I’ll compare it with the `8:30 - 9:00` line you already sent.",
+        "template": "",
+        "sources": []
+      },
+      {
+        "line": 281776,
+        "direction": "inbound",
+        "timestamp": "2026-08-24 06:26:12.317453+00:00",
+        "text": "There is No Slot line for Master in Management (MiM) in the document, Therefore I Think your time might be correct",
+        "template": "",
+        "sources": []
+      },
+      {
+        "line": 281775,
+        "direction": "outbound",
+        "timestamp": "2026-08-24 06:26:28.864647+00:00",
+        "text": "I still can’t verify whether MiM registration is 8:30 or 9:30 from here, so I don’t want to guess again.",
+        "template": "",
+        "sources": []
+      },
+      {
+        "line": 281774,
+        "direction": "outbound",
+        "timestamp": "2026-08-24 06:26:33.839727+00:00",
+        "text": "The right source is the official Opening Week schedule or your study advisor, because the line you pasted isn’t enough on its own to confirm the MiM slot.",
+        "template": "",
+        "sources": []
+      },
+      {
+        "line": 281773,
+        "direction": "outbound",
+        "timestamp": "2026-08-24 06:26:38.853600+00:00",
+        "text": "If you want, paste the exact heading and the lines around it, and I’ll help you read it carefully.",
+        "template": "",
+        "sources": []
+      },
+      {
+        "line": 281772,
+        "direction": "inbound",
+        "timestamp": "2026-08-24 06:47:30.512400+00:00",
+        "text": "You were right it was 9:30",
+        "template": "",
+        "sources": []
+      },
+      {
+        "line": 281771,
+        "direction": "outbound",
+        "timestamp": "2026-08-24 06:47:39.832133+00:00",
+        "text": "Okay, good, thank you for checking it properly.",
+        "template": "",
+        "sources": []
+      },
+      {
+        "line": 281770,
+        "direction": "outbound",
+        "timestamp": "2026-08-24 06:47:44.843560+00:00",
+        "text": "So 9:30 was the right time after all, and we can leave the chaos in the bin where it belongs.",
+        "template": "",
+        "sources": []
+      }
+    ],
+    "sources": []
+  },
+  {
+    "id": "EP031017",
+    "topic": "Food / lunch / canteen",
+    "transcript": [
+      {
+        "line": 282836,
+        "direction": "inbound",
+        "timestamp": "2026-04-24 08:36:13.409793+00:00",
+        "text": "lunch",
+        "template": "",
+        "sources": []
+      },
+      {
+        "line": 282835,
+        "direction": "outbound",
+        "timestamp": "2026-04-24 08:36:14.512185+00:00",
+        "text": "Let me check with the cooks what they have prepared for Friday! It's coming right up... 👇",
+        "template": "",
+        "sources": []
+      },
+      {
+        "line": 282834,
+        "direction": "outbound",
+        "timestamp": "2026-04-24 08:36:17.454985+00:00",
+        "text": "*Friday, 24.04.2026* 1. *Velouté | Pesto*: 2,50 € 2. *Chili Sin Carne | Sour Cream | Crunch*: 4,90 € 3. *Fried fish | Potato and asparagus salad | Wild garlic remoulade*: 8,10 € 4. *Zurich-style turkey ragout | Spätzle*: 7,80 € 5. *Salad Selection from Buffet | Various Toppings | Cereals | Dressing | around 600 gr*: 5,80 € 6. *Chili Sin Carne | Sour Cream | Crunch*: 4,90 € 7. *Basil yoghurt cream | Cherry*: 2,30 €",
+        "template": "",
+        "sources": []
+      }
+    ],
+    "sources": []
+  },
+  {
+    "id": "EP033669",
+    "topic": "Study advisors / staff contacts",
+    "transcript": [
+      {
+        "line": 308545,
+        "direction": "inbound",
+        "timestamp": "2025-08-20 14:48:13.293063+00:00",
+        "text": "My study advisor is Vladyslav Lakizo?!",
+        "template": "",
+        "sources": []
+      },
+      {
+        "line": 308544,
+        "direction": "template",
+        "timestamp": "2025-08-20 14:48:20.089718+00:00",
+        "text": "I see you'd like to update your preferences. No worries, I’ve got you covered! 😊 Just tap the button below to go directly to the preferences update screen. You can easily update details like your first name, last name, or topics you're interested in. If you need any help along the way, feel free to message me here. 🌟",
+        "template": "frankie_update_preferences_v3",
+        "sources": []
+      }
+    ],
+    "sources": []
+  },
+  {
+    "id": "EP035532",
+    "topic": "Study advisors / staff contacts",
+    "transcript": [
+      {
+        "line": 324164,
+        "direction": "inbound",
+        "timestamp": "2026-02-17 11:34:05.138271+00:00",
+        "text": "Can I have a phone number from the student helpdesk please",
+        "template": "",
+        "sources": []
+      },
+      {
+        "line": 324163,
+        "direction": "outbound",
+        "timestamp": "2026-02-17 11:34:15.811249+00:00",
+        "text": "Unfortunately, I don't have a direct phone number for the Student Help Desk. 📞 But you can visit them on the 2nd floor of the FS building for assistance. They're located in the western part of the building near the west entrance, next to student services and across from S2.02. 😊",
+        "template": "",
+        "sources": [
+          "12 - Frankfurt campus - floor plan directions (all-programs)",
+          "27 - IT Support (all-programs)",
+          "181 - Career Services - General (career-services)",
+          "1232 - FS MUN - from blog (student-initiatives)",
+          "35 - Studying in Frankfurt (all-programs)",
+          "11 - Student Help Desk (all-programs)",
+          "855 - FS Entrepreneurship (student-initiatives)"
+        ]
+      }
+    ],
+    "sources": [
+      "11 - Student Help Desk (all-programs)",
+      "12 - Frankfurt campus - floor plan directions (all-programs)",
+      "1232 - FS MUN - from blog (student-initiatives)",
+      "181 - Career Services - General (career-services)",
+      "27 - IT Support (all-programs)",
+      "35 - Studying in Frankfurt (all-programs)",
+      "855 - FS Entrepreneurship (student-initiatives)"
+    ]
+  },
+  {
+    "id": "EP037247",
+    "topic": "Food / lunch / canteen",
+    "transcript": [
+      {
+        "line": 350047,
+        "direction": "inbound",
+        "timestamp": "2025-05-01 05:56:11.260492+00:00",
+        "text": "Todays menu",
+        "template": "",
+        "sources": []
+      },
+      {
+        "line": 350046,
+        "direction": "outbound",
+        "timestamp": "2025-05-01 05:56:12.289298+00:00",
+        "text": "Let me check with the cooks what they have prepared for Thursday! It's coming right up... 👇",
+        "template": "",
+        "sources": []
+      },
+      {
+        "line": 350045,
+        "direction": "outbound",
+        "timestamp": "2025-05-01 05:56:13.996361+00:00",
+        "text": "Oops, it seems there is no menu available for the requested day.",
+        "template": "",
+        "sources": []
+      },
+      {
+        "line": 350044,
+        "direction": "inbound",
+        "timestamp": "2025-05-01 05:58:01.517581+00:00",
+        "text": "Is it closed today?",
+        "template": "",
+        "sources": []
+      },
+      {
+        "line": 350043,
+        "direction": "outbound",
+        "timestamp": "2025-05-01 05:58:07.138227+00:00",
+        "text": "Ah, my apologies for the mix-up! Today is Thursday, which means it's Schnitzel Day at the canteen. 🥳",
+        "template": "",
+        "sources": []
+      },
+      {
+        "line": 350042,
+        "direction": "outbound",
+        "timestamp": "2025-05-01 05:58:08.158097+00:00",
+        "text": "The canteen is open from 11:30 a.m. to 2 p.m., so you can enjoy some delicious schnitzel and other meals then!",
+        "template": "",
+        "sources": [
+          "895 - Fallback kb in one file (fallback-kb)",
+          "12 - Frankfurt campus - floor plan directions (all-programs)",
+          "878 - Top 30 Alumni (alumni)",
+          "57 - Study spots (all-programs)",
+          "197 - Alliance - Canteen (alliance)",
+          "11 - Student Help Desk (all-programs)"
+        ]
+      }
+    ],
+    "sources": [
+      "11 - Student Help Desk (all-programs)",
+      "12 - Frankfurt campus - floor plan directions (all-programs)",
+      "197 - Alliance - Canteen (alliance)",
+      "57 - Study spots (all-programs)",
+      "878 - Top 30 Alumni (alumni)",
+      "895 - Fallback kb in one file (fallback-kb)"
+    ]
+  },
+  {
+    "id": "EP038654",
+    "topic": "Exams / grades / assignments",
+    "transcript": [
+      {
+        "line": 370400,
+        "direction": "inbound",
+        "timestamp": "2025-05-16 08:40:19.293042+00:00",
+        "text": "Where is the Prüfungsordnung",
+        "template": "",
+        "sources": []
+      },
+      {
+        "line": 370399,
+        "direction": "outbound",
+        "timestamp": "2025-05-16 08:40:27.757886+00:00",
+        "text": "Hey <first_name>! The Prüfungsordnung, or examination regulations, can typically be found on the FS Intranet or through your program's specific page. If you need further assistance, feel free to reach out to your study advisor, Bertram Begüm, at [email].",
+        "template": "",
+        "sources": []
+      },
+      {
+        "line": 370398,
+        "direction": "outbound",
+        "timestamp": "2025-05-16 08:40:28.748692+00:00",
+        "text": "And remember, if you ever need a break from exams, I'm here to chat about anything from finance to fashion! 😊",
+        "template": "",
+        "sources": [
+          "638 - Information on how to use the library 20250218 (library)",
+          "12 - Frankfurt campus - floor plan directions (all-programs)",
+          "441 - Thomas Weck (fs-staff)",
+          "455 - Michael Grüning (fs-staff)",
+          "10 - Frankfurt campus (all-programs)",
+          "415 - Julia Redenius-Hövermann (fs-staff)",
+          "424 - Christoph Schalast (fs-staff)"
+        ]
+      }
+    ],
+    "sources": [
+      "10 - Frankfurt campus (all-programs)",
+      "12 - Frankfurt campus - floor plan directions (all-programs)",
+      "415 - Julia Redenius-Hövermann (fs-staff)",
+      "424 - Christoph Schalast (fs-staff)",
+      "441 - Thomas Weck (fs-staff)",
+      "455 - Michael Grüning (fs-staff)",
+      "638 - Information on how to use the library 20250218 (library)"
+    ]
+  },
+  {
+    "id": "EP038775",
+    "topic": "Timetables / classes / courses",
+    "transcript": [
+      {
+        "line": 372202,
+        "direction": "inbound",
+        "timestamp": "2025-05-16 18:03:59.559886+00:00",
+        "text": "Where does Thun has a lecture?",
+        "template": "",
+        "sources": []
+      },
+      {
+        "line": 372201,
+        "direction": "outbound",
+        "timestamp": "2025-05-16 18:04:07.660188+00:00",
+        "text": "Prof. Dr. Jörn-Henrik Thun's lectures are held in the amphitheater-like lecture halls at Frankfurt School. These halls are designed for interactive learning, with multiple projectors and breakout rooms for group discussions. Perfect for diving deep into those case studies! 📚",
+        "template": "",
+        "sources": [
+          "10 - Frankfurt campus (all-programs)",
+          "638 - Information on how to use the library 20250218 (library)",
+          "437 - Jörn-Henrik Thun (fs-staff)"
+        ]
+      },
+      {
+        "line": 372200,
+        "direction": "inbound",
+        "timestamp": "2025-05-16 18:04:34.767200+00:00",
+        "text": "But in which room",
+        "template": "",
+        "sources": []
+      },
+      {
+        "line": 372199,
+        "direction": "outbound",
+        "timestamp": "2025-05-16 18:04:42.750405+00:00",
+        "text": "I don't have the specific room number for Prof. Dr. Jörn-Henrik Thun's lectures. However, you can reach out to him directly at [email] or contact his department assistant, Hadil Fahoum, for more detailed information. They should be able to point you in the right direction! 😊",
+        "template": "",
+        "sources": [
+          "437 - Jörn-Henrik Thun (fs-staff)"
+        ]
+      },
+      {
+        "line": 372198,
+        "direction": "inbound",
+        "timestamp": "2025-05-16 18:05:18.013176+00:00",
+        "text": "Do you have his phone number?",
+        "template": "",
+        "sources": []
+      },
+      {
+        "line": 372197,
+        "direction": "outbound",
+        "timestamp": "2025-05-16 18:05:26.039085+00:00",
+        "text": "Certainly! You can reach Prof. Dr. Jörn-Henrik Thun at +49 69 154008-795. 📞",
+        "template": "",
+        "sources": [
+          "437 - Jörn-Henrik Thun (fs-staff)"
+        ]
+      }
+    ],
+    "sources": [
+      "10 - Frankfurt campus (all-programs)",
+      "437 - Jörn-Henrik Thun (fs-staff)",
+      "638 - Information on how to use the library 20250218 (library)"
+    ]
+  },
+  {
+    "id": "EP038785",
+    "topic": "Food / lunch / canteen",
+    "transcript": [
+      {
+        "line": 372387,
+        "direction": "inbound",
+        "timestamp": "2025-05-09 20:20:48.474345+00:00",
+        "text": "What’s for lunch tmr",
+        "template": "",
+        "sources": []
+      },
+      {
+        "line": 372386,
+        "direction": "outbound",
+        "timestamp": "2025-05-09 20:20:49.426305+00:00",
+        "text": "Let me check with the cooks what they have prepared for Saturday! It's coming right up... 👇",
+        "template": "",
+        "sources": []
+      },
+      {
+        "line": 372385,
+        "direction": "outbound",
+        "timestamp": "2025-05-09 20:20:52.347053+00:00",
+        "text": "*Saturday, 10.05.2025* 1. *Tomatized vegetable soup*: 2,50 € 2. *Ceasar salad Crispy chicken | tomatoes | romaine lettuce | parmesan dressing | croutons*: 7,10 € 3. *South American vegetable gumbo*: 4,90 € 4. *Salad Selection from Buffet | Various Toppings | Cereals | Dressing*: 5,80 € 5. *Duet of chocolate & currant*: 2,30 €",
+        "template": "",
+        "sources": []
+      }
+    ],
+    "sources": []
+  },
+  {
+    "id": "EP039142",
+    "topic": "Registration / tickets / attendance",
+    "transcript": [
+      {
+        "line": 377642,
+        "direction": "inbound",
+        "timestamp": "2025-08-30 08:14:22.946666+00:00",
+        "text": "Wo sehe ich die Tickets für meine Gäste?",
+        "template": "",
+        "sources": []
+      },
+      {
+        "line": 377641,
+        "direction": "outbound",
+        "timestamp": "2025-08-30 08:14:33.014414+00:00",
+        "text": "You and your guests will use the same ticket for entry. I'll send you the QR code for the Opening Ceremony in the morning of the event or up to 1 hour before it starts. If you don't receive it, just head to the Campus at your planned time and visit the Trouble Desk. They'll sort everything out for you and your guests so you can enjoy the ceremony without any issues! 🎟️😊",
+        "template": "",
+        "sources": []
+      }
+    ],
+    "sources": []
+  },
+  {
+    "id": "EP039171",
+    "topic": "Unsubscribe / stop notifications",
+    "transcript": [
+      {
+        "line": 378187,
+        "direction": "inbound",
+        "timestamp": "2025-09-16 12:59:06.566039+00:00",
+        "text": "Ich brauche keine Menu Vorschläge mehr danke",
+        "template": "",
+        "sources": []
+      },
+      {
+        "line": 378186,
+        "direction": "outbound",
+        "timestamp": "2025-09-16 12:59:08.560118+00:00",
+        "text": "Verstanden, ich werde Ihnen keine Menüvorschläge mehr senden. Wenn Sie Ihre Meinung ändern, lassen Sie es mich einfach wissen.",
+        "template": "",
+        "sources": []
+      }
+    ],
+    "sources": []
+  },
+  {
+    "id": "EP039501",
+    "topic": "Registration / tickets / attendance",
+    "transcript": [
+      {
+        "line": 384162,
+        "direction": "inbound",
+        "timestamp": "2025-08-04 14:41:56.483274+00:00",
+        "text": "Do i have to register for that",
+        "template": "",
+        "sources": []
+      },
+      {
+        "line": 384161,
+        "direction": "outbound",
+        "timestamp": "2025-08-04 14:42:00.213735+00:00",
+        "text": "No registration is needed for the Outdoor Campus event—just show up and enjoy the fun! It's all part of the Opening Week festivities, so be ready to dive into the activities on August 27th. 🌟 If you have any other questions or need more details, feel free to ask!",
+        "template": "",
+        "sources": [
+          "1153 - Your FS Team BBA Intake 2025 (bba)",
+          "1169 - Buddies - intake 2025 (bsc-2)",
+          "1151 - Intake 2025-BSc Orientation Week (bsc-2)"
+        ]
+      }
+    ],
+    "sources": [
+      "1151 - Intake 2025-BSc Orientation Week (bsc-2)",
+      "1153 - Your FS Team BBA Intake 2025 (bba)",
+      "1169 - Buddies - intake 2025 (bsc-2)"
+    ]
+  },
+  {
+    "id": "EP039520",
+    "topic": "Documents / student ID / administration",
+    "transcript": [
+      {
+        "line": 384300,
+        "direction": "inbound",
+        "timestamp": "2025-08-01 15:47:01.531535+00:00",
+        "text": "what documents should i submit after enrolment",
+        "template": "",
+        "sources": []
+      },
+      {
+        "line": 384299,
+        "direction": "outbound",
+        "timestamp": "2025-08-01 15:47:06.245740+00:00",
+        "text": "For questions regarding documents needed after enrolment, it's best to reach out directly to your Admissions Officer. You can contact Charlotte Lambert at [email], Qi Yang at [email], or Marie Beinert at [email]. They'll have all the details you need! 😊",
+        "template": "",
+        "sources": [
+          "1169 - Buddies - intake 2025 (bsc-2)",
+          "1170 - Buddy registration link - BBA 2025 (bba-2)",
+          "1151 - Intake 2025-BSc Orientation Week (bsc-2)",
+          "1153 - Your FS Team BBA Intake 2025 (bba)",
+          "1168 - BBA 2025 Pre-course Math (bba-2)"
+        ]
+      }
+    ],
+    "sources": [
+      "1151 - Intake 2025-BSc Orientation Week (bsc-2)",
+      "1153 - Your FS Team BBA Intake 2025 (bba)",
+      "1168 - BBA 2025 Pre-course Math (bba-2)",
+      "1169 - Buddies - intake 2025 (bsc-2)",
+      "1170 - Buddy registration link - BBA 2025 (bba-2)"
+    ]
+  },
+  {
+    "id": "EP040247",
+    "topic": "Unsubscribe / stop notifications",
+    "transcript": [
+      {
+        "line": 397024,
+        "direction": "inbound",
+        "timestamp": "2025-05-12 09:17:51.442498+00:00",
+        "text": "Could you please stop sending me the lunch menu",
+        "template": "",
+        "sources": []
+      },
+      {
+        "line": 397023,
+        "direction": "outbound",
+        "timestamp": "2025-05-12 09:17:52.887962+00:00",
+        "text": "Understood, I won't send you the canteen menu updates anymore. If you change your mind, just ask again.",
+        "template": "",
+        "sources": []
+      }
+    ],
+    "sources": []
+  },
+  {
+    "id": "EP042110",
+    "topic": "Unsubscribe / stop notifications",
+    "transcript": [
+      {
+        "line": 424419,
+        "direction": "inbound",
+        "timestamp": "2025-12-21 12:40:55.204159+00:00",
+        "text": "Stop texting me",
+        "template": "",
+        "sources": []
+      },
+      {
+        "line": 424418,
+        "direction": "template",
+        "timestamp": "2025-12-21 12:40:56.195966+00:00",
+        "text": "Hey there, I’m Frankie 👋 Think of me as your FS person. I know what’s happening on Campus, networking hotspots, the stuff you might miss on Canvas, and where to find the food. Let’s get to know each other so I can share what’s useful for you.",
+        "template": "frankie_onboarding_message",
+        "sources": []
+      },
+      {
+        "line": 424417,
+        "direction": "inbound",
+        "timestamp": "2025-12-21 12:41:19.871682+00:00",
+        "text": "Or how about you just leave me alone 😂",
+        "template": "",
+        "sources": []
+      },
+      {
+        "line": 424416,
+        "direction": "template",
+        "timestamp": "2025-12-21 12:41:20.794278+00:00",
+        "text": "Hey there, I’m Frankie 👋 Think of me as your FS person. I know what’s happening on Campus, networking hotspots, the stuff you might miss on Canvas, and where to find the food. Let’s get to know each other so I can share what’s useful for you.",
+        "template": "frankie_onboarding_message",
+        "sources": []
+      },
+      {
+        "line": 424415,
+        "direction": "inbound",
+        "timestamp": "2025-12-21 12:41:53.885703+00:00",
+        "text": "I want nothing to do with FS People",
+        "template": "",
+        "sources": []
+      },
+      {
+        "line": 424414,
+        "direction": "template",
+        "timestamp": "2025-12-21 12:41:54.804526+00:00",
+        "text": "Hey there, I’m Frankie 👋 Think of me as your FS person. I know what’s happening on Campus, networking hotspots, the stuff you might miss on Canvas, and where to find the food. Let’s get to know each other so I can share what’s useful for you.",
+        "template": "frankie_onboarding_message",
+        "sources": []
+      }
+    ],
+    "sources": []
+  },
+  {
+    "id": "EP042276",
+    "topic": "Unsubscribe / stop notifications",
+    "transcript": [
+      {
+        "line": 425522,
+        "direction": "inbound",
+        "timestamp": "2025-06-04 07:03:22.655178+00:00",
+        "text": "Stop sending me lunch menu please",
+        "template": "",
+        "sources": []
+      },
+      {
+        "line": 425521,
+        "direction": "template",
+        "timestamp": "2025-06-04 07:03:23.530708+00:00",
+        "text": "Hey there, I’m Frankie 👋 Think of me as your FS person. I know what’s happening on Campus, networking hotspots, the stuff you might miss on Canvas, and where to find the food. Let’s get to know each other so I can share what’s useful for you.",
+        "template": "frankie_onboarding_message",
+        "sources": []
+      }
+    ],
+    "sources": []
+  }
+]

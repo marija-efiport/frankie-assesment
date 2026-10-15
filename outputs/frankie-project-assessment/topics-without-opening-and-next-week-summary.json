@@ -1,0 +1,23 @@
+{
+  "excluded_windows": [
+    "2025-08-25 through 2025-08-29",
+    "2026-08-24 through 2026-08-28",
+    "2025-09-01 through 2025-09-07",
+    "2026-08-31 through 2026-09-06"
+  ],
+  "timezone": "Europe/Budapest (same dates as Frankfurt)",
+  "raw_user_messages_removed": 24596,
+  "raw_user_messages_retained": 69391,
+  "groups_retained": 31529,
+  "groups_removed": 10915,
+  "grouped_user_messages_retained": 56502,
+  "grouped_user_messages_removed": 20854,
+  "boundary_groups": [
+    "EP004182",
+    "EP013986",
+    "EP019183",
+    "EP019323",
+    "EP027429"
+  ],
+  "method": "Filter inbound messages by their own timestamp; preserve original group boundaries and corrected topic labels; retain each group once if any user message remains. Examples must come from retained messages. Other report sections remain full-history."
+}

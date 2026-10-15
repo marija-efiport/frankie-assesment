@@ -1,0 +1,464 @@
+{
+  "template": [
+    {
+      "source_line": 218,
+      "user_text": "Hi, Frankie!",
+      "text": "Hey there, I’m Frankie 👋\n\nThink of me as your FS person. I know what’s happening on Campus, networking hotspots, the stuff you might miss on Canvas, and where to find the food.\n\nLet’s get to know each other so I can share what’s useful for you."
+    },
+    {
+      "source_line": 217,
+      "user_text": "Hi, Frankie!",
+      "text": "Hey there, welcome to FS! I’m so glad to have you here 💙\n\nI’ll keep you updated on everything OW-related: how to register for all the activities, what’s coming up, and send you your daily schedules once it kicks off. After that, I’ll help you navigate your next steps at FS.\n\nIf you have any questions about OW or FS in general, now or later, just ask!"
+    },
+    {
+      "source_line": 210,
+      "user_text": "",
+      "text": "Your first week at FS is about to begin! 🥳 \n\n🎟️ For now, I’m sending over your first *digital ticket* - you’ll be getting it in the next half an hour!\nYou will need the ticket for your in-person, Opening Week registration 🧾\n\n\nBut not to worry - you’ll hear from me throughout the week for all the daily details. ☺️\n\nIf there’s anything you need, I’m here 💙"
+    },
+    {
+      "source_line": 209,
+      "user_text": "",
+      "text": "*Opening Week*\n25.08.2025 at 14:30\n@ Frankfurt School Campus 📌"
+    },
+    {
+      "source_line": 157,
+      "user_text": "",
+      "text": "Hey! 👋\nI’ll be taking a short daily break while my developers finish a system upgrade. I’ll be back tomorrow around 12 PM, refreshed and better than ever."
+    },
+    {
+      "source_line": 156,
+      "user_text": "",
+      "text": "We’re back ✨\nThe upgrade is done and I’m ready to help. Feel free to ask me anything!"
+    },
+    {
+      "source_line": 155,
+      "user_text": "",
+      "text": "Good luck with exams, <first_name> 🙌\n\nIn between all the stress, there are some great events coming up you can look forward to:\n\n🚀 Space Club Kitchen: Dinner & networking with ESA, business and innovation leaders • Thu, 29 May • 18:30\n\n🪩 StuCo Semester Closing Party @ Pier 1: “Night of the Profs” with professors behind the DJ booth • Fri, 30 May • 22:00–04:00\n\nLet me know if you’d like to know more."
+    },
+    {
+      "source_line": 154,
+      "user_text": "",
+      "text": "Hey <first_name>, just a quick note from me 💙\n\nFollowing this week's incident, we want to reassure you that the situation was handled immediately and there is no ongoing threat to campus safety. As an extra precaution, temporary security measures have been put in place, so please remember to bring your FS Card, or a national ID together with your Immatrikulationsbescheinigung for campus access.\n\nWe know situations like this can feel a little unsettling, so check in on yourselves and your friends tonight 💙"
+    }
+  ],
+  "social": [
+    {
+      "source_line": 215,
+      "user_text": "Im doing my master in finance and i am enrolled in the 3 day model. Which three days of the week will i have classes?",
+      "text": "Hey <first_name>! For the Master of Finance 3-Day model, your lecture days will typically be either Mondays, Tuesdays, and Saturdays or Thursdays, Fridays, and Saturdays, depending on your course selection."
+    },
+    {
+      "source_line": 213,
+      "user_text": "Im doing my master in finance and i am enrolled in the 3 day model. Which three days of the week will i have classes?",
+      "text": "Got any other questions about your program? 😊"
+    },
+    {
+      "source_line": 203,
+      "user_text": "When do classes start again in my second semester? I am currently in my first semester master of finance intake 2025 in the 3 semester program",
+      "text": "Hey <first_name>! Your second semester will kick off on January 12, 2026."
+    },
+    {
+      "source_line": 201,
+      "user_text": "When do classes start again in my second semester? I am currently in my first semester master of finance intake 2025 in the 3 semester program",
+      "text": "If you have any more questions or need help planning your semester, just let me know!"
+    },
+    {
+      "source_line": 197,
+      "user_text": "Which semester will i have the modules that correspond to the concentration i selected?",
+      "text": "If you need more details about your specific concentration, just let me know!"
+    },
+    {
+      "source_line": 191,
+      "user_text": "How can i print things in the library",
+      "text": "Hey <first_name>! Printing in the library is a breeze once you set up your login data for workstations."
+    },
+    {
+      "source_line": 189,
+      "user_text": "How can i print things in the library",
+      "text": "Need anything else?"
+    },
+    {
+      "source_line": 184,
+      "user_text": "ok but how do i send the documents that need to be printed to the printer",
+      "text": "Let me know if you need anything else!"
+    }
+  ],
+  "redirect": [
+    {
+      "source_line": 214,
+      "user_text": "Im doing my master in finance and i am enrolled in the 3 day model. Which three days of the week will i have classes?",
+      "text": "If you need more details on your specific schedule, you can check it out here: https://frankfurtschool.instructure.com/calendar#view_name=month&view_start=2024-09-01"
+    },
+    {
+      "source_line": 193,
+      "user_text": "What if i cant attend because im traveling on those dates?",
+      "text": "If you can't attend the review session due to travel, it's best to reach out to your Study Advisor, Ute Höne. \nThey might be able to provide guidance or alternative solutions for your situation. \nYou can contact them via email at u.hoene@fs.de or book an appointment here: https://outlook.office365.com/book/UteHne@fsggmbh.onmicrosoft.com/. Safe travels! ✈️"
+    },
+    {
+      "source_line": 180,
+      "user_text": "How can i load money onto my student ID",
+      "text": "You can top up your student ID by logging in here: https://payment.kost-marketplace.de with your email and password."
+    },
+    {
+      "source_line": 171,
+      "user_text": "How can I download my new public transport ticket",
+      "text": "Here's the link: https://abo.ride-ticketing.de/app/login?partnerId=ef72156d5d90e37bee91497daa09dbf4"
+    },
+    {
+      "source_line": 163,
+      "user_text": "I submitted a few appeals via the online exam review for my exato exams. I havent gotten any info about when i might get a reply and how the whole process works, or if anyone ia even processing my requests. Can you give me more info?",
+      "text": "You can reach them at u.hoene@fs.de or book an appointment here: https://outlook.office365.com/book/UteHne@fsggmbh.onmicrosoft.com/"
+    },
+    {
+      "source_line": 87,
+      "user_text": "How can I check who my study advisor is",
+      "text": "Booking link: https://outlook.office365.com/book/UteHne@fsggmbh.onmicrosoft.com/"
+    },
+    {
+      "source_line": 18,
+      "user_text": "What if i miss the registration period for the last official writing period",
+      "text": "So yes, this is the same deadline warning as before, just the last possible version of it. If you’re on a semester on leave, you need to contact your study advisor."
+    },
+    {
+      "source_line": 14,
+      "user_text": "So i will do an extra semester if i dont register?",
+      "text": "So the real issue is, you miss that window, you miss that period. If you’re on a semester on leave, you need to contact your study advisor."
+    }
+  ],
+  "info": [
+    {
+      "source_line": 211,
+      "user_text": "Do classes officially start on 25. Of august or 1. Of september",
+      "text": "Classes for the Master of Finance program officially start on August 25, 2025. \n Before that, there are Prep Courses from August 1 to August 23, 2025, followed by an Orientation Week from August 25 to August 30, 2025. \n Excited to kick off this academic adventure? 🚀"
+    },
+    {
+      "source_line": 207,
+      "user_text": "Am I supposed to birng guests to the opening ceremony? Or is it a student only event? Will i get more tickets for my guests as well?",
+      "text": "The Opening Ceremony is a special event primarily for new Master's students to kick off their academic journey at FS. Unfortunately, it's designed as a student-only event, so additional tickets for guests aren't available. But don't worry, there will be plenty of other opportunities throughout the year to bring guests and share your FS experience! 🎓🎉\n\nIf you have any more questions or need further details, feel free to ask! 😊"
+    },
+    {
+      "source_line": 205,
+      "user_text": "Is the student help desk open on saturdays?",
+      "text": "Yes, the Student Help Desk is open on Saturdays from 09:00 to 13:00.  \nFeel free to drop by if you need any assistance!"
+    },
+    {
+      "source_line": 195,
+      "user_text": "If i want to go to the review session for my exams from q1, do i have to be at uni in person or can i do it online as well?",
+      "text": "For exam review sessions, you'll need to be present in person at the university. \n Each exam can only be reviewed during its respective session, so make sure to mark your calendar! 🗓️ \n If you have any more questions or need assistance, feel free to ask!"
+    },
+    {
+      "source_line": 190,
+      "user_text": "How can i print things in the library",
+      "text": "Here's how: Log into Onlime Campus, select My Profile, then Login data workstation, and set a password of your choice. Save it, and you're ready to go!"
+    },
+    {
+      "source_line": 188,
+      "user_text": "How can i print things in the library",
+      "text": "Just lay your card on the card reader at one of the printers and enter your password. After that, printing will be as easy as pie! 🍰"
+    },
+    {
+      "source_line": 185,
+      "user_text": "ok but how do i send the documents that need to be printed to the printer",
+      "text": "Simply email your documents to mp@fs.de or mobileprinting@fs.de. Then head over to any printer on campus, swipe your student card on the card reader, select your print job, and choose \"print + delete\" or \"print all.\" Voilà, your document will start printing!"
+    },
+    {
+      "source_line": 182,
+      "user_text": "can i send mutliple emails or do i have to send all the files in one email",
+      "text": "You can send multiple emails if you like! 📧✨ \n Each email will queue up your documents for printing, so feel free to send them separately or all together. \n Just make sure you swipe your card and select the print jobs you want when you're at the printer. Happy printing!"
+    }
+  ],
+  "unclear": [
+    {
+      "source_line": 202,
+      "user_text": "When do classes start again in my second semester? I am currently in my first semester master of finance intake 2025 in the 3 semester program",
+      "text": "Get ready for some action-packed learning from January to May! 📚"
+    },
+    {
+      "source_line": 199,
+      "user_text": "Which semester will i have the modules that correspond to the concentration i selected?",
+      "text": "In your Master of Finance 3 Semester program, you'll dive into your concentration modules in the third semester."
+    },
+    {
+      "source_line": 198,
+      "user_text": "Which semester will i have the modules that correspond to the concentration i selected?",
+      "text": "That's when you'll get to focus on those specialized topics that really pique your interest! 📊"
+    },
+    {
+      "source_line": 186,
+      "user_text": "ok but how do i send the documents that need to be printed to the printer",
+      "text": "Ah, the magic of sending documents! 📄✨"
+    },
+    {
+      "source_line": 175,
+      "user_text": "which email and password should i use for payment.kost-marketplace",
+      "text": "For the password, use the one you set during registration for the payment portal."
+    },
+    {
+      "source_line": 162,
+      "user_text": "I submitted a few appeals via the online exam review for my exato exams. I havent gotten any info about when i might get a reply and how the whole process works, or if anyone ia even processing my requests. Can you give me more info?",
+      "text": "Remember, patience is key, but a little nudge never hurts!"
+    },
+    {
+      "source_line": 159,
+      "user_text": "Is the student help desk open right now?",
+      "text": "I recommend checking with them directly or visiting the FS website for more details."
+    },
+    {
+      "source_line": 158,
+      "user_text": "Is the student help desk open right now?",
+      "text": "If there's anything else I can assist you with, feel free to let me know! 😊"
+    }
+  ],
+  "unable": [
+    {
+      "source_line": 160,
+      "user_text": "Is the student help desk open right now?",
+      "text": "I'm not sure about the exact hours for the student help desk."
+    },
+    {
+      "source_line": 85,
+      "user_text": "Is she available now? What are the working hours like during the summer",
+      "text": "I can’t see live availability, so I can’t tell if *Ute* is free right now."
+    },
+    {
+      "source_line": 81,
+      "user_text": "I meant is she available to call right now",
+      "text": "I can’t check live call availability, so I can’t say if she’s on the phone right now."
+    },
+    {
+      "source_line": 78,
+      "user_text": "Can you give me the phone numbers of fu bochao or ivana kelava",
+      "text": "I don’t have phone numbers for Fu Bochao or Ivana Kelava in the info I can see."
+    },
+    {
+      "source_line": 74,
+      "user_text": "So you dont have a number for Bochao, Fu?",
+      "text": "No, I don’t have a phone number for Fu Bochao in the info I can see."
+    },
+    {
+      "source_line": 2,
+      "user_text": "can i not find it digitally?",
+      "text": "I can’t confirm a digital location for the *Studienvertrag* from the info I have."
+    },
+    {
+      "source_line": 586,
+      "user_text": "Gibt es den auch in CANVAS ?",
+      "text": "Das kann ich dir gerade nicht sicher bestätigen. Am zuverlässigsten ist dein *persönlicher Opening-Week-Plan*, da stehen die Zeiten, Räume und Sessions, die für dich gelten. Und ja, der kann sich je nach Programm und Raum noch ändern."
+    },
+    {
+      "source_line": 580,
+      "user_text": "Where ?",
+      "text": "I can’t see the location from here, the room or place for Monday is listed in your personal Opening Week schedule."
+    }
+  ],
+  "info_link": [
+    {
+      "source_line": 454,
+      "user_text": "Wie kann ich mich für die Opening Ceremony anmelden?",
+      "text": "You can register for the Opening Ceremony by following this link: https://app.frankie.frankfurt-school.de/OaQBluOTtL4poMoz?w=ow_bachelors. \n\nMake sure to sign up before the application deadline on August 25th, 2025. If you have any questions or need further assistance, feel free to reach out! 😊"
+    },
+    {
+      "source_line": 248,
+      "user_text": "",
+      "text": "*Campus Sorgenfrei Scholarship 2026 - Applications Are Open!*\n\nWith the Campus Sorgenfrei Scholarship 2026, you have the chance to receive *1,000 EUR* in financial support for your studies.\n\nThe best part: Your field of study and grade point average do not matter.\n\nApply now and enjoy a stress-free start to the 2026/27 winter semester.\n\nHere’s how to secure your chance for a worry-free study experience:\n- Register on Santander Open Academy\n- Complete the application form\n- Submit your application by 20 November 2026\n\nApply now: https://app.santanderopenacademy.com/de/program/campus-sorgenfrei-stipendium-2026-neue-ausgabe-neue-chancen?utm_source=crm_unis&utm_medium=email&utm_campaign=sorgenfrei_campus_2026_uni_mail"
+    },
+    {
+      "source_line": 245,
+      "user_text": "",
+      "text": "Hi <first_name>, here’s what’s coming up at FS next week:\n\n🇩🇪 *My German Success:* Hear firsthand from international FS alumni about launching a career in Germany, from finding internships and navigating the German job market to networking, German language skills and Career Services • Wed, 7 Oct • 18:00–19:45 • Online\n\n📊 *Ace your Data Science Job Interview:* Get practical tips on Data Science interview processes, elevator pitches, different interview questions and how to make a strong impression on recruiters • Thu, 8 Oct • 18:00–19:45 • FS Campus\n\n🚀 *FS Invest | How to Break into Finance:* Explore careers across M&A, Private Equity, Debt Capital Markets, Leveraged Finance and Investment Banking, with practical advice on choosing firms, applications and interview preparation • Sat, 10 Oct • 16:00–17:30 • Online\n\nLet me know if you’re interested!\n\nSee All Upcoming Events: https://frankie.frankfurt-school.de/events"
+    },
+    {
+      "source_line": 239,
+      "user_text": "",
+      "text": "Just dropping in with a quick heads-up 💌\n\nFrankfurt School Career Days 2026 is happening on Tuesday, November 3rd at 17:30h @ FS Campus, Ground Floor.\n\nYou’ll need to register to join, but it’s super easy. \n\nWant in? Tap below 👇\n\nRegister now: https://app.frankie.frankfurt-school.de/OaQBluOTtL4poMoz?f=events_management&journeyId=jz7FGlqf&flowType=invite&eventId=9a3168c0-d4ef-41d9-878a-6e14270c5e75"
+    },
+    {
+      "source_line": 235,
+      "user_text": "",
+      "text": "Have you heard? Career Services presents: Boost Your LinkedIn Profile is happening on Wednesday, October 28th at 08:30h @ online 🎉\n\nThought it might be something you’d like, sounds right up your alley.\n\nJust an FYI, seats are limited, so maybe grab one early! \n\nWhenever you’re ready… 👇\n\nBook my seat: https://app.frankie.frankfurt-school.de/OaQBluOTtL4poMoz?f=events_management&journeyId=IuByRAI6&flowType=invite&eventId=62775490-1a5c-457a-9e79-9666616ea9b1"
+    },
+    {
+      "source_line": 222,
+      "user_text": "",
+      "text": "Just dropping in with a quick heads-up 💌\n\nCareer Services Presents: Grow Your Professional Network is happening on Tuesday, November 3rd at 08:30h @ online.\n\nYou’ll need to register to join, but it’s super easy. \n\nWant in? Tap below 👇\n\nRegister now: https://app.frankie.frankfurt-school.de/OaQBluOTtL4poMoz?f=events_management&journeyId=ywtnZ4wm&flowType=invite&eventId=e7cff5af-f11e-442a-98f5-e516ca24a5a7"
+    },
+    {
+      "source_line": 464,
+      "user_text": "",
+      "text": "Hi <first_name>, here’s what’s coming up at FS next week:\n\n🇩🇪 *My German Success:* Hear firsthand from international FS alumni about launching a career in Germany, from finding internships and navigating the German job market to networking, German language skills and Career Services • Wed, 7 Oct • 18:00–19:45 • Online\n\n📊 *Ace your Data Science Job Interview:* Get practical tips on Data Science interview processes, elevator pitches, different interview questions and how to make a strong impression on recruiters • Thu, 8 Oct • 18:00–19:45 • FS Campus\n\n🚀 *FS Invest | How to Break into Finance:* Explore careers across M&A, Private Equity, Debt Capital Markets, Leveraged Finance and Investment Banking, with practical advice on choosing firms, applications and interview preparation • Sat, 10 Oct • 16:00–17:30 • Online\n\nLet me know if you’re interested!\n\nSee All Upcoming Events: https://frankie.frankfurt-school.de/events"
+    },
+    {
+      "source_line": 640,
+      "user_text": "",
+      "text": "We’ve got a new event alert going off 🪩\n\nCareer Services Presents: Build a Powerful CV is coming up on Thursday, September 24th at 08:30h @ online and I didn’t want you to miss out.\n\nYou’ll need to register to attend, so grab your spot while it’s open!\n\nGet things sorted below 👇\n\nSave my spot: https://app.frankie.frankfurt-school.de/UHsJhV6Oukc9DVrP?f=events_management&journeyId=7SUYaCkx&flowType=invite&eventId=25f9e322-ce22-4026-af78-2a487e551141"
+    }
+  ],
+  "service": [
+    {
+      "source_line": 345,
+      "user_text": "Was gibt es heute zu essen",
+      "text": "Hi! I’m currently in upgrade mode while my developers work on a few improvements. I’ll be back on March 23rd, even better. Thanks for your patience! 💙"
+    },
+    {
+      "source_line": 2552,
+      "user_text": "what are the hardest exams at FS?",
+      "text": "Hi! I’m currently in upgrade mode while my developers work on a few improvements. I’ll be back on March 23rd, even better. Thanks for your patience! 💙"
+    },
+    {
+      "source_line": 2550,
+      "user_text": "what are the hardest exams at FS?",
+      "text": "Hi! I’m currently in upgrade mode while my developers work on a few improvements. I’ll be back on March 23rd, even better. Thanks for your patience! 💙"
+    },
+    {
+      "source_line": 2548,
+      "user_text": "hi",
+      "text": "Hi! I’m currently in upgrade mode while my developers work on a few improvements. I’ll be back on March 23rd, even better. Thanks for your patience! 💙"
+    },
+    {
+      "source_line": 2821,
+      "user_text": "Was gibt’s zum Mittagessen",
+      "text": "Hi! I’m currently in upgrade mode while my developers work on a few improvements. I’ll be back on March 23rd, even better. Thanks for your patience! 💙"
+    },
+    {
+      "source_line": 2819,
+      "user_text": "But today ist March 23!!",
+      "text": "Hi! I’m currently in upgrade mode while my developers work on a few improvements. I’ll be back on March 23rd, even better. Thanks for your patience! 💙"
+    },
+    {
+      "source_line": 3367,
+      "user_text": "was gibts heute zu essen",
+      "text": "Hi! I’m currently in upgrade mode while my developers work on a few improvements. I’ll be back on March 23rd, even better. Thanks for your patience! 💙"
+    },
+    {
+      "source_line": 3365,
+      "user_text": "was gibts heute zum essen",
+      "text": "Hi! I’m currently in upgrade mode while my developers work on a few improvements. I’ll be back on March 23rd, even better. Thanks for your patience! 💙"
+    }
+  ],
+  "requested_link": [
+    {
+      "source_line": 559,
+      "user_text": "Sent me the Link for the Party on saturday",
+      "text": "https://www.eventbrite.de/e/stuco-x-gibson-tickets-1994767414033"
+    },
+    {
+      "source_line": 2015,
+      "user_text": "Wo kann ich mich anmelden dazu",
+      "text": "Am besten hier schauen: https://fs-sc.de/karriere"
+    },
+    {
+      "source_line": 2297,
+      "user_text": "where can i find my sbahn ticket",
+      "text": "https://abo.ride-ticketing.de/app/login?partnerId=ef72156d5d90e37bee91497daa09dbf4"
+    },
+    {
+      "source_line": 2293,
+      "user_text": "send me a link",
+      "text": "https://abo.ride-ticketing.de/app/login?partnerId=ef72156d5d90e37bee91497daa09dbf4"
+    },
+    {
+      "source_line": 2288,
+      "user_text": "can u send me the link for rmv ticket",
+      "text": "https://abo.ride-ticketing.de/app/login?partnerId=ef72156d5d90e37bee91497daa09dbf4"
+    },
+    {
+      "source_line": 2257,
+      "user_text": "send me the link to semester ticket",
+      "text": "https://abo.ride-ticketing.de/app/login?partnerId=ef72156d5d90e37bee91497daa09dbf4"
+    },
+    {
+      "source_line": 2901,
+      "user_text": "Wo finde ich meine Student id number",
+      "text": "Alternatively, it's also on your certificate of enrolment, which you can access online. Just head over to this link: https://campus.frankfurt-school.de/clicnetclm/campusLogin.do?language=de#!/#%2F and navigate to the \"Organize - Confirmation of enrolment\" section."
+    },
+    {
+      "source_line": 2757,
+      "user_text": "Wo finde ich den Link fürs Deutschland Ticket",
+      "text": "Hier ist der Link: https://abo.ride-ticketing.de/app/login?partnerId=ef72156d5d90e37bee91497daa09dbf4"
+    }
+  ],
+  "transaction": [
+    {
+      "source_line": 504,
+      "user_text": "Can u send QR code for the career days",
+      "text": "I can’t send a QR code from here. For the Career Days entry, your attendance for the Real Estate Career Day is already marked as joining, so there isn’t a separate QR I can pull up in this chat."
+    },
+    {
+      "source_line": 499,
+      "user_text": "Do we need an QR code for today ?",
+      "text": "I can’t confirm from here whether a QR code is required for entry today. You already have the QR I sent for the Real Estate Career Day, so use that if they ask for it at check-in."
+    },
+    {
+      "source_line": 683,
+      "user_text": "Am I in the Launch your Career Workshop ?",
+      "text": "No, you’re booked for *Study Smart: Ziele, Planung und Resilienz (DE)*, not Launch Your Career Workshop."
+    },
+    {
+      "source_line": 997,
+      "user_text": "Hi Frankie! Tell me more about the event \"Career Services Presents: Introduce Yourself with Confidence\"?",
+      "text": "Hey <first_name>, you’ve successfully reserved a spot for Career Services Presents: Build a Powerful CV! 🎉\n\n📍 Location: Online — Join here: https://us02web.zoom.us/j/81597270517?pwd=mgKtMxhqCY4meEmBO5sFJGT1CQXNT7.1#success\n🕓 Date & Time: Thursday, September 24th at 08:30h\n\nLet me know if you have any questions or need anything before the event. Happy to help! ✨"
+    },
+    {
+      "source_line": 988,
+      "user_text": "Okay please Register me",
+      "text": "Hey <first_name>, you’ve successfully reserved a spot for Career Services Presents: Introduce Yourself with Confidence! 🎉\n\n📍 Location: Online — Join here: https://us02web.zoom.us/j/82777247533?pwd=Tdt55PkqvPd0jbkzdT4MsbKgTCgWad.1\n🕓 Date & Time: Tuesday, October 27th at 08:30h\n\nLet me know if you have any questions or need anything before the event. Happy to help! ✨"
+    },
+    {
+      "source_line": 977,
+      "user_text": "yeah please tell me when is it and is it on campus or online? do I have to apply for it or just register?",
+      "text": "Hey Leonie, you’ve successfully booked a seat for Career Services presents: Ace your Consulting Job Interview! 🎉\n\n📍 Location: FS Campus, S0.03\n🕓 Date & Time: Tuesday, September 29th at 18:00h\n\nLet me know if you have any questions or need anything before the event. Happy to help! ✨"
+    },
+    {
+      "source_line": 910,
+      "user_text": "Stand out from the crowd",
+      "text": "Hey <first_name>, you’ve successfully reserved a spot for Career Services Presents: Stand out from the Crowd! 🎉\n\n📍 Location: Online — Join here: https://us02web.zoom.us/j/88646790551?pwd=tMfsVKINx5875eK3pN4Oox3kCkljSw.1\n🕓 Date & Time: Tuesday, October 6th at 08:30h\n\nLet me know if you have any questions or need anything before the event. Happy to help! ✨"
+    },
+    {
+      "source_line": 2987,
+      "user_text": "Which Workshops am I Registered for?",
+      "text": "To check which workshops you're registered for, you can log into Canvas and view your registration status there."
+    }
+  ],
+  "clarify": [
+    {
+      "source_line": 503,
+      "user_text": "Can u send QR code for the career days",
+      "text": "If you mean a different Career Days event, send me the exact event name."
+    },
+    {
+      "source_line": 1018,
+      "user_text": "Gibt es da ein Event für den elevator Patch",
+      "text": "Meinst du vielleicht den *Elevator Pitch*? Wenn ja, welches Event genau meinst du, dann such ich’s dir direkt raus."
+    },
+    {
+      "source_line": 1581,
+      "user_text": "Ich brauche den ablaufplan der ersti woche, wann welche events sind für die master studenten",
+      "text": "Schick mir einfach den *Einladungslink, den Timetable oder einen Screenshot* hier rein, dann geh ich dir direkt durch, *wann welches Event ist* und was für euch relevant ist."
+    },
+    {
+      "source_line": 4125,
+      "user_text": "And is there also a group for my own track?",
+      "text": "What do you mean by your track exactly, like *Track A/B*, a concentration, or something else? If you tell me that, I can check whether there’s a separate group for it. Right now I only have the general incoming Bachelor group on file."
+    },
+    {
+      "source_line": 5292,
+      "user_text": "When are the study advisors in today? If I go and ask them.",
+      "text": "If you want, send me your programme or the advisor name and I’ll help narrow down who to ask, otherwise the program office is the one that can confirm today’s schedule fastest."
+    },
+    {
+      "source_line": 5289,
+      "user_text": "My macroeconomics module.",
+      "text": "I still can’t confirm *today’s hours* from what I have, though. If you send me your exact programme, I can help you figure out which advisor route to use and who to check with."
+    },
+    {
+      "source_line": 6134,
+      "user_text": "Hello, please give me a list of all the events I have registered for.",
+      "text": "If you want, send me the event name or a screenshot of the confirmation email, and I’ll help you check that one properly."
+    },
+    {
+      "source_line": 6714,
+      "user_text": "Frankie was ist morgen für ein Event in der campus mall",
+      "text": "Ich kann gerade nicht sicher verifizieren, welches Event morgen in der Campus Mall ist. Paste mir bitte den genauen Text aus dem Schedule oder schick den Wortlaut der Campus-Mall-Zeile, dann sag ich dir sofort, was es ist."
+    }
+  ]
+}
