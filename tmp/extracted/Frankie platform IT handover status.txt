@@ -1,0 +1,51 @@
+Frankie platform
+
+Frankie is run on top of Mindsmiths platform, stand-alone product that has ISO 27001 certificate. You can find all related documentation on this link: Frankie platform ISO documentation
+There are 2 services that are custom-built for Frankie that should be migrated to FS:
+Custom CRM service - Holds the data about Frankie users (students, alumni, staff, and others), events, and user conversations with Frankie
+Bookstack - Service hosting Frankie's knowledge base documents
+GitHub account will be provided once set up. Estimates for delivering this are still being created.
+ 
+
+Custom CRM service
+ 
+Technical description:
+
+Custom CRM service is a Django application ( Python ) that implements the CRM functionalities to create and manage data, automate processes, and provide backend capabilities for the Frankie Dashboard ( Gabrijel defined it in the mail above ). It uses a PostgreSQL database as the core database for all the data and a Redis database for caching. Included is also a basic administration site that allows CRUD operations for easy management.
+
+
+Stack:
+Stack: 
+- Python == 3.10
+- Django == 5.1.4
+- PostgreSQL == 14.5.0
+- Redis == 7.2.3
+3. Libraries:
+annotated-types==0.7.0 anyio==4.9.0 arrow==1.3.0 asgiref==3.8.1 asttokens==3.0.0 async-timeout==5.0.1 azure-core==1.34.0 azure-storage-blob==12.14.1 beautifulsoup4==4.12.3 binaryornot==0.4.4 boto3==1.26.165 botocore==1.29.165 business-data-analyst-api==6.4.3 cachetools==5.5.2 cecs==5.1.1 certifi==2025.6.15 cffi==1.17.1 chardet==5.2.0 charset-normalizer==3.4.2 chronos-api==6.1.0 click==8.1.8 cookiecutter==2.6.0 croniter==6.0.0 cryptography==45.0.4 decorator==5.2.1 Deprecated==1.2.18 distro==1.9.0 Django==5.1.4 django-admin-extra-buttons==1.5.8 django-cors-headers==4.7.0 django-jet-reboot==1.3.10 django-ninja==1.3.0 dnspython==2.7.0 email-adapter-api==6.1.0 environs==9.5.0 exceptiongroup==1.3.0 executing==2.2.0 fakeredis==2.30.1 fastapi==0.115.14 forge-cli==6.2.0 forge-sdk==6.3.3 forge-storage==1.1.5 google-api-core==2.25.1 google-api-python-client==2.174.0 google-auth==2.40.3 google-auth-httplib2==0.2.0 googleapis-common-protos==1.70.0 gunicorn==21.2.0 h11==0.16.0 honcho-forge==1.0.6 httpcore==1.0.9 httplib2==0.22.0 httpx==0.28.1 idna==3.10 infobip-adapter-api==6.2.1 iniconfig==2.1.0 ipython==8.37.0 isodate==0.7.2 jedi==0.19.2 Jinja2==3.1.6 jiter==0.10.0 jmespath==1.0.1 markdown-it-py==3.0.0 MarkupSafe==3.0.2 marshmallow==3.26.1 matplotlib-inline==0.1.7 mdurl==0.1.2 mongomock==4.3.0 motor==3.7.1 msrest==0.7.1 oauthlib==3.3.1 openai==1.93.0 openai-adapter-api==6.1.4 packaging==25.0 parso==0.8.4 pdfkit==1.0.0 pexpect==4.9.0 pid==3.0.4 pillow==10.4.0 pluggy==1.6.0 prometheus_client==0.22.1 prompt_toolkit==3.0.51 proto-plus==1.26.1 protobuf==6.31.1 psycopg2-binary==2.9.10 ptyprocess==0.7.0 pulsar-client==3.7.0 pure_eval==0.2.3 pyasn1==0.6.1 pyasn1_modules==0.4.2 pycparser==2.22 pydantic==2.11.7 pydantic_core==2.33.2 Pygments==2.19.2 pymongo==4.13.2 pyparsing==3.2.3 pytest==8.4.1 python-dateutil==2.9.0.post0 python-dotenv==1.1.1 python-slugify==8.0.4 pytz==2025.2 PyYAML==6.0.2 redis==5.0.8 relation-manager-api==6.6.0 requests==2.32.4 requests-oauthlib==2.0.0 rich==14.0.0 rsa==4.9.1 ruamel.yaml==0.18.14 ruamel.yaml.clib==0.2.12 ruamel.yaml.jinja2==0.2.7 rule-engine-api==6.4.4 s3transfer==0.6.2 sentinels==1.0.0 sentry-sdk==2.32.0 six==1.17.0 sniffio==1.3.1 sortedcontainers==2.4.0 soupsieve==2.7 sqlparse==0.5.3 stack-data==0.6.3 starlette==0.46.2 text-unidecode==1.3 tomli==2.2.1 tqdm==4.67.1 traitlets==5.14.3 types-python-dateutil==2.9.0.20250516 typing-inspection==0.4.1 typing_extensions==4.14.0 uritemplate==4.2.0 urllib3==1.26.20 uvicorn==0.34.3 watchdog==4.0.2 wcwidth==0.2.13 wrapt==1.17.2 xxhash==3.5.0
+
+Build and Deployment
+
+The application is built using Mindsmiths platform CI into a Dockerfile that is hosted on Azure Container Registry. Application builds and delivery are versioned following semantic versioning.
+ 
+ 
+
+Bookstack
+
+Description:
+
+BookStack is a simple, self-hosted, easy-to-use platform for organising and storing information. It provides a gold standard for Frankie's knowledge base. This is an open-source project used by many in production. Check more here: https://www.bookstackapp.com/ The application uses MariaDB as the main and only database.
+
+Stack:
+
+bookstack == 24.05.4 MariaDB == 20.1.1
+
+Build and Deployment
+
+We deploy BookStack using the Helm chart https://charts.gabe565.com/charts/bookstack/ . There are many other official options on how to install and deploy it: https://www.bookstackapp.com/docs/admin/installation/#docker
+
+Server requirements:
+
+vCPU: minimum 2, recommended 4
+Memory: minimum 8 GB, recommended 16 GB
+CPU Architecture: Intel Xeon or better
+

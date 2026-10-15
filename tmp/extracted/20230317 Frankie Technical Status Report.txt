@@ -1,0 +1,265 @@
+
+--- PAGE 1 ---
+
+Frankie: Technical Status Report
+Authors: Dr. Dominic Henze, Dr. Stefan Nosović, Ivana Palaić
+Executive Summary
+Frankie Implementation - all of the features deﬁned in the roadmap have been implemented and are used 
+for organising the events. The roadmap contains a vague description of the features, increasing the risks of 
+misunderstandings. 
+Mindsmiths Forge - used for implementing Frankie. It focuses on the ease of scaling the the number of 
+users, while sacriﬁcing the speed and ease of development. The platform is not suﬃciently documented to 
+enable the developers to use it independently from the Mindsmiths’ developers.
+Risks - only the developers from Mindsmiths know how to use the Forge platform. As long as Frankie is 
+using Forge, a close collaboration with Mindsmiths is necessary. Replacing Forge means completely 
+reimplementing Frankie. 
+Overview
+The Frankfurt School request Serapion to conduct a technical assessment of the implementation of Frankie. 
+The assessment of Frankie was conducted during a ﬁve day workshop in Zagreb, from March 6th to 10th 
+2023. This technical report contains the ﬁndings and the opinions on the status of the software 
+implementation of Frankie, that were formed during this timespan.
+The implementation of Frankie was guided by the roadmaps that were de ﬁned collaboratively between 
+Mindsmiths and Frankfurt School (Ružica Pekić) during the course of the project. Based on the short 
+description of the features that were deﬁned in the roadmap, the evaluation of the expected deliverables 
+was conducted. The existing implementation of Frankie delivers all of the aforementioned features which 
+are used for inviting students based on their interests in the topics covered by the events.
+The rapid prototyping approach to the development of Frankie led to the tradeoﬀs that resulted in low code 
+quality, making further development ever more diﬃcult. The development of further features could be sped 
+up by refactoring and upgrading to the newest version of Mindsmiths Forge.
+The technical documentation of Frankie is in good condition and addresses the most important aspects. 
+Nevertheless, the documentation needs to be updated in several places to reﬂect recent changes in terms 
+of modelling as well as infrastructure deployment. 
+Implementing Frankie using Mindsmiths Forge, a platform created and maintained by a startup, includes 
+several potential risks. The complexity introduced by the platform is currently not bene ﬁcial for the 
+eﬃciency of Frankie development. Additionally, the current state of development and documentation of the 
+Mindsmiths Forge platform makes Mindsmiths the only company that has the necessary knowledge to 
+eﬃciently use and operate it. 
+Adding new developers that are not related to the Mindsmiths will lead to considerable additional costs 
+required for onboarding them onto the platform. Furthermore, the further development of Frankie using 
+Forge will always require a close collaboration with Mindsmiths.
+1
+
+--- PAGE 2 ---
+
+Frankie Implementation
+Frankie is developed using Mindsmiths’ platform called Mindsmiths Forge which is licensed based on the 
+Platform License Agreement between Frankfurt School of Finance and Management GmbH, Ružica Pekić, 
+and Mindsmiths d.o.o. signed on March 7th 2022. 
+Mindsmiths Forge is a development platform for creating, evolving, and running autonomous agents that 
+support individuals based on their role within the project scope. This multi-agent platform provides a cloud 
+solution making it highly available and scalable. The core components of Mindsmiths Forge are Mindsmiths’ 
+custom developed Rule Engine, three data stores (Mongo, Postgres, Redis), the custom developed 
+component called Armory, Pulsar, a custom developed Dashboard and the custom developed component 
+called Mitems. While the Rule Engine is evaluating the rules that represent the business logic, business ﬂow 
+as well as the screens that are displayed, the data stores persist temporary data (Signals) as well as 
+persistent data (Facts). The Armory contains user facing components deciding what needs to be displayed 
+and Mitems maps the actual content created on the Dashboard on the components and templates in 
+Armory. Finally, Pulsar is a messaging and streaming framework that connects all the described 
+components. This infrastructure is deployed on Microsoft Azure and uses Kubernetes for infrastructure 
+management.
+The adaptation of the platform to implement the use case of Frankie is created by Mindsmiths employees 
+based on a the Contract Of Work between Frankfurt School of Finance and Management GmbH, Ružica 
+Pekić, and Mindsmiths d.o.o. signed on March 7th 2022.
+The development followed an agile approach based on sprints. In that setting, Ružica Pekić acted as the 
+customer, whereas Mindsmiths d.o.o. provided the product owner as well as the development team. The 
+initial backlog was deﬁned in the aforementioned Contract Of Work and was later replaced by a roadmap, 
+which was adjusted based on mutual consent among the contract partners. The goals of the sprints were 
+deﬁned based on the presented opportunities at the start of each sprint. The rapid prototyping approach, 
+supported by all parties, led to a focus on functionality with a reduced focus on code quality and 
+documentation. To track the progress in the project, Frankie Progress Report documents were created to 
+summarize the progress made after each sprint. Nevertheless, these documents do not cover the reasoning 
+and decision making that was done in the project, which would be beneﬁcial for future activities.
+Roadmap vs. Current Status
+The development tasks handed over to the development team were underspeciﬁed. This can be attributed 
+to the fact that the roadmap was used as a development planning tool while missing further speciﬁcations. 
+In this context, the only possible comparison between what was planned and the as-is status is the 
+comparison between the roadmap and the artefacts that were delivered. The following table summarizes 
+the artefacts created during each phase of the roadmap. The documents referred to in the table can be 
+found in Frankie’s google drive.
+1
+Roadmap Requested Delivered Artifacts
+Deﬁnition
+•Deﬁne target 
+population
+•Target populations deﬁnitions (e.g. 3_FSFM phase 1 
+report_december 2021.pdf)
+•Deﬁne event types •Event types deﬁnitions and modeling (see Frankie 
+Technical Documentation)
+•Deﬁne data sources •Evaluation of datasources: Canvas, Full Fabric and CLM
+ This Google Drive is owned by Mindsmiths. For access to this or any other referenced resources, please contact Ružica Pekić.1
+2
+
+--- PAGE 3 ---
+
+•Deﬁne 
+communication 
+channels
+•Setup of communication channels
+Prototype
+•Platform setup •Mindsmiths Forge setup for Frankie (see Frankie 
+Infrastructure Documentation)
+•FS email integration •Feature: Email integration with Frankfurt School
+•Event model •Deﬁnition and implementation of event model (see 
+Frankie Technical Documentation: 2.2.1 Event content 
+management)
+◦Feature: Event model
+•Organizer model •Deﬁnition and implementation of organizer model (see 
+Frankie Technical Documentation: 2.2.4 Organizer)
+◦Feature: Organizer model
+•Attendee model •Deﬁnition and Implementation of attendee model (see 
+Frankie Technical Documentation: 2.2.5 & 2.2.6 Attendee 
+types & statistics)
+◦Feature: Attendee model
+•Data import •Data import of initial users
+•Basic matchup •Feature: Matchup mechanism using event tags and 
+invitee’s interests
+•See Frankie Technical Documentation: 2.4.3 Basic 
+matching algorithm
+•Invitation ﬂow •Deﬁnition and implementation of invitation ﬂow (see 
+Frankie Technical Documentation: 2.2.7 Event invite, 2.7 
+Invitation ﬂow breakdown)
+◦Feature: Invitation ﬂow for attendees
+•Feedback ﬂow •Deﬁnition and implementation of feedback ﬂow (see 
+Frankie Technical Documentation: 2.2.8 Event feedback)
+◦Feature: Feedback ﬂow for attendees
+•Admin interface •Feature: Dashboard
+◦Feature: Admin interface (see Dashboard)
+◦see Frankie Technical Documentation: 2.2.10 
+Admin dashboard
+•Testing and  bug 
+ﬁxing
+•Not trackable
+•Prototype release •Released prototype
+•Branding •Creation of design suggestions (created by Sawraft)
+3
+
+--- PAGE 4 ---
+
+Beta v1.0
+•Design elements •Creation of design elements based on selected design 
+(created by Sawraft)
+•UI elements •Translation and implementation of design into UI 
+elements
+•Canvas integration •Feature: Canvas Integration
+◦Code for Canvas integration is available, but 
+was later dropped since Canvas was not 
+ready to be used
+•Attendee onboarding •Attendee onboarding (see Frankie Technical 
+Documentation: 2.3 Onboarding)
+•Feature Onboarding ﬂow
+•Feature: Shadow onboarding
+•Organizer 
+onboarding
+•Organizer onboarding (see Frankie - Guidelines for Event 
+Organizers)
+•Event creation ﬂow •Deﬁnition of event creation ﬂow (see Frankie Technical 
+Documentation: 2.6 Event creation, Frankie User 
+Journey)
+•Feature: Event creation via dashboard
+•Feedback ﬂow •Deﬁnition of feedback ﬂow (see Frankie Technical 
+Documentation: 2.2.8 Event feedback, Frankie User 
+Journey)
+•Feature: Email and feedback collection after events
+•Testing and bug 
+ﬁxing
+•Not trackable
+•Beta v1.0 release •Released Beta v1.0
+Beta v1.1
+•Additional reminders •Feature: Sending additional event reminders
+•Ad hoc messages •Feature: Sending ad-hoc messages to invitees
+•Attendee model v2 •Updated attendee model (see Frankie Technical 
+Documentation)
+•Analytics 1.1 •Deﬁnition of analytics (Number of value creating 
+moments, Number of Events, Attendance per Event, 
+Attendee satisfaction)
+◦Feature: Tracking email openings
+◦Feature: Monitoring events for organizers
+•Cloud sheet as a 
+new CRM
+•Google sheet as a pseudo CRM (see Frankie CRM)
+•see Frankie Technical Documentation: 2.5 Google Sheets 
+integration
+4
+
+--- PAGE 5 ---
+
+•Data migration •Feature: Integration of the google sheet as the source of 
+truth
+•Testing and bug 
+ﬁxing
+•Released Beta v1.1
+•Beta v1.1 release •Not trackable
+Beta v1.2
+•User interests 
+deﬁnition
+•Deﬁnition of selectable interests
+•Onboarding ﬂow •Updated onboarding ﬂow based on new landing page
+•New email and 
+domain
+•Integration of new Frankie email and domain
+•Cloud sheet CRM 
+1.2
+•New Frankie CRM google sheet (without students 
+courses and semesters, new tags)
+•Signup ﬂow •Onboarding / Signup ﬂow (see Frankie Technical 
+Documentation: 2.3 Onboarding & 2.7 Invitation ﬂow 
+breakdown)
+◦Feature: Information of signed up people can 
+be updated using the onboarding ﬂow
+•Who is Frankie 
+content v1
+•Who is Frankie description (see Who is Frankie)
+•Simple landing page 
+v1
+•Feature: Landing page
+•Referral invitation 
+ﬂow
+•Deﬁnition of referral invitation ﬂow (Dropped due to 
+landing page)
+Beta v1.3
+•Tickets system 
+architecture
+•Deﬁnition of ticket architecture and ﬂow (see Frankie 
+Technical Documentation: 2.13 Ticketing system)
+•Tickets prototype •Feature: Ticketing system
+•Feature: QR code scanner
+•Attendance analytics •Feature: Analytics of attendance
+•Testing and bug 
+ﬁxing
+•Not trackable
+5
+
+--- PAGE 6 ---
+
+Risks
+Although the requested features have been implemented and functional, several risks were identiﬁed in the 
+current project setting; some of which are connected to the current project structure and some related to 
+the technical development. 
+The ﬁrst set of risks is related to the planning, execution and reviews of sprints. While Frankie Progress 
+Reports represent, to some degree, a review process, an actual review meeting for achieved results is 
+missing. This may lead to a misunderstanding of requested vs created artefacts within the Frankie team.
+In a similar context, the planning of sprints was based on the presented opportunities and needs, which 
+would ﬁnd their way into the roadmap. This roadmap only names tasks that need to be done until the next 
+release, without a description, clariﬁcation of their content, acceptance criteria, priorities and without having 
+sprint scopes in mind. Therefore, it is impossible to evaluate if the created features match the expectations 
+of the project lead. 
+Third, due to a limited visibility of the necessary development tasks, it is hard for anyone except the 
+developers themselves to track progress. This prevents the project lead from adjusting the capacity of the 
+team based on the progress speed. Furthermore, the lack of the visibility of the development tasks leads to 
+misunderstandings about the speed of development progress. 
+ 
+The second set of risks is related to the technical implementation and in particular the Mindsmiths Forge 
+platform. 
+First, the platform is very ﬂexible, powerful and can implement a huge variety of use cases. Consequently, 
+the platform introduces a layer of complexity that gives it the aforementioned capabilities.  Given the current 
+features of Frankie, this complexity is not beneﬁcial. This results in two issues: On the one hand, new 
+features, that the platform was not inherently designed for, take more time to implement. 
+Second, due to a lack of documentation of the platform, its complexity makes it very diﬃcult for developers 
+from outside of Mindsmiths to be onboarded to the platform and take over development tasks. 
+Furthermore, in case the developers from Mindsmiths become unavailable and new developers have to take 
+over the project, new components can only be deployed in close collaboration with Mindsmiths. This can 
+result in a development bottleneck and lock the platform vendor within Frankie.
+Third, the current status of Frankie’s development is tightly coupled to the Mindsmiths Forge. If the decision 
+is made to transition the current prototype to a product without using the platform, the software solution 
+needs to be recreated from scratch.
+6

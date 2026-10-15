@@ -1,0 +1,167 @@
+
+
+
+
+
+
+Framework for
+Migrating External Projects into the FS IT Ecosystem
+
+Version 1.0
+18.06.2025
+
+
+
+
+
+
+
+Peter STEIN
+İlker TOKGÖZ
+
+Table of Contents
+Scope Clarification3
+Objective3
+1. Process Phases3
+1.1. Initial Planning & Assessment3
+1.2. Environment Setup3
+1.3. Migration Execution4
+1.4. Testing & Validation4
+1.5. Documentation & Communication4
+2. Migration & Alignment Checklist4
+3. Deliverables5
+4. Roles & Responsibilities6
+5. Success Criteria7
+
+
+Scope Clarification
+The following outline describes the full process for migration and alignment with FS IT standards and policies. If a specific project is already using one or more of the standard FS tools and systems listed below, the corresponding steps may be skipped.
+Objective
+The purpose of this process is to migrate all relevant project artefacts, including license contracts, passwords, source code, infrastructure, documentation, and UI/UX design files, from external or partner-controlled systems into Frankfurt School’s official IT infrastructure. This ensures alignment with FS standards regarding security, governance, scalability, and sustainability, and enables long-term operational control by the internal IT organisation.
+1. Process Phases
+1.1. Initial Planning & Assessment
+Ensure all legal checks have been completed and approved before proceeding.
+Make sure that the development followed FS’s development guidelines.
+Inventory all current environments and tools used by the implementation partner.
+Identify FS-standard equivalents:
+FS GitHub – Source code and version control
+FS Owned Servers – Hosting for staging and production environments
+Atlassian JIRA – Task and sprint tracking
+Atlassian Confluence – Documentation of technical, functional, and operational details
+Microsoft Teams – Communication and documentation sharing
+Figma – UI/UX design artefacts, wireframes, and components
+Coordinate with FS IT teams (Infrastructure, DevOps, Security), and FS UX/UI team for access and planning.
+Define system requirements (compute, storage, domain, security, DB) and expected timeline.
+1.2. Environment Setup
+Create FS GitHub repository with appropriate branch structure and access permissions.
+Provision FS-managed environments, with clearly defined staging and production instances.
+Set up CI/CD pipelines aligned with FS standards.
+Configure the dedicated JIRA project board and Confluence space.
+Create or link the project within the FS Figma workspace, and assign proper user permissions.
+1.3. Migration Execution
+Migrate:
+Source code and configuration files into FS GitHub (related FS teams should be trained by the implementation partner)
+Containers, environment variables, and databases to FS infrastructure (related FS teams should be trained by the implementation partner)
+All Figma files, including wireframes, components, and visual designs, to the FS Figma workspace
+Reconfigure environment-specific settings such as API keys, OAuth credentials, and secrets.
+Update any hardcoded links, paths, or references to partner environments.
+Deploy initial staging version to FS-managed infrastructure.
+1.4. Testing & Validation
+Deploy the application in the staging environment for testing and stakeholder review.
+Conduct:
+Smoke tests
+Functional testing
+API and database connectivity testing
+If applicable, provide:
+A SonarQube report confirming no critical or major code issues
+An OWASP ZAP report confirming no critical security vulnerabilities
+If required, FS Security team may perform additional penetration testing or code review.
+1.5. Documentation & Communication
+Document the following in the FS Confluence space:
+Technical documentation (system architecture, deployment process, CI/CD pipelines)
+Functional documentation (business logic, roles, key workflows)
+User guides and interface manuals
+Track progress, tasks, and assignments transparently through JIRA.
+Share documentation, meeting notes, and guides via MS Teams.
+Conduct onboarding or walkthrough sessions with FS internal teams to ensure a smooth transition.
+2. Migration & Alignment Checklist
+Planning
+Project tool and environment inventory completed
+Mapping to FS-standard systems confirmed
+FS contacts identified and aligned (Infrastructure, DevOps, Security, UX)
+JIRA project board and MS Teams channel created
+Figma workspace structure and access confirmed
+Setup
+GitHub repository created with correct branching strategy and access control
+Staging and production environments provisioned
+CI/CD pipelines established using FS-compliant practices
+Confluence space created for all documentation types
+Figma project migrated into FS Figma environment
+Migration
+Codebase migrated and tested
+Database dumps imported, environment variables updated
+Secrets, tokens, API keys secured and reconfigured
+All design artefacts transferred to FS Figma workspace
+Partner environment dependencies removed or replaced
+Testing & Validation
+Staging deployment completed
+Smoke and integration tests are successful
+QA results reviewed
+(If applicable) SonarQube report confirms no critical/major issues
+(If applicable) OWASP ZAP report confirms no critical security vulnerabilities
+FS Security review completed if required
+Documentation
+Technical documentation uploaded to Confluence
+Functional documentation and process flows are documented
+End-user manuals and how-to guides created
+JIRA board reflects current task ownership and status
+MS Teams used for knowledge sharing and updates
+3. Deliverables
+Deliverable
+Description
+GitHub Repository
+All code managed under FS GitHub with version control and access rights in place
+Server Environments
+FS-managed hosting with secure access and resource allocation
+CI/CD Pipeline Documentation
+Automated deployment procedures and rollback strategy
+Figma Project
+UI/UX design components and wireframes under FS control
+Confluence Space
+Technical, functional, and end-user documentation
+JIRA Board
+Tasks, epics, and sprints are documented and traceable
+Security & Code Quality Reports
+SonarQube and OWASP ZAP reports (if applicable)
+Onboarding Recordings
+Meeting minutes, walkthroughs, and demos stored in Teams or Confluence
+
+4. Roles & Responsibilities
+The roles and responsibilities for this process are distributed as follows:
+Frankfurt School Teams
+Ensure the availability and provisioning of all required infrastructure components, including:
+FS GitHub repositories
+Server environments
+JIRA and Confluence spaces
+FS Figma workspace
+Grant necessary access permissions to internal and external stakeholders according to FS IT governance policies.
+Provide support and clarification throughout the process on FS standards, tooling, and security protocols.
+At the final stage, review and validate the entire setup to ensure that all migrations and integrations fully comply with FS IT standards, policies, and operational expectations.
+Implementation Partner
+Responsible for carrying out all migration and alignment activities in accordance with this documentation, including:
+Migrating source code and infrastructure configurations
+Rebuilding CI/CD pipelines in FS systems
+Transferring all UI/UX design artefacts into the FS Figma space
+Ensuring the integrity and continuity of staging/production environments post-migration
+Preparing necessary documentation and quality reports (e.g., SonarQube, OWASP ZAP)
+Collaborate closely with FS teams and remain fully accountable for delivering a fully operational, compliant and well-documented solution in the FS ecosystem.
+5. Success Criteria
+All source code and environments are migrated to FS-managed systems.
+Development continues in FS GitHub exclusively.
+Staging and production environments are fully operational on the FS infrastructure.
+All Figma design materials are stored and maintained in the FS Figma space.
+Technical, functional, and end-user documentation is complete and accessible via Confluence.
+CI/CD pipelines are running in the FS infrastructure with traceable deployments.
+JIRA is actively used for planning and tracking, and MS Teams is the primary communication channel.
+FS IT has full visibility and operational control over the system.
+No critical or major issues remain in code or infrastructure, as confirmed by security and quality reports.

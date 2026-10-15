@@ -1,0 +1,234 @@
+{
+  "total": 93987,
+  "rows": [
+    {
+      "category": "Other question or explicit request",
+      "messages": 49121,
+      "users": 3365,
+      "examples": [
+        "Hi Frankie! What events are coming up?",
+        "Hi Frankie! Tell me more about the event \"2. Frankfurt School Real Estate Career Day 2026\"?",
+        "Hi Frankie! Tell me more about the event \"Community Life Fair Winter Semester 2026/2027\"?"
+      ]
+    },
+    {
+      "category": "Other statements / follow-ups / unclear intent",
+      "messages": 25847,
+      "users": 2899,
+      "examples": [
+        "<matrikelnumber>",
+        "[link]",
+        "See events"
+      ]
+    },
+    {
+      "category": "Lunch / food question or request",
+      "messages": 9239,
+      "users": 1189,
+      "examples": [
+        "Was gibt es heute zu essen",
+        "Menu today",
+        "What’s for lunch"
+      ]
+    },
+    {
+      "category": "Greetings",
+      "messages": 4043,
+      "users": 2658,
+      "examples": [
+        "Hi, Frankie!",
+        "Hi Frankie",
+        "Hi"
+      ]
+    },
+    {
+      "category": "Yes / affirmative short reply",
+      "messages": 1588,
+      "users": 1030,
+      "examples": [
+        "Sure",
+        "Yes",
+        "Ja"
+      ]
+    },
+    {
+      "category": "Media / reactions / non-text",
+      "messages": 1318,
+      "users": 689,
+      "examples": [
+        "",
+        "Opening+Week+2026+Bachelor+2.0.pdf",
+        "Opening Week 2026 Bachelor 2.0-1.pdf"
+      ]
+    },
+    {
+      "category": "Thanks / appreciation",
+      "messages": 829,
+      "users": 476,
+      "examples": [
+        "Thanks",
+        "Thank you",
+        "Danke"
+      ]
+    },
+    {
+      "category": "Blank / punctuation / numeric reply",
+      "messages": 787,
+      "users": 546,
+      "examples": [
+        "?",
+        ".",
+        "??"
+      ]
+    },
+    {
+      "category": "OK / other short acknowledgement",
+      "messages": 441,
+      "users": 294,
+      "examples": [
+        "Ok",
+        "Okay",
+        "Both"
+      ]
+    },
+    {
+      "category": "No / negative short reply",
+      "messages": 352,
+      "users": 303,
+      "examples": [
+        "Nope, thanks",
+        "No",
+        "No, thanks"
+      ]
+    },
+    {
+      "category": "Reset / start command",
+      "messages": 304,
+      "users": 16,
+      "examples": [
+        "reset",
+        "Reset",
+        "Start"
+      ]
+    },
+    {
+      "category": "Explicit unsubscribe / stop notifications",
+      "messages": 89,
+      "users": 66,
+      "examples": [
+        "Stop texting me",
+        "Stop sending me the menu",
+        "Stop messaging me"
+      ]
+    },
+    {
+      "category": "Standalone STOP (scope unclear)",
+      "messages": 29,
+      "users": 17,
+      "examples": [
+        "Stop",
+        "stop!!!!",
+        "stop"
+      ]
+    }
+  ],
+  "other_questions": [
+    {
+      "topic": "Other / context-dependent text",
+      "messages": 23859,
+      "users": 2915
+    },
+    {
+      "topic": "Events / clubs / networking",
+      "messages": 8357,
+      "users": 2215
+    },
+    {
+      "topic": "Registration / tickets / attendance",
+      "messages": 3492,
+      "users": 1578
+    },
+    {
+      "topic": "Timetables / classes / courses",
+      "messages": 3067,
+      "users": 1335
+    },
+    {
+      "topic": "Opening Week / onboarding",
+      "messages": 2546,
+      "users": 1231
+    },
+    {
+      "topic": "Exams / grades / assignments",
+      "messages": 2069,
+      "users": 775
+    },
+    {
+      "topic": "Campus / facilities / transport",
+      "messages": 1765,
+      "users": 967
+    },
+    {
+      "topic": "IT / Canvas / accounts",
+      "messages": 1315,
+      "users": 718
+    },
+    {
+      "topic": "Documents / student ID / administration",
+      "messages": 888,
+      "users": 605
+    },
+    {
+      "topic": "Careers / jobs / internships",
+      "messages": 674,
+      "users": 425
+    },
+    {
+      "topic": "Study advisors / staff contacts",
+      "messages": 547,
+      "users": 383
+    },
+    {
+      "topic": "Fees / scholarships / funding",
+      "messages": 223,
+      "users": 152
+    },
+    {
+      "topic": "Assistant capabilities / technical feedback",
+      "messages": 170,
+      "users": 144
+    },
+    {
+      "topic": "Notification preferences / opt-out",
+      "messages": 69,
+      "users": 60
+    },
+    {
+      "topic": "Housing / visas / relocation",
+      "messages": 57,
+      "users": 43
+    },
+    {
+      "topic": "Wellbeing / personal support",
+      "messages": 22,
+      "users": 18
+    },
+    {
+      "topic": "Short replies / acknowledgements",
+      "messages": 1,
+      "users": 1
+    }
+  ],
+  "optouts": [
+    {
+      "scope": "Lunch/menu notifications",
+      "messages": 35,
+      "users": 27
+    },
+    {
+      "scope": "Other / general notifications",
+      "messages": 54,
+      "users": 42
+    }
+  ]
+}

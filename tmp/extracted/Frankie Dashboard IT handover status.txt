@@ -1,0 +1,67 @@
+Frankie dashboard
+
+Based on the document  Framework for Migrating External Projects into FS IT Ecosystem_v1.0 analysis was performed by Sawraft team.  
+As a result, initial overview of current project environment and tools including project technical description were prepared which can be found in this document. For further development we would require following from FS: 
+FS’s development guidelines
+What are FS’s development guidelines? Can we get this document shared with us?
+FS Github repo for the dashboard project
+Can you provide information about this so Frankie dashboard Github account is added?
+Information on CI/CD requirements
+Document mentions a "SonarQube report confirming no critical or major code issues". There is currently no automatic CI/CD setup for the dashboard. Is it a requirement to set up with a CI/CD, or is it a one time thing?
+If it should be set up - there is also a mention of "CI/CD pipelines established using FS-compliant practices". This will be covered by the development guidelines?
+
+
+
+
+Current project environment and tools, and project technical description:
+
+The Frankie Dashboard is a statically served single page Javascript web application. It does not serve the backend, serving only static HTML, JS, CSS, and any assets used by the site, like images, fonts, etc.
+
+Backend functionality is enabled by using the Frankie CRM's API, which is hosted and managed on a different stack - managed by Mindsmiths.
+ 
+The application is based on the create-react-app single page React app with Redux for state management.
+ 
+Libraries include:
+antd - library of UI components
+antd-img-crop - for use to crop images used in event organization
+ant-design/charts - for all charts used in analytics and insights
+dnd-kit - drag and drop functionality for the ticketing system
+fullcalendar - for the calendars in event organization - public facing and internal
+color-hash - to generate colors for the ticketing system
+date-fns - functions to help with date/time calculations
+dayjs - another library for date/time calculations, used as antd has a dependency
+framer-motion - used for animating parts of the page as they load
+react - the base UI library
+react-dom - react for the web library
+react-router-dom - routing solution library
+reduxjs/toolkit - state management library
+redux-persist - used to persist state during reloads, or consequent visits using localStorage
+react-cookie-consent - for the cookie banner
+react-ga4 - integration with google analytics
+react-quill - quill WYSIWYG editor, for forms
+react-scripts - library that is applied due to use of create-react-app
+web-vitals - development library to check issues during dev, from create-react-app
+ 
+Other tools used in development:
+Visual studio code IDE with:
+Prettier - code prettifier
+ESLint - linter for JS
+Github for version control
+ 
+The Frankie Dashboard is hosted on FS managed AWS. The exact details of the server are unknown to me, as it was Peter Stein that has set it up.
+
+There are 2 site environments hosted on the same server - staging and production.
+Production (https://frankie.frankfurt-school.de/)
+Staging (http://frankie-app.staging.sawraft.com/)
+ 
+The application is built on Node 18.6.0, using Yarn for package management. The build process uses the default react-scripts. 
+The deployment process is to override the current static files with new files using ssh and rsync.
+
+Gihtub account details for the FS github repo access
+The github account to add to the FS Github repo - when this is done on FS end is:
+https://github.com/gabrijelSawraft
+username: gabrijelSawraft
+email: gabrijel.mrgan@sawraft.com
+
+ 
+All of this information will be written in the project documentation, it is here to help with resolving any questions FS might have in advance.

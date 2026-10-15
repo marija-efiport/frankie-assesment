@@ -1,0 +1,4401 @@
+{
+  "source": "frankie-export-20261013T095511Z",
+  "source_sha256": "d30399181684018f6b61f7e919e974b5739ad8d770cca289c1e968d45a6a5812",
+  "report_status": "export_finished_with_list_count_changes",
+  "date_from": "2025-04-16",
+  "date_to": "2026-10-13",
+  "records": 427081,
+  "unique_ids": 426257,
+  "repeated_ids": 824,
+  "exact_duplicate_keys": 0,
+  "conversations": 4173,
+  "active_users": 3838,
+  "received_only": 335,
+  "count_discrepancies": 4,
+  "direction_rows": [
+    {
+      "direction": "outbound",
+      "count": 168409,
+      "users": 3356
+    },
+    {
+      "direction": "template",
+      "count": 164256,
+      "users": 4144
+    },
+    {
+      "direction": "inbound",
+      "count": 93987,
+      "users": 3838
+    },
+    {
+      "direction": "ucs",
+      "count": 429,
+      "users": 168
+    }
+  ],
+  "incoming_types": [
+    {
+      "type": "TEXT",
+      "count": 91821
+    },
+    {
+      "type": "BUTTON",
+      "count": 842
+    },
+    {
+      "type": "IMAGE",
+      "count": 679
+    },
+    {
+      "type": "REACTION",
+      "count": 264
+    },
+    {
+      "type": "AUDIO",
+      "count": 116
+    },
+    {
+      "type": "DOCUMENT",
+      "count": 116
+    },
+    {
+      "type": "STICKER",
+      "count": 102
+    },
+    {
+      "type": "UNSUPPORTED",
+      "count": 27
+    },
+    {
+      "type": "VIDEO",
+      "count": 9
+    },
+    {
+      "type": "INTERACTIVE_BUTTON_REPLY",
+      "count": 6
+    },
+    {
+      "type": "CONTACT",
+      "count": 5
+    }
+  ],
+  "question_like_messages": 51540,
+  "question_users": 3402,
+  "topics": [
+    {
+      "topic": "Other / context-dependent text",
+      "messages": 39422,
+      "users": 3145,
+      "examples": [
+        "[link]",
+        "This one",
+        "What is it about"
+      ]
+    },
+    {
+      "topic": "Events / clubs / networking",
+      "messages": 11982,
+      "users": 2431,
+      "examples": [
+        "Hi Frankie! What events are coming up?",
+        "Hi Frankie! Tell me more about the event \"2. Frankfurt School Real Estate Career Day 2026\"?",
+        "Hi Frankie! Tell me more about the event \"Community Life Fair Winter Semester 2026/2027\"?"
+      ]
+    },
+    {
+      "topic": "Food / lunch / canteen",
+      "messages": 9389,
+      "users": 1237,
+      "examples": [
+        "Was gibt es heute zu essen",
+        "Menu today",
+        "What’s for lunch"
+      ]
+    },
+    {
+      "topic": "Registration / tickets / attendance",
+      "messages": 5104,
+      "users": 1821,
+      "examples": [
+        "Yes, I will attend",
+        "I want to register",
+        "How do I register?"
+      ]
+    },
+    {
+      "topic": "Timetables / classes / courses",
+      "messages": 4058,
+      "users": 1514,
+      "examples": [
+        "Where do I find my class schedule?",
+        "Schedule",
+        "What is the schedule for tomorrow"
+      ]
+    },
+    {
+      "topic": "Greetings",
+      "messages": 4041,
+      "users": 2658,
+      "examples": [
+        "Hi, Frankie!",
+        "Hi Frankie",
+        "Hi"
+      ]
+    },
+    {
+      "topic": "Opening Week / onboarding",
+      "messages": 3556,
+      "users": 1436,
+      "examples": [
+        "Opening week",
+        "Orientation week",
+        "When is the opening ceremony"
+      ]
+    },
+    {
+      "topic": "Short replies / acknowledgements",
+      "messages": 2958,
+      "users": 1499,
+      "examples": [
+        "Sure",
+        "Yes",
+        "Ja"
+      ]
+    },
+    {
+      "topic": "Exams / grades / assignments",
+      "messages": 2734,
+      "users": 899,
+      "examples": [
+        "Where is Susy, the thesis system on Canvas?",
+        "Exam schedule",
+        "Wo kann ich die Einsicht meiner Klausuren finden?"
+      ]
+    },
+    {
+      "topic": "Campus / facilities / transport",
+      "messages": 2421,
+      "users": 1174,
+      "examples": [
+        "Welcher Raum",
+        "Yes about the whole day in the frankfurt campus on 25th",
+        "Hi Frankie is the library open"
+      ]
+    },
+    {
+      "topic": "IT / Canvas / accounts",
+      "messages": 1864,
+      "users": 844,
+      "examples": [
+        "Where can I access my student email",
+        "Is there a vpn Subskription of fs",
+        "Does the school provide Microsoft Office for students?"
+      ]
+    },
+    {
+      "topic": "Media / reactions / other non-text",
+      "messages": 1318,
+      "users": 689,
+      "examples": [
+        "",
+        "Opening+Week+2026+Bachelor+2.0.pdf",
+        "Opening Week 2026 Bachelor 2.0-1.pdf"
+      ]
+    },
+    {
+      "topic": "Documents / student ID / administration",
+      "messages": 1265,
+      "users": 789,
+      "examples": [
+        "<matrikelnumber>",
+        "Where do I find the documents",
+        "Keinen Studierenden gefunden. Bitte überprüfe deine Matrikelnummer und dein Geburtsdatum und versuche es erneut. Sollte die Anmeldung trotz korrekter Daten wiederholt fehlschlagen, wurden diese ggf. noch nicht hinterlegt. Bitte wende dich a"
+      ]
+    },
+    {
+      "topic": "Careers / jobs / internships",
+      "messages": 1160,
+      "users": 627,
+      "examples": [
+        "Launch your career",
+        "Decode Recruiting Trends 2026",
+        "What are career serviceses and how can i use them at the start of university for my advantage"
+      ]
+    },
+    {
+      "topic": "Empty / punctuation / numeric replies",
+      "messages": 787,
+      "users": 546,
+      "examples": [
+        "?",
+        ".",
+        "??"
+      ]
+    },
+    {
+      "topic": "Study advisors / staff contacts",
+      "messages": 737,
+      "users": 477,
+      "examples": [
+        "Who is my study advisor",
+        "Who is my study advisor?",
+        "who is my study advisor"
+      ]
+    },
+    {
+      "topic": "Reset / start commands",
+      "messages": 304,
+      "users": 16,
+      "examples": [
+        "reset",
+        "Reset",
+        "Start"
+      ]
+    },
+    {
+      "topic": "Fees / scholarships / funding",
+      "messages": 298,
+      "users": 199,
+      "examples": [
+        "It says that the student wasnt found. Is it because i didn't pay the fee yet?",
+        "Where do I enquire about the tuition fees?",
+        "Warum steht auf meiner Rechnung für das Semster public transportation Ticket mit drauf ?"
+      ]
+    },
+    {
+      "topic": "Assistant capabilities / technical feedback",
+      "messages": 293,
+      "users": 238,
+      "examples": [
+        "The link doesn’t work",
+        "What can you do?",
+        "The link is not working"
+      ]
+    },
+    {
+      "topic": "Notification preferences / opt-out",
+      "messages": 163,
+      "users": 131,
+      "examples": [
+        "Stop texting me",
+        "Dear Mr. <last_name>, I hope you are well. As of now, you have not yet registered with Frankie. Please be aware this is a required step to register for the Opening Week. Therefore, I would once again like to share the steps with you. Step 1",
+        "Dear Ms. <last_name>, Your journey at Frankfurt School is about to begin, and Frankie, our digital study assistant, is here to help you navigate life at FS, starting with the Opening Week and continuing throughout your studies. With Frankie"
+      ]
+    },
+    {
+      "topic": "Housing / visas / relocation",
+      "messages": 98,
+      "users": 72,
+      "examples": [
+        "What do you mean by health insurance presentation?",
+        "Uhm how can i check that my insurance info and degree has come to the office",
+        "Electronic Health Insurance Confirmation (\"M10 Meldung\") This is required for both public and private insurances. Request your health insurance provider to send the M10 to Frankfurt School. For details, please review the health insurance in"
+      ]
+    },
+    {
+      "topic": "Wellbeing / personal support",
+      "messages": 35,
+      "users": 29,
+      "examples": [
+        "Mental health first aid",
+        "It te technically speaking ends for me I finish and i want to go home not being in toxic place filled with anxiety",
+        "I'm just stressed bro"
+      ]
+    }
+  ],
+  "top_messages": [
+    {
+      "text": "hi, frankie",
+      "count": 2141,
+      "users": 1877,
+      "topic": "Greetings"
+    },
+    {
+      "text": "[empty after normalization]",
+      "count": 1506,
+      "users": 814,
+      "topic": "Empty / punctuation / numeric replies"
+    },
+    {
+      "text": "hi frankie",
+      "count": 763,
+      "users": 627,
+      "topic": "Greetings"
+    },
+    {
+      "text": "was gibt es heute zu essen",
+      "count": 515,
+      "users": 144,
+      "topic": "Food / lunch / canteen"
+    },
+    {
+      "text": "sure",
+      "count": 453,
+      "users": 440,
+      "topic": "Short replies / acknowledgements"
+    },
+    {
+      "text": "yes",
+      "count": 443,
+      "users": 291,
+      "topic": "Short replies / acknowledgements"
+    },
+    {
+      "text": "what's for lunch",
+      "count": 437,
+      "users": 73,
+      "topic": "Food / lunch / canteen"
+    },
+    {
+      "text": "hi",
+      "count": 380,
+      "users": 272,
+      "topic": "Greetings"
+    },
+    {
+      "text": "lunch",
+      "count": 305,
+      "users": 48,
+      "topic": "Food / lunch / canteen"
+    },
+    {
+      "text": "reset",
+      "count": 302,
+      "users": 14,
+      "topic": "Reset / start commands"
+    },
+    {
+      "text": "what's for lunch today",
+      "count": 262,
+      "users": 88,
+      "topic": "Food / lunch / canteen"
+    },
+    {
+      "text": "ja",
+      "count": 254,
+      "users": 166,
+      "topic": "Short replies / acknowledgements"
+    },
+    {
+      "text": "menu today",
+      "count": 254,
+      "users": 47,
+      "topic": "Food / lunch / canteen"
+    },
+    {
+      "text": "whats for lunch",
+      "count": 250,
+      "users": 58,
+      "topic": "Food / lunch / canteen"
+    },
+    {
+      "text": "lunch today",
+      "count": 239,
+      "users": 49,
+      "topic": "Food / lunch / canteen"
+    },
+    {
+      "text": "thanks",
+      "count": 225,
+      "users": 169,
+      "topic": "Short replies / acknowledgements"
+    },
+    {
+      "text": "essen heute",
+      "count": 199,
+      "users": 51,
+      "topic": "Food / lunch / canteen"
+    },
+    {
+      "text": "nope, thanks",
+      "count": 199,
+      "users": 180,
+      "topic": "Short replies / acknowledgements"
+    },
+    {
+      "text": "hello",
+      "count": 193,
+      "users": 151,
+      "topic": "Greetings"
+    },
+    {
+      "text": "menu",
+      "count": 176,
+      "users": 41,
+      "topic": "Food / lunch / canteen"
+    },
+    {
+      "text": "thank you",
+      "count": 169,
+      "users": 122,
+      "topic": "Short replies / acknowledgements"
+    },
+    {
+      "text": "essen",
+      "count": 168,
+      "users": 34,
+      "topic": "Food / lunch / canteen"
+    },
+    {
+      "text": "was gibt es heute in der mensa",
+      "count": 160,
+      "users": 78,
+      "topic": "Food / lunch / canteen"
+    },
+    {
+      "text": "was gibt's heute zu essen",
+      "count": 153,
+      "users": 57,
+      "topic": "Food / lunch / canteen"
+    },
+    {
+      "text": "whats for lunch today",
+      "count": 141,
+      "users": 66,
+      "topic": "Food / lunch / canteen"
+    },
+    {
+      "text": "was gibt's heute",
+      "count": 139,
+      "users": 24,
+      "topic": "Food / lunch / canteen"
+    },
+    {
+      "text": "hallo",
+      "count": 135,
+      "users": 105,
+      "topic": "Greetings"
+    },
+    {
+      "text": "ok",
+      "count": 134,
+      "users": 106,
+      "topic": "Short replies / acknowledgements"
+    },
+    {
+      "text": "was gibt es morgen zu essen",
+      "count": 133,
+      "users": 41,
+      "topic": "Food / lunch / canteen"
+    },
+    {
+      "text": "okay",
+      "count": 132,
+      "users": 90,
+      "topic": "Short replies / acknowledgements"
+    },
+    {
+      "text": "frankie",
+      "count": 129,
+      "users": 81,
+      "topic": "Greetings"
+    },
+    {
+      "text": "yes please",
+      "count": 122,
+      "users": 94,
+      "topic": "Short replies / acknowledgements"
+    },
+    {
+      "text": "was gibt es heute",
+      "count": 112,
+      "users": 32,
+      "topic": "Food / lunch / canteen"
+    },
+    {
+      "text": "what is for lunch today",
+      "count": 110,
+      "users": 34,
+      "topic": "Food / lunch / canteen"
+    },
+    {
+      "text": "hi frankie! what events are coming up",
+      "count": 108,
+      "users": 102,
+      "topic": "Events / clubs / networking"
+    },
+    {
+      "text": "yes, i will attend",
+      "count": 108,
+      "users": 108,
+      "topic": "Registration / tickets / attendance"
+    },
+    {
+      "text": "hey",
+      "count": 107,
+      "users": 84,
+      "topic": "Greetings"
+    },
+    {
+      "text": "hey frankie",
+      "count": 106,
+      "users": 75,
+      "topic": "Greetings"
+    },
+    {
+      "text": "ja bitte",
+      "count": 98,
+      "users": 73,
+      "topic": "Short replies / acknowledgements"
+    },
+    {
+      "text": "[link]",
+      "count": 97,
+      "users": 81,
+      "topic": "Other / context-dependent text"
+    },
+    {
+      "text": "was gibts heute zu essen",
+      "count": 94,
+      "users": 30,
+      "topic": "Food / lunch / canteen"
+    },
+    {
+      "text": "what's for lunch tomorrow",
+      "count": 89,
+      "users": 32,
+      "topic": "Food / lunch / canteen"
+    },
+    {
+      "text": "was gibt es zu essen",
+      "count": 88,
+      "users": 37,
+      "topic": "Food / lunch / canteen"
+    },
+    {
+      "text": "danke",
+      "count": 83,
+      "users": 66,
+      "topic": "Short replies / acknowledgements"
+    },
+    {
+      "text": "hi frankie! tell me more about the event \"2. frankfurt school real estate career day 2026",
+      "count": 80,
+      "users": 53,
+      "topic": "Events / clubs / networking"
+    },
+    {
+      "text": "what's on the menu today",
+      "count": 76,
+      "users": 30,
+      "topic": "Food / lunch / canteen"
+    },
+    {
+      "text": "<matrikelnumber>",
+      "count": 74,
+      "users": 65,
+      "topic": "Documents / student ID / administration"
+    },
+    {
+      "text": "was gibt es heute zum essen",
+      "count": 68,
+      "users": 34,
+      "topic": "Food / lunch / canteen"
+    },
+    {
+      "text": "was gibt's zu essen",
+      "count": 66,
+      "users": 35,
+      "topic": "Food / lunch / canteen"
+    },
+    {
+      "text": "lunch tomorrow",
+      "count": 66,
+      "users": 16,
+      "topic": "Food / lunch / canteen"
+    },
+    {
+      "text": "what's on the menu",
+      "count": 63,
+      "users": 13,
+      "topic": "Food / lunch / canteen"
+    },
+    {
+      "text": "what is the menu for today",
+      "count": 62,
+      "users": 7,
+      "topic": "Food / lunch / canteen"
+    },
+    {
+      "text": "hi frankie! tell me more about the event \"community life fair winter semester 2026/2027",
+      "count": 61,
+      "users": 58,
+      "topic": "Events / clubs / networking"
+    },
+    {
+      "text": "no",
+      "count": 59,
+      "users": 49,
+      "topic": "Short replies / acknowledgements"
+    },
+    {
+      "text": "who is my study advisor",
+      "count": 58,
+      "users": 49,
+      "topic": "Study advisors / staff contacts"
+    },
+    {
+      "text": "where",
+      "count": 55,
+      "users": 49,
+      "topic": "Other / context-dependent text"
+    },
+    {
+      "text": "both",
+      "count": 55,
+      "users": 43,
+      "topic": "Short replies / acknowledgements"
+    },
+    {
+      "text": "hi frankie! tell me more about the event \"barclays i banking in the age of ai: building the career of tomorrow",
+      "count": 49,
+      "users": 44,
+      "topic": "Events / clubs / networking"
+    },
+    {
+      "text": "today",
+      "count": 45,
+      "users": 38,
+      "topic": "Other / context-dependent text"
+    },
+    {
+      "text": "was gibts heute",
+      "count": 44,
+      "users": 15,
+      "topic": "Food / lunch / canteen"
+    },
+    {
+      "text": "lunch menu",
+      "count": 44,
+      "users": 23,
+      "topic": "Food / lunch / canteen"
+    },
+    {
+      "text": "food today",
+      "count": 43,
+      "users": 15,
+      "topic": "Food / lunch / canteen"
+    },
+    {
+      "text": "i want to register",
+      "count": 43,
+      "users": 30,
+      "topic": "Registration / tickets / attendance"
+    },
+    {
+      "text": "no, thanks",
+      "count": 42,
+      "users": 42,
+      "topic": "Short replies / acknowledgements"
+    },
+    {
+      "text": "this one",
+      "count": 42,
+      "users": 39,
+      "topic": "Other / context-dependent text"
+    },
+    {
+      "text": "hi frankie! tell me more about the event \"career services presents: get your cv recruiter and ats-ready",
+      "count": 41,
+      "users": 28,
+      "topic": "Events / clubs / networking"
+    },
+    {
+      "text": "mensa",
+      "count": 40,
+      "users": 15,
+      "topic": "Food / lunch / canteen"
+    },
+    {
+      "text": "what is it about",
+      "count": 40,
+      "users": 22,
+      "topic": "Other / context-dependent text"
+    },
+    {
+      "text": "was gibt es heute in der kantine",
+      "count": 40,
+      "users": 15,
+      "topic": "Food / lunch / canteen"
+    },
+    {
+      "text": "hi frankie! tell me more about the event \"career services presents: master the assessment center",
+      "count": 39,
+      "users": 27,
+      "topic": "Events / clubs / networking"
+    },
+    {
+      "text": "how do i register",
+      "count": 39,
+      "users": 36,
+      "topic": "Registration / tickets / attendance"
+    },
+    {
+      "text": "where is it",
+      "count": 39,
+      "users": 36,
+      "topic": "Other / context-dependent text"
+    },
+    {
+      "text": "how can i register",
+      "count": 37,
+      "users": 33,
+      "topic": "Registration / tickets / attendance"
+    },
+    {
+      "text": "was gibt es heute zu mittag",
+      "count": 36,
+      "users": 12,
+      "topic": "Food / lunch / canteen"
+    },
+    {
+      "text": "whats on the menu today",
+      "count": 36,
+      "users": 16,
+      "topic": "Food / lunch / canteen"
+    },
+    {
+      "text": "see events",
+      "count": 36,
+      "users": 19,
+      "topic": "Events / clubs / networking"
+    },
+    {
+      "text": "was gibt es morgen",
+      "count": 35,
+      "users": 16,
+      "topic": "Food / lunch / canteen"
+    },
+    {
+      "text": "link",
+      "count": 35,
+      "users": 26,
+      "topic": "Other / context-dependent text"
+    },
+    {
+      "text": "what can i eat today",
+      "count": 35,
+      "users": 4,
+      "topic": "Other / context-dependent text"
+    },
+    {
+      "text": "was gibt's zum essen",
+      "count": 34,
+      "users": 11,
+      "topic": "Food / lunch / canteen"
+    },
+    {
+      "text": "heute",
+      "count": 34,
+      "users": 24,
+      "topic": "Other / context-dependent text"
+    },
+    {
+      "text": "sign me up",
+      "count": 32,
+      "users": 22,
+      "topic": "Other / context-dependent text"
+    },
+    {
+      "text": "okay thanks",
+      "count": 32,
+      "users": 30,
+      "topic": "Short replies / acknowledgements"
+    },
+    {
+      "text": "when is it",
+      "count": 32,
+      "users": 23,
+      "topic": "Other / context-dependent text"
+    },
+    {
+      "text": "community life fair",
+      "count": 32,
+      "users": 31,
+      "topic": "Events / clubs / networking"
+    },
+    {
+      "text": "hi frankie! tell me more about the event \"career services presents: ace your consulting job interview",
+      "count": 32,
+      "users": 27,
+      "topic": "Events / clubs / networking"
+    },
+    {
+      "text": "what is for lunch",
+      "count": 32,
+      "users": 11,
+      "topic": "Food / lunch / canteen"
+    },
+    {
+      "text": "hi frankie! tell me more about the event \"capital days 2026",
+      "count": 31,
+      "users": 27,
+      "topic": "Events / clubs / networking"
+    },
+    {
+      "text": "1",
+      "count": 30,
+      "users": 28,
+      "topic": "Empty / punctuation / numeric replies"
+    },
+    {
+      "text": "tomorrow",
+      "count": 30,
+      "users": 26,
+      "topic": "Other / context-dependent text"
+    },
+    {
+      "text": "2",
+      "count": 30,
+      "users": 28,
+      "topic": "Empty / punctuation / numeric replies"
+    },
+    {
+      "text": "was gibt es heute im casino",
+      "count": 30,
+      "users": 9,
+      "topic": "Food / lunch / canteen"
+    },
+    {
+      "text": "deutsch",
+      "count": 29,
+      "users": 23,
+      "topic": "Other / context-dependent text"
+    },
+    {
+      "text": "friday",
+      "count": 29,
+      "users": 21,
+      "topic": "Other / context-dependent text"
+    },
+    {
+      "text": "demo day",
+      "count": 29,
+      "users": 23,
+      "topic": "Other / context-dependent text"
+    },
+    {
+      "text": "opening ceremony",
+      "count": 29,
+      "users": 27,
+      "topic": "Opening Week / onboarding"
+    },
+    {
+      "text": "when is the opening ceremony",
+      "count": 28,
+      "users": 27,
+      "topic": "Opening Week / onboarding"
+    },
+    {
+      "text": "hi frankie! tell me more about the event \"my german success",
+      "count": 28,
+      "users": 26,
+      "topic": "Events / clubs / networking"
+    },
+    {
+      "text": "hello frankie",
+      "count": 28,
+      "users": 23,
+      "topic": "Greetings"
+    },
+    {
+      "text": "menu for today",
+      "count": 28,
+      "users": 13,
+      "topic": "Food / lunch / canteen"
+    }
+  ],
+  "top_questions": [
+    {
+      "text": "was gibt es heute zu essen",
+      "count": 515,
+      "users": 144,
+      "topic": "Food / lunch / canteen"
+    },
+    {
+      "text": "what's for lunch",
+      "count": 437,
+      "users": 73,
+      "topic": "Food / lunch / canteen"
+    },
+    {
+      "text": "what's for lunch today",
+      "count": 262,
+      "users": 88,
+      "topic": "Food / lunch / canteen"
+    },
+    {
+      "text": "whats for lunch",
+      "count": 250,
+      "users": 58,
+      "topic": "Food / lunch / canteen"
+    },
+    {
+      "text": "was gibt es heute in der mensa",
+      "count": 160,
+      "users": 78,
+      "topic": "Food / lunch / canteen"
+    },
+    {
+      "text": "was gibt's heute zu essen",
+      "count": 153,
+      "users": 57,
+      "topic": "Food / lunch / canteen"
+    },
+    {
+      "text": "whats for lunch today",
+      "count": 141,
+      "users": 66,
+      "topic": "Food / lunch / canteen"
+    },
+    {
+      "text": "was gibt's heute",
+      "count": 139,
+      "users": 24,
+      "topic": "Food / lunch / canteen"
+    },
+    {
+      "text": "was gibt es morgen zu essen",
+      "count": 133,
+      "users": 41,
+      "topic": "Food / lunch / canteen"
+    },
+    {
+      "text": "was gibt es heute",
+      "count": 112,
+      "users": 32,
+      "topic": "Food / lunch / canteen"
+    },
+    {
+      "text": "what is for lunch today",
+      "count": 110,
+      "users": 34,
+      "topic": "Food / lunch / canteen"
+    },
+    {
+      "text": "hi frankie! what events are coming up",
+      "count": 108,
+      "users": 102,
+      "topic": "Events / clubs / networking"
+    },
+    {
+      "text": "was gibts heute zu essen",
+      "count": 94,
+      "users": 30,
+      "topic": "Food / lunch / canteen"
+    },
+    {
+      "text": "what's for lunch tomorrow",
+      "count": 89,
+      "users": 32,
+      "topic": "Food / lunch / canteen"
+    },
+    {
+      "text": "was gibt es zu essen",
+      "count": 88,
+      "users": 37,
+      "topic": "Food / lunch / canteen"
+    },
+    {
+      "text": "hi frankie! tell me more about the event \"2. frankfurt school real estate career day 2026",
+      "count": 80,
+      "users": 53,
+      "topic": "Events / clubs / networking"
+    },
+    {
+      "text": "what's on the menu today",
+      "count": 76,
+      "users": 30,
+      "topic": "Food / lunch / canteen"
+    },
+    {
+      "text": "was gibt es heute zum essen",
+      "count": 68,
+      "users": 34,
+      "topic": "Food / lunch / canteen"
+    },
+    {
+      "text": "was gibt's zu essen",
+      "count": 66,
+      "users": 35,
+      "topic": "Food / lunch / canteen"
+    },
+    {
+      "text": "lunch",
+      "count": 65,
+      "users": 13,
+      "topic": "Food / lunch / canteen"
+    },
+    {
+      "text": "what's on the menu",
+      "count": 63,
+      "users": 13,
+      "topic": "Food / lunch / canteen"
+    },
+    {
+      "text": "what is the menu for today",
+      "count": 62,
+      "users": 7,
+      "topic": "Food / lunch / canteen"
+    },
+    {
+      "text": "hi frankie! tell me more about the event \"community life fair winter semester 2026/2027",
+      "count": 61,
+      "users": 58,
+      "topic": "Events / clubs / networking"
+    },
+    {
+      "text": "who is my study advisor",
+      "count": 58,
+      "users": 49,
+      "topic": "Study advisors / staff contacts"
+    },
+    {
+      "text": "where",
+      "count": 54,
+      "users": 49,
+      "topic": "Other / context-dependent text"
+    },
+    {
+      "text": "hi frankie! tell me more about the event \"barclays i banking in the age of ai: building the career of tomorrow",
+      "count": 49,
+      "users": 44,
+      "topic": "Events / clubs / networking"
+    },
+    {
+      "text": "was gibts heute",
+      "count": 44,
+      "users": 15,
+      "topic": "Food / lunch / canteen"
+    },
+    {
+      "text": "hi frankie! tell me more about the event \"career services presents: get your cv recruiter and ats-ready",
+      "count": 41,
+      "users": 28,
+      "topic": "Events / clubs / networking"
+    },
+    {
+      "text": "what is it about",
+      "count": 40,
+      "users": 22,
+      "topic": "Other / context-dependent text"
+    },
+    {
+      "text": "was gibt es heute in der kantine",
+      "count": 40,
+      "users": 15,
+      "topic": "Food / lunch / canteen"
+    },
+    {
+      "text": "hi frankie! tell me more about the event \"career services presents: master the assessment center",
+      "count": 39,
+      "users": 27,
+      "topic": "Events / clubs / networking"
+    },
+    {
+      "text": "how do i register",
+      "count": 39,
+      "users": 36,
+      "topic": "Registration / tickets / attendance"
+    },
+    {
+      "text": "where is it",
+      "count": 37,
+      "users": 34,
+      "topic": "Other / context-dependent text"
+    },
+    {
+      "text": "how can i register",
+      "count": 37,
+      "users": 33,
+      "topic": "Registration / tickets / attendance"
+    },
+    {
+      "text": "was gibt es heute zu mittag",
+      "count": 36,
+      "users": 12,
+      "topic": "Food / lunch / canteen"
+    },
+    {
+      "text": "whats on the menu today",
+      "count": 36,
+      "users": 16,
+      "topic": "Food / lunch / canteen"
+    },
+    {
+      "text": "was gibt es morgen",
+      "count": 35,
+      "users": 16,
+      "topic": "Food / lunch / canteen"
+    },
+    {
+      "text": "essen heute",
+      "count": 35,
+      "users": 20,
+      "topic": "Food / lunch / canteen"
+    },
+    {
+      "text": "what can i eat today",
+      "count": 35,
+      "users": 4,
+      "topic": "Other / context-dependent text"
+    },
+    {
+      "text": "was gibt's zum essen",
+      "count": 34,
+      "users": 11,
+      "topic": "Food / lunch / canteen"
+    },
+    {
+      "text": "when is it",
+      "count": 32,
+      "users": 23,
+      "topic": "Other / context-dependent text"
+    },
+    {
+      "text": "hi frankie! tell me more about the event \"career services presents: ace your consulting job interview",
+      "count": 32,
+      "users": 27,
+      "topic": "Events / clubs / networking"
+    },
+    {
+      "text": "what is for lunch",
+      "count": 32,
+      "users": 11,
+      "topic": "Food / lunch / canteen"
+    },
+    {
+      "text": "hi frankie! tell me more about the event \"capital days 2026",
+      "count": 31,
+      "users": 27,
+      "topic": "Events / clubs / networking"
+    },
+    {
+      "text": "was gibt es heute im casino",
+      "count": 30,
+      "users": 9,
+      "topic": "Food / lunch / canteen"
+    },
+    {
+      "text": "when is the opening ceremony",
+      "count": 28,
+      "users": 27,
+      "topic": "Opening Week / onboarding"
+    },
+    {
+      "text": "hi frankie! tell me more about the event \"my german success",
+      "count": 28,
+      "users": 26,
+      "topic": "Events / clubs / networking"
+    },
+    {
+      "text": "was ist das",
+      "count": 27,
+      "users": 24,
+      "topic": "Other / context-dependent text"
+    },
+    {
+      "text": "menu",
+      "count": 27,
+      "users": 4,
+      "topic": "Food / lunch / canteen"
+    },
+    {
+      "text": "was essen",
+      "count": 27,
+      "users": 2,
+      "topic": "Food / lunch / canteen"
+    },
+    {
+      "text": "how to register",
+      "count": 26,
+      "users": 25,
+      "topic": "Registration / tickets / attendance"
+    },
+    {
+      "text": "what is the menu today",
+      "count": 26,
+      "users": 16,
+      "topic": "Food / lunch / canteen"
+    },
+    {
+      "text": "hi frankie! tell me more about the event \"career services presents ace your investment banking interview",
+      "count": 26,
+      "users": 21,
+      "topic": "Events / clubs / networking"
+    },
+    {
+      "text": "what's the menu today",
+      "count": 25,
+      "users": 18,
+      "topic": "Food / lunch / canteen"
+    },
+    {
+      "text": "when",
+      "count": 25,
+      "users": 24,
+      "topic": "Other / context-dependent text"
+    },
+    {
+      "text": "hi frankie! tell me more about the event \"morgan stanley office visit: discover institutional securities group & investment management networking evening",
+      "count": 25,
+      "users": 24,
+      "topic": "Events / clubs / networking"
+    },
+    {
+      "text": "was gibt es zu essen heute",
+      "count": 24,
+      "users": 18,
+      "topic": "Food / lunch / canteen"
+    },
+    {
+      "text": "was gibt's morgen",
+      "count": 24,
+      "users": 10,
+      "topic": "Food / lunch / canteen"
+    },
+    {
+      "text": "[link]",
+      "count": 24,
+      "users": 24,
+      "topic": "Other / context-dependent text"
+    },
+    {
+      "text": "what's the menu",
+      "count": 24,
+      "users": 9,
+      "topic": "Food / lunch / canteen"
+    },
+    {
+      "text": "what is up for lunch",
+      "count": 23,
+      "users": 1,
+      "topic": "Food / lunch / canteen"
+    },
+    {
+      "text": "lunch today",
+      "count": 23,
+      "users": 13,
+      "topic": "Food / lunch / canteen"
+    },
+    {
+      "text": "wer ist mein study advisor",
+      "count": 23,
+      "users": 21,
+      "topic": "Study advisors / staff contacts"
+    },
+    {
+      "text": "whats for lunch tomorrow",
+      "count": 23,
+      "users": 12,
+      "topic": "Food / lunch / canteen"
+    },
+    {
+      "text": "what's the dress code",
+      "count": 23,
+      "users": 22,
+      "topic": "Other / context-dependent text"
+    },
+    {
+      "text": "how",
+      "count": 22,
+      "users": 20,
+      "topic": "Other / context-dependent text"
+    },
+    {
+      "text": "was gibt's heute in der mensa",
+      "count": 22,
+      "users": 18,
+      "topic": "Food / lunch / canteen"
+    },
+    {
+      "text": "was gibt's heute zum essen",
+      "count": 22,
+      "users": 14,
+      "topic": "Food / lunch / canteen"
+    },
+    {
+      "text": "what is this",
+      "count": 21,
+      "users": 11,
+      "topic": "Other / context-dependent text"
+    },
+    {
+      "text": "which room",
+      "count": 21,
+      "users": 20,
+      "topic": "Other / context-dependent text"
+    },
+    {
+      "text": "what's for food today",
+      "count": 21,
+      "users": 9,
+      "topic": "Food / lunch / canteen"
+    },
+    {
+      "text": "what is on the menu today",
+      "count": 21,
+      "users": 14,
+      "topic": "Food / lunch / canteen"
+    },
+    {
+      "text": "hi frankie! tell me more about the event \"career services presents: decode recruiting trends 2026",
+      "count": 21,
+      "users": 17,
+      "topic": "Events / clubs / networking"
+    },
+    {
+      "text": "was gibt es diese woche zu essen",
+      "count": 20,
+      "users": 10,
+      "topic": "Food / lunch / canteen"
+    },
+    {
+      "text": "was gibt es heute in der mensa zu essen",
+      "count": 20,
+      "users": 16,
+      "topic": "Food / lunch / canteen"
+    },
+    {
+      "text": "what is the dress code",
+      "count": 20,
+      "users": 19,
+      "topic": "Other / context-dependent text"
+    },
+    {
+      "text": "essen",
+      "count": 20,
+      "users": 9,
+      "topic": "Food / lunch / canteen"
+    },
+    {
+      "text": "hi frankie! tell me more about the event \"career services presents: stand out from the crowd",
+      "count": 20,
+      "users": 19,
+      "topic": "Events / clubs / networking"
+    },
+    {
+      "text": "who is <first_name> <last_name>",
+      "count": 20,
+      "users": 13,
+      "topic": "Other / context-dependent text"
+    },
+    {
+      "text": "was gibt's morgen zu essen",
+      "count": 19,
+      "users": 15,
+      "topic": "Food / lunch / canteen"
+    },
+    {
+      "text": "where can i find it",
+      "count": 19,
+      "users": 18,
+      "topic": "Other / context-dependent text"
+    },
+    {
+      "text": "apply for what",
+      "count": 19,
+      "users": 6,
+      "topic": "Other / context-dependent text"
+    },
+    {
+      "text": "was gibt es heute zum mittagessen",
+      "count": 18,
+      "users": 14,
+      "topic": "Food / lunch / canteen"
+    },
+    {
+      "text": "is it free",
+      "count": 18,
+      "users": 16,
+      "topic": "Other / context-dependent text"
+    },
+    {
+      "text": "dresscode",
+      "count": 18,
+      "users": 16,
+      "topic": "Other / context-dependent text"
+    },
+    {
+      "text": "what's the menu for today",
+      "count": 18,
+      "users": 13,
+      "topic": "Food / lunch / canteen"
+    },
+    {
+      "text": "is it mandatory",
+      "count": 18,
+      "users": 17,
+      "topic": "Other / context-dependent text"
+    },
+    {
+      "text": "what's today's menu",
+      "count": 18,
+      "users": 10,
+      "topic": "Food / lunch / canteen"
+    },
+    {
+      "text": "can you speak german",
+      "count": 18,
+      "users": 10,
+      "topic": "Other / context-dependent text"
+    },
+    {
+      "text": "what is that",
+      "count": 18,
+      "users": 16,
+      "topic": "Other / context-dependent text"
+    },
+    {
+      "text": "was gibts zu essen",
+      "count": 18,
+      "users": 13,
+      "topic": "Food / lunch / canteen"
+    },
+    {
+      "text": "was gibt es zum essen",
+      "count": 18,
+      "users": 10,
+      "topic": "Food / lunch / canteen"
+    },
+    {
+      "text": "what is ow",
+      "count": 17,
+      "users": 17,
+      "topic": "Other / context-dependent text"
+    },
+    {
+      "text": "whats the menu",
+      "count": 17,
+      "users": 4,
+      "topic": "Food / lunch / canteen"
+    },
+    {
+      "text": "hi frankie! tell me more about the event \"fireside chat with christian sewing, deutsche bank ceo and fs alumnus",
+      "count": 17,
+      "users": 17,
+      "topic": "Events / clubs / networking"
+    },
+    {
+      "text": "hi frankie! tell me more about the event \"career services presents: summer internship programs - insider insights",
+      "count": 17,
+      "users": 14,
+      "topic": "Events / clubs / networking"
+    },
+    {
+      "text": "was gibt es in der mensa",
+      "count": 17,
+      "users": 14,
+      "topic": "Food / lunch / canteen"
+    },
+    {
+      "text": "is there a dress code",
+      "count": 17,
+      "users": 17,
+      "topic": "Other / context-dependent text"
+    },
+    {
+      "text": "hi frankie! tell me more about the event \"demo day",
+      "count": 17,
+      "users": 17,
+      "topic": "Events / clubs / networking"
+    },
+    {
+      "text": "what is this link for",
+      "count": 17,
+      "users": 3,
+      "topic": "Other / context-dependent text"
+    }
+  ],
+  "template_groups": [
+    {
+      "category": "Event invitations / announcements",
+      "count": 97975,
+      "users": 3838
+    },
+    {
+      "category": "Event / campus digests",
+      "count": 20135,
+      "users": 3251
+    },
+    {
+      "category": "Lunch menus / subscriptions",
+      "count": 7912,
+      "users": 635
+    },
+    {
+      "category": "Onboarding / welcome",
+      "count": 6362,
+      "users": 2852
+    },
+    {
+      "category": "Opening Week schedules / logistics",
+      "count": 5088,
+      "users": 1392
+    },
+    {
+      "category": "Feedback / surveys",
+      "count": 4633,
+      "users": 2465
+    },
+    {
+      "category": "Community / careers / other notices",
+      "count": 4371,
+      "users": 2411
+    },
+    {
+      "category": "Service / system notices",
+      "count": 4032,
+      "users": 2114
+    },
+    {
+      "category": "Campus operational notices",
+      "count": 3843,
+      "users": 1963
+    },
+    {
+      "category": "Event confirmations / tickets",
+      "count": 3571,
+      "users": 1885
+    },
+    {
+      "category": "Scholarships / funding",
+      "count": 2929,
+      "users": 2864
+    },
+    {
+      "category": "Language course announcements",
+      "count": 1849,
+      "users": 1849
+    },
+    {
+      "category": "Event reminders",
+      "count": 903,
+      "users": 652
+    },
+    {
+      "category": "Preferences / consent / assistant menu",
+      "count": 497,
+      "users": 309
+    },
+    {
+      "category": "Event cancellations",
+      "count": 138,
+      "users": 127
+    },
+    {
+      "category": "Internal reports",
+      "count": 18,
+      "users": 4
+    }
+  ],
+  "templates": [
+    {
+      "name": "frankie_invite_template_reg_4",
+      "category": "Event invitations / announcements",
+      "count": 21825,
+      "users": 3331,
+      "example": "A little invite from me to you 💫 Financial Modelling Like a Banker: Investment Banking & Private Equity with Goldman Sachs Executive Director Florian P. Meyer is happening on Saturday, November 28th at 09:00h @ FS Campus, S0.03, and it sounds like a cool one. Spots are limited, so make sure to secure one before it fills up! Ready to sign up? Click below 👇"
+    },
+    {
+      "name": "frankie_invite_template_reg_2",
+      "category": "Event invitations / announcements",
+      "count": 21809,
+      "users": 3330,
+      "example": "Just dropping in with a quick heads-up 💌 Career Services Presents: Grow Your Professional Network is happening on Tuesday, November 3rd at 08:30h @ online. You’ll need to register to join, but it’s super easy. Want in? Tap below 👇"
+    },
+    {
+      "name": "frankie_invite_template_reg_3",
+      "category": "Event invitations / announcements",
+      "count": 21734,
+      "users": 3332,
+      "example": "Have you heard? Frankfurt School Career Days 2026 is happening on Tuesday, November 3rd at 17:30h @ FS Campus, Ground Floor 🎉 Thought it might be something you’d like, sounds right up your alley. Just an FYI, seats are limited, so maybe grab one early! Whenever you’re ready… 👇"
+    },
+    {
+      "name": "frankie_invite_template_reg_1",
+      "category": "Event invitations / announcements",
+      "count": 21531,
+      "users": 3319,
+      "example": "We’ve got a new event alert going off 🪩 Futury Build Days #3 – Tech by Hessian.AI is coming up on Sunday, October 25th at 09:30h @ TBC, TBC and I didn’t want you to miss out. You’ll need to register to attend, so grab your spot while it’s open! Get things sorted below 👇"
+    },
+    {
+      "name": "frankie_lunch_menu_7_options",
+      "category": "Lunch menus / subscriptions",
+      "count": 3179,
+      "users": 126,
+      "example": "Hey! Check out what’s on the menu today: 1. *Tomato and semolina soup:* 2,50 € 2. *Penne in sage sauce | Tomato | Rocket:* 4,90 € 3. *FS Curry sausaget | homemade Currysauce | Wedges:* 7,80 € 4. *Crispy chicken strips in a soya and honey glaze | Lime rice | Stir-fry:* 7,80 € 5. *Salad Selection from Buffet | Various Toppings | Cereals | Dressing | around 600 gr:* 5,80 € 6. *Penne in sage sauce | Tomato | Rocket:* 4,90 € 7. *Chocolate Rice Pudding | Strawberries:* 2,30 €"
+    },
+    {
+      "name": "campus_sorgenfrei_scholarship_2026",
+      "category": "Scholarships / funding",
+      "count": 2852,
+      "users": 2851,
+      "example": "*Campus Sorgenfrei Scholarship 2026 - Applications Are Open!* With the Campus Sorgenfrei Scholarship 2026, you have the chance to receive *1,000 EUR* in financial support for your studies. The best part: Your field of study and grade point average do not matter. Apply now and enjoy a stress-free start to the 2026/27 winter semester. Here’s how to secure your chance for a worry-free study experience: - Register on Santander Open Academy - Complete the application form - Submit your application by 20 November 2026"
+    },
+    {
+      "name": "sep28_event_invites",
+      "category": "Event / campus digests",
+      "count": 2833,
+      "users": 2833,
+      "example": "Hi <first_name>, here’s what’s coming up at FS: 🧇 *The First Weeks Unpacked:* Talk openly about how your first weeks at FS are really going, with anonymous polls, senior student insights, Q&A and fresh waffles • Mon, 28 Sep • 19:00–20:30 • Skyline Student Lounge 💼 *Consulting Career Workshop:* Learn about consulting careers, recruiting, fit & case interviews, with first-hand insights from a McKinsey consultant and FS alumna • Tue, 29 Sep • 18:00–19:45 • FS Campus ✨ *Stand Out from the Crowd:* Learn how to identify and communicate your strengths, stand out in applications and make employers remember you • Tue, 6 Oct • 08:30–09:00 • Online 🎙️ *C-Level Insights with Prof. Jörg Rocholl:* Explore pension reform, European capital markets and how a capital-funded pension could shape Europe’s competitiveness • Tue, 6 Oct • 18:00–20:00 Let me know if you’re interested!"
+    },
+    {
+      "name": "new_events_oct05",
+      "category": "Event / campus digests",
+      "count": 2821,
+      "users": 2821,
+      "example": "Hi <first_name>, here’s what’s coming up at FS next week: 🇩🇪 *My German Success:* Hear firsthand from international FS alumni about launching a career in Germany, from finding internships and navigating the German job market to networking, German language skills and Career Services • Wed, 7 Oct • 18:00–19:45 • Online 📊 *Ace your Data Science Job Interview:* Get practical tips on Data Science interview processes, elevator pitches, different interview questions and how to make a strong impression on recruiters • Thu, 8 Oct • 18:00–19:45 • FS Campus 🚀 *FS Invest | How to Break into Finance:* Explore careers across M&A, Private Equity, Debt Capital Markets, Leveraged Finance and Investment Banking, with practical advice on choosing firms, applications and interview preparation • Sat, 10 Oct • 16:00–17:30 • Online Let me know if you’re interested!"
+    },
+    {
+      "name": "event_message_sep14",
+      "category": "Event / campus digests",
+      "count": 2800,
+      "users": 2800,
+      "example": "Hi <first_name>, here’s what’s coming up at FS: 🚀 *Frankfurt Venture Hub:* Connect with founders, investors and entrepreneurs, explore the startup ecosystem and network with the Frankfurt venture community • Tue, 15 Sep • From 15:30 • FS Campus • Apply by 15 Sep, 15:30 📄 *Get Your CV Recruiter and ATS-ready:* Learn how to optimise your CV for recruiters and Applicant Tracking Systems and improve your chances of getting noticed • Wed, 16 Sep • 08:30–09:00 • Online • Apply by 15 Sep, 08:00 🌏 *SGC’s Virtual Roundtable:* EU-China Trade Dispute: Discuss current developments and perspectives on the EU-China trade dispute in an expert roundtable • Thu, 17 Sep • 11:00–12:00 • Online • Apply by 17 Sep, 17:00 🎓 *Honorary Doctorate Ceremony for Daniel Levinthal:* Join the ceremony celebrating the awarding of an honorary doctorate to Daniel Levinthal • Mon, 21 Sep • 14:00–17:00 • FS Campus • Apply by 16 Sep, 23:59 Let me know if you’re interested!"
+    },
+    {
+      "name": "sep23_event_invites",
+      "category": "Event / campus digests",
+      "count": 2786,
+      "users": 2535,
+      "example": "Hi, the FS Invest Munich Finance Tour is here 🇩🇪💼 FS Invest is taking a selected group of students to Munich from October 26th to October 30th to visit some very exciting names in finance. Think *Hg, IK Partners, Partners Group, Verdane, Perella Weinberg Partners and more*. And the best part? You don’t need to be an FS Invest member to apply. Applications close September 27th: [link]"
+    },
+    {
+      "name": "sep21_event_invites",
+      "category": "Event / campus digests",
+      "count": 2744,
+      "users": 2744,
+      "example": "Hi <first_name>, here’s what’s coming up at FS: 🎓 *Honorary Doctorate Ceremony*: FS honors Professor Daniel Levinthal, one of the world’s leading management scholars, followed by his keynote on machine learning & organizational intelligence • Mon, 21 Sep • 14:00–17:00 • FS Campus 📊 *Presentation Design Workshop*: Learn how to create clear, engaging and memorable presentations that go beyond text-heavy slides • Wed, 23 Sep • 18:00–21:00 🚀 *Startup Funding Workshop*: Understand funding options, investor readiness, finding the right investors and navigating the fundraising process • Wed, 23 Sep • 18:30–20:30 • Entrepreneurship Center 💼 *Consulting Career Workshop*: Learn about consulting careers, recruiting, fit & case interviews, with first-hand insights from a McKinsey consultant and FS alumna • Tue, 29 Sep • 18:00 • FS Campus Let me know if you’re interested!"
+    },
+    {
+      "name": "mon_aug31_proactive",
+      "category": "Event / campus digests",
+      "count": 2731,
+      "users": 2731,
+      "example": "Hi <first_name>, here’s what’s coming up at FS: 🚀 *FSEC Accelerator Summer ’26 Demo Day:* Watch 8 startups pitch across AI, FinTech, FemTech, Crypto, Dual-use Tech & Logistics, followed by food, drinks & networking • Tue, 1 Sep • 18:30–22:00 • Audimax 🤝 *Community Life Fair:* Meet FS student initiatives, organizations & partners at the semester kick-off and discover ways to get involved • Wed, 2 Sep • 17:00–20:00 • Frankfurt School 💰 *Capital Days 2026:* Two days of finance, recruiting & networking with leading investors, executives and firms across IB, PE & consulting • Thu–Fri, 3–4 Sep • Frankfurt School 🩸 *Blood Donation at FS:* Donate blood and help save lives • Mon, 7 Sep • 12:00–16:30 • Rooms S1.08 & S1.09 • Registration required Let me know if you’re interested!"
+    },
+    {
+      "name": "sep7_event_invites",
+      "category": "Event / campus digests",
+      "count": 2666,
+      "users": 2666,
+      "example": "Hi <first_name>, here’s what’s coming up at FS: 🏢 *FS Real Estate Career Day 2026:* Meet leading employers from real estate & finance, network with professionals and explore career opportunities • Wed, 9 Sep • 16:00–18:00 • FS Campus • Apply by 8 Sep, 23:59 😴 *A Good Night’s Sleep: Sleep Hygiene:* Learn practical ways to improve sleep, mental strength and overall health based on sleep medicine & brain research • Wed, 9 Sep • 18:00–19:30 • Online • Apply by 8 Sep, 23:59 🎯 *Master the Assessment Center:* Interactive Career Services workshop covering interviews, case studies, group exercises, self-presentations and handling stressful selection situations • Thu, 10 Sep • 17:00–20:00 • Online • Apply by 8 Sep, 17:00 🏦 *Citi Takeover Day 2026:* Meet Citi bankers and analysts, explore Early Careers opportunities, get your CV reviewed and join workshops in Corporate Banking, Markets & M&A • Mon, 14 Sep • 10:00–17:30 • FS Campus Let me know if you’re interested!"
+    },
+    {
+      "name": "frankie_onboarding_message",
+      "category": "Onboarding / welcome",
+      "count": 2423,
+      "users": 1501,
+      "example": "Hey there, I’m Frankie 👋 Think of me as your FS person. I know what’s happening on Campus, networking hotspots, the stuff you might miss on Canvas, and where to find the food. Let’s get to know each other so I can share what’s useful for you."
+    },
+    {
+      "name": "frankie_lunch_menu_6_options",
+      "category": "Lunch menus / subscriptions",
+      "count": 2095,
+      "users": 97,
+      "example": "Good day! Here’s what’s available on menu today: 1. *Carrot soup:* 2,50 € 2. *Creamy Polenta | Ratatouille | Baby Spinach | Mozzarella:* 4,90 € 3. *Chili con carne | Long grain rice | Sour cream | Nacho crunch:* 7,80 € 4. *Pasta Carbonara:* 7,30 € 5. *Creamy Polenta | Ratatouille | Baby Spinach:* 4,90 € 6. *Apple Ragout | Vanilla Sour Cream:* 2,30 €"
+    },
+    {
+      "name": "frankie_8_downtime_end",
+      "category": "Service / system notices",
+      "count": 2036,
+      "users": 2036,
+      "example": "We’re back ✨ The upgrade is done and I’m ready to help. Feel free to ask me anything!"
+    },
+    {
+      "name": "frankie_upcoming_events_closing_party",
+      "category": "Event invitations / announcements",
+      "count": 1950,
+      "users": 1950,
+      "example": "Good luck with exams, <first_name> 🙌 In between all the stress, there are some great events coming up you can look forward to: 🚀 Space Club Kitchen: Dinner & networking with ESA, business and innovation leaders • Thu, 29 May • 18:30 🪩 StuCo Semester Closing Party @ Pier 1: “Night of the Profs” with professors behind the DJ booth • Fri, 30 May • 22:00–04:00 Let me know if you’d like to know more."
+    },
+    {
+      "name": "frankie_8_downtime_start",
+      "category": "Service / system notices",
+      "count": 1937,
+      "users": 1937,
+      "example": "Hey! 👋 I’ll be taking a short daily break while my developers finish a system upgrade. I’ll be back tomorrow around 12 PM, refreshed and better than ever."
+    },
+    {
+      "name": "frankie_weekly_message_may_28",
+      "category": "Campus operational notices",
+      "count": 1929,
+      "users": 1929,
+      "example": "Hey <first_name>, just a quick note from me 💙 Following this week's incident, we want to reassure you that the situation was handled immediately and there is no ongoing threat to campus safety. As an extra precaution, temporary security measures have been put in place, so please remember to bring your FS Card, or a national ID together with your Immatrikulationsbescheinigung for campus access. We know situations like this can feel a little unsettling, so check in on yourselves and your friends tonight 💙"
+    },
+    {
+      "name": "quick_campus_update",
+      "category": "Campus operational notices",
+      "count": 1823,
+      "users": 1823,
+      "example": "Quick campus update 🍽️ The restaurant will remain closed today due to technical issues, but the coffee bar is open and serving: - Fresh salads - Sausage rolls with potato salad - Desserts So nobody has to survive on caffeine alone today. Thank you for your understanding, and hopefully normal restaurant operations will be back soon 💙"
+    },
+    {
+      "name": "world_cup1",
+      "category": "Event invitations / announcements",
+      "count": 1815,
+      "users": 1815,
+      "example": "Okay, important question, are we about to find out who the actual football genius at Frankfurt School is? 👀 StuCo just launched a *World Cup Kicktipp league* for the whole FS community, and honestly, this feels like the kind of thing people accidentally get way too competitive about. If you're watching the tournament anyway, you can join the tipping league here 👇"
+    },
+    {
+      "name": "career_services_summer_break",
+      "category": "Community / careers / other notices",
+      "count": 1808,
+      "users": 1808,
+      "example": "FYI: Career Services will still be around during the summer break if you need support with career planning, applications, interview prep, or your job search. You can book appointments via JobTeaser, online or on campus, for 45-minute Career Counselling or 15-minute Career Advice. Drop-ins are also available on campus from Tuesday to Wednesday, 09:00–10:00, with no appointment needed. For urgent questions, especially before an upcoming interview, email [email]"
+    },
+    {
+      "name": "capital_days_2026",
+      "category": "Event invitations / announcements",
+      "count": 1778,
+      "users": 1778,
+      "example": "Hi! I hope you’re enjoying your summer break ☀️ Excited to inform you that the *Capital Days 2026* will take place on September 3–4 at the FS Campus! You’ll have the opportunity to meet leading firms such as *McKinsey, BCG, Advent International, Permira, CVC Capital Partners, Oliver Wyman, Triton Partners, Nomura, and OC&C*, while exploring exciting internship and recruitment opportunities. Until Wednesday, August 5, you can use the code *EARLY25* to receive 25% off your ticket. Get it here: [link] If you have any questions, I’m here 💙"
+    },
+    {
+      "name": "sep3_all_german_speaking_v2",
+      "category": "Community / careers / other notices",
+      "count": 1684,
+      "users": 1684,
+      "example": "Hi <first_name>, applications for Frankfurt School Student Consulting are now open 💼🤝 FS-SC gives you an opportunity to work on real client projects, join workshops and case trainings with consulting and finance partners, and build your network for internships and your future career. No consulting experience is needed, but very good German skills are required. You can apply and learn more on this link [link] until September 11th, 23:59. Good luck!"
+    },
+    {
+      "name": "frankie_ow_before_onboarding2",
+      "category": "Onboarding / welcome",
+      "count": 1580,
+      "users": 1295,
+      "example": "Welcome to the Frankfurt School of Finance and Management 🎉 I'm Frankie, here to help you settle in and get ready for your journey ahead. Let’s get to know each other and dive into your schedule."
+    },
+    {
+      "name": "fs_accelerator_v2",
+      "category": "Event invitations / announcements",
+      "count": 1331,
+      "users": 1331,
+      "example": "Hey <first_name>, ever thought about building something yourself or just want to understand how the startup world actually works? The FS Accelerator is opening a few of its workshops to everyone 👇 📅 30 June, Negotiating a VC Term Sheet: [link] 📅 1 July, Financial Planning for Startups: [link] 📅 18 August, How to Avoid Captable Disasters: [link] Could be a fun one to join if you've ever had a \"wait... maybe I should build something someday\" moment 💙"
+    },
+    {
+      "name": "frankie_weekly_lunch_menu_update_v1",
+      "category": "Lunch menus / subscriptions",
+      "count": 1315,
+      "users": 208,
+      "example": "Here are your lunch menus for this week! I hope you'll enjoy it 🍔🍴"
+    },
+    {
+      "name": "balance_group",
+      "category": "Feedback / surveys",
+      "count": 1214,
+      "users": 1214,
+      "example": "Hi! 🧘 We’re working on a new partnership with Balance Group to be able to offer you discounted Yoga, Pilates, and Reformer Pilates classes. To make sure the offer matches what students actually want, we’d love your feedback. The survey takes just 2 minutes: [link] Fun fact: the founder and CEO of Balance Group is an FS alumna 💙"
+    },
+    {
+      "name": "courses_lang_ger",
+      "category": "Language course announcements",
+      "count": 1094,
+      "users": 1094,
+      "example": "Want to strengthen your 🇬🇧 English skills with Academic Business English? Registration for the Winter Semester 2026 language courses is now open! Academic Business English for advanced learners is available for €300. For more information and registration, please visit the Languages Canvas page or contact Timm Faust at [email]."
+    },
+    {
+      "name": "after_onboarding_2026",
+      "category": "Onboarding / welcome",
+      "count": 939,
+      "users": 939,
+      "example": "Glad you made it, <first_name> 🎉 Give me couple of minutes and I’ll send over your invite to register for the Opening Week activities!"
+    },
+    {
+      "name": "frankie_onboarding_confirmation_new_student",
+      "category": "Onboarding / welcome",
+      "count": 911,
+      "users": 899,
+      "example": "Hey there, welcome to FS! I’m so glad to have you here 💙 I’ll keep you updated on everything OW-related: how to register for all the activities, what’s coming up, and send you your daily schedules once it kicks off. After that, I’ll help you navigate your next steps at FS. If you have any questions about OW or FS in general, now or later, just ask!"
+    },
+    {
+      "name": "frankie_events_feedback",
+      "category": "Feedback / surveys",
+      "count": 821,
+      "users": 603,
+      "example": "Hi <first_name>! We'd truly appreciate it if you could share some constructive feedback with us. Your input will help us enhance your experience, and it means the world to us!"
+    },
+    {
+      "name": "ow_after_invite_2026_v2",
+      "category": "Event confirmations / tickets",
+      "count": 800,
+      "users": 765,
+      "example": "You have been registered for the Opening Week, Team Day, the Opening Ceremony and your preferred Workshop 🎉✅ I will send you the tickets on the morning of the events. But more on that later. See you soon 💙"
+    },
+    {
+      "name": "buddy_program",
+      "category": "Community / careers / other notices",
+      "count": 783,
+      "users": 783,
+      "example": "Hey <first_name>, there's still time to register for the *Buddy Programme* if you've been thinking about it. If that sounds like your kind of thing, here's what you need to know: - Final online workshops take place on *June 9 at 1:00 p.m.* and *June 10 at 8:00 a.m.* - After completing a workshop, you'll be eligible to be matched with a Little Buddy for the upcoming semester. - It's a great way to help new students settle into life at Frankfurt School and have a friendly face to turn to from day one. Don't miss your chance to join before registration closes 💙"
+    },
+    {
+      "name": "courses_lang_eng",
+      "category": "Language course announcements",
+      "count": 732,
+      "users": 732,
+      "example": "Thinking about improving your 🇩🇪 German next semester? Registration for the Winter Semester 2026 language courses is now open! Free German courses are available from A1–C1+, including Business German and Conversation classes to help you feel more confident in everyday life, your studies, and future jobs in Germany. Courses take place on campus in small groups from 2 September to 12 December 2026. If you would like to register, send me a message and I’ll share the appropriate course link. For more information, please visit the Languages Canvas page or contact Timm Faust at [email]."
+    },
+    {
+      "name": "frankie_events_reminder_v3",
+      "category": "Event reminders",
+      "count": 688,
+      "users": 485,
+      "example": "Hi there! Just a friendly reminder about the event 2. Frankfurt School Real Estate Career Day 2026 📍 Location: FS Campus, Foyer 🕓 Date & Time: 09.09.2026 at 16:00 If you can't make it, cancel your attendance. We'd love to see you if you can make it! 😊"
+    },
+    {
+      "name": "invite_bachelors_2026",
+      "category": "Event invitations / announcements",
+      "count": 592,
+      "users": 582,
+      "example": "Your journey at FS is about to begin 🏁🎓 Register for the Opening Week (August 26–29) to secure your spot and stay updated on everything happening during the week. International students can get a head start on August 25, with optional introductory sessions before the main programme starts."
+    },
+    {
+      "name": "tue_b_fy_international",
+      "category": "Opening Week schedules / logistics",
+      "count": 591,
+      "users": 591,
+      "example": "Hey, <first_name>! If you're an *international student*, join us for our optional information sessions, *today at 17:15.* We'll cover the German health insurance system and the most useful administrative steps to help you settle into your new chapter of living in Germany. In any case, see you tomorrow! I will send you all the information you need in the morning 💙"
+    },
+    {
+      "name": "wed_qr_bachelors",
+      "category": "Event confirmations / tickets",
+      "count": 561,
+      "users": 549,
+      "example": "The day is here, <first_name>, your first day at FS is about to start 🎉 Here's how it unfolds: 🎫 Opening Week Registration, 08:30 @ Main Entrance 📚 Your Study Smart: Ziele, Planung und Resilienz Workshop, 10:15 @ S2.04 💌 Letter to Myself, 16:30 @ S1.05 📍 If you need help finding any rooms, check out to the floor plans here or just ask me: [link] Text me if you need anything 💙"
+    },
+    {
+      "name": "friday_aug21_fy_b",
+      "category": "Opening Week schedules / logistics",
+      "count": 552,
+      "users": 552,
+      "example": "Your first week at FS is starting Wednesday 🥳 Wednesday morning, I’ll send you your first digital ticket. It will be scanned in-person during Opening Week registration, which is the first thing you’ll do when you arrive. But not to worry - you’ll hear from me throughout the week for all the daily details. If there’s anything you need, I’m here 💙"
+    },
+    {
+      "name": "wed_feedback_all",
+      "category": "Feedback / surveys",
+      "count": 548,
+      "users": 548,
+      "example": "Day one, done, <first_name> ✨ Did you have fun? What you loved? What we can do even better next year? It only takes 2 minutes and really helps us improve 💚"
+    },
+    {
+      "name": "thursday_feedback_all",
+      "category": "Feedback / surveys",
+      "count": 542,
+      "users": 542,
+      "example": "Team Day done ✨ What was your highlight? Tell us how the day went!"
+    },
+    {
+      "name": "saturday_stuco_schedule",
+      "category": "Opening Week schedules / logistics",
+      "count": 530,
+      "users": 530,
+      "example": "OW isn’t just workshops and campus tours, there are parties too! Student Council has a full social program planned for the week: 🍎 *Apfelwein Evening* @ Apfelwein Solzer | Mon, 24.08., 18:00–23:00 | Sign-up required 🏃 *City Rally* @ FS Campus | Tue, 25.08., 11:00–16:00 | Explore Frankfurt, meet students and discover FS initiatives 🚤 *Day Drinking* @ Freigut | Tue, 25.08., 16:00–22:00 | Ticket required 🪩 *Gibson Loves Frankfurt School* @ Gibson | Thu, 27.08., 22:00 | Tickets may still be available on the door 🎓 *Semester Opening* @ Fortuna | Sat, 29.08., 22:00 | College Party theme, ticket required You can also join the student-run WhatsApp group for new Bachelor students and connect with your new classmates: [link] Ask me if you want more details or any sign-up/ticket links!"
+    },
+    {
+      "name": "frankie_events_physical_event_confirmation_v2",
+      "category": "Event confirmations / tickets",
+      "count": 517,
+      "users": 432,
+      "example": "Hey Lucas, you’ve successfully booked a seat for Frankie Club – The New Chapter of Our Community! 🎉 📍 Location: Frankfurt School Frankfurt Campus, Foyer 🕓 Date & Time: 24.05.2025 at 18:00 Let me know if you have any questions or need anything before the event. Happy to help! ✨"
+    },
+    {
+      "name": "frankie_new_invite_template_no_reg_1",
+      "category": "Event invitations / announcements",
+      "count": 502,
+      "users": 496,
+      "example": "We’ve got a new event alert going off 🪩 Virtual Event with Goldman Sachs: Meet the XIG Team! is coming up on Wednesday, June 10th at 18:00h @ online and I didn’t want you to miss out. No need to sign up, you can just pop in and see what’s up. Need some more convincing? Find out more below 👇"
+    },
+    {
+      "name": "frankie_new_invite_template_no_reg_3",
+      "category": "Event invitations / announcements",
+      "count": 497,
+      "users": 490,
+      "example": "Have you heard? Skill Workshops presents: Smart Student: AI and ChatGPT for Your Academic & Career Success is happening on Monday, February 9th at 18:15h @ Frankfurt School Campus, Room after registration 🎉 Thought it might be something you’d like, sounds right up your alley. There is no registration fuss, so you can be spontaneous and check it out. Need a tiny push? I’ve got you 👇"
+    },
+    {
+      "name": "frankie_new_invite_template_no_reg_2",
+      "category": "Event invitations / announcements",
+      "count": 487,
+      "users": 482,
+      "example": "Just dropping in with a quick heads-up 💌 Virtual Event with Goldman Sachs: Meet the XIG Team! is happening on Wednesday, June 10th at 18:00h @ online. No registration is needed, so you can just show up and enjoy. If you need more info you can always tap below 👇"
+    },
+    {
+      "name": "frankie_lunch_menu_5_options",
+      "category": "Lunch menus / subscriptions",
+      "count": 483,
+      "users": 104,
+      "example": "Hello! Here are your menu choices for today: 1. *Potato Stew:* 2,50 € 2. *Macaroni and cheese:* 4,90 € 3. *Pan-Fried Turkey Steak | French Fries | Pepper Sauce:* 7,80 € 4. *Potato stew with bread or rolls:* 4,90 € 5. *Vanilla custard | Peach | Crumble:* 2,30 €"
+    },
+    {
+      "name": "frankie_new_invite_template_no_reg_4",
+      "category": "Event invitations / announcements",
+      "count": 481,
+      "users": 477,
+      "example": "A little invite from me to you 💫 Skill Workshops presents: Smart Student: AI and ChatGPT for Your Academic & Career Success is happening on Monday, February 9th at 18:15h @ Frankfurt School Campus, Room after registration, and it sounds like a cool one. You don’t even need to sign up, so it’s super easy to join. Wanna see what it’s all about? Find out more 👇"
+    },
+    {
+      "name": "saturday_opening_ceremony_bachelors",
+      "category": "Opening Week schedules / logistics",
+      "count": 475,
+      "users": 475,
+      "example": "Today’s the day, <first_name>, the Opening Ceremony is here 🥂 The festive finale begins at 17:00 @ Campus Mall. Bring your favourite people along, take a moment to enjoy this one. See you tonight ✨"
+    },
+    {
+      "name": "frankie_opening_week_event_confirmation",
+      "category": "Event confirmations / tickets",
+      "count": 463,
+      "users": 366,
+      "example": "You have been registered for the Opening Week, Outdoor Campus and Opening Ceremony 🎉✅ I will send you a ticket for each of those on the morning of the event. But more on that later. See you soon 💙"
+    },
+    {
+      "name": "suggest_lunch_menu_subscription",
+      "category": "Lunch menus / subscriptions",
+      "count": 424,
+      "users": 420,
+      "example": "I'm delighted to help make your meal planning a breeze. How about I send you the daily lunch menu from our canteen? 😊"
+    },
+    {
+      "name": "frankie_lunch_menu_4_option",
+      "category": "Lunch menus / subscriptions",
+      "count": 413,
+      "users": 90,
+      "example": "Hey there, your lunch options for today: 1. *Vegetable cream soup:* 2,50 € 2. *Farmer´s meatballs | Mustard sauce | Braised vegetables | Baked potato:* 7,20 € 3. *Mexican beans Tortilla | Egg | Beans | Potato | Avocado | Chilli:* 4,90 € 4. *Vanilla Cream | Mango Sauce:* 2,30 €"
+    },
+    {
+      "name": "frankie_update_preferences_v3",
+      "category": "Preferences / consent / assistant menu",
+      "count": 406,
+      "users": 262,
+      "example": "I see you'd like to update your preferences. No worries, I’ve got you covered! 😊 Just tap the button below to go directly to the preferences update screen. You can easily update details like your first name, last name, or topics you're interested in. If you need any help along the way, feel free to message me here. 🌟"
+    },
+    {
+      "name": "sunday_feedback_bachelors_2",
+      "category": "Feedback / surveys",
+      "count": 405,
+      "users": 405,
+      "example": "Big night, hopefully it was everything you hoped it would be 🤗 Before you head off to enjoy the rest of your weekend, can we do a quick wrap-up of the whole week? 🥹"
+    },
+    {
+      "name": "monday_aug24_ticket",
+      "category": "Event confirmations / tickets",
+      "count": 385,
+      "users": 358,
+      "example": "The day is here, <first_name>! Welcome to this year’s first day at FS 🎉 There’s a lot to cover today, here’s the schedule: 🎫 Opening Week Registration, 08:30 📚 Your Erfolgreich zusammenarbeiten und kommunizieren (DE) Workshop, 09:45 @ S1.01 🏫 Campus Tour, 11:15 - starting from Student Learning Lounge 📍, group 21 🥂 Opening Ceremony, 17:00 @ Campus Mall, your QR code ticket is in this message If you need help finding any rooms, check out to the floor plans here or just ask me: [link] Text me if you need anything 💙"
+    },
+    {
+      "name": "invite_masters_2026",
+      "category": "Event invitations / announcements",
+      "count": 375,
+      "users": 373,
+      "example": "Your journey at FS is about to begin 🏁🎓 Register for the Opening Week (August 24–25) to secure your spot and stay updated on everything happening during the week."
+    },
+    {
+      "name": "saturday_stuco_schedule_masters",
+      "category": "Opening Week schedules / logistics",
+      "count": 352,
+      "users": 352,
+      "example": "OW isn’t just workshops and campus tours, there are parties too! Your Student Council has a full social program planned for the week: 🚤 *Day Drinking* @ Freigut | Tue, 25.08., 16:00–22:00 | Ticket required 🍏 *Apfelwein Evening* @ Apfelwein Solzer | Wed, 26.08., 18:00–23:00 | Sign-up required 🪩 *Gibson Loves Frankfurt School* @ Gibson | Thu, 27.08., 22:00 | Tickets may still be available on the door 🎓 *Semester Opening* @ Fortuna | Sat, 29.08., 22:00 | College Party theme, ticket required You can also join the student-run WhatsApp group for new Masters students and connect with your new classmates: Join here [link] Ask me if you want more details or any sign-up/ticket links!"
+    },
+    {
+      "name": "tue_master_team_day",
+      "category": "Opening Week schedules / logistics",
+      "count": 341,
+      "users": 337,
+      "example": "Hope you had a great day yesterday, <first_name> ⛅ Today is Team Day! We’ll meet at 8:00 on the Frankfurt School Campus. Make sure you have a good breakfast, wear something comfy, and don’t forget to bring a water bottle, pen and paper, and your laptop or tablet 💻 For today’s activities, you’ll be working in Group 1, based in S3.07. Throughout the day, every activity and business case is another chance to earn more coins for our charity donation. So think big, work together, have fun and the points will follow 💚"
+    },
+    {
+      "name": "friday_aug21_masters",
+      "category": "Opening Week schedules / logistics",
+      "count": 335,
+      "users": 326,
+      "example": "Your first week at FS is about to begin! 🥳 This is your digital ticket. It will be scanned in-person during Opening Week registration on Monday, which is the first thing you’ll do when you arrive. But not to worry, you’ll hear from me throughout the week for all the daily details. If there’s anything you need, I’m here 💙"
+    },
+    {
+      "name": "monday_aug24_feedback",
+      "category": "Feedback / surveys",
+      "count": 329,
+      "users": 329,
+      "example": "And that's a wrap on your first day at FS, <first_name> 🥳 Got a minute to tell me how it all felt? Your thoughts help us make every upcoming event even better 💙"
+    },
+    {
+      "name": "tue_masters_feedback_2",
+      "category": "Feedback / surveys",
+      "count": 316,
+      "users": 316,
+      "example": "How was Team Day? 👀 Did you have fun? What you loved? What we can do even better next year? It only takes 2 minutes and really helps us improve 💚"
+    },
+    {
+      "name": "frankie_big_event_invite",
+      "category": "Event invitations / announcements",
+      "count": 308,
+      "users": 294,
+      "example": "Be part of the biggest networking event FS has ever hosted. Saturday, May 24th, Campus Foyer 👇"
+    },
+    {
+      "name": "thursday_teamday_other_bachelors",
+      "category": "Opening Week schedules / logistics",
+      "count": 303,
+      "users": 303,
+      "example": "Today is Team Day, <first_name>! We're meeting at 8:00 in the Frankfurt School Campus Main Entrance. You are in Group 9A in S3.03. Before we start, we’ll need to get you registered, so please make sure to arrive on time! Also, have a good breakfast, wear something comfy, and pack a water bottle 🎒💚"
+    },
+    {
+      "name": "sunday_feedback_masters_fy",
+      "category": "Feedback / surveys",
+      "count": 293,
+      "users": 293,
+      "example": "Before you head off to enjoy the rest of your weekend, can we do a quick wrap-up of how this whole week left you feeling? 🥹"
+    },
+    {
+      "name": "thursday_teamday_bba_fy",
+      "category": "Opening Week schedules / logistics",
+      "count": 285,
+      "users": 285,
+      "example": "Today is Team Day, <first_name>! We’re meeting at 8:00 at Sport Club 1880 e.V., just behind the Frankfurt School campus, by the Blue Flag 🔵. That’s also when the registration starts, so please make sure to arrive on time. You’re in Group 5B. Later in the afternoon, you’ll continue in S1.11. And one last thing: have a good breakfast, wear something comfy, and bring a water bottle 🎒💚"
+    },
+    {
+      "name": "frankie_events_vertical_event_confirmation_v1",
+      "category": "Event confirmations / tickets",
+      "count": 246,
+      "users": 148,
+      "example": "Hey <first_name>, you’ve successfully reserved a spot for Career Services presents: Master the Assessment Center! 🎉 📍 Location: Online — Join here: [link] 🕓 Date & Time: Thursday, September 10th at 17:00h Let me know if you have any questions or need anything before the event. Happy to help! ✨"
+    },
+    {
+      "name": "wed_case_study_mof_mft",
+      "category": "Opening Week schedules / logistics",
+      "count": 225,
+      "users": 225,
+      "example": "Thank you for joining the Business Case Session with Deutsche Börse and Deutsche Bank yesterday! The feedback sessions, hosted by *representatives from both companies*, will take place on *Friday, 28 August, from 9:00–10:00 on Campus.* Joining is optional, and you can choose one feedback session. If you’d like to take part, just let us know below. See you there 💙"
+    },
+    {
+      "name": "ow_additional_info_updated",
+      "category": "Opening Week schedules / logistics",
+      "count": 199,
+      "users": 199,
+      "example": "Hi! I thought I’d share a few things your future classmates have been asking me about, they might be useful for you too: 📅 OW schedule: Your program starts on Monday, 24 August, which is also the date of your Opening Ceremony. Tuesday, 25 August is Master Team Day, while the rest of the week includes optional workshops, and other social activities. Feel free to ask me for your detailed schedule. 👔 Dress code: Business casual attire for the first day and the Opening Ceremony, casual attire for the Master Team Day and all other activities. 💡Master Team Day: Please bring a laptop or tablet and plenty of water to stay hydrated. 📚 Teaching schedule: Your personal lecture schedule and the 2026-27 academic calendar are currently being prepared and will be available soon via your Canvas and Online Campus calendar. 🪪 Student ID photo: Please upload your photo via Online Campus → My Profile → Photograph before Orientation Week. 👨‍👩‍👧‍👦 Parents: Parents are not expected to attend the Opening Ceremony."
+    },
+    {
+      "name": "friday_workshop_masters",
+      "category": "Opening Week schedules / logistics",
+      "count": 192,
+      "users": 192,
+      "example": "As part of Orientation Week, you’ll have the chance to join Launch Your Career on *Friday, 28 August, from 10:30–12:30* 🚀 In this Career Services workshop, you’ll learn how to strengthen your CV and LinkedIn profile, build your network, prepare for interviews, and get practical tips you can use right away in your internship or job search. Hurry up, the seats are limited!"
+    },
+    {
+      "name": "frankie_onboarding_confirmation_current_student",
+      "category": "Onboarding / welcome",
+      "count": 146,
+      "users": 146,
+      "example": "That was fast! 😊 I’m here to help with courses, career stuff, and events. Soon, I’ll also be able to connect you with alumni who’ve been where you are and want to help you on your career journey. I’ll keep you updated. Got any questions about that?"
+    },
+    {
+      "name": "frankie_ow_before_onboarding_current_student",
+      "category": "Onboarding / welcome",
+      "count": 127,
+      "users": 123,
+      "example": "That was fast! 🤭 –Welcome aboard! Remember, my role revolves around: 1 · 📚 Guiding you through our academic offerings and assisting in selecting courses. 2 · 💼 Providing information about career services, upcoming events, and the canteen menu. 3 · 📝 Helping you with networking opportunities and administrative tasks. 4 · ℹ️ And of course, providing essential campus information regarding borrowing equipment, healthcare, counseling, and more!"
+    },
+    {
+      "name": "frankie_ow_before_onboarding",
+      "category": "Onboarding / welcome",
+      "count": 120,
+      "users": 77,
+      "example": "Welcome to the Frankfurt School of Finance and Management 🎉 I'm Frankie, here to help you settle in and get ready for your journey ahead. Let’s get to know each other and dive into your schedule."
+    },
+    {
+      "name": "decode_cancel",
+      "category": "Event cancellations",
+      "count": 107,
+      "users": 107,
+      "example": "*Workshop cancelled: Decode Recruiting Trends 2026* Dear Marta Hike Maria, unfortunately, we need to cancel this Wednesday’s *\"Decode Recruiting Trends 2026\" workshop (9 September, 6:00 pm)* due to illness. We’re sorry for the short notice and appreciate your understanding. The workshop will not be rescheduled for now, but we’ll keep you posted on any updates. *Your Career Services Team*"
+    },
+    {
+      "name": "opening_week_event_inivtation",
+      "category": "Event invitations / announcements",
+      "count": 88,
+      "users": 88,
+      "example": "Your journey at FS is about to begin 🎓 Register for the *Opening Week* (August 25–30) to secure your spot and stay updated on everything happening during the week 👇"
+    },
+    {
+      "name": "bc_fy_tuesday_schedule_fix",
+      "category": "Opening Week schedules / logistics",
+      "count": 84,
+      "users": 84,
+      "example": "Oops, my mistake, <first_name>! 🌟 You’ll be at Outdoor Campus *9:00–16:00* (not 14:00-18:00). Everything else stays as planned: ticket in the morning, FS t-shirt, comfy clothes, daypack, and a good breakfast! 🌳💙"
+    },
+    {
+      "name": "bc_fy_tuesday_schedule_v2",
+      "category": "Opening Week schedules / logistics",
+      "count": 84,
+      "users": 84,
+      "example": "Hope your first day was full of fun, <first_name>! Now, get ready for some good sleep because you have an active day ahead 🌳 Tomorrow, you will be out and about with your classmates, at Outdoor Campus, from 14:00 to 18:00. 📢 A few things to keep in mind! I will send over your *digital ticket* first thing in the morning. You will also receive your official FS t-shirt there - if you've already grabbed yours today, don't forget to bring it! I suggest you wear your comfiest clothes, pack yourself a daypack, and eat a nice meal before heading out! 💙"
+    },
+    {
+      "name": "real_estate_confirmation_sep8",
+      "category": "Event confirmations / tickets",
+      "count": 81,
+      "users": 81,
+      "example": "Hi <first_name>, while you’re at the *Real Estate Career Day*, there are two Expert Impulse sessions you can join in Creative Learning: • 16:15–16:35 | Dr. Jan Linsin, CBRE | International Investment Flows, Asset Classes & Global Outlook for the Property Sector • 17:00–17:30 | Thomas Flohr, Leaderslead Advisory | AI Impact on Real Estate Careers: Solutions & Opportunities *If you will join (one or both), just click the button below!*"
+    },
+    {
+      "name": "frankie_douglas_event_v4",
+      "category": "Event invitations / announcements",
+      "count": 78,
+      "users": 78,
+      "example": "Silly me, I got carried away explaining and forgot to include a link for you. 🤭 I'm sorry about that. Here it is now, so you can apply directly below. I’ll be here if you need anything along the way 💙"
+    },
+    {
+      "name": "opening_week_prep_day",
+      "category": "Event reminders",
+      "count": 76,
+      "users": 76,
+      "example": "Your first week at FS is about to begin! 🥳 🎟️ For now, I’m sending over your first *digital ticket* - you’ll be getting it in the next half an hour! You will need the ticket for your in-person, Opening Week registration 🧾 But not to worry - you’ll hear from me throughout the week for all the daily details. ☺️ If there’s anything you need, I’m here 💙"
+    },
+    {
+      "name": "opening_week_documentation_message",
+      "category": "Opening Week schedules / logistics",
+      "count": 75,
+      "users": 75,
+      "example": "Hey <first_name>, Just wanted to remind you about an upcoming submission deadline 📩 Here’s the most important info to keep in mind 👇 1️⃣ There are four documents you need to send over: 🔹Liability Waiver 🔹Consent to publication of photos and videos 🔹FS Data Terms of Use 🔹Emergency Contact (optional) 2️⃣ The documents you need are in your Study Guide, ready to be downloaded! Things should be on their way to [email] by August 25❗ Let me know if there’s a way I can help 💙"
+    },
+    {
+      "name": "outdoor_campus_ticket_bc_fy",
+      "category": "Event confirmations / tickets",
+      "count": 75,
+      "users": 75,
+      "example": "*Here’s your Outdoor Campus digital ticket!* Wednesday, 27.08.2025. 09:00 @ Sport Club Frankfurt 1880 eV 📌"
+    },
+    {
+      "name": "frankie_events_reminder_qr_code_v3",
+      "category": "Event confirmations / tickets",
+      "count": 74,
+      "users": 74,
+      "example": "*Opening Week* 25.08.2025 at 14:30 @ Frankfurt School Campus 📌"
+    },
+    {
+      "name": "frankie_events_current_students_15_09",
+      "category": "Event invitations / announcements",
+      "count": 67,
+      "users": 67,
+      "example": "Hi <first_name> , here’s what you can join at FS this week: 😌 *Breathe & Reset (Student Wellbeing)* – 20 minutes to pause and recharge • Tue, 16 Sept • 13:20–13:40 • On Campus 🎓 *FS Career Days Intro Session (Career Services)* – Learn how to make the most of Career Days 2025 • Tue, 16 Sept • 18:00–20:00 • Online 🚀 *Open Workshop + Community Get-Together (FS Entrepreneurship Centre)* – With Garan Goodman on product–market fit + networking • Wed, 17 Sept • 18:30–20:30 • FS Entrepreneurship Centre Let me know if you have any questions!"
+    },
+    {
+      "name": "opening_week_ticket_bcfy_resend_v2",
+      "category": "Event confirmations / tickets",
+      "count": 65,
+      "users": 65,
+      "example": "In case it got lost in our chat 🤭 Here is your *Opening Week Registration* ticket, again. You will need it *this morning* during Registration - make sure to have it on hand 💙"
+    },
+    {
+      "name": "frankie_events_monday_message_6_10",
+      "category": "Event / campus digests",
+      "count": 64,
+      "users": 64,
+      "example": "Hi <first_name>, here’s what's coming up at FS: 💼 *Citi Takeover Day – Meet Citi bankers, get CV feedback* • Tue, 7 Oct • 09:00–16:00 • On Campus 🤝 *Authentic Networking Workshop* – How to work on your relationships with M.J. Wienand • Wed, 8 Oct • 09:00–12:30 • On Campus 📊 *Investment Banking Interview Workshop*– With Sneha Jain • Wed, 8 Oct • 18:00–19:45 • On Campus 💡 *Capital Days (FS Entrepreneurship x FS Invest)* – 2 days of insights on entrepreneurship & investing • Fri–Sat, 10–11 Oct • 09:00–22:00 • On Campus Here for your questions 💙"
+    },
+    {
+      "name": "fssc_first_proactive_message",
+      "category": "Community / careers / other notices",
+      "count": 64,
+      "users": 64,
+      "example": "Hi! This is Fleur and Jannis👋 Quick update on our SC-applications: We received an incredible 258 applications — a new all-time record! 🎉 Our Bewerbertage are happening today and tomorrow, so we’ll be welcoming our new members by the end of the week. Exciting times ahead! 🚀"
+    },
+    {
+      "name": "frankie_douglas_event_v2",
+      "category": "Event invitations / announcements",
+      "count": 64,
+      "users": 64,
+      "example": "Hey, <first_name>! Want to kick-start your career in real estate and connect with top employers like DWS, KPMG, and Art-Invest? Join the **FS Real Estate Career Day on September 10** – with a career fair, alumni talks, and exclusive networking opportunities."
+    },
+    {
+      "name": "frankie_workshop_application_2",
+      "category": "Event invitations / announcements",
+      "count": 63,
+      "users": 63,
+      "example": "Hey <first_name>! Opening Week is just two weeks away and it's due time to start signing up for workshops. 🤓 They are designed to help you grow beyond the classroom, build new skills, and connect with other students. I suggest you log in, browse the brochure and choose your favorites. 🔏 You can sign up to *one workshop per day* here: [link] Be sure to act quick - some slots are already full ❗ For any questions - I’m here 💙"
+    },
+    {
+      "name": "frankie_casino_update_all_students",
+      "category": "Campus operational notices",
+      "count": 60,
+      "users": 60,
+      "example": "Hi, <first_name>! Just a quick update for you – there’s a small change at the Casino starting this semester. Here’s the scoop: 💳 FS Card holders: Enjoy internal prices! 💸 Without an FS Card: You’ll pay the external price. ☕ Cafébar: A €0.50 surcharge applies if you're not paying with your FS Card. 🥳 Deli: Now open on Sundays from 9 - 3 PM. 💡 If you haven’t registered your FS Card yet, make sure to do so soon to take advantage of the discount!"
+    },
+    {
+      "name": "frankie_onboarding_confirmation_alumni",
+      "category": "Onboarding / welcome",
+      "count": 60,
+      "users": 60,
+      "example": "That was fast! 😊 I’m here to keep you updated on FS events, news, and ways to stay connected to the school. Soon, I’ll also help you connect with students who could really benefit from your experience. I’ll keep you updated. Got any questions about that?"
+    },
+    {
+      "name": "opening_ceremony_ticket_bachelors",
+      "category": "Event confirmations / tickets",
+      "count": 59,
+      "users": 57,
+      "example": "*Here’s your Opening Ceremony digital ticket!* Saturday, 30.08.2025. 17:00 @ Campus Mall, Frankfurt School Campus 📌"
+    },
+    {
+      "name": "friday_only_workshop_2",
+      "category": "Opening Week schedules / logistics",
+      "count": 57,
+      "users": 57,
+      "example": "How's your week been, <first_name>? Today looks like fun for you: 📚 Career Services presents: Launch Your Career @ 10:30 S2.03 I'm here if you need anything else 💙"
+    },
+    {
+      "name": "frankie_menu_skill_v1",
+      "category": "Preferences / consent / assistant menu",
+      "count": 57,
+      "users": 43,
+      "example": "What would you like to do? 😊"
+    },
+    {
+      "name": "frankie_community_life",
+      "category": "Event invitations / announcements",
+      "count": 56,
+      "users": 56,
+      "example": "Now, let’s kick off the semester, <first_name> 🚀 Tomorrow (September 2nd) is the *Community Life Fair*, from 17:00–20:00 at the Campus. 50+ student groups will be there: Student Council, FS Alumni, Student Consulting, Ambassadors & more. The perfect way to dive into campus life ✨ If you’ve got any questions about it, I’m here 💙"
+    },
+    {
+      "name": "invite_fy_2026",
+      "category": "Event invitations / announcements",
+      "count": 53,
+      "users": 53,
+      "example": "Your journey at FS is about to begin 🏁🎓 Register for the Opening Week (August 26–27) to secure your spot and stay updated on everything happening during the week. International students can get a head start on August 25, with optional introductory sessions before the main programme starts."
+    },
+    {
+      "name": "24_08_schedule_ms",
+      "category": "Opening Week schedules / logistics",
+      "count": 52,
+      "users": 51,
+      "example": "Tomorrow’s the Opening Ceremony Day, <first_name>! 🎟️ If you’ve registered for it - I will send over your *digital ticket* in the morning. But, before you start celebrating - don’t forget that your Opening Week *Registration* starts at 14:30! If you’re an *international student*, you’ve got your midday booked as well - checkout the *schedule* for more info 🗃️ For any questions, I’m here 💙"
+    },
+    {
+      "name": "friday_case_solution_qr",
+      "category": "Event confirmations / tickets",
+      "count": 51,
+      "users": 50,
+      "example": "*Case Solution Deutsche Bank* Friday, 28.08.2026. 09:00 @ S0.02 (Deutsche Börse) or S0.03 (Deutsche Bank) 📌"
+    },
+    {
+      "name": "frankie_christmas_gala_questionnaire",
+      "category": "Feedback / surveys",
+      "count": 50,
+      "users": 50,
+      "example": "Get ready for the *first-ever FS Christmas Gala* 🎄✨ Spots are extremely limited, so get on the waiting list now. Don’t be the one hearing about it after it’s sold out 👇"
+    },
+    {
+      "name": "wed_qr_fy",
+      "category": "Event confirmations / tickets",
+      "count": 50,
+      "users": 44,
+      "example": "The day is here, <first_name>, your first day at FS is about to start 🎉 Here's how it unfolds: 🎫 Opening Week Registration, 08:30 @ Main Entrance 📚 Your Study Smart: Ziele, Planung und Resilienz Workshop, 10:15 @ S2.04 💌 Letter to Myself, 16:30 @ S0.03 📍 🥂 Opening Ceremony, 17:30 @ Campus Lounge I’m here if you need anything 💙"
+    },
+    {
+      "name": "bc_wednesday_schedule_no_workshop",
+      "category": "Opening Week schedules / logistics",
+      "count": 49,
+      "users": 49,
+      "example": "Get your sponge hat ready, <first_name> 🧽 There’s a lot to see and do tomorrow! 1. *Language Courses*: 10:00 - 10:15 2. *Student Support Services Introduction*: 10:30 - 11:30 3. *FS Student Support Fair*: 11:30 - 13:00 📌 Tomorrow's events are happening across the campus - check the schedule to find out your locations. If you need my help, just ask 💙"
+    },
+    {
+      "name": "frankie_events_reminder_qr_code_v3_fix",
+      "category": "Event confirmations / tickets",
+      "count": 48,
+      "users": 48,
+      "example": "Wait… my bad! ☹️ I rushed a bit when sending over your digital ticket, so let’s clear up a few things 👇 1️⃣ Yes, I did send you *the right ticket* - you will use it to clock in to Opening Week Registration ✅ 2️⃣ BUT - your registration is not until *Tuesday*, August 26th ⏰ 📌 As for the specifics, you can look up everything in the *schedule* Thanks for rolling with me on this - just wanted to clear that up 💙"
+    },
+    {
+      "name": "monday_stuco_reminder_bcfy",
+      "category": "Event reminders",
+      "count": 48,
+      "users": 48,
+      "example": "Hey, did you hear about the open sky bar happening tomorrow? A skyline view and summer vibes? 🌇 Meet the StuCo team at the “Main Terrasse” from *18:00* onward - no registration necessary ✨ I’m here if you need any help 💙"
+    },
+    {
+      "name": "frankie_weekly_message_may_14",
+      "category": "Event / campus digests",
+      "count": 47,
+      "users": 47,
+      "example": "POV: you survived class, now you deserve ice cream 🍦 Vanilla, chocolate, stracciatella & pistachio are waiting for you at the café bar!"
+    },
+    {
+      "name": "frankie_events_monday_message_29_9",
+      "category": "Event / campus digests",
+      "count": 43,
+      "users": 43,
+      "example": "Hi <first_name>, here’s what’s coming up at FS: 🧠 *FS Well-being & Mental Health Community – Kick-off* • Meet the team and explore focus & balance as a student at FS • Mon, 29 Sept • 18:00 • S.2.08 📊 *PowerPoint (1) – 7 Tips to Get PowerPoint Well Done* • Learn how to deliver presentations that match your audience • Wed, 1 Oct • 18:00–20:00 • On Campus 📖 *Joint CfCB–IMFS Book Presentation* • With John H. Cochrane (Stanford & Hoover Institution) and Klaus Masuch (ex-ECB) • Mon, 6 Oct • 16:30–18:00 • S0.02 I'm here if you have any questions 💙"
+    },
+    {
+      "name": "opening_week_workshop_application_reminder",
+      "category": "Event reminders",
+      "count": 42,
+      "users": 42,
+      "example": "Good news, <first_name> ! You can now sign up for the workshops you might have missed the first time around! 🥳 Check out what’s available here: [link] A quick reminder that: 📆 registration closes on August 22nd, 1️⃣ you may pick one workshop per day! For any questions, I’m here 💙"
+    },
+    {
+      "name": "feedback_monday_all",
+      "category": "Feedback / surveys",
+      "count": 42,
+      "users": 42,
+      "example": "Opening Week done and dusted. ✅ How accomplished you must feel. 🙂‍↔️ Let me know if there’s a way to improve for you, and everyone coming through 💙"
+    },
+    {
+      "name": "masters_scholarship",
+      "category": "Scholarships / funding",
+      "count": 40,
+      "users": 40,
+      "example": "🎓 Congratulations on your Frankfurt School scholarship! That’s a fantastic achievement, and there may be even more opportunities ahead ✨ Join the Talentschuppen workshop on *Friday, 28 August, from 10:30–14:00*, hosted by *Peter Kiefer, Head of Study Finance at Frankfurt School*. In the workshop, you can discover additional scholarship opportunities with Germany’s leading foundations, including the Studienstiftung. You’ll learn which scholarships could be a strong fit for your profile, how to prepare for applications and selection processes, and how to make the most of your potential 🚀 Want me to register you for it?"
+    },
+    {
+      "name": "frankie_mft_mof_concentration_sessions_day",
+      "category": "Opening Week schedules / logistics",
+      "count": 40,
+      "users": 40,
+      "example": "Hey <first_name>, just a quick reminder: our *MFT & MoF Concentration Info Sessions* are happening *tonight at 18:00 in the Audimax.* You’ll hear directly from faculty about all six concentrations (Capital Markets, Risk Management, Central Banking & Financial Regulation, Corporate Finance, Financial Advisory, and Sustainable Finance? plus insights into related career paths. See you!"
+    },
+    {
+      "name": "outdoor_campus_ticket_master",
+      "category": "Event confirmations / tickets",
+      "count": 39,
+      "users": 39,
+      "example": "*Here’s your Outdoor Campus digital ticket!* Tuesday, 26.08.2025. 14:00 @ Frankfurt School Campus - at the blue flag 📌"
+    },
+    {
+      "name": "opening_ceremony_ticket_masters_v2",
+      "category": "Event confirmations / tickets",
+      "count": 39,
+      "users": 38,
+      "example": "*Here’s your Opening Ceremony digital ticket!* Monday, 25.08.2025. 17:00 @ Campus Mall, Frankfurt School Campus 📌"
+    },
+    {
+      "name": "frankie_weekly_message_10_11_2025",
+      "category": "Event / campus digests",
+      "count": 36,
+      "users": 36,
+      "example": "Hi <first_name>, here’s what’s coming up at FS: 🔥 *CaS Fireside Chat – Summer Internship Insights* – Hear from alumni & students about their internship experiences. *Tue, 11 Nov • 18:00–19:00* 🌍 *International Day* – Enjoy global food & drinks and connect with international students. *Thu, 13 Nov • 16:30–19:30* 🤖 *Smart Student: AI & ChatGPT for Success* – Boost your studies & career with AI tools. *Thu, 13 Nov • 18:00–19:30* 🎨 *Drink & Paint* – Design your FS Christmas Cards *Sat, 15 Nov • 18:00* Here for questions!"
+    },
+    {
+      "name": "music_sprint_event_invitation_v1",
+      "category": "Event invitations / announcements",
+      "count": 35,
+      "users": 35,
+      "example": "Hey <first_name>, next week we welcome spring the best way we know - with music! Join the *“FS Music Spring Concert Blast from the 80s!”* from 19:30 on April 29th. Save yourself a spot now!"
+    },
+    {
+      "name": "bc_friday_schedule_no_workshop",
+      "category": "Opening Week schedules / logistics",
+      "count": 34,
+      "users": 34,
+      "example": "Tomorrow’s a big day, <first_name>! The Opening Ceremony rolls out at 17:00 and we round off at 21:00. 🎟️ If you’ve registered for it - I will send over your *digital ticket* in the morning. Any other question - I’m here 💙"
+    },
+    {
+      "name": "frankie_weekly_message_24_11_2025",
+      "category": "Event / campus digests",
+      "count": 34,
+      "users": 34,
+      "example": "Hi <first_name>, here’s what’s coming up at FS: 🧘‍♂️ *Stress Control Workshop* – Learn relaxation exercises to manage stress. Tue, 25 Nov • 18:00–20:00 💼 *Alumni Insights: Data Science* – Hear FS alumni share their career paths in AI and analytics. Tue, 25 Nov • 18:30–21:00 🌱 *FS Sustainability x Capgemini Invent* – Insights on sustainability and innovation. Wed, 26 Nov • 18:00–20:30 Let me know if you're interested!"
+    },
+    {
+      "name": "frankie_downtime_finish_24_03_2026",
+      "category": "Service / system notices",
+      "count": 33,
+      "users": 33,
+      "example": "Hi <first_name>, I’m back 🤙 I hope your exams went just as well as my revamp. Let’s start with what’s coming up: 🏢 *FS Real Estate: Investing in European Real Estate Markets* with Uni St. Gallen • Wed, 25 Mar • 17:30 (S.0.01) 📊 *Mathewerkstatt Klartext – Lineare Regression*: Understanding deviations (online, DE) • Thu, 26 Mar • 18:00 🤝 *FS Wi x Bankhaus Metzler*: Women Networking with insights into finance & leadership • Wed, 1 Apr • 16:00 Let me know if you want more details on any of them 💙"
+    },
+    {
+      "name": "frankie_weekly_message_01_12_2025",
+      "category": "Event / campus digests",
+      "count": 33,
+      "users": 33,
+      "example": "Hi <first_name>, here’s what’s coming up at FS: 🌍 *FS Social Enterprise Panel* – \"Financing a Better Future – Inside ESG & Sustainable Finance\" with experts on sustainability in finance. Mon, 1 Dec • 19:00–21:00, Room 1.05 🎶 *FS Music Winter Concert* – A magical evening featuring live Disney soundtracks performed by our musicians! Tue, 2 Dec • 19:00–22:00, Audimax 💻 *Online Event: ECB Supervisory Trainee Programme* – Get insights into the ECB's trainee programme and its career opportunities. Wed, 3 Dec • 17:30–18:30, Online Let me know if you're interested!"
+    },
+    {
+      "name": "24_08_schedule_bc_fy",
+      "category": "Opening Week schedules / logistics",
+      "count": 33,
+      "users": 33,
+      "example": "Opening Week is finally here 🤗 Next week, you’ll be meeting new people, and getting familiar with the place that will hopefully feel like home 🏠 If you’re an *international student* - find your way to the 📌 Audimax auditorium tomorrow 👇 12:30 - 13:00 Moving to Germany: What do I have to do? 13:00 - 13:15 Health Insurance Presentation 13:15 - 14:15 Health Insurance Check I hope you make the most of this week 💙"
+    },
+    {
+      "name": "bba_monday_schedule_v2",
+      "category": "Opening Week schedules / logistics",
+      "count": 32,
+      "users": 32,
+      "example": "Sending over your agenda for tomorrow - you’ll be wrapping up around 16:30 👇 1. *Registration*: 09:00 - 10:30 2. *Welcome at FS*: 10:30 - 10:45 3. *FS Community*: 10:45 - 11:30 4. *Programme Specific Introduction*: 11:30 - 13:00 5. *Networking Lunch & Campus Tour*: 13:00 - 14:30 6. *How to study at FS*: 14:30 - 15:00 7. *Letter to myself*: 15:00 - 16:30 📌 You won’t need to run around. All the events will take place in Audimax, and the Networking Lunch will be held in the Audimax Foyer & Foyer. I’m here if you think of something you need 💙"
+    },
+    {
+      "name": "career_days_intro_16_09",
+      "category": "Event invitations / announcements",
+      "count": 31,
+      "users": 31,
+      "example": "Hi <first_name>, The FS Career Days Intro Session is happening today! It starts at 18:00 and will run until 20:00 on Zoom. You will hear all the key information about the event, the virtual platform, and the best ways to prepare and network 🤝 Join here: [link] See you there 💙"
+    },
+    {
+      "name": "cancelled_event_sep9",
+      "category": "Event cancellations",
+      "count": 31,
+      "users": 31,
+      "example": "Dear students, Unfortunately, we need to postpone tomorrow’s *\"Master the Assessment Center\" workshop* (10 September, 5:00 pm) due to illness. We’re sorry for the short notice and appreciate your understanding. We’ll let you know as soon as a new date is confirmed. Stay tuned! *Your Career Services Team*"
+    },
+    {
+      "name": "frenkie_events_feedback_wednesday_bc_fy",
+      "category": "Feedback / surveys",
+      "count": 31,
+      "users": 31,
+      "example": "So, did you find something cute AND comfy to wear today? Meet any new people? I hope no one got lost outdoors? 🤭 Tell me everything 🤗"
+    },
+    {
+      "name": "weekly_workshop_overview",
+      "category": "Event / campus digests",
+      "count": 31,
+      "users": 31,
+      "example": "Hi <first_name>, me again. I saw you’ve signed up for a workshop or two - let me give your weekly overview 👇 1. *Succeed Worldwide with Intercultural Competence*: 25 Aug 2025, 09:00 - 12:00 📌 Check out the schedule to find out where each will be taking place. If you need anything, just ask 💙"
+    },
+    {
+      "name": "friday_only_scholarship",
+      "category": "Scholarships / funding",
+      "count": 29,
+      "users": 29,
+      "example": "How's your week been, <first_name>? Today looks like fun for you: 🎓 Scholarship Workshop @ 10:30 in S2.04 I'm here if you need anything else 💙"
+    },
+    {
+      "name": "frankie_weekly_overview_feb9",
+      "category": "Event / campus digests",
+      "count": 29,
+      "users": 29,
+      "example": "Hi <first_name>, here’s what’s coming up at FS next week: 🤝 *Erfolg durch Relationing* – Why strong networks matter more than ever and how to build them • Wed, 11 Feb • 18:30–20:00 🩸 *Blood Donation Day* – Donate blood with the German Red Cross & FS Charity (snacks included!) • Thu, 12 Feb • 12:00–16:15 🧠 *Design your Life* – Next Level Self – Boost productivity, clarity & energy using the Dilts Pyramid (German) • Thu, 12 Feb • 18:00–21:00 📄 *Crafting a Compelling Job Application* – CVs, cover letters, personal branding & AI tips • Thu, 12 Feb • 18:00–19:30 Want details on any of these?"
+    },
+    {
+      "name": "frankie_weekly_message_17_11_2025_v3",
+      "category": "Event / campus digests",
+      "count": 29,
+      "users": 29,
+      "example": "Hi <first_name>, here’s what’s coming up at FS: 🔥 *CaS: Fireside Chat – Data Science* – Get insights into careers in the data field. Tue, 18 Nov • 18:00–19:00 💼 *Steuerrecht für Studierende & Absolventen (in German)* – Learn when students should file tax returns, and when it’s beneficial. Thu, 20 Nov • 18:00–21:00 📊 *FS Quant & Data Science: Sustainable Corporate Banking with Michael Pflitsch* – A deep dive into sustainable corporate banking. Fri, 21 Nov • 17:00–21:00 • Room S.2.02 Let me know if you’re interested!"
+    },
+    {
+      "name": "frankie_events_23_9",
+      "category": "Event / campus digests",
+      "count": 28,
+      "users": 28,
+      "example": "Hi <first_name>, here’s what's going on at FS this week: 🧑‍💻 *Ace your Data Science Interview* – Workshop with Data Scientist Charaf Ouladali • Wed, 24 Sept • 18:00–20:00 • On Campus 🌍 *My German Success* – Alumni career stories, tips for entering the German job market • Thu, 25 Sept • 18:00–19:30 • Online 🧑‍🍳 *FS Chef Kick-Off* • Meet the FS Chef • Fri, 26 Sep • 20:15–20:45 • S1.08 📚 *FS Book Club Kick-Off* – Meet the FS Book Club • Fri, 26 Sept • 20:45–21:15 • S1.09 If you want to know more, just ask!"
+    },
+    {
+      "name": "custom_event_announcement_oct08",
+      "category": "Event invitations / announcements",
+      "count": 27,
+      "users": 27,
+      "example": "Hi <first_name>, just a reminder for today's Workshop Ace your Data Science Job Interview: We are looking forward to seeing in room S3.03 at 18:00h 💙"
+    },
+    {
+      "name": "thursday_stuco_reminder_all",
+      "category": "Event reminders",
+      "count": 27,
+      "users": 27,
+      "example": "Adventure time 🗺️ Join StuCo for the City Rally - roaming around Frankfurt and hunting for prizes 🕵️ ✍️ Registration is tomorrow - from 11:00 to 12:30, under the Präsidialbau. 🕰️ We go exploring at 13h! I’m here for any questions 💙"
+    },
+    {
+      "name": "friday_only_case_study",
+      "category": "Opening Week schedules / logistics",
+      "count": 26,
+      "users": 26,
+      "example": "How's your week been, <first_name>? Today looks like fun for you: 💬 Case Study Feedback Session @ 09:00 in S0.02 (Deutsche Börse) or S0.03 (Deutsche Bank) I'm here if you need anything else 💙"
+    },
+    {
+      "name": "friday_new_skies",
+      "category": "Opening Week schedules / logistics",
+      "count": 26,
+      "users": 26,
+      "example": "Hi, we’d like to apologize for any issues you may have experienced with the Zoom link for the New Skies, New Roots online workshop. Please use the new Zoom link below: [link]"
+    },
+    {
+      "name": "frankie_weekly_message_may_06",
+      "category": "Event / campus digests",
+      "count": 26,
+      "users": 26,
+      "example": "Hi, please ignore the message you received this morning regarding feedback, it was a bug. Sorry about that 💙"
+    },
+    {
+      "name": "friday_case_workshop",
+      "category": "Opening Week schedules / logistics",
+      "count": 25,
+      "users": 25,
+      "example": "How's your week been, <first_name>? Today looks like fun for you: 💬 Case Study Feedback Session @ 09:00 in S0.02 (Deutsche Börse) or S0.03 (Deutsche Bank) 📚 New Skies, New Roots: getting ready to feel at home away from home (EN) @ 10:30 online: [link] I'm here if you need anything else 💙"
+    },
+    {
+      "name": "frankie_weekly_message_apr_23",
+      "category": "Event / campus digests",
+      "count": 25,
+      "users": 25,
+      "example": "❗️Just a quick heads-up: *payments with FS cards are currently unavailable* in the casino and café bar due to technical issues. You can still use other payment cards as usual."
+    },
+    {
+      "name": "frankie_matching_day_v1",
+      "category": "Event invitations / announcements",
+      "count": 25,
+      "users": 25,
+      "example": "Hi <first_name>! Just a heads-up: Matching Day is on 1st October! This is when you can sign up for virtual sessions, and companies pick students for one-on-one chats. If you haven’t yet, make sure to complete your Virtual Profile on Careernomics and upload your CV – you need it to be selected for a one-on-one. Here is the link to apply: [link] Don’t miss out! 💙"
+    },
+    {
+      "name": "frankie_weekly_message_03_11_2025",
+      "category": "Event / campus digests",
+      "count": 25,
+      "users": 25,
+      "example": "Hi <first_name>, here’s what’s coming up at FS: 📸 FS Charity Photoshoot – Get a professional headshot in exchange for a small donation. Mon, 3 Nov • 09:00–16:30 • FS Lobby 💼 Career Days 2025 – Meet top employers and explore your next career move! Tue & Wed, 4–5 Nov • FS Campus & Online • Final chance to register: [link] Let me know if you’re interested!"
+    },
+    {
+      "name": "frankie_weekly_message_27_10_2025",
+      "category": "Event / campus digests",
+      "count": 24,
+      "users": 24,
+      "example": "Hi <first_name>, here’s what’s coming up at FS: 🎃 *Pumpkin Carving @ FS* – Bring the Halloween spirit to campus! Tue, 28 Oct • 16:00–19:00 • On Campus 🎬 *FS Charity Halloween Movie Night* – A spooky movie night supporting breast cancer research. Tue, 28 Oct • 19:00 • Creative Learning Area, FS 💡 *Through the Investor’s Eyes | Workshop & Networking* – Learn what VCs look for in a pitch with Michael Mizrahi. Wed, 29 Oct • 18:30–19:30 • FS Entrepreneurship Centre Let me know if you're interested!"
+    },
+    {
+      "name": "firday_aug21_all_eng",
+      "category": "Language course announcements",
+      "count": 23,
+      "users": 23,
+      "example": "Also, quick note: if you want to brush up you German skills, the free German courses start on 2 September, and registration is open now. They’re a great way to make everyday life easier, meet people, and build your confidence in German. You can find the course times and registration links on the Languages page in your Canvas Study Guide or here. Places can fill up quickly, so it’s worth signing up soon 💙"
+    },
+    {
+      "name": "frankie_onboarding_confirmation_staff_other",
+      "category": "Onboarding / welcome",
+      "count": 23,
+      "users": 22,
+      "example": "That was fast! 😊 I’m here to keep you updated on FS events, news, and what’s happening around campus, all in one place. Got any questions about that?"
+    },
+    {
+      "name": "frankie_nestle_ceo_talk_invite",
+      "category": "Event invitations / announcements",
+      "count": 22,
+      "users": 22,
+      "example": "We’ve got a new event alert going off 🪩 Alexander von Maillot, CEO of Nestlé Germany, is coming to chat about Nestlé’s journey with global and industry challenges like climate change, health, and sustainability, on *October 29 at 17:30.* 🌱🍫 Seats are limited, so grab yours before it’s too late! Tap below to register 👇"
+    },
+    {
+      "name": "frankie_weekly_message_may_04",
+      "category": "Event / campus digests",
+      "count": 21,
+      "users": 21,
+      "example": "Hi <first_name>, here’s what’s coming up at FS: *💼 crossconsulting Workshop:* Deep dive into the challenges of the neobroker market post-PFOF ban, with a hands-on team case to design your own trading platform • Tue, 5 May • 18:00 *🎶 FS Music Spring Concert – Echoes of Spring:* Live performances by orchestra, choir & bands celebrating the new season • Wed, 6 May • 19:30 (Audimax) *🍷 Wine Tasting Evening:* Enjoy curated wines, snacks & networking while supporting a charity cause • Sat, 9 May • 19:00–22:00 (Campus Lounge, 3rd floor, €20) Let me know if you’d like details!"
+    },
+    {
+      "name": "frankie_weekly_message_apr_27",
+      "category": "Event / campus digests",
+      "count": 21,
+      "users": 21,
+      "example": "Hi <first_name>, here’s what’s coming up at FS: 💙 *Student Wellbeing Day:* Workshops & activities on mental and physical health, plus a keynote by Dr. Thomas Reinbacher • Mon, 27 Apr • 08:30–20:00 (+ Tue, 28 Apr • 19:15–20:15) 🌍 *World Bank Group Session:* Virtual talk on internships & careers in international development with Q&A • Tue, 28 Apr • 18:00 📝 *Skill Workshop:* How to Write Successful Term Papers: Tips on research, structure & citations • Thu, 30 Apr • 18:00 (online) Let me know if you’d like details!"
+    },
+    {
+      "name": "capital_days_proactive_message_2025",
+      "category": "Event invitations / announcements",
+      "count": 21,
+      "users": 21,
+      "example": "*Capital Days 2025* is around the corner, and workshop applications just opened. It’s on 10–11 October at Frankfurt School. FS tickets are €20, just use code *visitor10*. First, grab your ticket, then apply for workshops: 1. Ticket: [link] 2. Apply: [link] You’ll be in great company with 800+ students and firms like BofA, Advent, PWP, Parkview, Citi, and FCF. I’m here if you have any questions 💙"
+    },
+    {
+      "name": "masters_monday_schedule",
+      "category": "Opening Week schedules / logistics",
+      "count": 21,
+      "users": 21,
+      "example": "Hope your first day was full of fun, <first_name>! Now, get ready for some good sleep because you have an active day ahead 🌳 Tomorrow, you will be out and about, and around your classmates, at *Outdoor Campus* - from 14:00 to 18:00. 📢 A few things to keep in mind! This was an activity you had to register for - I will send over your *digital ticket* first thing in the morning.. I suggest you wear your comfiest clothes, pack yourself a daypack, and eat a nice meal before heading out! 💙"
+    },
+    {
+      "name": "frankie_weekly_overview_message_feb2",
+      "category": "Event / campus digests",
+      "count": 20,
+      "users": 20,
+      "example": "Hi <first_name>, here’s what’s coming up at FS: 🚀 *Fundable: Building Companies Investors Want to Fund *– What makes startups investment-ready with Christian Stumpf • Tue, 3 Feb • 17:00 🌏 *Sino-German Center Virtual Roundtable: China’s Economy 2026* – Expert insights on growth & the 15th Five-Year Plan • Thu, 5 Feb • 11:00 • Zoom 🎉 *Community Life Fair* – Discover 50+ student initiatives & partners • Thu, 5 Feb • 17:00 💼 *C-Level Insights: Shaping Europe’s Transition* – With Kalin Anev Janse (CFO, ESM) • Mon, 9 Feb • 18:00 Let me know if you want more details!"
+    },
+    {
+      "name": "frankie_weekly_overview_feb_13",
+      "category": "Event / campus digests",
+      "count": 20,
+      "users": 20,
+      "example": "Hi <first_name>, here’s what’s coming up at FS: 🚀 *Demo Day 2026* – Meet the 7th startup generation from the Entrepreneurship Center, plus a keynote by Dana Kallasch and €50,000 in prizes • Mon, 16 Feb • 18:30 ☕ *Coffee Lecture Mathematik: Potenzgesetze leicht gemacht (German)* – Power laws & root rules explained simply • Tue, 17 Feb • 18:00 🏭 *Transformation of a Hidden Champion* – Keynote with Dr. Andreas Widl (SAMSON AG) on courage & leadership • Mon, 23 Feb • 19:00 Want details on any of these?"
+    },
+    {
+      "name": "frankie_accept_terms_of_service_v1",
+      "category": "Preferences / consent / assistant menu",
+      "count": 19,
+      "users": 13,
+      "example": "To unlock the full functionality of our platform, please review and accept our Terms of Service. 📜 It's quick and ensures you're all set to make the most of everything we offer! 🚀 Click the button below to get started: If you have any questions, feel free to reach out—we're here to help! 😊"
+    },
+    {
+      "name": "weekly_workshop_overview_v2",
+      "category": "Event / campus digests",
+      "count": 19,
+      "users": 18,
+      "example": "Hi <first_name>, me again. I saw you’ve signed up for a workshop or two - let me give your weekly overview 👇 1. *Succeed Worldwide with Intercultural Competence*: 25 Aug 2025, 09:00 - 12:00 2. *Talentschuppen – Begabtenförderung*: 29 Aug 2025, 11:00 - 14:30 📌 Check out the schedule to find out where each will be taking place. If you need anything, just ask 💙"
+    },
+    {
+      "name": "frankie_weekly_message_may_11",
+      "category": "Event / campus digests",
+      "count": 19,
+      "users": 19,
+      "example": "Hi <first_name>, here’s what’s coming up at FS: 🍻 *StuCo & Alumni Afterwork:* Networking with students & alumni over drinks & music • Tue, 12 May • 18:30–22:00 🧠 *Customer Strategy Dialogue with Dr. Jesko Perrey:* Fireside chat on marketing, GenAI & consulting, plus Q&A and networking • Tue, 12 May • 18:00 🌈 *FS Unity – Being Queer at Work:* Interactive talk on inclusion, bias & belonging with Oliver Wirtz • Wed, 13 May • 18:00 Let me know if you’d like details!"
+    },
+    {
+      "name": "career_days_workshops",
+      "category": "Event invitations / announcements",
+      "count": 18,
+      "users": 18,
+      "example": "Hi <first_name>, good news 👇 Spots are still available for the *Career Day workshops on 5 November* with Dr. Oetker, KPMG, Moody’s, and PwC. The workshops will be in *German*, and places will go to those who register first. You can sign up here: FS Career Services presents: [link] See you there 💙"
+    },
+    {
+      "name": "frankie_weekly_message_may_18",
+      "category": "Event / campus digests",
+      "count": 18,
+      "users": 18,
+      "example": "Hi <first_name>, here's what's coming up at FS: 🛰️ *Space Club Kitchen:* A new dialogue format that brings together students, founders, scientists, politicians and investors to *one table,* discussing markets of tomorrow • Fri, 29 May • 18:30 *Deadline* for registration is Friday, 22 May - let me know if you'd like details!"
+    },
+    {
+      "name": "frankie_real_estate_career_event",
+      "category": "Event invitations / announcements",
+      "count": 17,
+      "users": 15,
+      "example": "Hi <first_name> Lana, don’t miss the last highlight of the real estate program: “A Career in Real Estate – What Are the Possibilities?” on September 10th, 4:15–4:45 PM with Alexander Dahmen, Leaderslead Advisory GmbH!"
+    },
+    {
+      "name": "bc_fy_thursday_schedule",
+      "category": "Opening Week schedules / logistics",
+      "count": 17,
+      "users": 17,
+      "example": "Hey, <first_name>! The days are zooming past us 🏎️ and it feels like tomorrow’s the perfect time to slow down, grab a snack, and listen to some sound advice. Good thing you’ve got your workshop planned 👇 *Aufblühen statt Ausbrennen - Einführung in die positive Psychologie*: 11:00 - 14:30 @ S0.02 Enjoy your day 💙"
+    },
+    {
+      "name": "frankie_parthenon_food_truck_29_04",
+      "category": "Event invitations / announcements",
+      "count": 16,
+      "users": 16,
+      "example": "No lunch plans? This is your sing to head to the *EY-Parthenon food truck under the Präsidialbau today at 1pm*. Chat with consultants, ask your questions, and grab a free 🍔 before they’re gone."
+    },
+    {
+      "name": "frankie_weekly_events_mar_2",
+      "category": "Event / campus digests",
+      "count": 16,
+      "users": 16,
+      "example": "Hi <first_name>, here’s what’s coming up at FS: 👩‍🍳 *FS Chef Kick-Off* – Meet the team, learn about upcoming cooking events & join the community (no registration required, room S1.11) • Mon, 2 March • 20:15 📦 *Inside DHL Group Procurement* – Behind-the-scenes insights into supplier decisions, value vs. cost, risk & sustainability, plus interactive activity, Q&A & networking • Wed, 4 March • 18:00 Let me know if you want more details!"
+    },
+    {
+      "name": "frankie_business_forum_2025_event",
+      "category": "Event invitations / announcements",
+      "count": 16,
+      "users": 16,
+      "example": "Hi <first_name>! 👋 The *FS Business Forum 2025* is coming up! 🚨 You’ll get to hear from top leaders like Andrea Orcel, execs from Morgan Stanley Europe, Thyssenkrupp, BNP Paribas CIB Germany, and many more. Two days full of keynotes, workshops, and real industry insights. If you want to join, grab your ticket here before prices go up: tickets.fs-businessforum.com Here for all your questions 💙"
+    },
+    {
+      "name": "onboarded_user_event_discovery",
+      "category": "Onboarding / welcome",
+      "count": 16,
+      "users": 16,
+      "example": "Now that you’re all set, some great events are happening on campus! Want me to send you the list? 😊"
+    },
+    {
+      "name": "frankie_weekly_message_mar_9",
+      "category": "Event / campus digests",
+      "count": 15,
+      "users": 15,
+      "example": "Hi <first_name>, here’s what’s coming up at FS: 🇪🇺 *CfET Conference “Financing European Sovereignty”:* Investors, corporates & policymakers discuss funding Europe’s defence & energy resilience; keynote by Sigmar Gabriel • Thu, 12 Mar • 13:00–18:30 (Audimax) ⚖️ *Law & Beyond: Pay Transparency Directive:* Expert panel on legal, organizational & cultural impacts (in German, on campus) • Fri, 13 Mar • 16:00 🌏 *SGC Virtual Roundtable: China’s 15th Five-Year Plan:* Business & economic outlook with expert discussion • Tue, 17 Mar • 11:00 (Zoom) Let me know if you’d like details!"
+    },
+    {
+      "name": "frankie_weekly_message_april_14",
+      "category": "Event / campus digests",
+      "count": 15,
+      "users": 15,
+      "example": "Hi <first_name>, here’s what’s coming up at FS: 🎤 *20 vs. 1 – Gemeinwohl-Ökonomie:* 1-on-1 debates challenging Gerald Morgner’s theses • Tue, 14 Apr • 18:00–20:00 🏦 *CEO Talk with Dr. Christian Ricken (Aareal Bank):* Leading a global property bank in volatile markets; Q&A + networking • Wed, 15 Apr • 18:30 📚 *FS Book Club & Prof. Christine Tiefensee — “Truth, Actually”:* On types of truth and why they matter • Thu, 16 Apr • 18:00 (S0.01) Let me know if you’d like details!"
+    },
+    {
+      "name": "frankie_lse_big_fs_invest",
+      "category": "Event invitations / announcements",
+      "count": 15,
+      "users": 15,
+      "example": "It’s time for the biggest networking trip. The *London Finance Tour 2026* 🇬🇧, organized in collaboration with LSE BIG and FS Invest, is happening *April 27th – May 1st*. *You have only 2 more days to apply* here: [link] You don’t have to be a member of FS Invest, and financial support is available for everyone. FS Invest will inform you of the results shortly after applications close. Good luck 🍀"
+    },
+    {
+      "name": "frankie_easter_holidays_apr_01",
+      "category": "Campus operational notices",
+      "count": 15,
+      "users": 15,
+      "example": "Hi, just a quick heads up! *The Casino* will have adjusted hours over the Easter holidays and will be *closed from Good Friday to Easter Monday* 🐣 In weeks 14 and 15, there’ll be a reduced offer with two dishes available in the canteen. The *food truck* is also back at *Bertramshof* 🎉 Open Tuesdays and Thursdays from 11:30–14:00, with currywurst, nuggets & fries, veggie poutine, salads, falafel, plus a daily kasino dish (meat or veg), soup & dessert."
+    },
+    {
+      "name": "frankie_wifi_is_back",
+      "category": "Service / system notices",
+      "count": 15,
+      "users": 15,
+      "example": "Great news: The WiFi is back up and running 🎉 If you’re still facing any connectivity issues, the IT Service Desk is available daily from 10:00–14:00 and 16:00–17:00 to help you. You can also contact them anytime via email at [email]."
+    },
+    {
+      "name": "frankie_club_launch_3",
+      "category": "Event invitations / announcements",
+      "count": 15,
+      "users": 15,
+      "example": "This is important! I sent you a reminder for the wrong event earlier. Very sorry about that. *The Frankie Club – New Chapter of Our Community* is tomorrow at *18:00*. If you still can’t make it, no worries. But if you can come to the FS Club, just send me a message!"
+    },
+    {
+      "name": "frankie_weekly_message_apr_28",
+      "category": "Event / campus digests",
+      "count": 15,
+      "users": 15,
+      "example": "❗ *Important: Due to cracked glazing on the Presidential Building bridge, there is an immediate safety risk.* The area beneath has been restricted and will soon be secured with a construction fence to prevent access. This affects the black glass entrance, seating areas, and part of the turning circle. These measures will remain in place for some time due to heritage requirements. *Please take care and respect all barriers.*"
+    },
+    {
+      "name": "frankie_ted_talk",
+      "category": "Event invitations / announcements",
+      "count": 15,
+      "users": 15,
+      "example": "Hi <first_name>, Need fresh ideas beyond the lecture hall? Join us tomorrow for *TEDxFS 2025*, an afternoon of inspiring talks, lively discussions, and free coffee! Under the theme “Economics of Resilience”, 9 speakers will share how resilience shapes our future. Plus, all guests get a goodie bag. 🎟️ Grab your ticket, it's only €5: [link] See you there 💙"
+    },
+    {
+      "name": "aug3_real_estate",
+      "category": "Event invitations / announcements",
+      "count": 14,
+      "users": 14,
+      "example": "❗️Just a reminder that the FS Real Estate Career Day on 9 September from 16:00–18:00 and the President’s Dinner at 18:30 are *both mandatory parts of your programme.* Please make sure both events are in your calendar and that you are registered by the end of today. For the President’s Dinner, register via email: [[email]] For the Career Day, use the button below 👇"
+    },
+    {
+      "name": "frankie_lets_talk_about_it_message",
+      "category": "Event invitations / announcements",
+      "count": 14,
+      "users": 14,
+      "example": "Hi <first_name>! Today at 6:00 PM, we’re hosting our first *Let’s Talk About* session — an open space for honest student conversations. This time, we’ll talk about peer pressure and how expectations can shape our choices and well-being. It’s a supportive, confidential space run by students, for students. You can simply listen or share if you’d like. See you in S1.12, waffles included 🧇💙"
+    },
+    {
+      "name": "frankie_weekly_message_mar_30_fix",
+      "category": "Event / campus digests",
+      "count": 13,
+      "users": 13,
+      "example": "Hi <first_name>, here’s what’s coming up at FS: 🌏 *FS Asia Language Chat*: A relaxed social to meet people and practice languages – Mon, 30 Mar • 17:30 • Room S.1.08 🍿 *FS Internationals x FS Unity*: International Snack Swap: Bring snacks from home and try others – Tue, 31 Mar • 18:00 • Room S.2.04 💼 *CVC Capital Partners – Private Equity Workshop*: Insights into PE, strategies & major deals • In German • Business casual – Wed, 1 Apr • 18:30 • Room 2A Let me know if you’re interested!"
+    },
+    {
+      "name": "frankie_nestle_ceo_talk_2nd_invite",
+      "category": "Event invitations / announcements",
+      "count": 13,
+      "users": 13,
+      "example": "Hey <first_name> 👋 Just in case you missed it, Nestlé CEO Talk is coming up on Wednesday, October 29th at 17:30h @ FS Campus, Creative Learning room. Remember, you still need to register to join. Click below to get your spot! ⬇️"
+    },
+    {
+      "name": "opening_week_second_invite",
+      "category": "Event invitations / announcements",
+      "count": 12,
+      "users": 11,
+      "example": "*Opening Week (August 25–28)* is just around the corner! This year, registration is ❗️mandatory in order to take part and stay updated on everything that’s happening throughout the week."
+    },
+    {
+      "name": "frankie_jobteaser_intro_workshop",
+      "category": "Event invitations / announcements",
+      "count": 12,
+      "users": 12,
+      "example": "Do you have any questions about your career path or finding an internship abroad? 🌍 If yes, join the JobTeaser introduction workshop on 24 February at 13:00 and learn how to book career counselling, explore career advice, and find job opportunities. Register here: [link] PS. If you are planning an internship abroad this year, check out the JobTeaser learning package “How to Find an Internship Abroad” in the Toolbox. See you there 💙"
+    },
+    {
+      "name": "frankie_weekly_overview_feb_23",
+      "category": "Event / campus digests",
+      "count": 12,
+      "users": 12,
+      "example": "Hi <first_name>, here’s what’s coming up at FS: ☕ *Coffee Lecture Mathematik: Logarithmus & Finanzplanung* – How logarithms help analyze growth, bonds & capital doubling (in German, online) • Tue, 24 Feb • 18:00 🔗 *LinkedIn & Professional Networking Strategies Workshop* – Optimize your profile, grow your network & present yourself confidently at corporate events • Wed, 25 Feb • 18:00 🎤 *Public Speaking with Confidence* – Build presence, structure powerful presentations & engage your audience (in English, on campus) • Thu, 26 Feb • 18:00–20:00 Let me know if you want more details!"
+    },
+    {
+      "name": "frankie_women_society_ceo_talk",
+      "category": "Event invitations / announcements",
+      "count": 12,
+      "users": 12,
+      "example": "Hi <first_name>! Want to learn how DOUGLAS became Europe’s leading beauty retailer and what it takes to stay on top? Join *DOUGLAS Group CEO Sander van der Laan* for the talk “How to Become and Remain a Market Leader” on *September 9 at 18:30*."
+    },
+    {
+      "name": "masters_tuesday_schedule",
+      "category": "Opening Week schedules / logistics",
+      "count": 12,
+      "users": 12,
+      "example": "Get your sponge hat ready, <first_name> 🧽 There’s a lot to see and do tomorrow👇 - Your morning activities until 12:30 - Lunch break from 12:30 until 14:00 - And we wrap up the day at 17:00 with the Student FS Student Support Fair 📌 Tomorrow’s events are happening *across the campus* - check the schedule to find out your locations. If you need my help, just ask 💙"
+    },
+    {
+      "name": "frankie_weekly_message_may_07_v2",
+      "category": "Event / campus digests",
+      "count": 12,
+      "users": 12,
+      "example": "Heads up, summer’s almost here at *Career Services*, and the *working hours are changing from May 11 to June 20* ☀️ •⁠ ⁠15-min Drop-ins (Tue & Wed) - 09:00–10:00 — no appointment needed •⁠ ⁠15-min Walk-Ins (Tue–Fri) - 13:00–14:00 — book via JobTeaser If you need more time, you can book a 45-minute career session on JobTeaser."
+    },
+    {
+      "name": "frankie_events_feedback_ms_oca",
+      "category": "Feedback / surveys",
+      "count": 12,
+      "users": 12,
+      "example": "Many things went down, must’ve been a lot… but how about that Outdoor Campus 🤩 Please tell me how today went!"
+    },
+    {
+      "name": "frankie_study_room_proactive_message",
+      "category": "Campus operational notices",
+      "count": 11,
+      "users": 11,
+      "example": "Hi <first_name>! The exam period is almost here, and we’ve got *extra study rooms available to help you prepare.* These rooms are for quiet, individual study only, so please avoid using other rooms as they’re reserved for exams. Quick reminder: study cubes are for group work, and the Learning Center is open 24/7 for individual study. Don’t block spaces unless taking a short break. Rooms: - 8-13 Dec: S1.10 - 15-20 Dec: S0.01, S0.03 Good luck with your exams! 📚✨"
+    },
+    {
+      "name": "frankie_stuco_management_meeting",
+      "category": "Event invitations / announcements",
+      "count": 11,
+      "users": 11,
+      "example": "Hey <first_name>! Join us for the *General Student Assembly* with FS Management on Wednesday, *May 7 at 19:00 in S0.03* (or Zoom – just ask for the link!). Share feedback with Profs. Stieglitz, Richter & Landau, hear StuCo updates & survey results. Plus, enjoy free pizza & drinks! Haven’t filled out the survey yet? Please, do it by May 4, 23:59 → [link] Hope to see you there 💙"
+    },
+    {
+      "name": "frankie_stuco_voting",
+      "category": "Community / careers / other notices",
+      "count": 11,
+      "users": 11,
+      "example": "Hey <first_name>, just a quick reminder that the Student Council 2026 elections are still open! You can vote for up to *9 candidates* via the pop-up window on Canvas. Voting closes on *January 22 at 23:59*. You can find information about the candidates in the PDF shared by email and in the WhatsApp communities 💙"
+    },
+    {
+      "name": "frankie_downtime_mar_16_ver3",
+      "category": "Service / system notices",
+      "count": 11,
+      "users": 11,
+      "example": "Hi <first_name>, I hope your exams are going well 💪 While you’re busy acing them, I’ll be in the workshop getting a few upgrades. My developers are preparing updates to make me even better. I’m going offline tomorrow at 9:00 and will be back on March 23rd, ready for the next half of the semester. Before I go, I’d love your feedback or ideas so we can try to include them. How was your experience chatting with me? Anything I could do better? Talk soon! 💙"
+    },
+    {
+      "name": "frankie_weekly_overview_mon_dec_8",
+      "category": "Event / campus digests",
+      "count": 11,
+      "users": 11,
+      "example": "Hi <first_name>, here’s what’s coming up at FS: 💶 *CfCB Guest Lecture – The Transformation of Money* – Mon, 8 Dec • 16:00–17:30 • Room S.0.02 • Register: applyexec.frankfurt-school.de/e/68fa23bf3b5d00fa08fbc0b3 ✨ *Open Workshop & Get-Together – “Turning Visibility into Capital.”* Pizza & beer included! Tue, 9 Dec • 18:30–20:30 • FS Entrepreneurship Centre • Register: entrepreneurship-centre.fs.de/event/open-workshop-community-get-together/ ⚽ *StuCo Public Viewing – Eintracht Frankfurt* – Tue, 9 Dec • 21:00–23:30 • Audimax Let me know if you’re interested!"
+    },
+    {
+      "name": "feedback_saturday_bc",
+      "category": "Feedback / surveys",
+      "count": 11,
+      "users": 11,
+      "example": "It’s been a busy week, but how about that grand finale 🤩 Please tell me how today went!"
+    },
+    {
+      "name": "frankie_advent_message_students",
+      "category": "Event invitations / announcements",
+      "count": 11,
+      "users": 11,
+      "example": "Hi <first_name>! Our FS Alumni x StuCo Christmas Market Evening is tomorrow! Join us *from 18:30 at the City Christmas Market on the Parking Deck Konstablerwache*, at the Alliance Concept stands. You can drop by anytime, no registration needed. Meet alumni from different years and enjoy discounted drinks. If you sign up for the Alumni Association on-site, your first drink is free. See you 🎄"
+    },
+    {
+      "name": "opening_ceremony_ticket_fy",
+      "category": "Event confirmations / tickets",
+      "count": 10,
+      "users": 10,
+      "example": "*Here’s your Opening Ceremony digital ticket!* Tuesday, 26.08.2025. 15:45 @ Executive Lounge, Frankfurt School Campus 📌"
+    },
+    {
+      "name": "frankie_winter_concert_2025_v1",
+      "category": "Event invitations / announcements",
+      "count": 10,
+      "users": 10,
+      "example": "Hi <first_name>, the *Music Winter Concert 2025* is coming up, and we’re excited to invite you to *A Night With Disney*! Enjoy beloved Disney soundtracks performed live for an evening full of nostalgia and magic. Join us on December 2nd at 7:30 PM in the Audimax (doors open 7:00 PM). Register here: [link] We can’t wait to see you there! 💙"
+    },
+    {
+      "name": "frankie_events_feedback_v2",
+      "category": "Feedback / surveys",
+      "count": 10,
+      "users": 10,
+      "example": "Many things went down, must’ve been a lot… but how about that Opening Ceremony 🤩 Please tell me how today went!"
+    },
+    {
+      "name": "frankie_weekly_message_apr_20_v2",
+      "category": "Event / campus digests",
+      "count": 10,
+      "users": 10,
+      "example": "Hi <first_name>, here's what's coming up at FS: 🎤 *AIESEC Youth Speak Forum:* Global platform tackling \"Degrees without Jobs\" with discussions, workshops & networking • Tue, 21 Apr • 11:00–16:30 🚀 *FUTURY Build Days:* 32-hour challenge to build real solutions with industry partners & pitch to experts • Thu, 23 Apr • 10:00 🎓 *TEDxFS 2026 – \"From Vision to Value\":* Inspiring talks from VC, banking & strategy leaders + networking • Fri, 24 Apr • 14:00 Let me know if you'd like details!"
+    },
+    {
+      "name": "frankie_menu_demo_v4",
+      "category": "Preferences / consent / assistant menu",
+      "count": 10,
+      "users": 3,
+      "example": "What would you like to do? 😊"
+    },
+    {
+      "name": "ow_report_v2",
+      "category": "Internal reports",
+      "count": 10,
+      "users": 3,
+      "example": "*Opening Week Report, Aug 18* _Masters / Bachelors / FY_ - Total onboarded: 72% / 65% / 51% - Invite Flow Completion: 91% / 87% / 88% _Bachelor Ceremony_ - Additional Guests: 505 View the full report and per program details here: [link]"
+    },
+    {
+      "name": "cba_monday_schedule",
+      "category": "Opening Week schedules / logistics",
+      "count": 9,
+      "users": 9,
+      "example": "Sending over your agenda for tomorrow - you’ll be wrapping up around 17:45 👇 1. *Registration*: 11:30 - 12:00 2. *Welcome at FS*: 12:00 - 12:15 3. *FS Community*: 12:15 - 13:00 4. *Networking Lunch & Campus Tour*: 13:00 - 14:30 5. *How to study at FS*: 14:30 - 15:15 6. *Programme Specific Introduction*: 15:15 - 16:45 7. *Letter to myself*: 16:45 - 17:45 📌 You won’t need to run around. All the events will take place in S0.03, and the Networking Lunch will be held in the Audimax Foyer & Foyer. I’m here if you think of something you need 💙"
+    },
+    {
+      "name": "frankie_pem_review_may_5",
+      "category": "Event invitations / announcements",
+      "count": 9,
+      "users": 9,
+      "example": "<first_name>, Q3 review sessions are on *Friday and Saturday, May 9–10*. Check your exams and appeal if needed. Format depends on the exam: digital (Exato) or campus - details coming soon. Good luck!"
+    },
+    {
+      "name": "elective_market_place",
+      "category": "Event invitations / announcements",
+      "count": 9,
+      "users": 9,
+      "example": "Hi <first_name>, Just a friendly reminder that the Elective Market Place is tonight, Thursday, 16 October 2025, from 18:00–21:00 in the Executive & Student Lounge (3rd floor) and room S3.07. If you have any questions in the meantime, I'm here. See you tonight 💙"
+    },
+    {
+      "name": "frankie_ioannis_job_offer",
+      "category": "Community / careers / other notices",
+      "count": 8,
+      "users": 8,
+      "example": "Hey <first_name>, a Frankfurt School alum is currently looking for support on his team. Would you be up for a 20h/week working student role at a YC startup? Ex-Razer Group founding team + another co-founder exited to Coinbase."
+    },
+    {
+      "name": "weekly_workshop_overview_v3",
+      "category": "Event / campus digests",
+      "count": 8,
+      "users": 8,
+      "example": "Hi <first_name>, me again. I saw you’ve signed up for a workshop or two - let me give your weekly overview 👇 1. *Wie starte ich meine Jobsuche?*: 28 Aug 2025, 14:00 - 16:00 2. *Punkten in 100 Millisekunden - erfolgreich auftreten, bewusst wirken*: 29 Aug 2025, 11:00 - 14:30 3. *Effizient Netzwerken. Von hilfreichen Kontakten und echten Beziehungen*: 30 Aug 2025, 13:00 - 16:00 📌 Check out the schedule to find out where each will be taking place. If you need anything, just ask 💙"
+    },
+    {
+      "name": "frankie_weekly_message_apr_7",
+      "category": "Event / campus digests",
+      "count": 8,
+      "users": 8,
+      "example": "Hi <first_name>, here’s what’s coming up at FS: 🏃‍♂️ *FS Charity Spring Run*: Run for a good cause with music, snacks, drinks & BBQ after • Thu, 9 Apr • 14:00–17:00 🎉 *FS Charity x Gibson Afterparty*: Limited spots; €6 runner / €12 regular, proceeds support Joblinge • Thu, 9 Apr • 23:00 🏦 *CEO Talk with Dr. Christian Ricken (Aareal Bank)*: Strategy, leadership insights, Q&A & networking • Wed, 15 Apr • 18:30 Let me know if you'd like details!"
+    },
+    {
+      "name": "frankie_6_reminder_100_days_event_v1",
+      "category": "Event reminders",
+      "count": 8,
+      "users": 8,
+      "example": "Just a quick reminder – *The Magic First 100 Days in a New Job* is happening tomorrow at 6 PM ✨💼 Thanks for signing up, excited to see you there!"
+    },
+    {
+      "name": "frankie_financing_future_v1",
+      "category": "Scholarships / funding",
+      "count": 8,
+      "users": 8,
+      "example": "Hi <first_name>! The FS Social Enterprise Initiative is hosting a panel discussion on *\"Financing a Better Future – Inside ESG & Sustainable Finance\" on December 1st at 7:00 PM in Room 3.04.* 🌍💼 We’ve got an incredible lineup of speakers: Carsten Auel, Yashada Kaskhedikar, Tim Buchholz, and Jordan Rudolf, who will dive into all things ESG, sustainability in finance, and how to spot greenwashing. 🌱📊 You won’t want to miss it!"
+    },
+    {
+      "name": "frankie_ow_before_onboarding_fs_staff",
+      "category": "Onboarding / welcome",
+      "count": 8,
+      "users": 7,
+      "example": "That was fast! 🤭 –Welcome aboard! Remember, my role revolves around: 1 · 📚 Guiding you through our offerings and assisting in all processes. 2 · 💼 Providing information about all services, upcoming events, and the canteen menu. 3 · 📝 Helping you with networking opportunities and administrative tasks. 4 · ℹ️ And of course, providing essential campus information regarding borrowing equipment, healthcare, counseling, and more!"
+    },
+    {
+      "name": "frankie_cofounder_event_april_2025",
+      "category": "Event invitations / announcements",
+      "count": 8,
+      "users": 8,
+      "example": "Hey <first_name>! Looking to meet your perfect business partner? Co-Founder Wanted is your chance! The event takes place at the FS Entrepreneurship Centre (4th Floor, Tower A) on *May 8th from 18:00 until late*, and continues on *May 9th from 9:00 to 17:00*. Pitch your idea, form a team with students from top universities like RWTH and TU Dresden, get coaching, enjoy food and drinks, and walk away with a ready-to-go team and a pitch deck to take your idea further! *Register here:* [link] Let’s build something great 💙"
+    },
+    {
+      "name": "manager_report",
+      "category": "Internal reports",
+      "count": 8,
+      "users": 2,
+      "example": "LAST 7 DAYS (yesterday) Active Users: 696 (197) Newly Onboarded Users: 208 (24) Questions Answered: 2779 (491) Key user signals: 1. I’m so excited for next week to be at FS and meet everyone. 2. It worked. Thanks! So now I have to plan my Opening Week. 3. Yes, help me out please. 4. How do I download the app for both, because I find it confusing in a browser? 5. I cannot find my personal schedule, where is it? Ask me for more"
+    },
+    {
+      "name": "frankie_weekly_message_may_08",
+      "category": "Event / campus digests",
+      "count": 7,
+      "users": 7,
+      "example": "Heads up: there are still *Big Buddy workshops available until June 2*! Just sign up for one 45-minute workshop (on campus or online) to get started. It’s a great way to support new students, meet new people, and gain valuable experience. For remaining workshop dates & times, you can ask me."
+    },
+    {
+      "name": "frankie_events_reminder",
+      "category": "Event reminders",
+      "count": 7,
+      "users": 7,
+      "example": "Hi there! Just a friendly reminder about tomorrow's event. If you can't make it, cancel your attendance. We'd love to see you if you can make it! 😊"
+    },
+    {
+      "name": "frankie_events_physical_event_confirmation_v1",
+      "category": "Event confirmations / tickets",
+      "count": 7,
+      "users": 5,
+      "example": "Hey <first_name>, you’ve successfully booked a seat for Afterwork - FS Internationals! 🎉 📍 Location: FS Campus, Campus Lounge (inkl. Terrasse) 🕓 Date & Time: Tuesday, October 13th at 18:00h Let me know if you have any questions or need anything before the event. Happy to help! ✨"
+    },
+    {
+      "name": "frankie_bba_info_session",
+      "category": "Event invitations / announcements",
+      "count": 7,
+      "users": 7,
+      "example": "Hey <first_name>! Are you looking for the right BBA concentration for the summer semester of 2026 (Semester 4)? Join our *info session on Zoom* on *Wednesday, May 7, 5:30–7:30 PM.* We’ll walk you through all the options. Details coming soon to the Study Guide - save the date!"
+    },
+    {
+      "name": "frankie_career_days_reminder",
+      "category": "Event reminders",
+      "count": 7,
+      "users": 7,
+      "example": "Hey <first_name>! Just a quick reminder: only 1 week to go until *FS Career Days*! 🎉 If you haven’t registered yet, make sure to do so soon so you don’t miss out on great networking and career opportunities. Register here: [link]"
+    },
+    {
+      "name": "frankie_cas_workshop_invite",
+      "category": "Event invitations / announcements",
+      "count": 6,
+      "users": 6,
+      "example": "Starting a job or internship this summer? Get the best tips on presenting yourself and navigating your first days at work. Join us for *The Magic First 100 Days in a New Job* via Zoom on *May 8th at 18:00*. Save your spot now!"
+    },
+    {
+      "name": "ms_thursday_schedule",
+      "category": "Opening Week schedules / logistics",
+      "count": 6,
+      "users": 6,
+      "example": "I heard Friday is for learning and meeting new faces - guess your workshop is right on brand 👇 *Survival German: Your Ultimate Starter Kit*: 11:00 - 14:30 @ S2.03 Don’t forget - these days are for asking as much as they are for listening. 🥰 Enjoy your day 💙"
+    },
+    {
+      "name": "frankie_case_study_v2",
+      "category": "Event invitations / announcements",
+      "count": 6,
+      "users": 6,
+      "example": "Hi <first_name>, Real Estate Career Day has more! Join Sascha Klaus (LBBW & Berlin Hyp) for a management case study challenge on September 10th from 5:00 PM to 5:45 PM."
+    },
+    {
+      "name": "frankie_fs_ent_german_panel",
+      "category": "Event invitations / announcements",
+      "count": 6,
+      "users": 6,
+      "example": "FS Entrepreneurship x Florian P. Meyer is just around the corner! Join us on *9 December at 18:00 in the Audimax for a German-language panel and Networking.* You’ll hear sharp insights from Florian P. Meyer, Thomas Kehl, and Dr. Thomas Bloch, and you’ll get the chance to meet them during the networking session. Make sure to apply by 7 December at 18:00 here: [link] See you 🚀"
+    },
+    {
+      "name": "frankie_auditing_second_invite",
+      "category": "Event invitations / announcements",
+      "count": 6,
+      "users": 6,
+      "example": "Hey, don’t forget! FS Women Society is hosting “Breaking Barriers and Leading in Auditing” on *October 7 at 18:30 (session in German)*. Learn directly from female leaders how to grow and succeed in auditing 👇"
+    },
+    {
+      "name": "douglas_event_2025",
+      "category": "Event invitations / announcements",
+      "count": 6,
+      "users": 6,
+      "example": "Hey, <first_name>! Want to kick-start your career in real estate and connect with top employers like DWS, KPMG, and Art-Invest? Join the *FS Real Estate Career Day on September 10* – with a career fair, alumni talks, and exclusive networking opportunities."
+    },
+    {
+      "name": "frankie_6_brew_bites_week_v1",
+      "category": "Event invitations / announcements",
+      "count": 6,
+      "users": 6,
+      "example": "Hey there, *Brew Bites Week* is coming to Casino *May 12 – 16*! Enjoy plant-based dishes made with beer by-products, all served up fresh inside the casino. Plus, the Food Truck’s back outside with sausages, falafel, salads & more. 🌭🥗 Come hungry!"
+    },
+    {
+      "name": "frankie_christmas_gala_questionnaire_2",
+      "category": "Feedback / surveys",
+      "count": 5,
+      "users": 5,
+      "example": "Hey, remember the Christmas Gala we talked about? 🎄✨ We’re finalizing everything and want to make sure it feels like home to you. Just need a bit more info from you 👇"
+    },
+    {
+      "name": "bc_wednesday_schedule",
+      "category": "Opening Week schedules / logistics",
+      "count": 5,
+      "users": 5,
+      "example": "Get your sponge hat ready, <first_name> 🧽 There’s a lot to see and do tomorrow! 1. *Language Courses*: 10:00 - 10:15 2. *Student Support Services Introduction*: 10:30 - 11:30 3. *FS Student Support Fair*: 11:30 - 13:00 🎒 Don’t forget your workshop, starting at 14:30! 👇 *Wie starte ich meine Jobsuche?*: 14:30 - 16:00 @ S2.02 If you need my help, just ask 💙"
+    },
+    {
+      "name": "ow_2026_invite_fix",
+      "category": "Event invitations / announcements",
+      "count": 5,
+      "users": 4,
+      "example": "Hey, your Opening Week workshops are ready. Click here to choose the ones you’re most interested in:"
+    },
+    {
+      "name": "bc_friday_schedule",
+      "category": "Opening Week schedules / logistics",
+      "count": 5,
+      "users": 5,
+      "example": "Tomorrow’s a big day, <first_name>! 🎟️ If you’ve registered for the Opening Ceremony - I will send over your *digital ticket* tomorrow morning. But, before we go into party mode - we still have a workshop to attend 👇 *Effizient Netzwerken. Von hilfreichen Kontakten und echten Beziehungen*: 13:00 - 16:00 @ S1.01 Any other questions - I’m here 💙"
+    },
+    {
+      "name": "fy_wednesday_schedule_no_workshop",
+      "category": "Opening Week schedules / logistics",
+      "count": 5,
+      "users": 5,
+      "example": "Get your sponge hat ready, <first_name> 🧽 There’s a lot to see and do tomorrow! 1. *Language Courses*: 10:00 - 10:15 2. *Student Support Services Introduction*: 10:30 - 11:15 3. *FS Student Support Fair*: 11:15 - 13:00 📌 Tomorrow's events are happening across the campus - check the schedule to find out your locations. If you need my help, just ask 💙"
+    },
+    {
+      "name": "frankie_real_estate_linkedin_workshop_v2",
+      "category": "Event invitations / announcements",
+      "count": 5,
+      "users": 5,
+      "example": "Hi <first_name>, want to enhance your LinkedIn and networking skills? Join the *LinkedIn & Networking Workshop* on September 10th from 4:00 PM to 4:45 PM during the Real Estate Career Day!"
+    },
+    {
+      "name": "onboarding_confirmation_current_student_one_initiative",
+      "category": "Onboarding / welcome",
+      "count": 5,
+      "users": 5,
+      "example": "That was fast 😊 I’m here to support you with courses, career topics, and everything happening around campus and beyond. I’ll also keep you updated on the FS Student Consulting, so feel free to reach out anytime if you have questions about your initiative activities as well."
+    },
+    {
+      "name": "frankie_canteen_christmas_2025",
+      "category": "Campus operational notices",
+      "count": 5,
+      "users": 5,
+      "example": "Christmas has come to the Deli! 🎄 You’ll find them at the rooftop Christmas Market on Konstablerwache, offering a stunning skyline view. This year, the Deli is running two stands: their classic Swiss raclette and a new warm vanilla crumble, and you receive €1 off their mulled wine with an FS card. PS: The Deli will be *closed 24 Dec–4 Jan* and back on *5 January*! 🎅✨"
+    },
+    {
+      "name": "frankie_second_invite_hundred_days_v1",
+      "category": "Event invitations / announcements",
+      "count": 4,
+      "users": 4,
+      "example": "There’s still time to join *The Magic First 100 Days in a New Job* – happening on May 8th at 18:00 via Zoom! Get top tips on making a great impression, building key relationships, and navigating your first days with confidence."
+    },
+    {
+      "name": "fy_monday_schedule_pt2",
+      "category": "Opening Week schedules / logistics",
+      "count": 4,
+      "users": 4,
+      "example": "📌 You won’t need to run around. All the events will take place in S0.01, and the Networking Lunch will be held in the Audimax Foyer & Foyer. I’m here if you think of something you need 💙"
+    },
+    {
+      "name": "fy_monday_schedule",
+      "category": "Opening Week schedules / logistics",
+      "count": 4,
+      "users": 4,
+      "example": "Tomorrow’s the Opening Ceremony Day, <first_name>! 🎟️ If you’ve registered for it - I will send over your *digital ticket* in the morning. But, before you start celebrating - you will have a couple of more thing to do 👇 1. *Registration*: 09:30 - 10:00 2. *Welcome at FS*: 10:00 - 10:15 3. *FS Community*: 10:15 - 11:00 4. *How to study at FS*: 11:00 - 11:30 5. *Programme Specific Introduction*: 11:30 - 13:00 6. *Networking Lunch & Campus Tour*: 13:00 - 14:30 7. *Letter to myself*: 14:30 - 15:30 8. *Opening Ceremony*: 15:45 - 18:30"
+    },
+    {
+      "name": "frankie_issb_veronika_invite",
+      "category": "Event invitations / announcements",
+      "count": 4,
+      "users": 4,
+      "example": "Just dropping in with a quick heads-up 💌 *ISSB Member Veronika Pountcheva at Frankfurt School* is happening on *November 10th 2025, 18:30* @ FS Campus, Creative Learning room. You’ll need to register to join, but it’s super easy. Want in? Tap below 👇"
+    },
+    {
+      "name": "female_event_proactive_message_26_09",
+      "category": "Event invitations / announcements",
+      "count": 4,
+      "users": 4,
+      "example": "Want to learn how women are shaping the future of auditing and what it takes to succeed in the industry? Join *top female leaders* in auditing for an inspiring discussion *in German* on “Breaking Barriers and Leading in Auditing” on *October 7 at 18:30*."
+    },
+    {
+      "name": "women_society_event_invitation",
+      "category": "Event invitations / announcements",
+      "count": 4,
+      "users": 4,
+      "example": "Hey, <first_name>! Want to explore career paths for women in finance and hear about opportunities at RWE Supply & Trading? Join the *Challenges for the Female Leader in the Finance Sector* from *18:30* on *May 8th*. Save yourself a spot now!"
+    },
+    {
+      "name": "mpe_monday_schedule",
+      "category": "Opening Week schedules / logistics",
+      "count": 3,
+      "users": 3,
+      "example": "Sending over your agenda for tomorrow - you’ll be wrapping up around 17:00 👇 1. *Registration*: 10:30 - 11:00 2. *Welcome at FS*: 11:00 - 11:15 3. *FS Community*: 11:15 - 12:00 4. *Letter to myself*: 12:00 - 13:00 5. *Networking Lunch & Campus Tour*: 13:00 - 14:30 6. *How to study at FS*: 14:30 - 15:30 7. *Programme Specific Introduction*: 15:30 - 17:00 📌 You won’t need to run around. All the events will take place in S0.02, and the Networking Lunch will be held in the Audimax Foyer & Foyer. I’m here if you think of something you need 💙"
+    },
+    {
+      "name": "initiative_contact_non_member_notification",
+      "category": "Community / careers / other notices",
+      "count": 3,
+      "users": 1,
+      "example": "Hey, just a quick heads-up — someone mentioned they’re part of your initiative “FS Student Consulting”, but I couldn’t validate them. Here are their details in case you’d like to check your member list: Name: Mariana Elena Matau Email: [email] I'm here if you need anything else!"
+    },
+    {
+      "name": "frankie_real_estate_linkedin_workshop",
+      "category": "Event invitations / announcements",
+      "count": 3,
+      "users": 3,
+      "example": "Hi <first_name>, want to enhance your LinkedIn and networking skills? Join the *LinkedIn & Networking Workshop* on September 10th from 4:00 PM to 4:45 PM during the Real Estate Career Day!"
+    },
+    {
+      "name": "frankie_events_feedback_fy_oce",
+      "category": "Feedback / surveys",
+      "count": 3,
+      "users": 3,
+      "example": "Many things went down, must’ve been a lot… but how about that Opening Ceremony 🤩 Please tell me how today went!"
+    },
+    {
+      "name": "frankie_italian_week_menu_v1",
+      "category": "Lunch menus / subscriptions",
+      "count": 3,
+      "users": 3,
+      "example": "Ciao <first_name>! Get ready for a taste of Italy at the casino from *June 23–28!* Here’s what’s cooking: - *Mon:* Italian minestrone · Pasta Prima Verde · Tiramisu - *Tue:* Tomato & parmesan soup · Pasta Carbonara · Panna cotta w/ raspberry sauce - *Wed:* Olive velouté · Focaccia burger & fries · Bacio cup - *Thu:* Ribollita · Italian bread salad · Amaretto crème brûlée - *Fri:* White bean soup · Fried calamaretti & polenta · Latte macchiato cream Buon appetito! 🇮🇹"
+    },
+    {
+      "name": "communication_workshop_19_09",
+      "category": "Event invitations / announcements",
+      "count": 3,
+      "users": 3,
+      "example": "Hey <first_name>! 😊 There’s a communication workshop in German with Bärbel Schäfer, a TV and radio journalist, on Sept 29 at 5 PM in Room S 309 (2.5 hrs). Drinks & snacks provided! It’s a great chance to boost your communication skills with practical exercises. Sign up here: [link] Hurry up - only 30 spots left! Registration closes on 24 Sep. See you there 💙"
+    },
+    {
+      "name": "frankie_menu_demo_v1",
+      "category": "Preferences / consent / assistant menu",
+      "count": 3,
+      "users": 1,
+      "example": "What would you like to do? 😊"
+    },
+    {
+      "name": "frankie_karriere_fssc_bachelor_2024",
+      "category": "Community / careers / other notices",
+      "count": 3,
+      "users": 3,
+      "example": "Hi <first_name>, bei FS Student Consulting kannst Du Dein Wissen in realen Projekten einsetzen 💼 Übernimm Verantwortung im Team und arbeite an strategisch anspruchsvollen Fragestellungen für echte Kund:innen aus der Wirtschaft – der ideale nächste Schritt, um Dein theoretisches Wissen in realen Consulting-Projekten praktisch anzuwenden. 📌 Bewerbung bis zum 21. Februar 🗓 Bewerbertag: 27./28. Februar 🌐 Link: fs-sc.de/karriere Vielleicht genau passend für Dich 💙"
+    },
+    {
+      "name": "ow_onboarding_fix_message",
+      "category": "Onboarding / welcome",
+      "count": 2,
+      "users": 2,
+      "example": "Hi! You’ve run into some onboarding issues, but this has now been fixed. Please try onboarding again using the same student ID 💙"
+    },
+    {
+      "name": "frankie_karriere_fssc_bachelor_2025",
+      "category": "Community / careers / other notices",
+      "count": 2,
+      "users": 2,
+      "example": "Hi <first_name>, FS Student Consulting bietet Dir die Möglichkeit, früh praktische Erfahrung zu sammeln 🚀 Auch ohne viel Vorerfahrung kannst Du an echten Projekten mitarbeiten, Deine Skills entwickeln und in Workshops dazulernen. Du brauchst keine Consulting-Vorerfahrung – wichtig sind Motivation und Lernbereitschaft. 🗓 Bewerbung bis zum 21. Februar 📅 Bewerbertag: 27./28. Februar 🔗 Link: fs-sc.de/karriere Ein starker Start neben dem Studium 💙"
+    },
+    {
+      "name": "frankie_ow_before_onboarding_alumni",
+      "category": "Onboarding / welcome",
+      "count": 2,
+      "users": 2,
+      "example": "That was fast! 🤭 –Welcome aboard! Remember, my role revolves around: 1 · 📚 Guiding you through our offerings and assisting in all processes. 2 · 💼 Providing information about all services, upcoming events, and the canteen menu. 3 · 📝 Helping you with networking opportunities and administrative tasks. 4 · ℹ️ And of course, providing essential campus information regarding borrowing equipment, healthcare, counseling, and more!"
+    },
+    {
+      "name": "frankie_startup_podcast_message",
+      "category": "Community / careers / other notices",
+      "count": 2,
+      "users": 2,
+      "example": "Hi <first_name>, I just found this excellent podcast called *You Can Startup* 🎧 It’s made for students who are serious about building cool stuff. Founders share what worked, what didn’t, and what they wish they knew at the start. Super honest and helpful. Here's a link: [link] (on Spotify & Apple Podcasts) 💙"
+    },
+    {
+      "name": "opening_week_invite_late_applicants_v2",
+      "category": "Event invitations / announcements",
+      "count": 2,
+      "users": 2,
+      "example": "Hey <first_name> ☺️ Just popping in to let you know that Opening Week *registration is mandatory* this year! I’m here to make sure we’re all sorted before the fun starts 🪁 We will start by signing up to the activities below 👇"
+    },
+    {
+      "name": "frankie_accelerator_summer_message",
+      "category": "Event invitations / announcements",
+      "count": 2,
+      "users": 2,
+      "example": "Hey <first_name>! The FS Entrepreneurship Centre is hosting free online workshops this summer as part of their *Accelerator Summer '25* program. Whether you want to master financial planning, protect your IP, or perfect your pitch, these sessions led by industry experts are designed to give your startup the boost it needs. *Register now:* [link] Let's level up! 💼"
+    },
+    {
+      "name": "frankie_advent_message_alumni",
+      "category": "Event invitations / announcements",
+      "count": 2,
+      "users": 2,
+      "example": "Hi <first_name>! Our FS Alumni x StuCo Christmas Market Evening is tomorrow! Join us *from 18:30 at the City Christmas Market on the Parking Deck Konstablerwache.* We’ll be at the two Alliance Concept stands right across from the main entrance. It’s a great chance to connect with current students, share experiences, and enjoy discounted drinks. If you haven’t registered yet, you can do so here: [link] See you 🎄"
+    },
+    {
+      "name": "women_society_event_second_invitation",
+      "category": "Event invitations / announcements",
+      "count": 2,
+      "users": 2,
+      "example": "Hey, <first_name>, there are still some spots left for *Challenges for the Female Leader in the Finance Sector*, happening at 18:30 on May 8th! We’ll be diving into career paths for women in finance and exploring exciting opportunities at RWE Supply & Trading!"
+    },
+    {
+      "name": "happy_exams_season_oct_2026",
+      "category": "Community / careers / other notices",
+      "count": 1,
+      "users": 1,
+      "example": "To anyone preparing for or sitting exams, I’m cheering you on! 💙 Whatever lies ahead, remember to take care of yourself, support each other, and celebrate your progress, big or small. ☕💪 *Wishing you all the best. You've got this!* 🚀"
+    },
+    {
+      "name": "frankie_karriere_fssc_bachelor_2023",
+      "category": "Community / careers / other notices",
+      "count": 1,
+      "users": 1,
+      "example": "[rendered text unavailable]"
+    },
+    {
+      "name": "frankie_fs_club_offboarding",
+      "category": "Preferences / consent / assistant menu",
+      "count": 1,
+      "users": 1,
+      "example": "Thanks so much for jumping into the Frankie Club event! Your little taste of what I can do is done for now. If you want to keep chatting and find out how I can help you around Campus (and beyond), just onboard below 👇"
+    },
+    {
+      "name": "frankie_feedback_fs_club",
+      "category": "Feedback / surveys",
+      "count": 1,
+      "users": 1,
+      "example": "Hi, thanks for coming on Saturday! Did you have fun? Did you manage to make some new connections? Let me know how it went, so we can keep leveling up 💪"
+    },
+    {
+      "name": "frankie_kav_city_elections",
+      "category": "Community / careers / other notices",
+      "count": 1,
+      "users": 1,
+      "example": "Hi <first_name>! As an international student living in Frankfurt, you’re eligible to vote in the upcoming *KAV city elections on March 15!* 🗳️ *FS alumnus Jaskaran Singh* is running. As a former international student, he knows the challenges you face – from visas and jobs to careers, finance, and integration. Apply for a postal vote here: [link] (select “Frankfurt am Main” as your “Gemeinde”) Thanks 💙"
+    },
+    {
+      "name": "after_invite_2026",
+      "category": "Event confirmations / tickets",
+      "count": 1,
+      "users": 1,
+      "example": "You have been registered for the Opening Week, Team Day, and your preferred Workshop 🎉✅ I will send you a ticket for the Opening Ceremony and Team Day, on the morning of the events. But more on that later. See you soon 💙"
+    },
+    {
+      "name": "frankie_menu_demo_v3",
+      "category": "Preferences / consent / assistant menu",
+      "count": 1,
+      "users": 1,
+      "example": "What would you like to do? 😊"
+    }
+  ],
+  "template_render_missing": 6,
+  "events": [
+    {
+      "event": "2. Frankfurt School Real Estate Career Day 2026",
+      "count": 4265,
+      "users": 2534
+    },
+    {
+      "event": "Career Services presents: Crack the Case",
+      "count": 3909,
+      "users": 2022
+    },
+    {
+      "event": "Career Services Presents Ace Your Investment Banking Interview",
+      "count": 3237,
+      "users": 1739
+    },
+    {
+      "event": "Career Services Presents: Grow Your Professional Network",
+      "count": 3141,
+      "users": 3141
+    },
+    {
+      "event": "Frankfurt School Career Days 2026",
+      "count": 3077,
+      "users": 3077
+    },
+    {
+      "event": "Career Services presents: Boost Your LinkedIn Profile",
+      "count": 2876,
+      "users": 2876
+    },
+    {
+      "event": "Honorary Doctorate Ceremony for Daniel Levinthal",
+      "count": 2827,
+      "users": 2827
+    },
+    {
+      "event": "Career Services presents: Ace your Data Science Job Interview",
+      "count": 2637,
+      "users": 2637
+    },
+    {
+      "event": "Career Services presents: Decode Recruiting Trends 2026",
+      "count": 2576,
+      "users": 2571
+    },
+    {
+      "event": "Career Days 2026 – Intro Session",
+      "count": 2557,
+      "users": 2557
+    },
+    {
+      "event": "Fireside Chat with Christian Sewing, Deutsche Bank CEO and FS Alumnus",
+      "count": 2479,
+      "users": 2479
+    },
+    {
+      "event": "Futury Build Days #3 – Tech by Hessian.AI",
+      "count": 2314,
+      "users": 2314
+    },
+    {
+      "event": "DHL Consulting - Join Our Supply Chain Challenge!",
+      "count": 2101,
+      "users": 2101
+    },
+    {
+      "event": "Career Services presents: Get Your CV Recruiter and ATS-ready",
+      "count": 1967,
+      "users": 1963
+    },
+    {
+      "event": "Career Services presents: Master the Assessment Center",
+      "count": 1924,
+      "users": 1918
+    },
+    {
+      "event": "Virtual Event with Goldman Sachs: Meet the XIG Team!",
+      "count": 1871,
+      "users": 1871
+    },
+    {
+      "event": "Barclays I Banking in the Age of AI:  Building the Career of Tomorrow",
+      "count": 1831,
+      "users": 1831
+    },
+    {
+      "event": "Financial Modelling Like a Banker: Investment Banking & Private Equity with Goldman Sachs Executive Director Florian P. Meyer",
+      "count": 1824,
+      "users": 1824
+    },
+    {
+      "event": "My German Success",
+      "count": 1742,
+      "users": 1738
+    },
+    {
+      "event": "Morgan Stanley Office Visit: Discover Institutional Securities Group & Investment Management Networking Evening",
+      "count": 1729,
+      "users": 1729
+    },
+    {
+      "event": "Inside Investment Banking & Private Equity: From M&A to IPOs with Goldman Sachs Executive Director Florian P. Meyer",
+      "count": 1726,
+      "users": 1726
+    },
+    {
+      "event": "Citi Takeover Day 2026",
+      "count": 1674,
+      "users": 1674
+    },
+    {
+      "event": "FS CaseCompetition x SKYLINERS",
+      "count": 1663,
+      "users": 1663
+    },
+    {
+      "event": "Commerzbank Mittelstandsinstitut Student Case Sprint",
+      "count": 1652,
+      "users": 1652
+    },
+    {
+      "event": "FS Invest x FS-SC x Privatize | From Hundreds of LPs to Millions of Investors",
+      "count": 1642,
+      "users": 1642
+    },
+    {
+      "event": "Deloitte Workshop: Banksteuerung im Fokus – interaktive Case Challenge und Pitch",
+      "count": 1585,
+      "users": 1585
+    },
+    {
+      "event": "Demo Day",
+      "count": 1543,
+      "users": 1526
+    },
+    {
+      "event": "Career Services Presents: Stand out from the Crowd",
+      "count": 1533,
+      "users": 1533
+    },
+    {
+      "event": "AKB Business Champions 2026",
+      "count": 1531,
+      "users": 1531
+    },
+    {
+      "event": "Career Services presents: Stand Out at Assessment Centers",
+      "count": 1512,
+      "users": 1510
+    },
+    {
+      "event": "Career Services presents: Ace your Consulting Job Interview",
+      "count": 1501,
+      "users": 1501
+    },
+    {
+      "event": "Career Services Presents: Build a Powerful CV",
+      "count": 1495,
+      "users": 1495
+    },
+    {
+      "event": "Co-Founder Wanted 9.0",
+      "count": 1479,
+      "users": 1479
+    },
+    {
+      "event": "Career Services Presents: Craft a Winning Cover Letter",
+      "count": 1430,
+      "users": 1430
+    },
+    {
+      "event": "IdeaLab! 2026 - WHU Founders' Conference",
+      "count": 1308,
+      "users": 1308
+    },
+    {
+      "event": "Speed Recruiting Session mit Deloitte",
+      "count": 1131,
+      "users": 1131
+    },
+    {
+      "event": "Nachhaltige Geldanlagen 2026 | Next Generation ESG 23",
+      "count": 1109,
+      "users": 1109
+    },
+    {
+      "event": "FS Invest | How to Break into Finance 🚀",
+      "count": 1056,
+      "users": 1056
+    },
+    {
+      "event": "FS Invest x Bank of America: Workshop & Networking",
+      "count": 1003,
+      "users": 1003
+    },
+    {
+      "event": "World Bank Group: Young Professionals Program",
+      "count": 838,
+      "users": 838
+    },
+    {
+      "event": "Career Services presents: CV Bootcamp for 1st semester Bachelor students",
+      "count": 793,
+      "users": 468
+    },
+    {
+      "event": "Join the Finance Workshop with Accuracy",
+      "count": 781,
+      "users": 781
+    },
+    {
+      "event": "Fuelling Entrepreneurship at Frankfurt School Panel",
+      "count": 709,
+      "users": 709
+    },
+    {
+      "event": "FS Invest: Spring Week Panel 2026",
+      "count": 654,
+      "users": 654
+    },
+    {
+      "event": "Bertelsmann Future Leaders: Dein Einstieg in die internationale Businesswelt",
+      "count": 622,
+      "users": 622
+    },
+    {
+      "event": "Academic Writing for the Thesis: Style, Structure and Citation",
+      "count": 614,
+      "users": 614
+    },
+    {
+      "event": "Design your life – Next Level Self",
+      "count": 566,
+      "users": 566
+    },
+    {
+      "event": "New Skies, New Roots: getting ready to feel at home away from home",
+      "count": 560,
+      "users": 560
+    },
+    {
+      "event": "Let's Talk About...The First Weeks Unpacked",
+      "count": 553,
+      "users": 553
+    },
+    {
+      "event": "Frankfurt Cyber Forum",
+      "count": 548,
+      "users": 548
+    },
+    {
+      "event": "Afterwork - FS Internationals",
+      "count": 539,
+      "users": 539
+    },
+    {
+      "event": "Commerzbank - Unternehmensnachfolge – Banken als Begleiter des Mittelstands im Generationswechsel",
+      "count": 537,
+      "users": 537
+    },
+    {
+      "event": "Company Visit at JLL Frankfurt | Real Estate Debt & Structured Finance",
+      "count": 510,
+      "users": 510
+    },
+    {
+      "event": "Storytelling Techniques for Business",
+      "count": 317,
+      "users": 317
+    },
+    {
+      "event": "Writing your thesis: How to get started, keep organized, and stay motivated",
+      "count": 305,
+      "users": 305
+    },
+    {
+      "event": "Career Services Presents CV Bootcamp for 1st semester Masters students",
+      "count": 272,
+      "users": 272
+    },
+    {
+      "event": "Citi Takeover Day 2026: Corporate Banking Game Workshop",
+      "count": 203,
+      "users": 203
+    },
+    {
+      "event": "Inofficial Running Bar Tour",
+      "count": 62,
+      "users": 62
+    },
+    {
+      "event": "FS Career Services presents: Inside DHL Group Procurement",
+      "count": 31,
+      "users": 31
+    },
+    {
+      "event": "FS Career Services präsentiert: Private Equity Workshop mit LEA Partners",
+      "count": 30,
+      "users": 30
+    },
+    {
+      "event": "𝗖𝘂𝘀𝘁𝗼𝗺𝗲𝗿 𝗦𝘁𝗿𝗮𝘁𝗲𝗴𝘆 𝗗𝗶𝗮𝗹𝗼𝗴𝘂𝗲 𝘄𝗶𝘁𝗵 𝗗𝗿. 𝗝𝗲𝘀𝗸𝗼 𝗣𝗲𝗿𝗿𝗲𝘆",
+      "count": 30,
+      "users": 30
+    },
+    {
+      "event": "Financial Restructuring with Rothschild & Co",
+      "count": 28,
+      "users": 28
+    },
+    {
+      "event": "Skill Workshops presents: Design your life – Next Level Self",
+      "count": 19,
+      "users": 19
+    },
+    {
+      "event": "FS Career Services presents: CEO talk with Dr Christian Ricken, Aareal Bank",
+      "count": 17,
+      "users": 17
+    },
+    {
+      "event": "Space Club Kitchen presents: Moonshot Economy - The market of tomorrow?",
+      "count": 16,
+      "users": 16
+    },
+    {
+      "event": "FS Career Services presents: \"Job Teaser Introduction\" Workshop",
+      "count": 16,
+      "users": 16
+    },
+    {
+      "event": "FS Career Services presents: \"LinkedIn and professional networking strategies\" Workshop",
+      "count": 16,
+      "users": 16
+    },
+    {
+      "event": "Insights into the World Bank Group Internship Program (WBG Pioneers)",
+      "count": 16,
+      "users": 16
+    },
+    {
+      "event": "Skill Workshops presents: Smart Student: AI and ChatGPT for Your Academic & Career Success",
+      "count": 15,
+      "users": 15
+    },
+    {
+      "event": "FS EC Open Workshop: Financial Planning & Cap Tables",
+      "count": 13,
+      "users": 13
+    },
+    {
+      "event": "Skill Workshops presents: Der Weg zu Ihrer Thesis: Themenfindung, Literaturrecherche, Zeitmanagement",
+      "count": 13,
+      "users": 13
+    },
+    {
+      "event": "crossconsulting Workshop: Wie Neobroker etablierte Börsen Ärgern (werden)?",
+      "count": 12,
+      "users": 12
+    },
+    {
+      "event": "Skill Workshops presents: Mathewerkstatt Klartext -  Histogramme: „Was Histogramme uns über Daten flüstern“",
+      "count": 12,
+      "users": 12
+    },
+    {
+      "event": "FS Career Services presents: \"Crafting a compelling job application\" Workshop",
+      "count": 11,
+      "users": 11
+    },
+    {
+      "event": "FS Career Services presents: \"How to tell your career story\" Workshop",
+      "count": 10,
+      "users": 10
+    },
+    {
+      "event": "FS Career Services presents: BASF - TOP START International Business Leader Program – Info Session",
+      "count": 10,
+      "users": 10
+    },
+    {
+      "event": "FS Career Services presents: RWE Supply & Trading @ Frankfurt School",
+      "count": 10,
+      "users": 10
+    },
+    {
+      "event": "Student Wellbeing Day 2026 | 27. & 28. April 2026",
+      "count": 10,
+      "users": 10
+    },
+    {
+      "event": "Skill Workshops presents: Public Speaking with Confidence",
+      "count": 9,
+      "users": 9
+    },
+    {
+      "event": "Futury presents: IdeaLab - Design & Pitch",
+      "count": 9,
+      "users": 9
+    },
+    {
+      "event": "TEDxFS 2026: “From Vision to Value.”",
+      "count": 8,
+      "users": 8
+    },
+    {
+      "event": "FS Career Services präsentiert: Erfolg durch Relationing. Warum jeder seine eigene Relationing Schatztruhe füllen und pflegen muss.",
+      "count": 8,
+      "users": 8
+    },
+    {
+      "event": "Career Services presents: Summer Internship Programs - Insider Insights",
+      "count": 8,
+      "users": 7
+    },
+    {
+      "event": "Career Services Presents Starting Strong in your New Role",
+      "count": 7,
+      "users": 5
+    },
+    {
+      "event": "Skill Workshops presents: Breathe & Reset: Fast Relaxation Sessions",
+      "count": 6,
+      "users": 6
+    },
+    {
+      "event": "Career Services presents: Boost your Job Search with AI",
+      "count": 6,
+      "users": 5
+    },
+    {
+      "event": "Navigating Stress for High Performers",
+      "count": 5,
+      "users": 5
+    },
+    {
+      "event": "FS Charity Spring Run x Gibson Afterparty",
+      "count": 4,
+      "users": 4
+    },
+    {
+      "event": "Career Services Presents: Introduce Yourself with Confidence",
+      "count": 3,
+      "users": 3
+    },
+    {
+      "event": "Career Services presents: Know your Rights & Obligations in the Job in Germany",
+      "count": 3,
+      "users": 3
+    },
+    {
+      "event": "FS Career Services presents: \"The first 100 days in a new job\" Workshop",
+      "count": 3,
+      "users": 3
+    },
+    {
+      "event": "Beratung mit Geschmack: EY-Parthenon lädt ein!",
+      "count": 3,
+      "users": 3
+    },
+    {
+      "event": "Career Services Presents Creating your Job Search Strategy",
+      "count": 2,
+      "users": 2
+    },
+    {
+      "event": "Career Services presents: Apply Smarter with AI",
+      "count": 2,
+      "users": 2
+    },
+    {
+      "event": "Career Services Presents: Ace Your Job Interview in German",
+      "count": 2,
+      "users": 2
+    },
+    {
+      "event": "PowerPoint-CrashKurs: Tipps & Tricks für Einsteiger und Fortgeschrittene",
+      "count": 1,
+      "users": 1
+    },
+    {
+      "event": "Career Services presents: Inside Data Careers",
+      "count": 1,
+      "users": 1
+    },
+    {
+      "event": "test hrco event 1",
+      "count": 1,
+      "users": 1
+    }
+  ],
+  "outbound_topics": [
+    {
+      "topic": "Other / context-dependent text",
+      "count": 72255
+    },
+    {
+      "topic": "Events / clubs / networking",
+      "count": 30909
+    },
+    {
+      "topic": "Opening Week / onboarding",
+      "count": 11401
+    },
+    {
+      "topic": "Timetables / classes / courses",
+      "count": 8851
+    },
+    {
+      "topic": "IT / Canvas / accounts",
+      "count": 8489
+    },
+    {
+      "topic": "Campus / facilities / transport",
+      "count": 6802
+    },
+    {
+      "topic": "Registration / tickets / attendance",
+      "count": 6157
+    },
+    {
+      "topic": "Study advisors / staff contacts",
+      "count": 5909
+    },
+    {
+      "topic": "Exams / grades / assignments",
+      "count": 5038
+    },
+    {
+      "topic": "Food / lunch / canteen",
+      "count": 4750
+    },
+    {
+      "topic": "Careers / jobs / internships",
+      "count": 3205
+    },
+    {
+      "topic": "Documents / student ID / administration",
+      "count": 2776
+    },
+    {
+      "topic": "Fees / scholarships / funding",
+      "count": 647
+    },
+    {
+      "topic": "Housing / visas / relocation",
+      "count": 270
+    },
+    {
+      "topic": "Notification preferences / opt-out",
+      "count": 266
+    },
+    {
+      "topic": "Assistant capabilities / technical feedback",
+      "count": 252
+    },
+    {
+      "topic": "Wellbeing / personal support",
+      "count": 197
+    },
+    {
+      "topic": "Empty / punctuation / numeric replies",
+      "count": 165
+    },
+    {
+      "topic": "Short replies / acknowledgements",
+      "count": 66
+    },
+    {
+      "topic": "Greetings",
+      "count": 4
+    }
+  ],
+  "outbound_common": [
+    {
+      "text": "[link]",
+      "count": 1981,
+      "users": 1018
+    },
+    {
+      "text": "Sorry, I'm not sure which event you mean. Could you give me a bit more info, like the event name or date? I'll do my best to help you out! 📚✨",
+      "count": 1945,
+      "users": 648
+    },
+    {
+      "text": "Let me check with the cooks what they have prepared for Thursday! It's coming right up... 👇",
+      "count": 797,
+      "users": 268
+    },
+    {
+      "text": "Let me check with the cooks what they have prepared for Tuesday! It's coming right up... 👇",
+      "count": 790,
+      "users": 260
+    },
+    {
+      "text": "Let me check with the cooks what they have prepared for Monday! It's coming right up... 👇",
+      "count": 752,
+      "users": 269
+    },
+    {
+      "text": "Let me check with the cooks what they have prepared for Friday! It's coming right up... 👇",
+      "count": 668,
+      "users": 250
+    },
+    {
+      "text": "Ich frage die Köche, was sie für Dienstag vorbereitet haben! Es kommt gleich... 👇",
+      "count": 665,
+      "users": 211
+    },
+    {
+      "text": "Hey <first_name>!",
+      "count": 650,
+      "users": 430
+    },
+    {
+      "text": "Let me check with the cooks what they have prepared for Wednesday! It's coming right up... 👇",
+      "count": 626,
+      "users": 235
+    },
+    {
+      "text": "Ich frage die Köche, was sie für Montag vorbereitet haben! Es kommt gleich... 👇",
+      "count": 601,
+      "users": 185
+    },
+    {
+      "text": "Ich frage die Köche, was sie für Donnerstag vorbereitet haben! Es kommt gleich... 👇",
+      "count": 581,
+      "users": 186
+    },
+    {
+      "text": "Hey <first_name>! 😊",
+      "count": 566,
+      "users": 437
+    },
+    {
+      "text": "Ich frage die Köche, was sie für Mittwoch vorbereitet haben! Es kommt gleich... 👇",
+      "count": 563,
+      "users": 175
+    },
+    {
+      "text": "Let me check with the cooks what they have prepared for Saturday! It's coming right up... 👇",
+      "count": 505,
+      "users": 201
+    },
+    {
+      "text": "Ich frage die Köche, was sie für Freitag vorbereitet haben! Es kommt gleich... 👇",
+      "count": 480,
+      "users": 174
+    },
+    {
+      "text": "Ich frage die Köche, was sie für Samstag vorbereitet haben! Es kommt gleich... 👇",
+      "count": 361,
+      "users": 151
+    },
+    {
+      "text": "Conversation reset",
+      "count": 301,
+      "users": 13
+    },
+    {
+      "text": "Let me check with the cooks what they have prepared for this week! It's coming right up... 👇",
+      "count": 236,
+      "users": 98
+    },
+    {
+      "text": "Hey <first_name>! 🌟",
+      "count": 195,
+      "users": 173
+    },
+    {
+      "text": "Oops, it seems there is no menu available for the requested day.",
+      "count": 191,
+      "users": 96
+    },
+    {
+      "text": "Hi <first_name>! We'd truly appreciate it if you could share some constructive feedback with us. Your input will help us enhance your experience, and it means the world to us! Give Feedback: [link]",
+      "count": 178,
+      "users": 147
+    },
+    {
+      "text": "Ok, I'll send you daily lunch menu updates.",
+      "count": 175,
+      "users": 155
+    },
+    {
+      "text": "How can I best support you in your academic journey today?",
+      "count": 175,
+      "users": 163
+    },
+    {
+      "text": "Let’s pick the winning team 🏆 Have a think, then click on the link below to cast your vote: [link]",
+      "count": 167,
+      "users": 154
+    },
+    {
+      "text": "Ups, es scheint kein Menü für den angefragten Tag vorhanden zu sein.",
+      "count": 163,
+      "users": 62
+    },
+    {
+      "text": "Hi! I’m currently in upgrade mode while my developers work on a few improvements. I’ll be back on March 23rd, even better. Thanks for your patience! 💙",
+      "count": 158,
+      "users": 121
+    },
+    {
+      "text": "Ich frage die Köche, was sie für diese Woche vorbereitet haben! Es kommt gleich... 👇",
+      "count": 150,
+      "users": 54
+    },
+    {
+      "text": "Hi <first_name>, here’s what’s coming up at FS: 🎓 *Honorary Doctorate Ceremony*: FS honors Professor Daniel Levinthal, one of the world’s leading management scholars, followed by his keynote on machine learning & organizational intelligence • Mon, 21 Sep • 14:00–17:00 • FS Campus 📊 *Presentation Design Workshop*: Learn how to create clear, engaging and memorable presentations that go beyond text-heavy slides • Wed, 23 Sep • 18:00–21:00 🚀 *Startup Funding Workshop*: Understand funding options, investor readiness, finding the right investors and navigating the fundraising process • Wed, 23 Sep • 18:30–20:30 • Entrepreneurship Center 💼 *Consulting Career Workshop*: Learn about consulting careers, recruiting, fit & case interviews, with first-hand insights from a McKinsey consultant and FS alumna • Tue, 29 Sep • 18:00 • FS Campus Let me know if you’re interested!",
+      "count": 132,
+      "users": 132
+    },
+    {
+      "text": "Hi, the FS Invest Munich Finance Tour is here 🇩🇪💼 FS Invest is taking a selected group of students to Munich from October 26th to October 30th to visit some very exciting names in finance. Think *Hg, IK Partners, Partners Group, Verdane, Perella Weinberg Partners and more*. And the best part? You don’t need to be an FS Invest member to apply. Applications close September 27th: [link]",
+      "count": 130,
+      "users": 111
+    },
+    {
+      "text": "Let me know if there's anything else I can help with! 😊",
+      "count": 122,
+      "users": 104
+    },
+    {
+      "text": "I'm sorry, I'm having trouble concentrating right now. Could you give me a moment and try again in a minute?",
+      "count": 91,
+      "users": 55
+    },
+    {
+      "text": "*Campus Sorgenfrei Scholarship 2026 - Applications Are Open!* With the Campus Sorgenfrei Scholarship 2026, you have the chance to receive *1,000 EUR* in financial support for your studies. The best part: Your field of study and grade point average do not matter. Apply now and enjoy a stress-free start to the 2026/27 winter semester. Here’s how to secure your chance for a worry-free study experience: - Register on Santander Open Academy - Complete the application form - Submit your application by 20 November 2026 Apply now: [link]",
+      "count": 90,
+      "users": 90
+    },
+    {
+      "text": "Hi <first_name>, here’s what’s coming up at FS: 🧇 *The First Weeks Unpacked:* Talk openly about how your first weeks at FS are really going, with anonymous polls, senior student insights, Q&A and fresh waffles • Mon, 28 Sep • 19:00–20:30 • Skyline Student Lounge 💼 *Consulting Career Workshop:* Learn about consulting careers, recruiting, fit & case interviews, with first-hand insights from a McKinsey consultant and FS alumna • Tue, 29 Sep • 18:00–19:45 • FS Campus ✨ *Stand Out from the Crowd:* Learn how to identify and communicate your strengths, stand out in applications and make employers remember you • Tue, 6 Oct • 08:30–09:00 • Online 🎙️ *C-Level Insights with Prof. Jörg Rocholl:* Explore pension reform, European capital markets and how a capital-funded pension could shape Europe’s competitiveness • Tue, 6 Oct • 18:00–20:00 Let me know if you’re interested!",
+      "count": 90,
+      "users": 90
+    },
+    {
+      "text": "How can I best support you in your academic endeavors today?",
+      "count": 87,
+      "users": 82
+    },
+    {
+      "text": "Welcome to the Frankfurt School of Finance and Management 🎉 I'm Frankie, here to help you settle in and get ready for your journey ahead. Let’s get to know each other and dive into your schedule. Let's get started!: [link]",
+      "count": 86,
+      "users": 67
+    },
+    {
+      "text": "Hey <first_name>! How's it going? 😊",
+      "count": 81,
+      "users": 76
+    },
+    {
+      "text": "*Language:* English",
+      "count": 77,
+      "users": 55
+    },
+    {
+      "text": "Hey <first_name>! 🎉",
+      "count": 74,
+      "users": 68
+    },
+    {
+      "text": "Certainly! Here's the scoop on the *1st FS Real Estate Career Day*: *About the Event:* Are you interested in a career in real estate? Then come to the 1st FS Real Estate Career Day at Frankfurt School! This event is perfect for anyone interested in real estate, regardless of their degree program or experience level. 📅 *Date:* 10th September 2025 🕒 *Time:* 4:00 p.m. – 6:00 p.m. 📍 *Location:* Frankfurt School Campus, Foyer & Creative Learning Participation is free, but registration is required and opens in August 2025 via the new FS platform \"Frankie\". *What to Expect:* - Interactive exhibition stands with top industry players - Practical presentations and a real-life case study on financing a green commercial property with LBBW - Networking opportunities in a relaxed atmosphere - Insider knowledge and career tips from industry experts *Exclusive Networking Dinner:* After the event, there's an exclusive FS REI networking dinner from 6:30 p.m. to 8:30 p.m. for selected participants. To attend, send a short letter of motivation (max. 1 page) by 30th July 2025 to [email]. For more info or any questions, feel free to reach out to the FS REI Team at [email] or call +49 69 154008 – 774. Need more info? Just let me know! 😊",
+      "count": 72,
+      "users": 28
+    },
+    {
+      "text": "You're welcome, <first_name>! 😊",
+      "count": 71,
+      "users": 63
+    },
+    {
+      "text": "Hi <first_name>, here’s what’s coming up at FS next week: 🇩🇪 *My German Success:* Hear firsthand from international FS alumni about launching a career in Germany, from finding internships and navigating the German job market to networking, German language skills and Career Services • Wed, 7 Oct • 18:00–19:45 • Online 📊 *Ace your Data Science Job Interview:* Get practical tips on Data Science interview processes, elevator pitches, different interview questions and how to make a strong impression on recruiters • Thu, 8 Oct • 18:00–19:45 • FS Campus 🚀 *FS Invest | How to Break into Finance:* Explore careers across M&A, Private Equity, Debt Capital Markets, Leveraged Finance and Investment Banking, with practical advice on choosing firms, applications and interview preparation • Sat, 10 Oct • 16:00–17:30 • Online Let me know if you’re interested! See All Upcoming Events: [link]",
+      "count": 69,
+      "users": 69
+    },
+    {
+      "text": "Which one did you mean?",
+      "count": 69,
+      "users": 57
+    },
+    {
+      "text": "that's the next 5. More coming up, you can see them all here: [link]",
+      "count": 68,
+      "users": 60
+    },
+    {
+      "text": "We’ve got a new event alert going off 🪩 Career Services Presents: Craft a Winning Cover Letter is coming up on Tuesday, September 29th at 08:30h @ online and I didn’t want you to miss out. You’ll need to register to attend, so grab your spot while it’s open! Get things sorted below 👇 Save my spot: [link]",
+      "count": 64,
+      "users": 64
+    },
+    {
+      "text": "Which one do you mean?",
+      "count": 63,
+      "users": 55
+    },
+    {
+      "text": "Hey <first_name>! 🎓",
+      "count": 63,
+      "users": 59
+    },
+    {
+      "text": "okay here's what's coming up:",
+      "count": 60,
+      "users": 52
+    },
+    {
+      "text": "Here's your QR for Registration.",
+      "count": 60,
+      "users": 47
+    },
+    {
+      "text": "Hey <first_name>! How can I best support you in your academic endeavors today? 😊",
+      "count": 57,
+      "users": 54
+    },
+    {
+      "text": "Hope that helps! 😊",
+      "count": 55,
+      "users": 53
+    }
+  ],
+  "months": [
+    {
+      "month": "2025-04",
+      "inbound": 1020,
+      "outbound": 1781,
+      "template": 157,
+      "ucs": 0,
+      "users": 292
+    },
+    {
+      "month": "2025-05",
+      "inbound": 4453,
+      "outbound": 6502,
+      "template": 1208,
+      "ucs": 4,
+      "users": 881
+    },
+    {
+      "month": "2025-06",
+      "inbound": 667,
+      "outbound": 1084,
+      "template": 114,
+      "ucs": 31,
+      "users": 199
+    },
+    {
+      "month": "2025-07",
+      "inbound": 2215,
+      "outbound": 2868,
+      "template": 1068,
+      "ucs": 11,
+      "users": 649
+    },
+    {
+      "month": "2025-08",
+      "inbound": 15949,
+      "outbound": 22503,
+      "template": 3849,
+      "ucs": 56,
+      "users": 1256
+    },
+    {
+      "month": "2025-09",
+      "inbound": 6127,
+      "outbound": 10751,
+      "template": 1049,
+      "ucs": 14,
+      "users": 1215
+    },
+    {
+      "month": "2025-10",
+      "inbound": 3511,
+      "outbound": 6434,
+      "template": 341,
+      "ucs": 4,
+      "users": 748
+    },
+    {
+      "month": "2025-11",
+      "inbound": 3110,
+      "outbound": 5540,
+      "template": 389,
+      "ucs": 16,
+      "users": 723
+    },
+    {
+      "month": "2025-12",
+      "inbound": 2091,
+      "outbound": 4198,
+      "template": 132,
+      "ucs": 4,
+      "users": 486
+    },
+    {
+      "month": "2026-01",
+      "inbound": 1082,
+      "outbound": 2004,
+      "template": 105,
+      "ucs": 0,
+      "users": 378
+    },
+    {
+      "month": "2026-02",
+      "inbound": 2566,
+      "outbound": 4926,
+      "template": 475,
+      "ucs": 25,
+      "users": 584
+    },
+    {
+      "month": "2026-03",
+      "inbound": 2156,
+      "outbound": 3940,
+      "template": 235,
+      "ucs": 44,
+      "users": 497
+    },
+    {
+      "month": "2026-04",
+      "inbound": 1798,
+      "outbound": 3133,
+      "template": 363,
+      "ucs": 32,
+      "users": 488
+    },
+    {
+      "month": "2026-05",
+      "inbound": 3166,
+      "outbound": 5697,
+      "template": 9434,
+      "ucs": 15,
+      "users": 2192
+    },
+    {
+      "month": "2026-06",
+      "inbound": 890,
+      "outbound": 1694,
+      "template": 13608,
+      "ucs": 60,
+      "users": 1930
+    },
+    {
+      "month": "2026-07",
+      "inbound": 1443,
+      "outbound": 2540,
+      "template": 4685,
+      "ucs": 56,
+      "users": 1883
+    },
+    {
+      "month": "2026-08",
+      "inbound": 23647,
+      "outbound": 44836,
+      "template": 42993,
+      "ucs": 47,
+      "users": 3225
+    },
+    {
+      "month": "2026-09",
+      "inbound": 15305,
+      "outbound": 31536,
+      "template": 62399,
+      "ucs": 10,
+      "users": 3439
+    },
+    {
+      "month": "2026-10",
+      "inbound": 2791,
+      "outbound": 6442,
+      "template": 21652,
+      "ucs": 0,
+      "users": 3608
+    }
+  ],
+  "rules": [
+    {
+      "priority": 1,
+      "topic": "Notification preferences / opt-out",
+      "pattern": "\\b(unsubscribe|stop sending|stop messaging|stop texting|opt.?out|abmelden|keine nachrichten|benachrichtig|notification|preferences|delete my data|delete my account)\\b"
+    },
+    {
+      "priority": 2,
+      "topic": "Opening Week / onboarding",
+      "pattern": "\\b(opening week|opening ceremony|team day|orientation|onboard\\w*|erstsemester|einfuhrungswoche|einführungswoche|first week|welcome week)\\b"
+    },
+    {
+      "priority": 3,
+      "topic": "Food / lunch / canteen",
+      "pattern": "\\b(lunch|menu|mensa|canteen|cafeteria|mittagessen|essen|speiseplan|kantine|food|vegan|vegetarian|vegetarisch|casino|coffee|cafe|café|cafeteria|breakfast|frühstück|cafeterie|cafeterien|kaffee|menü|menue)\\b|was gibt.?s? (es )?(heute|morgen|am montag|am dienstag|am mittwoch|am donnerstag|am freitag)|what.?s for (today|tomorrow)"
+    },
+    {
+      "priority": 4,
+      "topic": "Study advisors / staff contacts",
+      "pattern": "\\b(study advi[sz]or|student advi[sz]or|studienberater|studienberatung|academic advi[sz]or|program(me)? director|programmleitung|program(me)? manager|student help ?desk|studierendensekretariat)\\b"
+    },
+    {
+      "priority": 5,
+      "topic": "Events / clubs / networking",
+      "pattern": "\\b(event\\w*|veranstaltung\\w*|workshop\\w*|party|parties|club\\w*|initiative\\w*|networking|career days?|capital days?|community life|stuco|student council|fssc|fs invest|tour|gala|ceremony|conference\\w*|konferenz\\w*|hackathon|talk|speaker|keynote|webinar)\\b"
+    },
+    {
+      "priority": 6,
+      "topic": "Exams / grades / assignments",
+      "pattern": "\\b(exam\\w*|prüfung\\w*|pruefung\\w*|klausur\\w*|grade[sd]?|grading|gpa|ects|retake|resit|assignment|thesis|dissertation|bachelorarbeit|masterarbeit|hausarbeit|noten|plagiarism)\\b"
+    },
+    {
+      "priority": 7,
+      "topic": "IT / Canvas / accounts",
+      "pattern": "\\b(canvas|wi.?fi|wlan|login|log in|sign in|password|passwort|microsoft|outlook|portal|vpn|it support|account|sso|internet|software|student email|email account)\\b"
+    },
+    {
+      "priority": 8,
+      "topic": "Timetables / classes / courses",
+      "pattern": "\\b(schedule|timetable|stundenplan|vorlesung\\w*|lecture\\w*|module\\w*|modul\\w*|elective\\w*|curriculum|kurs\\w*|course\\w*|semester|class|classes|unterricht|seminar\\w*)\\b"
+    },
+    {
+      "priority": 9,
+      "topic": "Documents / student ID / administration",
+      "pattern": "\\b(document\\w*|certificate\\w*|transcript|student (id|card|number)|fs card|matrikel\\w*|immatrikul\\w*|bescheinigung\\w*|enrol\\w*|enroll\\w*|admission\\w*|student status|ausweis)\\b"
+    },
+    {
+      "priority": 10,
+      "topic": "Fees / scholarships / funding",
+      "pattern": "\\b(scholarship\\w*|stipendium|stipendien|tuition|fees?|payment|invoice|funding|financial aid|finanzierung|gebühren|gebuehren|rechnung|bafög|bafoeg)\\b"
+    },
+    {
+      "priority": 11,
+      "topic": "Housing / visas / relocation",
+      "pattern": "\\b(housing|accommodation|apartment|dorm\\w*|rent|wohnung\\w*|wohnheim|visa|residence permit|insurance|krankenversicherung|bank account|blocked account)\\b"
+    },
+    {
+      "priority": 12,
+      "topic": "Campus / facilities / transport",
+      "pattern": "\\b(library|bibliothek|study room|group room|room booking|raum\\w*|räume|raume|campus|parking|parkplatz|printer|printing|drucken|gym|fitness|sport|locker|lost and found|öffnungszeit\\w*|opening hours|train|bus|bahn|semesterticket|deutschlandticket)\\b"
+    },
+    {
+      "priority": 13,
+      "topic": "Registration / tickets / attendance",
+      "pattern": "\\b(register\\w*|registration|sign.?up|anmeld\\w*|ticket\\w*|qr.?code|attend\\w*|cancel\\w*|reserv\\w*|booking|book|teilnehm\\w*|teilnahm\\w*|join|participat\\w*)\\b"
+    },
+    {
+      "priority": 14,
+      "topic": "Careers / jobs / internships",
+      "pattern": "\\b(career\\w*|job\\w*|internship\\w*|praktikum|praktika|bewerb\\w*|interview\\w*|recruit\\w*|cv|resume|résumé|cover letter|consulting|investment banking)\\b"
+    },
+    {
+      "priority": 15,
+      "topic": "Wellbeing / personal support",
+      "pattern": "\\b(mental health|wellbeing|well-being|counsel\\w*|counsell\\w*|psycholog\\w*|stress\\w*|anxiety|depress\\w*|lonely)\\b"
+    },
+    {
+      "priority": 16,
+      "topic": "Assistant capabilities / technical feedback",
+      "pattern": "\\b(who are you|what can you|what do you do|wer bist du|was kannst du|chatgpt|artificial intelligence|chatbot|not working|doesn.t work|funktioniert nicht|bug|wrong answer|incorrect)\\b"
+    }
+  ]
+}

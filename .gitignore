@@ -1,5 +1,27 @@
 # Local working files and dependencies
-/tmp/
+/tmp/*
+
+# Keep reproducibility inputs and selected English report builders.
+!/tmp/assessment-python/
+/tmp/assessment-python/*
+!/tmp/assessment-python/Budapest
+!/tmp/extracted/
+/tmp/extracted/*
+!/tmp/extracted/*.txt
+!/tmp/message-analysis/
+/tmp/message-analysis/*
+!/tmp/message-analysis/*.json
+!/tmp/message-analysis/build.mjs
+!/tmp/assessment-build/
+/tmp/assessment-build/*
+!/tmp/assessment-build/build.py
+!/tmp/assessment-build/build_current_state.py
+!/tmp/assessment-build/build_visual.py
+!/tmp/pdfs/
+/tmp/pdfs/*
+!/tmp/pdfs/build_meeting_guide.py
+!/tmp/frankie-openapi.json
+!/tmp/unknown-review-selected.json
 **/node_modules/
 **/__pycache__/
 *.py[cod]

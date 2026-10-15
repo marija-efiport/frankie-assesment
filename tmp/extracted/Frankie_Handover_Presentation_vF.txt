@@ -1,0 +1,192 @@
+
+--- PAGE 1 ---
+Frankie
+FS Dashboard and KB Handover Overview
+Frankfurt School |   June 2026
+
+--- PAGE 2 ---
+The Frankie Ecosystem
+Three components, this handover covers component 2 only
+1
+Mindsmiths Platform
+AI engine · Conversation routing · WhatsApp 
+integration · Agent logic (Onboarding, 
+Events, Canteen, BookStack Manager) · 
+Apache Pulsar · Kubernetes AKS
+Stays on license
+2
+FS Dashboard & Knowledge Base
+Operator dashboard · Event management · 
+Ticketing & UCS · Conversation monitoring · 
+BookStack knowledge base · Student-facing 
+knowledge and support
+HANDOVER TARGET
+3
+Frankie App
+Student-facing mobile application: all 
+Frankie capabilities natively on iOS and 
+Android. This component is in a prototype 
+development
+Semi automatic prototype
+
+--- PAGE 3 ---
+What Frankie Does: Beyond VEA's Scope
+Capabilities VEA does not cover and the Novi Sad team will need to learn from scratch
+Event Management
+Full lifecycle: creation, WhatsApp invites, reminder sequences, waitlists, 
+QR check-in, attendance tracking, post-event feedback
+Student Preferences
+Students configure: proactive message opt-in/out, language, canteen 
+menu subscriptions (daily/weekly), all via WhatsApp conversation
+Conversation Analysis
+Anonymised analysis of all student conversations; automated 
+satisfaction reports per intake; escalation triggers
+Ticketing & Assignment
+Tickets opened from flagged conversations and automatically assigned 
+to the responsible KB manager based on knowledge area
+Human-in-the-Loop (UCS)
+Staff can send messages that appear to students as Frankie, seamless 
+agent handoff, invisible to the student
+Operator Dashboard
+Overview of all conversations, open tickets, KB performance and intake-
+period reporting, not available in VEA
+
+--- PAGE 4 ---
+Frankie vs VEA: Two Different Products
+The Novi Sad team knows VEA. Frankie requires dedicated onboarding.
+Frankie VEA
+Audience Students Employees
+Channel WhatsApp (Infobip) · Frankie mobile app · Frankie 
+website Microsoft Teams (Copilot Studio)
+Platform Mindsmiths (proprietary, licensed) · FS Dashboard Custom RAG pipeline (AWS + Azure serverless)
+Functional scope
+Events, KB, ticketing, onboarding, sentiment, QR, 
+networking (alumni/parents), opportunity board, canteen, 
+FS ecosystem
+Q&A + HR onboarding flows
+Team maintaining it
+Rose (Product Owner), Mindsmiths: 3 engineers (1 senior + 
+2 mid) + 2 product (1 senior + 1 mid)
+Sawraft (dashboard, KB, design): 4 people
+Vedran (PM), Nives (KB)
+→ 12 people, 3 vendors
+2 Novi Sad developers (Saša, Marija)
++ 1 borrowed from FS IT Frankfurt (Shahnaz)
++ PM, PO, 1 SME
+Onboarding the Novi Sad team to Frankie requires dedicated ramp-up - it cannot be treated as a simple reassignment from VEA.
+
+--- PAGE 5 ---
+Frankie Architecture
+Three layers — each with a distinct ownership model
+WhatsApp / Students
+(via Infobip)
+Frankie Mobile App
+(iOS & Android)
+Frankie Website
+(Web interface)
+MINDSMITHS PLATFORM
+AI logic  ·  Agents (Onboarding, Event, Canteen, BookStack Manager)  ·  WhatsApp routing  ·  Apache Pulsar  ·  Kubernetes (AKS)
+Mindsmiths team (Hrvoje, Lana, Marko, Nikola...)  · Rose (PO) · Vedran (PM)
+STAYS
+CRM — Connector Layer
+Mindsmiths  ·  Gabrijel  ·  Ivan  · Rose (PO) Vedran (PM)
+TRANSFERS
+FS Dashboard
+Event mgmt · Ticketing · UCS · Monitoring · Reporting
+Gabrijel  ·  Lex  ·  Ivan  · Rose (PO) Vedran (PM)
+BookStack (Knowledge Base)
+KB content · Student Q&A · Knowledge management
+Ivan  ·  Nives  · Rose (PO) Vedran (PM)
+Stays with Mindsmiths (license) Transfers to FS Dashboard team Transfers to FS KB team
+
+--- PAGE 6 ---
+FS Needs to Hire: prerequisites for a successful handover
+Two teams required before handover can begin
+1 Knowledge Base Team
+• Manage 1,000+ articles across all FS programmes, events and services (EN + DE)
+• Full content refresh per intake cycle: programmes, events, deadlines, FAQs
+• Own ticket answers: identify responsible FS stakeholder, validate, close loop
+• Initiate UCS: decide when a student needs human contact; brief Dashboard team
+• Write event content: descriptions, waitlist comms, post -event summaries
+• Update canteen menus in BookStack (daily/weekly)
+• Coordinate with 10+ FS departments (academic, admissions, student services,
+IT, career centre, library, alumni, events, canteen, international office...)
+• Intake-period content freeze: no KB changes during peak student activity
+• Monitor answer quality; flag and fix outdated content
+• Multilingual content management (EN + DE)
+2 FS Dashboard Team
+DEVELOPMENT
+• React/TypeScript FS Dashboard frontend maintenance
+• CRM connector maintenance (Mindsmiths Platform integration)
+• Feature development, bug fixes, security patches
+• Release coordination with Mindsmiths AKS/Kubernetes cycles
+• Dev / staging / production environment pipeline
+OPERATIONS
+• Monitor all student conversations in real -time
+• Execute UCS: send message as Frankie when KB team requests
+• Configure events in Dashboard: flows, invite lists, waitlists, QR codes
+• Route incoming tickets to the correct KB domain owner
+• Configure student preferences: opt -outs, language, canteen subscriptions
+• KPI dashboards and operational reports for FS management
+
+--- PAGE 7 ---
+Proposed Transition: FS Dashboard and Knowledge Base
+A structured, phased approach across four stages
+Knowledge
+Transfer
+Phase 1
+1
+• Structured KB handover 
+sessions
+• Dashboard codebase 
+walkthrough
+• CRM integration 
+documentation
+• FS KB team shadows live 
+intake
+Parallel
+Run
+Phase 2
+2
+• FS team owns Dashboard 
+(Frankie backup)
+• FS KB team manages content 
+(supervised)
+• FS team leads sprint planning
+• All ticketing routed via FS 
+team
+Supervised
+Handover
+Phase 3
+3
+• FS team fully independent
+• Frankie team on-call only
+• KB content quality gate
+• Sign-off before Frankie exits
+Full FS
+Ownership
+Phase 4
+4
+• Complete operational 
+independence
+• Mindsmiths on license only
+• FS manages own sprint 
+cadence
+• FS runs own KB review cycle
+Each phase has a formal Go/No-Go gate. The handover cannot advance before exit criteria are met for the current phase.
+
+--- PAGE 8 ---
+Key Handover Risks
+Service continuity depends on a planned, phased approach
+CRITICAL
+Loss of institutional knowledge: the Frankie team holds five years of accumulated understanding of student 
+behaviour, platform edge cases, seasonal operational patterns and FS stakeholder dynamics. Much of this is not 
+formally documented.
+CRITICAL Dashboard outages with no support: the incoming FS development team will have no existing familiarity with the FS 
+Dashboard codebase. Immediate handover without knowledge transfer leaves production bugs unsupported.
+HIGH Knowledge base degradation: without trained KB managers, content becomes outdated during intake periods, 
+causing Frankie to give students incorrect information about events, programmes and processes.
+HIGH
+Mindsmiths relationship breakdown: the current team has established working relationships and escalation paths 
+with Mindsmiths. An abrupt transition without proper onboarding of the incoming team risks delayed response 
+times and platform miscommunication.

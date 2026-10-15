@@ -1,0 +1,4164 @@
+{
+  "summary": {
+    "episode_count": 42444,
+    "request_records": 58449,
+    "summary": {
+      "Timetables / classes / courses": {
+        "episodes": 2637,
+        "requests": 3865,
+        "fallback": 349,
+        "clarification": 362,
+        "referral": 668,
+        "user_confirmation": 1,
+        "user_negative": 13,
+        "source_linked": 1223,
+        "no_response_in_window": 68
+      },
+      "Opening Week / onboarding": {
+        "episodes": 2245,
+        "requests": 3258,
+        "fallback": 314,
+        "clarification": 309,
+        "referral": 342,
+        "user_confirmation": 1,
+        "user_negative": 5,
+        "source_linked": 564,
+        "no_response_in_window": 93
+      },
+      "Study advisors / staff contacts": {
+        "episodes": 515,
+        "requests": 725,
+        "fallback": 58,
+        "clarification": 19,
+        "referral": 445,
+        "user_confirmation": 0,
+        "user_negative": 2,
+        "source_linked": 320,
+        "no_response_in_window": 6
+      },
+      "Exams / grades / assignments": {
+        "episodes": 1652,
+        "requests": 2615,
+        "fallback": 206,
+        "clarification": 234,
+        "referral": 738,
+        "user_confirmation": 0,
+        "user_negative": 8,
+        "source_linked": 1097,
+        "no_response_in_window": 36
+      },
+      "Registration / tickets / attendance": {
+        "episodes": 3141,
+        "requests": 4251,
+        "fallback": 451,
+        "clarification": 361,
+        "referral": 496,
+        "user_confirmation": 1,
+        "user_negative": 19,
+        "source_linked": 731,
+        "no_response_in_window": 107
+      },
+      "Campus / facilities / transport": {
+        "episodes": 1601,
+        "requests": 2280,
+        "fallback": 148,
+        "clarification": 121,
+        "referral": 212,
+        "user_confirmation": 0,
+        "user_negative": 7,
+        "source_linked": 623,
+        "no_response_in_window": 28
+      },
+      "Documents / student ID / administration": {
+        "episodes": 812,
+        "requests": 1130,
+        "fallback": 64,
+        "clarification": 36,
+        "referral": 288,
+        "user_confirmation": 0,
+        "user_negative": 5,
+        "source_linked": 368,
+        "no_response_in_window": 29
+      },
+      "IT / Canvas / accounts": {
+        "episodes": 1118,
+        "requests": 1726,
+        "fallback": 78,
+        "clarification": 61,
+        "referral": 299,
+        "user_confirmation": 1,
+        "user_negative": 25,
+        "source_linked": 546,
+        "no_response_in_window": 23
+      },
+      "Food / lunch / canteen": {
+        "episodes": 8604,
+        "requests": 9925,
+        "fallback": 368,
+        "clarification": 81,
+        "referral": 48,
+        "user_confirmation": 0,
+        "user_negative": 5,
+        "source_linked": 468,
+        "no_response_in_window": 123
+      },
+      "Other / context-dependent text": {
+        "episodes": 12213,
+        "requests": 16673,
+        "fallback": 1700,
+        "clarification": 1283,
+        "referral": 1801,
+        "user_confirmation": 1,
+        "user_negative": 30,
+        "source_linked": 3621,
+        "no_response_in_window": 494
+      },
+      "Events / clubs / networking": {
+        "episodes": 6767,
+        "requests": 10282,
+        "fallback": 1320,
+        "clarification": 1385,
+        "referral": 699,
+        "user_confirmation": 0,
+        "user_negative": 24,
+        "source_linked": 817,
+        "no_response_in_window": 292
+      },
+      "Fees / scholarships / funding": {
+        "episodes": 186,
+        "requests": 293,
+        "fallback": 16,
+        "clarification": 20,
+        "referral": 72,
+        "user_confirmation": 0,
+        "user_negative": 0,
+        "source_linked": 110,
+        "no_response_in_window": 5
+      },
+      "Notification preferences / opt-out": {
+        "episodes": 64,
+        "requests": 90,
+        "fallback": 11,
+        "clarification": 4,
+        "referral": 18,
+        "user_confirmation": 0,
+        "user_negative": 0,
+        "source_linked": 17,
+        "no_response_in_window": 9
+      },
+      "Careers / jobs / internships": {
+        "episodes": 580,
+        "requests": 867,
+        "fallback": 82,
+        "clarification": 66,
+        "referral": 131,
+        "user_confirmation": 0,
+        "user_negative": 4,
+        "source_linked": 249,
+        "no_response_in_window": 15
+      },
+      "Assistant capabilities / technical feedback": {
+        "episodes": 159,
+        "requests": 255,
+        "fallback": 13,
+        "clarification": 21,
+        "referral": 19,
+        "user_confirmation": 0,
+        "user_negative": 0,
+        "source_linked": 51,
+        "no_response_in_window": 12
+      },
+      "Housing / visas / relocation": {
+        "episodes": 50,
+        "requests": 86,
+        "fallback": 7,
+        "clarification": 6,
+        "referral": 23,
+        "user_confirmation": 0,
+        "user_negative": 0,
+        "source_linked": 21,
+        "no_response_in_window": 2
+      },
+      "Wellbeing / personal support": {
+        "episodes": 20,
+        "requests": 37,
+        "fallback": 1,
+        "clarification": 8,
+        "referral": 9,
+        "user_confirmation": 0,
+        "user_negative": 0,
+        "source_linked": 11,
+        "no_response_in_window": 0
+      },
+      "Unsubscribe / stop notifications": {
+        "episodes": 80,
+        "requests": 91,
+        "fallback": 0,
+        "clarification": 0,
+        "referral": 0,
+        "user_confirmation": 0,
+        "user_negative": 0,
+        "source_linked": 0,
+        "no_response_in_window": 32
+      }
+    },
+    "sample_ids": [
+      "EP037247",
+      "EP016734",
+      "EP031017",
+      "EP038785",
+      "EP005035",
+      "EP018735",
+      "EP027987",
+      "EP027787",
+      "EP039142",
+      "EP030621",
+      "EP003333",
+      "EP039501",
+      "EP016830",
+      "EP038775",
+      "EP005682",
+      "EP001540",
+      "EP018758",
+      "EP009921",
+      "EP020554",
+      "EP011309",
+      "EP013057",
+      "EP025397",
+      "EP027728",
+      "EP038654",
+      "EP010318",
+      "EP003259",
+      "EP009682",
+      "EP015666",
+      "EP009480",
+      "EP030246",
+      "EP030944",
+      "EP039520",
+      "EP029344",
+      "EP033669",
+      "EP035532",
+      "EP030500",
+      "EP040247",
+      "EP042276",
+      "EP042110",
+      "EP039171"
+    ]
+  },
+  "pilot": [
+    {
+      "id": "EP037247",
+      "topic": "Food / lunch / canteen",
+      "usecase": "Daily menu",
+      "verdict": "Partial answer / navigation / referral",
+      "code": "D",
+      "reason": "No daily menu is supplied; the reply then gives general opening hours and Schnitzel Day. This does not establish what was served that day.",
+      "verification": "Historical canteen menu and opening hours for 2025-05-01.",
+      "user": "User 2952",
+      "date": "2025-05-01 05:56:11.260492+00:00",
+      "first_line": 350047,
+      "question": "Todays menu",
+      "sources": "11 - Student Help Desk (all-programs) | 12 - Frankfurt campus - floor plan directions (all-programs) | 197 - Alliance - Canteen (alliance) | 57 - Study spots (all-programs) | 878 - Top 30 Alumni (alumni) | 895 - Fallback kb in one file (fallback-kb)"
+    },
+    {
+      "id": "EP016734",
+      "topic": "Food / lunch / canteen",
+      "usecase": "Daily menu",
+      "verdict": "Direct answer; accuracy unverified",
+      "code": "K",
+      "reason": "Supplies dishes, prices and a date matching the question date. The later event digest is not part of the lunch answer.",
+      "verification": "Compare dishes and prices with the historical canteen source.",
+      "user": "User 0958",
+      "date": "2026-09-28 11:00:12.020174+00:00",
+      "first_line": 144673,
+      "question": "What is the menu today",
+      "sources": ""
+    },
+    {
+      "id": "EP031017",
+      "topic": "Food / lunch / canteen",
+      "usecase": "Daily menu",
+      "verdict": "Direct answer; accuracy unverified",
+      "code": "K",
+      "reason": "In response to lunch, supplies dishes and prices for 2026-04-24, the same date as the question.",
+      "verification": "Historical canteen menu.",
+      "user": "User 2214",
+      "date": "2026-04-24 08:36:13.409793+00:00",
+      "first_line": 282836,
+      "question": "lunch",
+      "sources": ""
+    },
+    {
+      "id": "EP038785",
+      "topic": "Food / lunch / canteen",
+      "usecase": "Tomorrow's menu",
+      "verdict": "Direct answer; accuracy unverified",
+      "code": "K",
+      "reason": "Supplies the menu for 2025-05-10 in response to a question about tomorrow sent on 2025-05-09.",
+      "verification": "Historical menu; the date itself is consistent.",
+      "user": "User 3195",
+      "date": "2025-05-09 20:20:48.474345+00:00",
+      "first_line": 372387,
+      "question": "What’s for lunch tmr",
+      "sources": ""
+    },
+    {
+      "id": "EP005035",
+      "topic": "Events / clubs / networking",
+      "usecase": "Workshops on a specific date",
+      "verdict": "Unresolved / response problem",
+      "code": "P",
+      "reason": "Says Freitag, 29.08. in a 2026 conversation; 2026-08-29 is a Saturday. Workshop content was not independently verified.",
+      "verification": "Historical event calendar; the weekday error can be checked against a calendar.",
+      "user": "User 0228",
+      "date": "2026-08-28 22:57:04.149240+00:00",
+      "first_line": 41107,
+      "question": "Are there any Workshops tomorrow",
+      "sources": ""
+    },
+    {
+      "id": "EP018735",
+      "topic": "Events / clubs / networking",
+      "usecase": "When and where tickets arrive",
+      "verdict": "Direct answer; accuracy unverified",
+      "code": "K",
+      "reason": "Directly answers: on the event morning, in the same WhatsApp conversation. Delivery is not proven.",
+      "verification": "Delivery rules and actual delivery of the specific tickets.",
+      "user": "User 1094",
+      "date": "2026-08-22 16:32:08.216484+00:00",
+      "first_line": 163823,
+      "question": "Haben mich überall angemeldet, wann bekomme ich das Ticket für Apfelwein und alle anderen Events außer Freigut, Gibson und Fortuna, die habe ich schon",
+      "sources": ""
+    },
+    {
+      "id": "EP027987",
+      "topic": "Events / clubs / networking",
+      "usecase": "Help registering for an event",
+      "verdict": "Unresolved / response problem",
+      "code": "P",
+      "reason": "Requests the registration section and a screenshot without resolving the issue. Prior context (lines 250638-250639) shows a registration request and dissatisfaction.",
+      "verification": "CRM registration status; context changes the interpretation of the isolated Tell me more message.",
+      "user": "User 1822",
+      "date": "2026-09-06 12:41:26.023275+00:00",
+      "first_line": 250634,
+      "question": "Hi Frankie! Tell me more about the event \"2. Frankfurt School Real Estate Career Day 2026\"?",
+      "sources": ""
+    },
+    {
+      "id": "EP027787",
+      "topic": "Events / clubs / networking",
+      "usecase": "Event overview",
+      "verdict": "Direct answer; accuracy unverified",
+      "code": "K",
+      "reason": "Lists several named events with dates, times and a link. List currency and event time zones were not verified.",
+      "verification": "Historical CRM event calendar.",
+      "user": "User 1797",
+      "date": "2026-09-05 15:23:49.743699+00:00",
+      "first_line": 248551,
+      "question": "Hi Frankie! What events are coming up?",
+      "sources": ""
+    },
+    {
+      "id": "EP039142",
+      "topic": "Registration / tickets / attendance",
+      "usecase": "Guest tickets",
+      "verdict": "Direct answer; accuracy unverified",
+      "code": "K",
+      "reason": "Explains the shared ticket, QR-code delivery and the Trouble Desk alternative.",
+      "verification": "Event rules and any QR-code delivery.",
+      "user": "User 3254",
+      "date": "2025-08-30 08:14:22.946666+00:00",
+      "first_line": 377642,
+      "question": "Wo sehe ich die Tickets für meine Gäste?",
+      "sources": ""
+    },
+    {
+      "id": "EP030621",
+      "topic": "Registration / tickets / attendance",
+      "usecase": "Checking personal registration",
+      "verdict": "Action or status unverified",
+      "code": "N",
+      "reason": "Claims the user is registered for Opening Week. The episode contains no system confirmation or user confirmation of that status.",
+      "verification": "CRM registration record at the time of the reply.",
+      "user": "User 2147",
+      "date": "2026-08-25 14:40:39.134000+00:00",
+      "first_line": 277752,
+      "question": "am i registered?",
+      "sources": ""
+    },
+    {
+      "id": "EP003333",
+      "topic": "Registration / tickets / attendance",
+      "usecase": "Finding a QR ticket",
+      "verdict": "Partial answer / navigation / referral",
+      "code": "D",
+      "reason": "Explains mandatory registration but does not find the QR code; refers to the confirmation or email.",
+      "verification": "Whether the user subsequently received or found the QR code.",
+      "user": "User 0136",
+      "date": "2026-09-24 15:28:00.552124+00:00",
+      "first_line": 26367,
+      "question": "Musste man sich vorher anmelden?",
+      "sources": ""
+    },
+    {
+      "id": "EP039501",
+      "topic": "Registration / tickets / attendance",
+      "usecase": "Whether registration is required",
+      "verdict": "Direct answer; accuracy unverified",
+      "code": "K",
+      "reason": "Says Outdoor Campus requires no registration. Previous lines 384163-384164 establish which event the question concerns.",
+      "verification": "Historical Outdoor Campus registration rules.",
+      "user": "User 3335",
+      "date": "2025-08-04 14:41:56.483274+00:00",
+      "first_line": 384162,
+      "question": "Do i have to register for that",
+      "sources": "1151 - Intake 2025-BSc Orientation Week (bsc-2) | 1153 - Your FS Team BBA Intake 2025 (bba) | 1169 - Buddies - intake 2025 (bsc-2)"
+    },
+    {
+      "id": "EP016830",
+      "topic": "Timetables / classes / courses",
+      "usecase": "Personal class timetable",
+      "verdict": "Partial answer / navigation / referral",
+      "code": "D",
+      "reason": "Does not supply the timetable; says it is not ready and refers to Canvas/Online Campus. OK is not proof of resolution.",
+      "verification": "Actual timetable and publication date.",
+      "user": "User 0965",
+      "date": "2026-08-08 11:08:00.902162+00:00",
+      "first_line": 146186,
+      "question": "Can you give me full class schedule",
+      "sources": ""
+    },
+    {
+      "id": "EP038775",
+      "topic": "Timetables / classes / courses",
+      "usecase": "Lecture room",
+      "verdict": "Partial answer / navigation / referral",
+      "code": "D",
+      "reason": "Does not find the classroom. After further questions, supplies a phone number; the original request remains unresolved.",
+      "verification": "Room schedule; a contact number alone is not the lecture location.",
+      "user": "User 3192",
+      "date": "2025-05-16 18:03:59.559886+00:00",
+      "first_line": 372202,
+      "question": "Where does Thun has a lecture?",
+      "sources": "10 - Frankfurt campus (all-programs) | 437 - Jörn-Henrik Thun (fs-staff) | 638 - Information on how to use the library 20250218 (library)"
+    },
+    {
+      "id": "EP005682",
+      "topic": "Timetables / classes / courses",
+      "usecase": "Tomorrow's schedule",
+      "verdict": "Direct answer; accuracy unverified",
+      "code": "K",
+      "reason": "Supplies specific activities and times for the following day. Their applicability to the user's programme is unconfirmed.",
+      "verification": "The user's personal schedule.",
+      "user": "User 0260",
+      "date": "2026-08-27 19:03:25.461474+00:00",
+      "first_line": 46220,
+      "question": "Tell me tomorrows schedule please",
+      "sources": ""
+    },
+    {
+      "id": "EP001540",
+      "topic": "Timetables / classes / courses",
+      "usecase": "Paying for a preparatory course",
+      "verdict": "Partial answer / navigation / referral",
+      "code": "D",
+      "reason": "Refers to an instruction email and admissions without giving a specific payment method. The automated timetable topic is too broad.",
+      "verification": "Payment instructions for the particular course.",
+      "user": "User 0063",
+      "date": "2025-07-31 19:46:55.093225+00:00",
+      "first_line": 12622,
+      "question": "and where can i pay for my math pre course?",
+      "sources": "1150 - Intake 2025 - Academic Calendar (CBA) (bsc-2) | 1151 - Intake 2025-BSc Orientation Week (bsc-2)"
+    },
+    {
+      "id": "EP018758",
+      "topic": "Opening Week / onboarding",
+      "usecase": "Opening Week registration deadline",
+      "verdict": "Partial answer / navigation / referral",
+      "code": "D",
+      "reason": "Explains that the invitation arrives through WhatsApp but does not give the requested date or deadline.",
+      "verification": "Planned registration opening date.",
+      "user": "User 1097",
+      "date": "2025-08-06 06:06:42.330067+00:00",
+      "first_line": 164023,
+      "question": "When can I register for opening week?",
+      "sources": "1151 - Intake 2025-BSc Orientation Week (bsc-2) | 188 - Career Days 2024 (career-services) | 28 - Academic calendar (all-programs) | 45 - Orientation/Opening Week/Days (all-programs) | 48 - Student ID (all-programs)"
+    },
+    {
+      "id": "EP009921",
+      "topic": "Opening Week / onboarding",
+      "usecase": "Buying a Gibson ticket",
+      "verdict": "Partial answer / navigation / referral",
+      "code": "D",
+      "reason": "Still says details are unavailable after the event is named; asks for the personal schedule or invitation text. No purchase instructions are given.",
+      "verification": "Sales channel and event rules.",
+      "user": "User 0470",
+      "date": "2026-08-21 10:27:13.914012+00:00",
+      "first_line": 82637,
+      "question": "Wie kann ich Tickets für den Abend im Gibson nächste Woche Donnerstag bestellen? Ist ja auch Teil der Opening Week.",
+      "sources": ""
+    },
+    {
+      "id": "EP020554",
+      "topic": "Opening Week / onboarding",
+      "usecase": "Ceremony time",
+      "verdict": "Partial answer / navigation / referral",
+      "code": "D",
+      "reason": "Cannot confirm the requested time and refers to the official schedule.",
+      "verification": "Schedule for the relevant ceremony.",
+      "user": "User 1227",
+      "date": "2026-08-29 08:31:42.847847+00:00",
+      "first_line": 180695,
+      "question": "When is the Bachelor opening ceremony?",
+      "sources": ""
+    },
+    {
+      "id": "EP011309",
+      "topic": "Opening Week / onboarding",
+      "usecase": "Dress code for the first days",
+      "verdict": "Direct answer; accuracy unverified",
+      "code": "K",
+      "reason": "Directly answers: business dress on the first day and casual dress on Team Day.",
+      "verification": "Official dress code for that programme and year.",
+      "user": "User 0556",
+      "date": "2026-08-23 19:36:42.526231+00:00",
+      "first_line": 94963,
+      "question": "What is the dresscode for the first and also the second day of orientation week?",
+      "sources": ""
+    },
+    {
+      "id": "EP013057",
+      "topic": "Exams / grades / assignments",
+      "usecase": "Where to find the exam schedule",
+      "verdict": "Partial answer / navigation / referral",
+      "code": "D",
+      "reason": "Supplies TimeEdit/schedule links but does not display the schedule in the conversation. Under the user's criterion, navigation does not count as a direct answer.",
+      "verification": "The schedule content and its accuracy.",
+      "user": "User 0648",
+      "date": "2026-10-07 16:05:49.167328+00:00",
+      "first_line": 111406,
+      "question": "Where do I find time edit? So I can see my exams?",
+      "sources": ""
+    },
+    {
+      "id": "EP025397",
+      "topic": "Exams / grades / assignments",
+      "usecase": "Thesis language",
+      "verdict": "Unresolved / response problem",
+      "code": "P",
+      "reason": "Claims English is required without exceptions; the user reports conflicting information from the introduction. The conversation ends with a referral to an advisor. The dispute remains unresolved.",
+      "verification": "Applicable programme regulations; the messages do not establish which party is factually correct.",
+      "user": "User 1586",
+      "date": "2026-05-27 12:51:27.760594+00:00",
+      "first_line": 224887,
+      "question": "Is it possible to write the thesis in German?",
+      "sources": ""
+    },
+    {
+      "id": "EP027728",
+      "topic": "Exams / grades / assignments",
+      "usecase": "Resit exam dates",
+      "verdict": "Unresolved / response problem",
+      "code": "P",
+      "reason": "Repeats a link instead of dates; the user explicitly says this is not the requested general plan. The request remains unresolved.",
+      "verification": "The relevant exam schedule.",
+      "user": "User 1790",
+      "date": "2026-03-08 18:28:06.951733+00:00",
+      "first_line": 247835,
+      "question": "Kannst du mir den Plan schicken welche nachschreibe Klausuren in den nächsten Tagen sind",
+      "sources": "1075 - BSc Concentration Module Descriptions May 2025 (bsc) | 209 - Language courses - general information (languages) | 369 - Pia Domschke (fs-staff) | 372 - Martin Faust (fs-staff) | 378 - Ronald Gleich (fs-staff) | 383 - Thomas Heidorn (fs-staff) | 401 - Horst Löchel (fs-staff) | 402 - Edgar Löw (fs-staff) | 407 - Jürgen Moormann (fs-staff) | 408 - Ulf Moslener (fs-staff) | 424 - Christoph Schalast (fs-staff) | 430 - Rainer Sibbel (fs-staff) | 453 - Jörg Schlüchtermann (fs-staff)"
+    },
+    {
+      "id": "EP038654",
+      "topic": "Exams / grades / assignments",
+      "usecase": "Finding examination regulations",
+      "verdict": "Partial answer / navigation / referral",
+      "code": "D",
+      "reason": "Gives general locations and an advisor, without the specific document.",
+      "verification": "The applicable programme's examination regulations.",
+      "user": "User 3171",
+      "date": "2025-05-16 08:40:19.293042+00:00",
+      "first_line": 370400,
+      "question": "Where is the Prüfungsordnung",
+      "sources": "10 - Frankfurt campus (all-programs) | 12 - Frankfurt campus - floor plan directions (all-programs) | 415 - Julia Redenius-Hövermann (fs-staff) | 424 - Christoph Schalast (fs-staff) | 441 - Thomas Weck (fs-staff) | 455 - Michael Grüning (fs-staff) | 638 - Information on how to use the library 20250218 (library)"
+    },
+    {
+      "id": "EP010318",
+      "topic": "IT / Canvas / accounts",
+      "usecase": "Career Services contact",
+      "verdict": "Direct answer; accuracy unverified",
+      "code": "K",
+      "reason": "Supplies the requested email address and receives thanks. This is a contact request although automatically classified as IT.",
+      "verification": "Whether the contact address was correct at the time.",
+      "user": "User 0500",
+      "date": "2026-08-16 14:43:35.146832+00:00",
+      "first_line": 86180,
+      "question": "is there an email account through which I can write directly to the Career service team ?",
+      "sources": ""
+    },
+    {
+      "id": "EP003259",
+      "topic": "IT / Canvas / accounts",
+      "usecase": "IT support opening hours",
+      "verdict": "Direct answer; accuracy unverified",
+      "code": "K",
+      "reason": "Supplies the location, hours, email and phone number with knowledge-base references.",
+      "verification": "Historical opening hours and contact details.",
+      "user": "User 0132",
+      "date": "2025-10-02 16:43:54.091994+00:00",
+      "first_line": 25924,
+      "question": "When can I go to the it support?",
+      "sources": "11 - Student Help Desk (all-programs) | 1109 - FS Chess (student-initiatives) | 1115 - FS Asia Society (student-initiatives) | 27 - IT Support (all-programs) | 292 - Learning Lab (other-bsc) | 31 - (Psycho-)Social Counselling and Coaching (personal-well-being-and-coaching)"
+    },
+    {
+      "id": "EP009682",
+      "topic": "IT / Canvas / accounts",
+      "usecase": "Email setup / AI tutor",
+      "verdict": "Partial answer / navigation / referral",
+      "code": "D",
+      "reason": "Offers a draft message to IT but does not supply the requested address; also gives no concrete solution to the later AI-tutor request. The episode contains several tasks.",
+      "verification": "Account settings and the outcome of the procedure.",
+      "user": "User 0455",
+      "date": "2026-09-08 15:55:14.076224+00:00",
+      "first_line": 80102,
+      "question": "I want all the emails fs sends me to my personal email that i used for the enrollment (not frankie) to be sent to my newly activated fs email address on outlook",
+      "sources": ""
+    },
+    {
+      "id": "EP015666",
+      "topic": "IT / Canvas / accounts",
+      "usecase": "Canvas link",
+      "verdict": "Partial answer / navigation / referral",
+      "code": "D",
+      "reason": "Supplies exactly the requested link, but this is a navigation use case. It is excluded from the rate of substantive answers supplied within the conversation.",
+      "verification": "Measure navigation separately; a substantive answer was not requested here.",
+      "user": "User 0906",
+      "date": "2026-08-12 12:02:09.705727+00:00",
+      "first_line": 135648,
+      "question": "Link zu Canvas?",
+      "sources": ""
+    },
+    {
+      "id": "EP009480",
+      "topic": "Documents / student ID / administration",
+      "usecase": "Workshop certificate",
+      "verdict": "Partial answer / navigation / referral",
+      "code": "D",
+      "reason": "Explicitly says it cannot confirm that a certificate is issued. Avoids a promise but does not resolve the question.",
+      "verification": "Workshop rules.",
+      "user": "User 0447",
+      "date": "2026-09-21 14:35:56.161930+00:00",
+      "first_line": 78340,
+      "question": "Will I get some kind of certificate?",
+      "sources": ""
+    },
+    {
+      "id": "EP030246",
+      "topic": "Documents / student ID / administration",
+      "usecase": "Lost student ID card",
+      "verdict": "Direct answer; accuracy unverified",
+      "code": "K",
+      "reason": "Supplies steps, contact details, the fee and collection conditions with references to the Student ID document.",
+      "verification": "Historical rules and fee; issuance of a replacement card is not proven.",
+      "user": "User 2078",
+      "date": "2025-11-11 18:43:53.448934+00:00",
+      "first_line": 273361,
+      "question": "What should I do if I lost my student id",
+      "sources": "10 - Frankfurt campus (all-programs) | 45 - Orientation/Opening Week/Days (all-programs) | 48 - Student ID (all-programs) | 892 - General Examination Info (examination-office)"
+    },
+    {
+      "id": "EP030944",
+      "topic": "Documents / student ID / administration",
+      "usecase": "Checking a time / document",
+      "verdict": "Partial answer / navigation / referral",
+      "code": "D",
+      "reason": "Retracts earlier certainty and cannot confirm the time. The user then checks independently and reports 9:30. This does not show independent resolution by Frankie.",
+      "verification": "Prior context and official schedule; the automated Documents topic is not the actual main need.",
+      "user": "User 2194",
+      "date": "2026-08-24 06:03:11.101875+00:00",
+      "first_line": 281784,
+      "question": "How do you know the document is Vorrecht?",
+      "sources": ""
+    },
+    {
+      "id": "EP039520",
+      "topic": "Documents / student ID / administration",
+      "usecase": "Documents after enrolment",
+      "verdict": "Partial answer / navigation / referral",
+      "code": "D",
+      "reason": "Supplies admissions staff contacts instead of the list of required documents.",
+      "verification": "Required documents for the particular programme.",
+      "user": "User 3336",
+      "date": "2025-08-01 15:47:01.531535+00:00",
+      "first_line": 384300,
+      "question": "what documents should i submit after enrolment",
+      "sources": "1151 - Intake 2025-BSc Orientation Week (bsc-2) | 1153 - Your FS Team BBA Intake 2025 (bba) | 1168 - BBA 2025 Pre-course Math (bba-2) | 1169 - Buddies - intake 2025 (bsc-2) | 1170 - Buddy registration link - BBA 2025 (bba-2)"
+    },
+    {
+      "id": "EP029344",
+      "topic": "Study advisors / staff contacts",
+      "usecase": "Personal advisor and contact",
+      "verdict": "Partial answer / navigation / referral",
+      "code": "D",
+      "reason": "Names an advisor but supplies only the Student Help Desk and working days when asked for contact details. Personalised accuracy is unverified.",
+      "verification": "Advisor assignment and specific contact details.",
+      "user": "User 1952",
+      "date": "2026-08-22 17:01:37.261064+00:00",
+      "first_line": 264513,
+      "question": "Do you know who my Study advisor ist",
+      "sources": ""
+    },
+    {
+      "id": "EP033669",
+      "topic": "Study advisors / staff contacts",
+      "usecase": "Checking who the advisor is",
+      "verdict": "Unresolved / response problem",
+      "code": "P",
+      "reason": "Sends a preference-change template in response to an advisor question; no relevant answer is supplied.",
+      "verification": "Prior context and advisor assignment; the visible reply does not resolve the question.",
+      "user": "User 2444",
+      "date": "2025-08-20 14:48:13.293063+00:00",
+      "first_line": 308545,
+      "question": "My study advisor is Vladyslav Lakizo?!",
+      "sources": ""
+    },
+    {
+      "id": "EP035532",
+      "topic": "Study advisors / staff contacts",
+      "usecase": "Student Help Desk phone number",
+      "verdict": "Partial answer / navigation / referral",
+      "code": "D",
+      "reason": "Does not have the requested number; supplies the physical location instead.",
+      "verification": "Help Desk phone number.",
+      "user": "User 2667",
+      "date": "2026-02-17 11:34:05.138271+00:00",
+      "first_line": 324164,
+      "question": "Can I have a phone number from the student helpdesk please",
+      "sources": "11 - Student Help Desk (all-programs) | 12 - Frankfurt campus - floor plan directions (all-programs) | 1232 - FS MUN - from blog (student-initiatives) | 181 - Career Services - General (career-services) | 27 - IT Support (all-programs) | 35 - Studying in Frankfurt (all-programs) | 855 - FS Entrepreneurship (student-initiatives)"
+    },
+    {
+      "id": "EP030500",
+      "topic": "Study advisors / staff contacts",
+      "usecase": "Advisor for BBA English Track 4",
+      "verdict": "Partial answer / navigation / referral",
+      "code": "D",
+      "reason": "Cannot identify the advisor and refers to the schedule/programme office.",
+      "verification": "Current advisor assignment.",
+      "user": "User 2105",
+      "date": "2026-08-28 12:13:03.158767+00:00",
+      "first_line": 276001,
+      "question": "I am in english track 4 of bba ..whos my study advisor?",
+      "sources": ""
+    },
+    {
+      "id": "EP040247",
+      "topic": "Unsubscribe / stop notifications",
+      "usecase": "Unsubscribing from menus",
+      "verdict": "Action or status unverified",
+      "code": "N",
+      "reason": "Verbally confirms that menus will no longer be sent. The preference record and later deliveries were not checked.",
+      "verification": "Preference-change log and subsequent messages, accounting for any resubscription.",
+      "user": "User 3487",
+      "date": "2025-05-12 09:17:51.442498+00:00",
+      "first_line": 397024,
+      "question": "Could you please stop sending me the lunch menu",
+      "sources": ""
+    },
+    {
+      "id": "EP042276",
+      "topic": "Unsubscribe / stop notifications",
+      "usecase": "Unsubscribing from menus",
+      "verdict": "Unresolved / response problem",
+      "code": "P",
+      "reason": "Sends an onboarding message in response to Stop sending me lunch menu please. The conversation does not show that the opt-out was processed.",
+      "verification": "A backend opt-out can only be verified using additional evidence.",
+      "user": "User 3945",
+      "date": "2025-06-04 07:03:22.655178+00:00",
+      "first_line": 425522,
+      "question": "Stop sending me lunch menu please",
+      "sources": ""
+    },
+    {
+      "id": "EP042110",
+      "topic": "Unsubscribe / stop notifications",
+      "usecase": "Stopping all messages",
+      "verdict": "Unresolved / response problem",
+      "code": "P",
+      "reason": "Repeats onboarding three times in response to Stop texting me and subsequent requests. This is a visible conversation-flow failure.",
+      "verification": "Opt-out and later delivery logs; the response problem is established here, not the database status.",
+      "user": "User 3853",
+      "date": "2025-12-21 12:40:55.204159+00:00",
+      "first_line": 424419,
+      "question": "Stop texting me",
+      "sources": ""
+    },
+    {
+      "id": "EP039171",
+      "topic": "Unsubscribe / stop notifications",
+      "usecase": "Unsubscribing from menus",
+      "verdict": "Action or status unverified",
+      "code": "N",
+      "reason": "Confirms in text that sending will stop. The text alone does not prove that the change was applied.",
+      "verification": "Preference log and subsequent deliveries.",
+      "user": "User 3261",
+      "date": "2025-09-16 12:59:06.566039+00:00",
+      "first_line": 378187,
+      "question": "Ich brauche keine Menu Vorschläge mehr danke",
+      "sources": ""
+    }
+  ],
+  "counts": {
+    "D": 18,
+    "K": 12,
+    "P": 7,
+    "N": 3
+  },
+  "grouped": [
+    [
+      "Food / lunch / canteen",
+      4,
+      3,
+      1,
+      0,
+      0
+    ],
+    [
+      "Events / clubs / networking",
+      4,
+      2,
+      0,
+      2,
+      0
+    ],
+    [
+      "Registration / tickets / attendance",
+      4,
+      2,
+      1,
+      0,
+      1
+    ],
+    [
+      "Timetables / classes / courses",
+      4,
+      1,
+      3,
+      0,
+      0
+    ],
+    [
+      "Opening Week / onboarding",
+      4,
+      1,
+      3,
+      0,
+      0
+    ],
+    [
+      "Exams / grades / assignments",
+      4,
+      0,
+      2,
+      2,
+      0
+    ],
+    [
+      "IT / Canvas / accounts",
+      4,
+      2,
+      2,
+      0,
+      0
+    ],
+    [
+      "Documents / student ID / administration",
+      4,
+      1,
+      3,
+      0,
+      0
+    ],
+    [
+      "Study advisors / staff contacts",
+      4,
+      0,
+      3,
+      1,
+      0
+    ],
+    [
+      "Unsubscribe / stop notifications",
+      4,
+      0,
+      0,
+      2,
+      2
+    ]
+  ],
+  "labels": {
+    "K": "Direct answer; accuracy unverified",
+    "D": "Partial answer / navigation / referral",
+    "P": "Unresolved / response problem",
+    "N": "Action or status unverified"
+  },
+  "method": [
+    [
+      "Source",
+      "output/frankie-export-20261013T095511Z/messages.jsonl; 427,081 records; 4,173 conversations; period 2025-04-16 to 2026-10-13."
+    ],
+    [
+      "Review coverage",
+      "All records were processed automatically. Content review covered a pilot of 40 episodes and 4 additional examples of other outcomes. Not all conversations were manually assessed."
+    ],
+    [
+      "Request coverage",
+      "58,449 previously detected request messages: 9,239 lunch requests + 49,121 other requests + 89 explicit opt-outs. The earlier classification is heuristic and may miss implicit requests."
+    ],
+    [
+      "Episode",
+      "42,444 automatic segments: each starts with a candidate request and ends after a 30-minute gap since the last inbound message or a change in the detected topic. Messages are sorted by timestamp."
+    ],
+    [
+      "Episode boundaries",
+      "One episode is not necessarily one task. Related requests may be split when the topic changes; several needs may remain together. The episode count is therefore not the number of distinct user problems."
+    ],
+    [
+      "Sampling",
+      "Python random.Random(20261013); 4 episodes from each of 10 preselected groups, without filtering on positive or negative outcomes. This is a small, unweighted stratified pilot."
+    ],
+    [
+      "Actual use case",
+      "The automated topic is retained for traceability; the usecase column contains the assessment from reading the conversation. Topic errors were found, for example a Career Services contact request classified as IT."
+    ],
+    [
+      "User criterion",
+      "Frankie must supply the requested information in the conversation. Sending the user to Canvas, linking to a source or advising them to ask a service does not count as a successfully answered question. User confirmation of accessing a service does not change this criterion."
+    ],
+    [
+      "Direct answer",
+      "The requested content is supplied in the conversation; historical accuracy remains unverified. Completeness and accuracy require separate assessment. A supporting link does not disqualify an answer that already contains the requested information."
+    ],
+    [
+      "Partial answer / navigation / referral",
+      "Supplies some help or sends the user to find the content themselves. Even a correctly supplied, explicitly requested link is classified as navigation, outside direct substantive answers. A requested email address or opening hours are direct information; telling the user to ask an advisor instead of answering is not."
+    ],
+    [
+      "Response problem",
+      "A visible unresolved issue, inappropriate flow, disputed answer or verifiable error. This does not mean every disputed statement is factually incorrect."
+    ],
+    [
+      "Unverified status",
+      "A bot claim about registration or opt-out without confirmation of execution or state. A CRM/preference log or reliable subsequent evidence is needed."
+    ],
+    [
+      "User confirmation",
+      "An explicit it worked / hat geklappt confirms only the particular step: navigation, a technical problem or a transaction. It does not itself establish successful direct answering. Thanks, OK and silence are insufficient."
+    ],
+    [
+      "Automated signals",
+      "Fallback, clarification, referral and positive/negative phrases are incomplete regex indicators. They may overlap and do not measure success rates. Negations are excluded from the positive indicator; confirmation must follow an outbound message."
+    ],
+    [
+      "Replies within the window",
+      "Counts outbound messages and a limited set of menu/ticket/confirmation templates. UCS is not treated as a bot because its role is unconfirmed. Zero means no reply detected by these rules, not necessarily that no message was sent."
+    ],
+    [
+      "Independent verification",
+      "Historical menus, events, regulations, timetables, personal statuses and preference states were not verified. Knowledge-base references and sent-reply counts do not prove accuracy or task completion."
+    ],
+    [
+      "BookStack / CRM",
+      "knowledge_sources supplies associated documents; numeric IDs are BookStack candidates under the documented architecture. A confirmation template shows a communication flow, not a complete transaction record."
+    ],
+    [
+      "Export integrity",
+      "The export completed with 4 list/detail count discrepancies; it is not an atomic snapshot. The 824 repeated message_id records within conversations have different timestamps; they were retained as separate records and may represent versions."
+    ],
+    [
+      "Traceability",
+      "Source line is the 1-based line number in the original messages.jsonl. EP IDs apply to this script version. Table dates are UTC. Links and emails are masked in derived transcripts; this is not full anonymisation."
+    ],
+    [
+      "Conclusion limit",
+      "12 of the 40 reviewed episodes contain a direct answer under the stricter criterion; factual accuracy is unverified. The other 28 do not meet that criterion in the review or have an unverifiable status. This is not an overall success-rate estimate; the sample also includes navigation and transactions."
+    ]
+  ],
+  "extra": [
+    {
+      "id": "EP015676",
+      "usecase": "Navigation: Canvas",
+      "finding": "Frankie supplies the Calendar path and a link; the user says Yes it worked thank you!!!.",
+      "lines": "135915 → 135914/135913 → 135911",
+      "limit": "The user accessed the service; Frankie did not supply the timetable. This does NOT count as a direct answer to the timetable question."
+    },
+    {
+      "id": "EP009108",
+      "usecase": "Technical help: Outlook",
+      "finding": "Distinguishes the FS address from the personal address and gives instructions; the user reports Hat geklappt.",
+      "lines": "74780 → 74779/74777/74772 → 74768",
+      "limit": "A technical step outside the conversation was confirmed; this is a separate outcome type, not evidence of direct answers to student questions."
+    },
+    {
+      "id": "EP014418",
+      "usecase": "Technical help: photograph",
+      "finding": "After a format problem, asks for dimensions and file type and suggests HEIC to JPG/PNG; the user reports es hat geklappt.",
+      "lines": "124832/124822 → 124797/124796 → 124794",
+      "limit": "Specific instructions and a confirmed technical result; measure separately from substantive answers and the complete onboarding process."
+    },
+    {
+      "id": "EP020185",
+      "usecase": "Real Estate Career Day registration",
+      "finding": "A booking-confirmation template arrives after a link problem; the user says Jetzt hat es funktioniert.",
+      "lines": "176988/176983 → 176981 → 176980",
+      "limit": "Template and user confirmation do not prove that the conversational model wrote the registration to CRM. The template contains Foyer in the Date & Time field."
+    }
+  ],
+  "transcripts": [
+    {
+      "topic": "Food / lunch / canteen",
+      "user": "User 2952",
+      "start": "2025-05-01 05:56:11.260492+00:00",
+      "request_records": 2,
+      "id": "EP037247",
+      "response_records": 4,
+      "regular_responses": 4,
+      "related_templates": 0,
+      "source_linked": true,
+      "fallback": true,
+      "clarification": false,
+      "referral": false,
+      "user_confirmation": false,
+      "user_negative": false,
+      "transcript": [
+        {
+          "line": 350047,
+          "direction": "inbound",
+          "timestamp": "2025-05-01 05:56:11.260492+00:00",
+          "text": "Todays menu",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 350046,
+          "direction": "outbound",
+          "timestamp": "2025-05-01 05:56:12.289298+00:00",
+          "text": "Let me check with the cooks what they have prepared for Thursday! It's coming right up... 👇",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 350045,
+          "direction": "outbound",
+          "timestamp": "2025-05-01 05:56:13.996361+00:00",
+          "text": "Oops, it seems there is no menu available for the requested day.",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 350044,
+          "direction": "inbound",
+          "timestamp": "2025-05-01 05:58:01.517581+00:00",
+          "text": "Is it closed today?",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 350043,
+          "direction": "outbound",
+          "timestamp": "2025-05-01 05:58:07.138227+00:00",
+          "text": "Ah, my apologies for the mix-up! Today is Thursday, which means it's Schnitzel Day at the canteen. 🥳",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 350042,
+          "direction": "outbound",
+          "timestamp": "2025-05-01 05:58:08.158097+00:00",
+          "text": "The canteen is open from 11:30 a.m. to 2 p.m., so you can enjoy some delicious schnitzel and other meals then!",
+          "template": "",
+          "sources": [
+            "895 - Fallback kb in one file (fallback-kb)",
+            "12 - Frankfurt campus - floor plan directions (all-programs)",
+            "878 - Top 30 Alumni (alumni)",
+            "57 - Study spots (all-programs)",
+            "197 - Alliance - Canteen (alliance)",
+            "11 - Student Help Desk (all-programs)"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Food / lunch / canteen",
+      "user": "User 0958",
+      "start": "2026-09-28 11:00:12.020174+00:00",
+      "request_records": 1,
+      "id": "EP016734",
+      "response_records": 2,
+      "regular_responses": 2,
+      "related_templates": 0,
+      "source_linked": false,
+      "fallback": false,
+      "clarification": false,
+      "referral": false,
+      "user_confirmation": false,
+      "user_negative": false,
+      "transcript": [
+        {
+          "line": 144673,
+          "direction": "inbound",
+          "timestamp": "2026-09-28 11:00:12.020174+00:00",
+          "text": "What is the menu today",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 144672,
+          "direction": "outbound",
+          "timestamp": "2026-09-28 11:00:20.081242+00:00",
+          "text": "*Monday, September 28th* 1. *Pumpkin Cream Soup | Pumpkin Seeds* — 2,50 € 2. *Farfalle in a tomato and pepper sauce | Spring onions | Courgettes* — 4,90 € 3. *Bratwurst | Mustard sauce | Sauerkraut | Mashed potatoes* — 7,80 € 4. *Turkey piccata | Tomato risotto | Button mushrooms | Pesto* — 7,90 € 5. *Salad Selection from Buffet | Various Toppings | Cereals | Dressing | around 600 gr* — 5,80 € 6. *Farfalle in a tomato and pepper sauce | Spring onions | Courgettes* — 4,90 € 7. *Vanilla cream | Orange | Brittle* — 2,30 €",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 144671,
+          "direction": "outbound",
+          "timestamp": "2026-09-28 11:08:30.096295+00:00",
+          "text": "Hi <first_name>, here’s what’s coming up at FS: 🧇 *The First Weeks Unpacked:* Talk openly about how your first weeks at FS are really going, with anonymous polls, senior student insights, Q&A and fresh waffles • Mon, 28 Sep • 19:00–20:30 • Skyline Student Lounge 💼 *Consulting Career Workshop:* Learn about consulting careers, recruiting, fit & case interviews, with first-hand insights from a McKinsey consultant and FS alumna • Tue, 29 Sep • 18:00–19:45 • FS Campus ✨ *Stand Out from the Crowd:* Learn how to identify and communicate your strengths, stand out in applications and make employers remember you • Tue, 6 Oct • 08:30–09:00 • Online 🎙️ *C-Level Insights with Prof. Jörg Rocholl:* Explore pension reform, European capital markets and how a capital-funded pension could shape Europe’s competitiveness • Tue, 6 Oct • 18:00–20:00 Let me know if you’re interested!",
+          "template": "",
+          "sources": []
+        }
+      ]
+    },
+    {
+      "topic": "Food / lunch / canteen",
+      "user": "User 2214",
+      "start": "2026-04-24 08:36:13.409793+00:00",
+      "request_records": 1,
+      "id": "EP031017",
+      "response_records": 2,
+      "regular_responses": 2,
+      "related_templates": 0,
+      "source_linked": false,
+      "fallback": false,
+      "clarification": false,
+      "referral": false,
+      "user_confirmation": false,
+      "user_negative": false,
+      "transcript": [
+        {
+          "line": 282836,
+          "direction": "inbound",
+          "timestamp": "2026-04-24 08:36:13.409793+00:00",
+          "text": "lunch",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 282835,
+          "direction": "outbound",
+          "timestamp": "2026-04-24 08:36:14.512185+00:00",
+          "text": "Let me check with the cooks what they have prepared for Friday! It's coming right up... 👇",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 282834,
+          "direction": "outbound",
+          "timestamp": "2026-04-24 08:36:17.454985+00:00",
+          "text": "*Friday, 24.04.2026* 1. *Velouté | Pesto*: 2,50 € 2. *Chili Sin Carne | Sour Cream | Crunch*: 4,90 € 3. *Fried fish | Potato and asparagus salad | Wild garlic remoulade*: 8,10 € 4. *Zurich-style turkey ragout | Spätzle*: 7,80 € 5. *Salad Selection from Buffet | Various Toppings | Cereals | Dressing | around 600 gr*: 5,80 € 6. *Chili Sin Carne | Sour Cream | Crunch*: 4,90 € 7. *Basil yoghurt cream | Cherry*: 2,30 €",
+          "template": "",
+          "sources": []
+        }
+      ]
+    },
+    {
+      "topic": "Food / lunch / canteen",
+      "user": "User 3195",
+      "start": "2025-05-09 20:20:48.474345+00:00",
+      "request_records": 1,
+      "id": "EP038785",
+      "response_records": 2,
+      "regular_responses": 2,
+      "related_templates": 0,
+      "source_linked": false,
+      "fallback": false,
+      "clarification": false,
+      "referral": false,
+      "user_confirmation": false,
+      "user_negative": false,
+      "transcript": [
+        {
+          "line": 372387,
+          "direction": "inbound",
+          "timestamp": "2025-05-09 20:20:48.474345+00:00",
+          "text": "What’s for lunch tmr",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 372386,
+          "direction": "outbound",
+          "timestamp": "2025-05-09 20:20:49.426305+00:00",
+          "text": "Let me check with the cooks what they have prepared for Saturday! It's coming right up... 👇",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 372385,
+          "direction": "outbound",
+          "timestamp": "2025-05-09 20:20:52.347053+00:00",
+          "text": "*Saturday, 10.05.2025* 1. *Tomatized vegetable soup*: 2,50 € 2. *Ceasar salad Crispy chicken | tomatoes | romaine lettuce | parmesan dressing | croutons*: 7,10 € 3. *South American vegetable gumbo*: 4,90 € 4. *Salad Selection from Buffet | Various Toppings | Cereals | Dressing*: 5,80 € 5. *Duet of chocolate & currant*: 2,30 €",
+          "template": "",
+          "sources": []
+        }
+      ]
+    },
+    {
+      "topic": "Events / clubs / networking",
+      "user": "User 0228",
+      "start": "2026-08-28 22:57:04.149240+00:00",
+      "request_records": 1,
+      "id": "EP005035",
+      "response_records": 3,
+      "regular_responses": 3,
+      "related_templates": 0,
+      "source_linked": false,
+      "fallback": false,
+      "clarification": false,
+      "referral": false,
+      "user_confirmation": false,
+      "user_negative": false,
+      "transcript": [
+        {
+          "line": 41107,
+          "direction": "inbound",
+          "timestamp": "2026-08-28 22:57:04.149240+00:00",
+          "text": "Are there any Workshops tomorrow",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 41106,
+          "direction": "outbound",
+          "timestamp": "2026-08-28 22:57:12.887831+00:00",
+          "text": "The only workshop I can confirm for tomorrow is the *Talentschuppen workshop*, 10:30 to 14:00.",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 41105,
+          "direction": "outbound",
+          "timestamp": "2026-08-28 22:57:17.889037+00:00",
+          "text": "If you want to know whether there’s anything else on your day, check your personal Opening Week schedule, that’s the source of truth for booked events and room details.",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 41104,
+          "direction": "inbound",
+          "timestamp": "2026-08-28 22:57:43.040417+00:00",
+          "text": "Morgen der 29.08",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 41103,
+          "direction": "outbound",
+          "timestamp": "2026-08-28 22:57:54.274083+00:00",
+          "text": "Am Freitag, 29.08., ist nur der *Talentschuppen-Workshop* bestätigt, von *10:30 bis 14:00*.",
+          "template": "",
+          "sources": []
+        }
+      ]
+    },
+    {
+      "topic": "Events / clubs / networking",
+      "user": "User 1094",
+      "start": "2026-08-22 16:32:08.216484+00:00",
+      "request_records": 2,
+      "id": "EP018735",
+      "response_records": 3,
+      "regular_responses": 3,
+      "related_templates": 0,
+      "source_linked": false,
+      "fallback": false,
+      "clarification": true,
+      "referral": false,
+      "user_confirmation": false,
+      "user_negative": false,
+      "transcript": [
+        {
+          "line": 163823,
+          "direction": "inbound",
+          "timestamp": "2026-08-22 16:32:08.216484+00:00",
+          "text": "Haben mich überall angemeldet, wann bekomme ich das Ticket für Apfelwein und alle anderen Events außer Freigut, Gibson und Fortuna, die habe ich schon",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 163822,
+          "direction": "outbound",
+          "timestamp": "2026-08-22 16:32:19.062286+00:00",
+          "text": "Ja, die Tickets kommen am *Morgen des jeweiligen Events* rein, so wie ich’s dir vorhin schon gesagt hab.",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 163821,
+          "direction": "outbound",
+          "timestamp": "2026-08-22 16:32:24.051401+00:00",
+          "text": "Für die Sachen, die du noch meinst, gilt also erstmal genau das gleiche, *am Eventmorgen checken*, dann sollte das Ticket da sein. Wenn du willst, sag mir einfach *welches Event genau* du meinst, dann geh ich’s mit dir einzeln durch.",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 163820,
+          "direction": "inbound",
+          "timestamp": "2026-08-22 16:33:24.887008+00:00",
+          "text": "Wo bekomme ich die dann",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 163819,
+          "direction": "outbound",
+          "timestamp": "2026-08-22 16:33:37.136811+00:00",
+          "text": "Hier in diesem WhatsApp-Chat, direkt als Nachricht von mir. Du musst nichts extra suchen, einfach morgens hier reinschauen, dann kommt das Ticket in den Thread.",
+          "template": "",
+          "sources": []
+        }
+      ]
+    },
+    {
+      "topic": "Events / clubs / networking",
+      "user": "User 1822",
+      "start": "2026-09-06 12:41:26.023275+00:00",
+      "request_records": 1,
+      "id": "EP027987",
+      "response_records": 2,
+      "regular_responses": 2,
+      "related_templates": 0,
+      "source_linked": false,
+      "fallback": false,
+      "clarification": false,
+      "referral": false,
+      "user_confirmation": false,
+      "user_negative": false,
+      "transcript": [
+        {
+          "line": 250634,
+          "direction": "inbound",
+          "timestamp": "2026-09-06 12:41:26.023275+00:00",
+          "text": "Hi Frankie! Tell me more about the event \"2. Frankfurt School Real Estate Career Day 2026\"?",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 250633,
+          "direction": "outbound",
+          "timestamp": "2026-09-06 12:41:39.651840+00:00",
+          "text": "Okay, we’re still missing the one bit that matters, the *registration section* of the event page.",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 250632,
+          "direction": "outbound",
+          "timestamp": "2026-09-06 12:41:44.656675+00:00",
+          "text": "Send a clear screenshot of just that part, or paste the text under the sign-up button, and I’ll tell you exactly what to do next.",
+          "template": "",
+          "sources": []
+        }
+      ]
+    },
+    {
+      "topic": "Events / clubs / networking",
+      "user": "User 1797",
+      "start": "2026-09-05 15:23:49.743699+00:00",
+      "request_records": 1,
+      "id": "EP027787",
+      "response_records": 6,
+      "regular_responses": 6,
+      "related_templates": 0,
+      "source_linked": false,
+      "fallback": false,
+      "clarification": false,
+      "referral": false,
+      "user_confirmation": false,
+      "user_negative": false,
+      "transcript": [
+        {
+          "line": 248551,
+          "direction": "inbound",
+          "timestamp": "2026-09-05 15:23:49.743699+00:00",
+          "text": "Hi Frankie! What events are coming up?",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 248550,
+          "direction": "outbound",
+          "timestamp": "2026-09-05 15:23:58.923494+00:00",
+          "text": "*FS Championship Kick-off*, Saturday, 5 September 2026 at 16:00",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 248549,
+          "direction": "outbound",
+          "timestamp": "2026-09-05 15:24:03.504501+00:00",
+          "text": "*FS Latino Society Kick-off*, Saturday, 5 September 2026 at 19:30",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 248548,
+          "direction": "outbound",
+          "timestamp": "2026-09-05 15:24:07.304621+00:00",
+          "text": "*Blood Donation Day*, Monday, 7 September 2026 at 12:00",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 248547,
+          "direction": "outbound",
+          "timestamp": "2026-09-05 15:24:12.383596+00:00",
+          "text": "*Co-Found a Synthetic Biology Startup - Futury Summer School 2026*, Monday, 7 September 2026 at 13:00",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 248546,
+          "direction": "outbound",
+          "timestamp": "2026-09-05 15:24:16.667499+00:00",
+          "text": "*FS Business Case Kick-off*, Monday, 7 September 2026 at 13:00",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 248545,
+          "direction": "outbound",
+          "timestamp": "2026-09-05 15:24:19.588769+00:00",
+          "text": "[link]",
+          "template": "",
+          "sources": []
+        }
+      ]
+    },
+    {
+      "topic": "Registration / tickets / attendance",
+      "user": "User 3254",
+      "start": "2025-08-30 08:14:22.946666+00:00",
+      "request_records": 1,
+      "id": "EP039142",
+      "response_records": 1,
+      "regular_responses": 1,
+      "related_templates": 0,
+      "source_linked": false,
+      "fallback": false,
+      "clarification": false,
+      "referral": false,
+      "user_confirmation": false,
+      "user_negative": false,
+      "transcript": [
+        {
+          "line": 377642,
+          "direction": "inbound",
+          "timestamp": "2025-08-30 08:14:22.946666+00:00",
+          "text": "Wo sehe ich die Tickets für meine Gäste?",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 377641,
+          "direction": "outbound",
+          "timestamp": "2025-08-30 08:14:33.014414+00:00",
+          "text": "You and your guests will use the same ticket for entry. I'll send you the QR code for the Opening Ceremony in the morning of the event or up to 1 hour before it starts. If you don't receive it, just head to the Campus at your planned time and visit the Trouble Desk. They'll sort everything out for you and your guests so you can enjoy the ceremony without any issues! 🎟️😊",
+          "template": "",
+          "sources": []
+        }
+      ]
+    },
+    {
+      "topic": "Registration / tickets / attendance",
+      "user": "User 2147",
+      "start": "2026-08-25 14:40:39.134000+00:00",
+      "request_records": 1,
+      "id": "EP030621",
+      "response_records": 5,
+      "regular_responses": 5,
+      "related_templates": 0,
+      "source_linked": false,
+      "fallback": false,
+      "clarification": false,
+      "referral": false,
+      "user_confirmation": false,
+      "user_negative": false,
+      "transcript": [
+        {
+          "line": 277752,
+          "direction": "inbound",
+          "timestamp": "2026-08-25 14:40:39.134000+00:00",
+          "text": "am i registered?",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 277751,
+          "direction": "outbound",
+          "timestamp": "2026-08-25 14:40:47.651143+00:00",
+          "text": "Yes, you’re registered for Opening Week.",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 277750,
+          "direction": "outbound",
+          "timestamp": "2026-08-25 14:40:52.669164+00:00",
+          "text": "The bit that’s still separate is the workshop or session selection, so I’m not claiming anything about that yet. But for Opening Week itself, you’re in.",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 277749,
+          "direction": "outbound",
+          "timestamp": "2026-08-25 14:40:57.559227+00:00",
+          "text": "If you want, I can help you figure out what you still need to do next.",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 277748,
+          "direction": "inbound",
+          "timestamp": "2026-08-25 14:41:04.717704+00:00",
+          "text": "sure",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 277747,
+          "direction": "outbound",
+          "timestamp": "2026-08-25 14:41:13.536193+00:00",
+          "text": "Yep, the only separate thing left is *choosing your workshop/session*.",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 277746,
+          "direction": "outbound",
+          "timestamp": "2026-08-25 14:41:18.004214+00:00",
+          "text": "If you want, send me the options and I’ll help you pick one fast.",
+          "template": "",
+          "sources": []
+        }
+      ]
+    },
+    {
+      "topic": "Registration / tickets / attendance",
+      "user": "User 0136",
+      "start": "2026-09-24 15:28:00.552124+00:00",
+      "request_records": 2,
+      "id": "EP003333",
+      "response_records": 3,
+      "regular_responses": 3,
+      "related_templates": 0,
+      "source_linked": false,
+      "fallback": false,
+      "clarification": false,
+      "referral": false,
+      "user_confirmation": false,
+      "user_negative": false,
+      "transcript": [
+        {
+          "line": 26367,
+          "direction": "inbound",
+          "timestamp": "2026-09-24 15:28:00.552124+00:00",
+          "text": "Musste man sich vorher anmelden?",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 26366,
+          "direction": "outbound",
+          "timestamp": "2026-09-24 15:28:15.523707+00:00",
+          "text": "Ja, dafür musste man sich vorher anmelden. In der Erinnerung stand ja auch, dass du deine Teilnahme ggf. wieder canceln sollst, wenn du nicht kommst.",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 26365,
+          "direction": "inbound",
+          "timestamp": "2026-09-24 15:28:40.707806+00:00",
+          "text": "Ich kann kommen und ich habe mich auch angemeldet…wo ist mein QR Code?",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 26364,
+          "direction": "outbound",
+          "timestamp": "2026-09-24 15:28:50.783792+00:00",
+          "text": "Ich kann den QR-Code hier leider nicht sehen. Schau bitte in die *Buchungsbestätigung* oder die *Ticket-Mail* zu dem Event, da ist der QR-Code normalerweise drin.",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 26363,
+          "direction": "outbound",
+          "timestamp": "2026-09-24 15:28:55.808788+00:00",
+          "text": "Wenn du sie nicht findest, such in deinem Postfach nach dem Eventnamen oder nach einer Mail von FS/Career Services, manchmal landet das auch im Spam.",
+          "template": "",
+          "sources": []
+        }
+      ]
+    },
+    {
+      "topic": "Registration / tickets / attendance",
+      "user": "User 3335",
+      "start": "2025-08-04 14:41:56.483274+00:00",
+      "request_records": 1,
+      "id": "EP039501",
+      "response_records": 1,
+      "regular_responses": 1,
+      "related_templates": 0,
+      "source_linked": true,
+      "fallback": false,
+      "clarification": true,
+      "referral": false,
+      "user_confirmation": false,
+      "user_negative": false,
+      "transcript": [
+        {
+          "line": 384162,
+          "direction": "inbound",
+          "timestamp": "2025-08-04 14:41:56.483274+00:00",
+          "text": "Do i have to register for that",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 384161,
+          "direction": "outbound",
+          "timestamp": "2025-08-04 14:42:00.213735+00:00",
+          "text": "No registration is needed for the Outdoor Campus event—just show up and enjoy the fun! It's all part of the Opening Week festivities, so be ready to dive into the activities on August 27th. 🌟 If you have any other questions or need more details, feel free to ask!",
+          "template": "",
+          "sources": [
+            "1153 - Your FS Team BBA Intake 2025 (bba)",
+            "1169 - Buddies - intake 2025 (bsc-2)",
+            "1151 - Intake 2025-BSc Orientation Week (bsc-2)"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Timetables / classes / courses",
+      "user": "User 0965",
+      "start": "2026-08-08 11:08:00.902162+00:00",
+      "request_records": 1,
+      "id": "EP016830",
+      "response_records": 1,
+      "regular_responses": 1,
+      "related_templates": 0,
+      "source_linked": false,
+      "fallback": false,
+      "clarification": false,
+      "referral": false,
+      "user_confirmation": false,
+      "user_negative": false,
+      "transcript": [
+        {
+          "line": 146186,
+          "direction": "inbound",
+          "timestamp": "2026-08-08 11:08:00.902162+00:00",
+          "text": "Can you give me full class schedule",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 146185,
+          "direction": "outbound",
+          "timestamp": "2026-08-08 11:08:09.338755+00:00",
+          "text": "Not yet, it’s still being prepared. Your personal lecture schedule and the 2026-27 academic calendar will be available soon in *Canvas* and the *Online Campus calendar*, that’s where you should check next.",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 146184,
+          "direction": "inbound",
+          "timestamp": "2026-08-08 11:09:25.973455+00:00",
+          "text": "Ok",
+          "template": "",
+          "sources": []
+        }
+      ]
+    },
+    {
+      "topic": "Timetables / classes / courses",
+      "user": "User 3192",
+      "start": "2025-05-16 18:03:59.559886+00:00",
+      "request_records": 2,
+      "id": "EP038775",
+      "response_records": 3,
+      "regular_responses": 3,
+      "related_templates": 0,
+      "source_linked": true,
+      "fallback": true,
+      "clarification": true,
+      "referral": true,
+      "user_confirmation": false,
+      "user_negative": false,
+      "transcript": [
+        {
+          "line": 372202,
+          "direction": "inbound",
+          "timestamp": "2025-05-16 18:03:59.559886+00:00",
+          "text": "Where does Thun has a lecture?",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 372201,
+          "direction": "outbound",
+          "timestamp": "2025-05-16 18:04:07.660188+00:00",
+          "text": "Prof. Dr. Jörn-Henrik Thun's lectures are held in the amphitheater-like lecture halls at Frankfurt School. These halls are designed for interactive learning, with multiple projectors and breakout rooms for group discussions. Perfect for diving deep into those case studies! 📚",
+          "template": "",
+          "sources": [
+            "10 - Frankfurt campus (all-programs)",
+            "638 - Information on how to use the library 20250218 (library)",
+            "437 - Jörn-Henrik Thun (fs-staff)"
+          ]
+        },
+        {
+          "line": 372200,
+          "direction": "inbound",
+          "timestamp": "2025-05-16 18:04:34.767200+00:00",
+          "text": "But in which room",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 372199,
+          "direction": "outbound",
+          "timestamp": "2025-05-16 18:04:42.750405+00:00",
+          "text": "I don't have the specific room number for Prof. Dr. Jörn-Henrik Thun's lectures. However, you can reach out to him directly at [email] or contact his department assistant, Hadil Fahoum, for more detailed information. They should be able to point you in the right direction! 😊",
+          "template": "",
+          "sources": [
+            "437 - Jörn-Henrik Thun (fs-staff)"
+          ]
+        },
+        {
+          "line": 372198,
+          "direction": "inbound",
+          "timestamp": "2025-05-16 18:05:18.013176+00:00",
+          "text": "Do you have his phone number?",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 372197,
+          "direction": "outbound",
+          "timestamp": "2025-05-16 18:05:26.039085+00:00",
+          "text": "Certainly! You can reach Prof. Dr. Jörn-Henrik Thun at +49 69 154008-795. 📞",
+          "template": "",
+          "sources": [
+            "437 - Jörn-Henrik Thun (fs-staff)"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Timetables / classes / courses",
+      "user": "User 0260",
+      "start": "2026-08-27 19:03:25.461474+00:00",
+      "request_records": 1,
+      "id": "EP005682",
+      "response_records": 2,
+      "regular_responses": 2,
+      "related_templates": 0,
+      "source_linked": false,
+      "fallback": false,
+      "clarification": false,
+      "referral": false,
+      "user_confirmation": false,
+      "user_negative": false,
+      "transcript": [
+        {
+          "line": 46220,
+          "direction": "inbound",
+          "timestamp": "2026-08-27 19:03:25.461474+00:00",
+          "text": "Tell me tomorrows schedule please",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 46219,
+          "direction": "outbound",
+          "timestamp": "2026-08-27 19:03:35.677655+00:00",
+          "text": "09:00-10:00 - Case Solution Deutsche Bank",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 46218,
+          "direction": "outbound",
+          "timestamp": "2026-08-27 19:03:40.677105+00:00",
+          "text": "10:30-12:30 - New Skies, New Roots: getting ready to feel at home away from home (EN)",
+          "template": "",
+          "sources": []
+        }
+      ]
+    },
+    {
+      "topic": "Timetables / classes / courses",
+      "user": "User 0063",
+      "start": "2025-07-31 19:46:55.093225+00:00",
+      "request_records": 1,
+      "id": "EP001540",
+      "response_records": 1,
+      "regular_responses": 1,
+      "related_templates": 0,
+      "source_linked": true,
+      "fallback": false,
+      "clarification": false,
+      "referral": false,
+      "user_confirmation": false,
+      "user_negative": false,
+      "transcript": [
+        {
+          "line": 12622,
+          "direction": "inbound",
+          "timestamp": "2025-07-31 19:46:55.093225+00:00",
+          "text": "and where can i pay for my math pre course?",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 12621,
+          "direction": "outbound",
+          "timestamp": "2025-07-31 19:46:58.567275+00:00",
+          "text": "For the Pre-course Mathematics, payment details are usually sent via email along with registration information. If you haven't received them yet, I recommend reaching out to the admissions office for confirmation. They should be able to provide you with all the necessary details. 😊",
+          "template": "",
+          "sources": [
+            "1150 - Intake 2025 - Academic Calendar (CBA) (bsc-2)",
+            "1151 - Intake 2025-BSc Orientation Week (bsc-2)"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Opening Week / onboarding",
+      "user": "User 1097",
+      "start": "2025-08-06 06:06:42.330067+00:00",
+      "request_records": 1,
+      "id": "EP018758",
+      "response_records": 2,
+      "regular_responses": 2,
+      "related_templates": 0,
+      "source_linked": true,
+      "fallback": false,
+      "clarification": false,
+      "referral": false,
+      "user_confirmation": false,
+      "user_negative": false,
+      "transcript": [
+        {
+          "line": 164023,
+          "direction": "inbound",
+          "timestamp": "2025-08-06 06:06:42.330067+00:00",
+          "text": "When can I register for opening week?",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 164022,
+          "direction": "outbound",
+          "timestamp": "2025-08-06 06:06:53.181625+00:00",
+          "text": "Hey Greta! You'll receive an invite from me directly through WhatsApp for the Opening Week registration. I'll also send you all the relevant information regarding schedules and workshops. 📩",
+          "template": "",
+          "sources": [
+            "48 - Student ID (all-programs)",
+            "188 - Career Days 2024 (career-services)",
+            "45 - Orientation/Opening Week/Days (all-programs)",
+            "1151 - Intake 2025-BSc Orientation Week (bsc-2)",
+            "28 - Academic calendar (all-programs)"
+          ]
+        },
+        {
+          "line": 164021,
+          "direction": "outbound",
+          "timestamp": "2025-08-06 06:06:54.159975+00:00",
+          "text": "Is there anything else you'd like to know about the exciting start of your FS journey?",
+          "template": "",
+          "sources": [
+            "48 - Student ID (all-programs)",
+            "188 - Career Days 2024 (career-services)",
+            "45 - Orientation/Opening Week/Days (all-programs)",
+            "1151 - Intake 2025-BSc Orientation Week (bsc-2)",
+            "28 - Academic calendar (all-programs)"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Opening Week / onboarding",
+      "user": "User 0470",
+      "start": "2026-08-21 10:27:13.914012+00:00",
+      "request_records": 1,
+      "id": "EP009921",
+      "response_records": 5,
+      "regular_responses": 5,
+      "related_templates": 0,
+      "source_linked": false,
+      "fallback": false,
+      "clarification": false,
+      "referral": false,
+      "user_confirmation": false,
+      "user_negative": false,
+      "transcript": [
+        {
+          "line": 82637,
+          "direction": "inbound",
+          "timestamp": "2026-08-21 10:27:13.914012+00:00",
+          "text": "Wie kann ich Tickets für den Abend im Gibson nächste Woche Donnerstag bestellen? Ist ja auch Teil der Opening Week.",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 82636,
+          "direction": "outbound",
+          "timestamp": "2026-08-21 10:27:22.653769+00:00",
+          "text": "Ich hab hier leider keine Ticket-Details für den Gibson-Abend. Schau am besten in deinen persönlichen Opening-Week-Plan, da steht der genaue Eventname und meistens auch, wie das läuft.",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 82635,
+          "direction": "outbound",
+          "timestamp": "2026-08-21 10:27:27.619139+00:00",
+          "text": "Wenn du mir den exakten Namen von dem Abend schreibst, sag ich dir direkt, ob wir gerade über das richtige Ding reden oder ob da noch ein anderer Termin gemeint ist.",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 82634,
+          "direction": "inbound",
+          "timestamp": "2026-08-21 10:30:12.021378+00:00",
+          "text": "THURSDAY — Gibson loves Frankfurt School💃 11PM–open end | Gibson Time to hit the dance floor! Join us for a night at Gibson with the entire new intake.",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 82633,
+          "direction": "outbound",
+          "timestamp": "2026-08-21 10:30:50.379083+00:00",
+          "text": "yeah, that’s the Gibson Opening Week night, the right one",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 82632,
+          "direction": "outbound",
+          "timestamp": "2026-08-21 10:30:55.384510+00:00",
+          "text": "I still don’t have the actual ticket ordering details here, so I don’t want to make something up and send you on a wild goose chase like a clown",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 82631,
+          "direction": "outbound",
+          "timestamp": "2026-08-21 10:31:00.536931+00:00",
+          "text": "check your personal Opening Week schedule for the official link or instructions, and if you paste the text here I’ll help you decode it fast",
+          "template": "",
+          "sources": []
+        }
+      ]
+    },
+    {
+      "topic": "Opening Week / onboarding",
+      "user": "User 1227",
+      "start": "2026-08-29 08:31:42.847847+00:00",
+      "request_records": 1,
+      "id": "EP020554",
+      "response_records": 2,
+      "regular_responses": 2,
+      "related_templates": 0,
+      "source_linked": false,
+      "fallback": false,
+      "clarification": false,
+      "referral": false,
+      "user_confirmation": false,
+      "user_negative": false,
+      "transcript": [
+        {
+          "line": 180695,
+          "direction": "inbound",
+          "timestamp": "2026-08-29 08:31:42.847847+00:00",
+          "text": "When is the Bachelor opening ceremony?",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 180694,
+          "direction": "outbound",
+          "timestamp": "2026-08-29 08:31:47.908527+00:00",
+          "text": "Here's your QR for Bachelor Opening Ceremony.",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 180693,
+          "direction": "outbound",
+          "timestamp": "2026-08-29 08:31:52.897961+00:00",
+          "text": "I can’t confirm the exact time from here. Please check your official Opening Week schedule or program sheet for the confirmed Bachelor opening ceremony time.",
+          "template": "",
+          "sources": []
+        }
+      ]
+    },
+    {
+      "topic": "Opening Week / onboarding",
+      "user": "User 0556",
+      "start": "2026-08-23 19:36:42.526231+00:00",
+      "request_records": 1,
+      "id": "EP011309",
+      "response_records": 2,
+      "regular_responses": 2,
+      "related_templates": 0,
+      "source_linked": false,
+      "fallback": false,
+      "clarification": false,
+      "referral": false,
+      "user_confirmation": false,
+      "user_negative": false,
+      "transcript": [
+        {
+          "line": 94963,
+          "direction": "inbound",
+          "timestamp": "2026-08-23 19:36:42.526231+00:00",
+          "text": "What is the dresscode for the first and also the second day of orientation week?",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 94962,
+          "direction": "outbound",
+          "timestamp": "2026-08-23 19:36:52.996419+00:00",
+          "text": "First day, *business attire* for the Programme-Specific Day and the Opening Ceremony.",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 94961,
+          "direction": "outbound",
+          "timestamp": "2026-08-23 19:36:55.845192+00:00",
+          "text": "Second day, *casual attire* for Team Day.",
+          "template": "",
+          "sources": []
+        }
+      ]
+    },
+    {
+      "topic": "Exams / grades / assignments",
+      "user": "User 0648",
+      "start": "2026-10-07 16:05:49.167328+00:00",
+      "request_records": 2,
+      "id": "EP013057",
+      "response_records": 3,
+      "regular_responses": 3,
+      "related_templates": 0,
+      "source_linked": false,
+      "fallback": false,
+      "clarification": false,
+      "referral": false,
+      "user_confirmation": false,
+      "user_negative": false,
+      "transcript": [
+        {
+          "line": 111406,
+          "direction": "inbound",
+          "timestamp": "2026-10-07 16:05:49.167328+00:00",
+          "text": "Where do I find time edit? So I can see my exams?",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 111405,
+          "direction": "inbound",
+          "timestamp": "2026-10-07 16:06:47.055176+00:00",
+          "text": "Where can I see my exam schedule?",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 111404,
+          "direction": "outbound",
+          "timestamp": "2026-10-07 16:12:20.238903+00:00",
+          "text": "You can see your individual exam and retake schedule in *TimeEdit* here: [link]",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 111403,
+          "direction": "outbound",
+          "timestamp": "2026-10-07 16:12:25.125776+00:00",
+          "text": "The exam schedule is also available here: [link]",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 111402,
+          "direction": "inbound",
+          "timestamp": "2026-10-07 16:12:39.412892+00:00",
+          "text": "Thanks",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 111401,
+          "direction": "outbound",
+          "timestamp": "2026-10-07 16:13:12.565658+00:00",
+          "text": "Anytime.",
+          "template": "",
+          "sources": []
+        }
+      ]
+    },
+    {
+      "topic": "Exams / grades / assignments",
+      "user": "User 1586",
+      "start": "2026-05-27 12:51:27.760594+00:00",
+      "request_records": 2,
+      "id": "EP025397",
+      "response_records": 4,
+      "regular_responses": 4,
+      "related_templates": 0,
+      "source_linked": false,
+      "fallback": false,
+      "clarification": false,
+      "referral": true,
+      "user_confirmation": false,
+      "user_negative": false,
+      "transcript": [
+        {
+          "line": 224887,
+          "direction": "inbound",
+          "timestamp": "2026-05-27 12:51:27.760594+00:00",
+          "text": "Is it possible to write the thesis in German?",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 224886,
+          "direction": "outbound",
+          "timestamp": "2026-05-27 12:51:36.408918+00:00",
+          "text": "No, the thesis has to be written in English, no exceptions.",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 224885,
+          "direction": "inbound",
+          "timestamp": "2026-05-27 12:52:28.228570+00:00",
+          "text": "but at the introduction week they said if did the first 3 semesters in German then is it possible to write it in german?",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 224884,
+          "direction": "outbound",
+          "timestamp": "2026-05-27 12:52:36.902102+00:00",
+          "text": "Yeah, I get why that sounds conflicting.",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 224883,
+          "direction": "outbound",
+          "timestamp": "2026-05-27 12:52:40.888229+00:00",
+          "text": "Based on the thesis rules I have here, it still has to be in English, and I can’t confirm a German-language exception from this info.",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 224882,
+          "direction": "outbound",
+          "timestamp": "2026-05-27 12:52:45.899877+00:00",
+          "text": "If they said something different in intro week, check with your study advisor or the programme team, because if there’s any exception at all, it would have to come from your specific programme guidance.",
+          "template": "",
+          "sources": []
+        }
+      ]
+    },
+    {
+      "topic": "Exams / grades / assignments",
+      "user": "User 1790",
+      "start": "2026-03-08 18:28:06.951733+00:00",
+      "request_records": 3,
+      "id": "EP027728",
+      "response_records": 7,
+      "regular_responses": 7,
+      "related_templates": 0,
+      "source_linked": true,
+      "fallback": false,
+      "clarification": false,
+      "referral": false,
+      "user_confirmation": false,
+      "user_negative": false,
+      "transcript": [
+        {
+          "line": 247835,
+          "direction": "inbound",
+          "timestamp": "2026-03-08 18:28:06.951733+00:00",
+          "text": "Kannst du mir den Plan schicken welche nachschreibe Klausuren in den nächsten Tagen sind",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 247834,
+          "direction": "outbound",
+          "timestamp": "2026-03-08 18:28:17.998860+00:00",
+          "text": "Viel Erfolg beim Lernen! 📚✨",
+          "template": "",
+          "sources": [
+            "378 - Ronald Gleich (fs-staff)",
+            "402 - Edgar Löw (fs-staff)",
+            "383 - Thomas Heidorn (fs-staff)",
+            "430 - Rainer Sibbel (fs-staff)",
+            "407 - Jürgen Moormann (fs-staff)"
+          ]
+        },
+        {
+          "line": 247833,
+          "direction": "outbound",
+          "timestamp": "2026-03-08 18:28:18.904328+00:00",
+          "text": "Für den Klausurplan kannst du diesen Link verwenden: [link]",
+          "template": "",
+          "sources": [
+            "378 - Ronald Gleich (fs-staff)",
+            "402 - Edgar Löw (fs-staff)",
+            "383 - Thomas Heidorn (fs-staff)",
+            "430 - Rainer Sibbel (fs-staff)",
+            "407 - Jürgen Moormann (fs-staff)"
+          ]
+        },
+        {
+          "line": 247832,
+          "direction": "inbound",
+          "timestamp": "2026-03-08 18:34:43.181322+00:00",
+          "text": "Wann ist der nachschreibetermin für die Klausur im Fach Grundlagen der BWL",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 247831,
+          "direction": "outbound",
+          "timestamp": "2026-03-08 18:34:54.629282+00:00",
+          "text": "Für genaue Informationen zu Nachschreibeterminen, kannst du den Klausurplan hier einsehen: [link]",
+          "template": "",
+          "sources": [
+            "209 - Language courses - general information (languages)",
+            "369 - Pia Domschke (fs-staff)",
+            "378 - Ronald Gleich (fs-staff)",
+            "453 - Jörg Schlüchtermann (fs-staff)",
+            "383 - Thomas Heidorn (fs-staff)",
+            "372 - Martin Faust (fs-staff)",
+            "407 - Jürgen Moormann (fs-staff)"
+          ]
+        },
+        {
+          "line": 247830,
+          "direction": "outbound",
+          "timestamp": "2026-03-08 18:34:55.600917+00:00",
+          "text": "Viel Erfolg bei der Vorbereitung! 📘",
+          "template": "",
+          "sources": [
+            "209 - Language courses - general information (languages)",
+            "369 - Pia Domschke (fs-staff)",
+            "378 - Ronald Gleich (fs-staff)",
+            "453 - Jörg Schlüchtermann (fs-staff)",
+            "383 - Thomas Heidorn (fs-staff)",
+            "372 - Martin Faust (fs-staff)",
+            "407 - Jürgen Moormann (fs-staff)"
+          ]
+        },
+        {
+          "line": 247829,
+          "direction": "inbound",
+          "timestamp": "2026-03-08 18:35:58.393593+00:00",
+          "text": "Kannst du mir nicht einfach den Plan geben?",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 247828,
+          "direction": "outbound",
+          "timestamp": "2026-03-08 18:36:46.812161+00:00",
+          "text": "Ich verstehe, dass du den Plan direkt haben möchtest. Leider kann ich dir nur den Link zum Klausurplan geben: [link]",
+          "template": "",
+          "sources": [
+            "378 - Ronald Gleich (fs-staff)",
+            "430 - Rainer Sibbel (fs-staff)",
+            "383 - Thomas Heidorn (fs-staff)",
+            "209 - Language courses - general information (languages)"
+          ]
+        },
+        {
+          "line": 247827,
+          "direction": "outbound",
+          "timestamp": "2026-03-08 18:36:47.703059+00:00",
+          "text": "Dort findest du alle Details zu den Nachschreibeterminen. Viel Erfolg beim Lernen! 📚",
+          "template": "",
+          "sources": [
+            "378 - Ronald Gleich (fs-staff)",
+            "430 - Rainer Sibbel (fs-staff)",
+            "383 - Thomas Heidorn (fs-staff)",
+            "209 - Language courses - general information (languages)"
+          ]
+        },
+        {
+          "line": 247826,
+          "direction": "inbound",
+          "timestamp": "2026-03-08 18:55:29.117283+00:00",
+          "text": "Aber der link führt nicht zu einem generellen Klausurenplan",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 247825,
+          "direction": "outbound",
+          "timestamp": "2026-03-08 18:55:41.214403+00:00",
+          "text": "Oh, das ist ja ärgerlich! Leider kann ich dir nur den Link zur Verfügung stellen. Vielleicht hilft es, direkt auf der Seite nach \"Klausurenplan\" zu suchen oder dich an deinen Studienberater Bertram Begüm zu wenden. Du kannst sie per E-Mail unter [email] erreichen oder einen Termin über diesen Link buchen: [link] Ich hoffe, das hilft weiter! 📅",
+          "template": "",
+          "sources": [
+            "408 - Ulf Moslener (fs-staff)",
+            "378 - Ronald Gleich (fs-staff)",
+            "383 - Thomas Heidorn (fs-staff)",
+            "1075 - BSc Concentration Module Descriptions May 2025 (bsc)",
+            "401 - Horst Löchel (fs-staff)",
+            "424 - Christoph Schalast (fs-staff)"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Exams / grades / assignments",
+      "user": "User 3171",
+      "start": "2025-05-16 08:40:19.293042+00:00",
+      "request_records": 1,
+      "id": "EP038654",
+      "response_records": 2,
+      "regular_responses": 2,
+      "related_templates": 0,
+      "source_linked": true,
+      "fallback": false,
+      "clarification": false,
+      "referral": true,
+      "user_confirmation": false,
+      "user_negative": false,
+      "transcript": [
+        {
+          "line": 370400,
+          "direction": "inbound",
+          "timestamp": "2025-05-16 08:40:19.293042+00:00",
+          "text": "Where is the Prüfungsordnung",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 370399,
+          "direction": "outbound",
+          "timestamp": "2025-05-16 08:40:27.757886+00:00",
+          "text": "Hey <first_name>! The Prüfungsordnung, or examination regulations, can typically be found on the FS Intranet or through your program's specific page. If you need further assistance, feel free to reach out to your study advisor, Bertram Begüm, at [email].",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 370398,
+          "direction": "outbound",
+          "timestamp": "2025-05-16 08:40:28.748692+00:00",
+          "text": "And remember, if you ever need a break from exams, I'm here to chat about anything from finance to fashion! 😊",
+          "template": "",
+          "sources": [
+            "638 - Information on how to use the library 20250218 (library)",
+            "12 - Frankfurt campus - floor plan directions (all-programs)",
+            "441 - Thomas Weck (fs-staff)",
+            "455 - Michael Grüning (fs-staff)",
+            "10 - Frankfurt campus (all-programs)",
+            "415 - Julia Redenius-Hövermann (fs-staff)",
+            "424 - Christoph Schalast (fs-staff)"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "IT / Canvas / accounts",
+      "user": "User 0500",
+      "start": "2026-08-16 14:43:35.146832+00:00",
+      "request_records": 1,
+      "id": "EP010318",
+      "response_records": 2,
+      "regular_responses": 2,
+      "related_templates": 0,
+      "source_linked": false,
+      "fallback": false,
+      "clarification": false,
+      "referral": false,
+      "user_confirmation": false,
+      "user_negative": false,
+      "transcript": [
+        {
+          "line": 86180,
+          "direction": "inbound",
+          "timestamp": "2026-08-16 14:43:35.146832+00:00",
+          "text": "is there an email account through which I can write directly to the Career service team ?",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 86179,
+          "direction": "outbound",
+          "timestamp": "2026-08-16 14:43:43.196093+00:00",
+          "text": "Yes, write to [email]",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 86178,
+          "direction": "inbound",
+          "timestamp": "2026-08-16 14:44:00.658119+00:00",
+          "text": "thanks again, very kind of you",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 86177,
+          "direction": "outbound",
+          "timestamp": "2026-08-16 14:44:07.620817+00:00",
+          "text": "of course, anytime",
+          "template": "",
+          "sources": []
+        }
+      ]
+    },
+    {
+      "topic": "IT / Canvas / accounts",
+      "user": "User 0132",
+      "start": "2025-10-02 16:43:54.091994+00:00",
+      "request_records": 1,
+      "id": "EP003259",
+      "response_records": 2,
+      "regular_responses": 2,
+      "related_templates": 0,
+      "source_linked": true,
+      "fallback": false,
+      "clarification": false,
+      "referral": true,
+      "user_confirmation": false,
+      "user_negative": false,
+      "transcript": [
+        {
+          "line": 25924,
+          "direction": "inbound",
+          "timestamp": "2025-10-02 16:43:54.091994+00:00",
+          "text": "When can I go to the it support?",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 25923,
+          "direction": "outbound",
+          "timestamp": "2025-10-02 16:44:07.439512+00:00",
+          "text": "You can visit the IT Student Support Desk in the library. It's open Monday to Friday from 12:00 to 14:00 and 16:00 to 17:00.",
+          "template": "",
+          "sources": [
+            "31 - (Psycho-)Social Counselling and Coaching (personal-well-being-and-coaching)",
+            "27 - IT Support (all-programs)",
+            "1115 - FS Asia Society (student-initiatives)",
+            "11 - Student Help Desk (all-programs)",
+            "292 - Learning Lab (other-bsc)",
+            "1109 - FS Chess (student-initiatives)"
+          ]
+        },
+        {
+          "line": 25922,
+          "direction": "outbound",
+          "timestamp": "2025-10-02 16:44:08.171848+00:00",
+          "text": "Feel free to reach out to them via email at [email] or by calling +49 69 154008 111 if you need assistance outside these hours.",
+          "template": "",
+          "sources": [
+            "31 - (Psycho-)Social Counselling and Coaching (personal-well-being-and-coaching)",
+            "27 - IT Support (all-programs)",
+            "1115 - FS Asia Society (student-initiatives)",
+            "11 - Student Help Desk (all-programs)",
+            "292 - Learning Lab (other-bsc)",
+            "1109 - FS Chess (student-initiatives)"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "IT / Canvas / accounts",
+      "user": "User 0455",
+      "start": "2026-09-08 15:55:14.076224+00:00",
+      "request_records": 1,
+      "id": "EP009682",
+      "response_records": 13,
+      "regular_responses": 13,
+      "related_templates": 0,
+      "source_linked": false,
+      "fallback": true,
+      "clarification": false,
+      "referral": false,
+      "user_confirmation": false,
+      "user_negative": false,
+      "transcript": [
+        {
+          "line": 80102,
+          "direction": "inbound",
+          "timestamp": "2026-09-08 15:55:14.076224+00:00",
+          "text": "I want all the emails fs sends me to my personal email that i used for the enrollment (not frankie) to be sent to my newly activated fs email address on outlook",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 80101,
+          "direction": "outbound",
+          "timestamp": "2026-09-08 15:55:23.593817+00:00",
+          "text": "Yep, that’s *not* a Frankie setting.",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 80100,
+          "direction": "outbound",
+          "timestamp": "2026-09-08 15:55:28.578101+00:00",
+          "text": "What you want is the *FS account / Outlook email routing* to be updated, so messages go to your newly activated FS address instead of the old enrollment email.",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 80099,
+          "direction": "outbound",
+          "timestamp": "2026-09-08 15:55:33.591536+00:00",
+          "text": "Smallest next step: contact *FS IT / the service desk* or the campus support team that handles student email accounts, and ask them to update the email destination on your student account.",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 80098,
+          "direction": "outbound",
+          "timestamp": "2026-09-08 15:55:38.576439+00:00",
+          "text": "If you want, I can draft the exact message for you in one line so you can just send it.",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 80097,
+          "direction": "inbound",
+          "timestamp": "2026-09-08 15:56:24.295188+00:00",
+          "text": "Yes that would be perfect - also with the regarding email adress to send to",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 80096,
+          "direction": "outbound",
+          "timestamp": "2026-09-08 15:56:34.480625+00:00",
+          "text": "Send it to *FS IT / the service desk / campus support team* that handles student email accounts.",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 80095,
+          "direction": "outbound",
+          "timestamp": "2026-09-08 15:56:35.790823+00:00",
+          "text": "You can paste this:",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 80094,
+          "direction": "outbound",
+          "timestamp": "2026-09-08 15:56:38.797097+00:00",
+          "text": "*Subject:* Update student email destination",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 80093,
+          "direction": "outbound",
+          "timestamp": "2026-09-08 15:56:43.801238+00:00",
+          "text": "Hi, could you please update the email destination on my student account so FS emails are sent to my newly activated FS Outlook address instead of my old enrollment email?",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 80092,
+          "direction": "outbound",
+          "timestamp": "2026-09-08 15:56:46.358619+00:00",
+          "text": "Thanks, <first_name> <last_name>",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 80091,
+          "direction": "inbound",
+          "timestamp": "2026-09-08 15:57:18.577544+00:00",
+          "text": "Please also the regarding email adress i should send this to",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 80090,
+          "direction": "outbound",
+          "timestamp": "2026-09-08 15:57:27.374326+00:00",
+          "text": "I don’t have a verified FS IT or service desk email address in this chat, so I can’t safely name one.",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 80089,
+          "direction": "outbound",
+          "timestamp": "2026-09-08 15:57:32.362033+00:00",
+          "text": "Best move is to use the official student IT or service desk contact from the FS website or portal. If you paste the contact page or the email address here, I’ll check it with you in two seconds and tell you if it looks like the right one.",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 80088,
+          "direction": "inbound",
+          "timestamp": "2026-09-08 16:21:47.335881+00:00",
+          "text": "Okay, i will do that as soon as i am on campus again Quickly please: What is ai tutor and how can i use it or activate it",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 80087,
+          "direction": "outbound",
+          "timestamp": "2026-09-08 16:21:57.416276+00:00",
+          "text": "I don’t have verified info here on what *AI Tutor* is or how to activate it, so I don’t want to make up steps and send you in circles.",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 80086,
+          "direction": "outbound",
+          "timestamp": "2026-09-08 16:22:02.454021+00:00",
+          "text": "If you send me the official page, a screenshot, or the exact wording you’re seeing, I’ll translate it into plain English and tell you what to do next.",
+          "template": "",
+          "sources": []
+        }
+      ]
+    },
+    {
+      "topic": "IT / Canvas / accounts",
+      "user": "User 0906",
+      "start": "2026-08-12 12:02:09.705727+00:00",
+      "request_records": 1,
+      "id": "EP015666",
+      "response_records": 1,
+      "regular_responses": 1,
+      "related_templates": 0,
+      "source_linked": false,
+      "fallback": false,
+      "clarification": false,
+      "referral": false,
+      "user_confirmation": false,
+      "user_negative": false,
+      "transcript": [
+        {
+          "line": 135648,
+          "direction": "inbound",
+          "timestamp": "2026-08-12 12:02:09.705727+00:00",
+          "text": "Link zu Canvas?",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 135647,
+          "direction": "outbound",
+          "timestamp": "2026-08-12 12:02:18.868344+00:00",
+          "text": "[link]",
+          "template": "",
+          "sources": []
+        }
+      ]
+    },
+    {
+      "topic": "Documents / student ID / administration",
+      "user": "User 0447",
+      "start": "2026-09-21 14:35:56.161930+00:00",
+      "request_records": 1,
+      "id": "EP009480",
+      "response_records": 1,
+      "regular_responses": 1,
+      "related_templates": 0,
+      "source_linked": false,
+      "fallback": true,
+      "clarification": false,
+      "referral": false,
+      "user_confirmation": false,
+      "user_negative": false,
+      "transcript": [
+        {
+          "line": 78340,
+          "direction": "inbound",
+          "timestamp": "2026-09-21 14:35:56.161930+00:00",
+          "text": "Will I get some kind of certificate?",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 78339,
+          "direction": "outbound",
+          "timestamp": "2026-09-21 14:36:21.629651+00:00",
+          "text": "I don’t have any info confirming a certificate for this workshop, so I can’t promise one.",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 78338,
+          "direction": "inbound",
+          "timestamp": "2026-09-21 14:36:30.643587+00:00",
+          "text": "Easy",
+          "template": "",
+          "sources": []
+        }
+      ]
+    },
+    {
+      "topic": "Documents / student ID / administration",
+      "user": "User 2078",
+      "start": "2025-11-11 18:43:53.448934+00:00",
+      "request_records": 1,
+      "id": "EP030246",
+      "response_records": 4,
+      "regular_responses": 4,
+      "related_templates": 0,
+      "source_linked": true,
+      "fallback": false,
+      "clarification": false,
+      "referral": true,
+      "user_confirmation": false,
+      "user_negative": false,
+      "transcript": [
+        {
+          "line": 273361,
+          "direction": "inbound",
+          "timestamp": "2025-11-11 18:43:53.448934+00:00",
+          "text": "What should I do if I lost my student id",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 273360,
+          "direction": "outbound",
+          "timestamp": "2025-11-11 18:44:05.166123+00:00",
+          "text": "Oh no, losing your student ID can be a bit of a hassle, but don't worry!",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 273359,
+          "direction": "outbound",
+          "timestamp": "2025-11-11 18:44:05.857128+00:00",
+          "text": "First, report the loss immediately to your study advisor or email [email]. You'll need to pay a replacement fee of 20 Euros, following the payment instructions on the invoice.",
+          "template": "",
+          "sources": [
+            "892 - General Examination Info (examination-office)",
+            "45 - Orientation/Opening Week/Days (all-programs)",
+            "10 - Frankfurt campus (all-programs)",
+            "48 - Student ID (all-programs)"
+          ]
+        },
+        {
+          "line": 273358,
+          "direction": "outbound",
+          "timestamp": "2025-11-11 18:44:06.856164+00:00",
+          "text": "If someone else is picking up your new ID, make sure they have an informal confirmation from you and your study advisor.",
+          "template": "",
+          "sources": [
+            "892 - General Examination Info (examination-office)",
+            "45 - Orientation/Opening Week/Days (all-programs)",
+            "10 - Frankfurt campus (all-programs)",
+            "48 - Student ID (all-programs)"
+          ]
+        },
+        {
+          "line": 273357,
+          "direction": "outbound",
+          "timestamp": "2025-11-11 18:44:07.855539+00:00",
+          "text": "Stay calm, you'll have it sorted out in no time! 😊",
+          "template": "",
+          "sources": [
+            "892 - General Examination Info (examination-office)",
+            "45 - Orientation/Opening Week/Days (all-programs)",
+            "10 - Frankfurt campus (all-programs)",
+            "48 - Student ID (all-programs)"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Documents / student ID / administration",
+      "user": "User 2194",
+      "start": "2026-08-24 06:03:11.101875+00:00",
+      "request_records": 1,
+      "id": "EP030944",
+      "response_records": 10,
+      "regular_responses": 10,
+      "related_templates": 0,
+      "source_linked": false,
+      "fallback": true,
+      "clarification": false,
+      "referral": true,
+      "user_confirmation": false,
+      "user_negative": false,
+      "transcript": [
+        {
+          "line": 281784,
+          "direction": "inbound",
+          "timestamp": "2026-08-24 06:03:11.101875+00:00",
+          "text": "How do you know the document is Vorrecht?",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 281783,
+          "direction": "inbound",
+          "timestamp": "2026-08-24 06:03:16.708646+00:00",
+          "text": "Correct?",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 281782,
+          "direction": "outbound",
+          "timestamp": "2026-08-24 06:03:42.850930+00:00",
+          "text": "No, I don’t know that from here.",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 281781,
+          "direction": "outbound",
+          "timestamp": "2026-08-24 06:03:47.822483+00:00",
+          "text": "I only know the text you typed out from the document, not whether it’s the official or authoritative version. And yeah, I shouldn’t have presented the time as confirmed from my side.",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 281780,
+          "direction": "outbound",
+          "timestamp": "2026-08-24 06:03:52.846833+00:00",
+          "text": "So the honest version is, I can read what you pasted, but I can’t verify the document itself.",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 281779,
+          "direction": "inbound",
+          "timestamp": "2026-08-24 06:25:01.504748+00:00",
+          "text": "But I do the Master in Management Maybe then it is at 9:30",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 281778,
+          "direction": "outbound",
+          "timestamp": "2026-08-24 06:25:11.879862+00:00",
+          "text": "No, I can’t confirm 9:30 from here, and I shouldn’t guess based on the programme name alone.",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 281777,
+          "direction": "outbound",
+          "timestamp": "2026-08-24 06:25:16.877674+00:00",
+          "text": "Master in Management could have its own slot, sure, but I need the exact line from the schedule that shows *your programme* and the registration time. Paste that bit here, and I’ll compare it with the `8:30 - 9:00` line you already sent.",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 281776,
+          "direction": "inbound",
+          "timestamp": "2026-08-24 06:26:12.317453+00:00",
+          "text": "There is No Slot line for Master in Management (MiM) in the document, Therefore I Think your time might be correct",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 281775,
+          "direction": "outbound",
+          "timestamp": "2026-08-24 06:26:28.864647+00:00",
+          "text": "I still can’t verify whether MiM registration is 8:30 or 9:30 from here, so I don’t want to guess again.",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 281774,
+          "direction": "outbound",
+          "timestamp": "2026-08-24 06:26:33.839727+00:00",
+          "text": "The right source is the official Opening Week schedule or your study advisor, because the line you pasted isn’t enough on its own to confirm the MiM slot.",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 281773,
+          "direction": "outbound",
+          "timestamp": "2026-08-24 06:26:38.853600+00:00",
+          "text": "If you want, paste the exact heading and the lines around it, and I’ll help you read it carefully.",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 281772,
+          "direction": "inbound",
+          "timestamp": "2026-08-24 06:47:30.512400+00:00",
+          "text": "You were right it was 9:30",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 281771,
+          "direction": "outbound",
+          "timestamp": "2026-08-24 06:47:39.832133+00:00",
+          "text": "Okay, good, thank you for checking it properly.",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 281770,
+          "direction": "outbound",
+          "timestamp": "2026-08-24 06:47:44.843560+00:00",
+          "text": "So 9:30 was the right time after all, and we can leave the chaos in the bin where it belongs.",
+          "template": "",
+          "sources": []
+        }
+      ]
+    },
+    {
+      "topic": "Documents / student ID / administration",
+      "user": "User 3336",
+      "start": "2025-08-01 15:47:01.531535+00:00",
+      "request_records": 1,
+      "id": "EP039520",
+      "response_records": 1,
+      "regular_responses": 1,
+      "related_templates": 0,
+      "source_linked": true,
+      "fallback": false,
+      "clarification": false,
+      "referral": true,
+      "user_confirmation": false,
+      "user_negative": false,
+      "transcript": [
+        {
+          "line": 384300,
+          "direction": "inbound",
+          "timestamp": "2025-08-01 15:47:01.531535+00:00",
+          "text": "what documents should i submit after enrolment",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 384299,
+          "direction": "outbound",
+          "timestamp": "2025-08-01 15:47:06.245740+00:00",
+          "text": "For questions regarding documents needed after enrolment, it's best to reach out directly to your Admissions Officer. You can contact Charlotte Lambert at [email], Qi Yang at [email], or Marie Beinert at [email]. They'll have all the details you need! 😊",
+          "template": "",
+          "sources": [
+            "1169 - Buddies - intake 2025 (bsc-2)",
+            "1170 - Buddy registration link - BBA 2025 (bba-2)",
+            "1151 - Intake 2025-BSc Orientation Week (bsc-2)",
+            "1153 - Your FS Team BBA Intake 2025 (bba)",
+            "1168 - BBA 2025 Pre-course Math (bba-2)"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Study advisors / staff contacts",
+      "user": "User 1952",
+      "start": "2026-08-22 17:01:37.261064+00:00",
+      "request_records": 1,
+      "id": "EP029344",
+      "response_records": 3,
+      "regular_responses": 3,
+      "related_templates": 0,
+      "source_linked": false,
+      "fallback": false,
+      "clarification": false,
+      "referral": true,
+      "user_confirmation": false,
+      "user_negative": false,
+      "transcript": [
+        {
+          "line": 264513,
+          "direction": "inbound",
+          "timestamp": "2026-08-22 17:01:37.261064+00:00",
+          "text": "Do you know who my Study advisor ist",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 264512,
+          "direction": "outbound",
+          "timestamp": "2026-08-22 17:01:48.177931+00:00",
+          "text": "Yes, your study advisor is *Begüm Bertram*.",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 264511,
+          "direction": "inbound",
+          "timestamp": "2026-08-22 17:02:35.678209+00:00",
+          "text": "Ok, is there a possibility to contact him",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 264510,
+          "direction": "outbound",
+          "timestamp": "2026-08-22 17:02:46.219294+00:00",
+          "text": "Yes, you can reach the study advisor through the *Student Help Desk*, Monday to Friday.",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 264509,
+          "direction": "outbound",
+          "timestamp": "2026-08-22 17:02:51.216015+00:00",
+          "text": "If your question is a bit unclear, they can point you to the right team or person.",
+          "template": "",
+          "sources": []
+        }
+      ]
+    },
+    {
+      "topic": "Study advisors / staff contacts",
+      "user": "User 2444",
+      "start": "2025-08-20 14:48:13.293063+00:00",
+      "request_records": 1,
+      "id": "EP033669",
+      "response_records": 0,
+      "regular_responses": 0,
+      "related_templates": 0,
+      "source_linked": false,
+      "fallback": false,
+      "clarification": false,
+      "referral": false,
+      "user_confirmation": false,
+      "user_negative": false,
+      "transcript": [
+        {
+          "line": 308545,
+          "direction": "inbound",
+          "timestamp": "2025-08-20 14:48:13.293063+00:00",
+          "text": "My study advisor is Vladyslav Lakizo?!",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 308544,
+          "direction": "template",
+          "timestamp": "2025-08-20 14:48:20.089718+00:00",
+          "text": "I see you'd like to update your preferences. No worries, I’ve got you covered! 😊 Just tap the button below to go directly to the preferences update screen. You can easily update details like your first name, last name, or topics you're interested in. If you need any help along the way, feel free to message me here. 🌟",
+          "template": "frankie_update_preferences_v3",
+          "sources": []
+        }
+      ]
+    },
+    {
+      "topic": "Study advisors / staff contacts",
+      "user": "User 2667",
+      "start": "2026-02-17 11:34:05.138271+00:00",
+      "request_records": 1,
+      "id": "EP035532",
+      "response_records": 1,
+      "regular_responses": 1,
+      "related_templates": 0,
+      "source_linked": true,
+      "fallback": true,
+      "clarification": false,
+      "referral": true,
+      "user_confirmation": false,
+      "user_negative": false,
+      "transcript": [
+        {
+          "line": 324164,
+          "direction": "inbound",
+          "timestamp": "2026-02-17 11:34:05.138271+00:00",
+          "text": "Can I have a phone number from the student helpdesk please",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 324163,
+          "direction": "outbound",
+          "timestamp": "2026-02-17 11:34:15.811249+00:00",
+          "text": "Unfortunately, I don't have a direct phone number for the Student Help Desk. 📞 But you can visit them on the 2nd floor of the FS building for assistance. They're located in the western part of the building near the west entrance, next to student services and across from S2.02. 😊",
+          "template": "",
+          "sources": [
+            "12 - Frankfurt campus - floor plan directions (all-programs)",
+            "27 - IT Support (all-programs)",
+            "181 - Career Services - General (career-services)",
+            "1232 - FS MUN - from blog (student-initiatives)",
+            "35 - Studying in Frankfurt (all-programs)",
+            "11 - Student Help Desk (all-programs)",
+            "855 - FS Entrepreneurship (student-initiatives)"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Study advisors / staff contacts",
+      "user": "User 2105",
+      "start": "2026-08-28 12:13:03.158767+00:00",
+      "request_records": 1,
+      "id": "EP030500",
+      "response_records": 2,
+      "regular_responses": 2,
+      "related_templates": 0,
+      "source_linked": false,
+      "fallback": false,
+      "clarification": false,
+      "referral": true,
+      "user_confirmation": false,
+      "user_negative": false,
+      "transcript": [
+        {
+          "line": 276001,
+          "direction": "inbound",
+          "timestamp": "2026-08-28 12:13:03.158767+00:00",
+          "text": "I am in english track 4 of bba ..whos my study advisor?",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 276000,
+          "direction": "outbound",
+          "timestamp": "2026-08-28 12:13:12.900998+00:00",
+          "text": "I can’t verify the study advisor for *English Track 4 of BBA* from the info I have here.",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 275999,
+          "direction": "outbound",
+          "timestamp": "2026-08-28 12:13:17.900854+00:00",
+          "text": "The quickest reliable source is your personal Opening Week schedule or the BBA program office. If you paste the line that mentions the advisor, I’ll help you read it.",
+          "template": "",
+          "sources": []
+        }
+      ]
+    },
+    {
+      "topic": "Unsubscribe / stop notifications",
+      "user": "User 3487",
+      "start": "2025-05-12 09:17:51.442498+00:00",
+      "request_records": 1,
+      "id": "EP040247",
+      "response_records": 1,
+      "regular_responses": 1,
+      "related_templates": 0,
+      "source_linked": false,
+      "fallback": false,
+      "clarification": false,
+      "referral": false,
+      "user_confirmation": false,
+      "user_negative": false,
+      "transcript": [
+        {
+          "line": 397024,
+          "direction": "inbound",
+          "timestamp": "2025-05-12 09:17:51.442498+00:00",
+          "text": "Could you please stop sending me the lunch menu",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 397023,
+          "direction": "outbound",
+          "timestamp": "2025-05-12 09:17:52.887962+00:00",
+          "text": "Understood, I won't send you the canteen menu updates anymore. If you change your mind, just ask again.",
+          "template": "",
+          "sources": []
+        }
+      ]
+    },
+    {
+      "topic": "Unsubscribe / stop notifications",
+      "user": "User 3945",
+      "start": "2025-06-04 07:03:22.655178+00:00",
+      "request_records": 1,
+      "id": "EP042276",
+      "response_records": 0,
+      "regular_responses": 0,
+      "related_templates": 0,
+      "source_linked": false,
+      "fallback": false,
+      "clarification": false,
+      "referral": false,
+      "user_confirmation": false,
+      "user_negative": false,
+      "transcript": [
+        {
+          "line": 425522,
+          "direction": "inbound",
+          "timestamp": "2025-06-04 07:03:22.655178+00:00",
+          "text": "Stop sending me lunch menu please",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 425521,
+          "direction": "template",
+          "timestamp": "2025-06-04 07:03:23.530708+00:00",
+          "text": "Hey there, I’m Frankie 👋 Think of me as your FS person. I know what’s happening on Campus, networking hotspots, the stuff you might miss on Canvas, and where to find the food. Let’s get to know each other so I can share what’s useful for you.",
+          "template": "frankie_onboarding_message",
+          "sources": []
+        }
+      ]
+    },
+    {
+      "topic": "Unsubscribe / stop notifications",
+      "user": "User 3853",
+      "start": "2025-12-21 12:40:55.204159+00:00",
+      "request_records": 3,
+      "id": "EP042110",
+      "response_records": 0,
+      "regular_responses": 0,
+      "related_templates": 0,
+      "source_linked": false,
+      "fallback": false,
+      "clarification": false,
+      "referral": false,
+      "user_confirmation": false,
+      "user_negative": false,
+      "transcript": [
+        {
+          "line": 424419,
+          "direction": "inbound",
+          "timestamp": "2025-12-21 12:40:55.204159+00:00",
+          "text": "Stop texting me",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 424418,
+          "direction": "template",
+          "timestamp": "2025-12-21 12:40:56.195966+00:00",
+          "text": "Hey there, I’m Frankie 👋 Think of me as your FS person. I know what’s happening on Campus, networking hotspots, the stuff you might miss on Canvas, and where to find the food. Let’s get to know each other so I can share what’s useful for you.",
+          "template": "frankie_onboarding_message",
+          "sources": []
+        },
+        {
+          "line": 424417,
+          "direction": "inbound",
+          "timestamp": "2025-12-21 12:41:19.871682+00:00",
+          "text": "Or how about you just leave me alone 😂",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 424416,
+          "direction": "template",
+          "timestamp": "2025-12-21 12:41:20.794278+00:00",
+          "text": "Hey there, I’m Frankie 👋 Think of me as your FS person. I know what’s happening on Campus, networking hotspots, the stuff you might miss on Canvas, and where to find the food. Let’s get to know each other so I can share what’s useful for you.",
+          "template": "frankie_onboarding_message",
+          "sources": []
+        },
+        {
+          "line": 424415,
+          "direction": "inbound",
+          "timestamp": "2025-12-21 12:41:53.885703+00:00",
+          "text": "I want nothing to do with FS People",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 424414,
+          "direction": "template",
+          "timestamp": "2025-12-21 12:41:54.804526+00:00",
+          "text": "Hey there, I’m Frankie 👋 Think of me as your FS person. I know what’s happening on Campus, networking hotspots, the stuff you might miss on Canvas, and where to find the food. Let’s get to know each other so I can share what’s useful for you.",
+          "template": "frankie_onboarding_message",
+          "sources": []
+        }
+      ]
+    },
+    {
+      "topic": "Unsubscribe / stop notifications",
+      "user": "User 3261",
+      "start": "2025-09-16 12:59:06.566039+00:00",
+      "request_records": 1,
+      "id": "EP039171",
+      "response_records": 1,
+      "regular_responses": 1,
+      "related_templates": 0,
+      "source_linked": false,
+      "fallback": false,
+      "clarification": false,
+      "referral": false,
+      "user_confirmation": false,
+      "user_negative": false,
+      "transcript": [
+        {
+          "line": 378187,
+          "direction": "inbound",
+          "timestamp": "2025-09-16 12:59:06.566039+00:00",
+          "text": "Ich brauche keine Menu Vorschläge mehr danke",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 378186,
+          "direction": "outbound",
+          "timestamp": "2025-09-16 12:59:08.560118+00:00",
+          "text": "Verstanden, ich werde Ihnen keine Menüvorschläge mehr senden. Wenn Sie Ihre Meinung ändern, lassen Sie es mich einfach wissen.",
+          "template": "",
+          "sources": []
+        }
+      ]
+    },
+    {
+      "topic": "IT / Canvas / accounts",
+      "user": "User 0426",
+      "start": "2026-09-15 18:48:28.510446+00:00",
+      "request_records": 2,
+      "id": "EP009108",
+      "response_records": 9,
+      "regular_responses": 9,
+      "related_templates": 0,
+      "source_linked": false,
+      "fallback": false,
+      "clarification": false,
+      "referral": false,
+      "user_confirmation": true,
+      "user_negative": false,
+      "transcript": [
+        {
+          "line": 74780,
+          "direction": "inbound",
+          "timestamp": "2026-09-15 18:48:28.510446+00:00",
+          "text": "Also melde ich mich bei Outlook mit meiner privaten Adresse an?",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 74779,
+          "direction": "outbound",
+          "timestamp": "2026-09-15 18:48:39.169410+00:00",
+          "text": "Nein, für *Outlook* nimmst du deine *FS-Studenten-E-Mail-Adresse*, nicht deine private.",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 74778,
+          "direction": "outbound",
+          "timestamp": "2026-09-15 18:48:44.103673+00:00",
+          "text": "Die *private* Adresse war nur für die *separate Registrierung* auf der anderen Seite gedacht, nicht für Outlook.",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 74777,
+          "direction": "outbound",
+          "timestamp": "2026-09-15 18:48:49.179832+00:00",
+          "text": "Für FS-Mail gehst du auf `[link] oder `[link] und meldest dich mit deiner FS-Adresse an, die du im *Online Campus unter Profile* findest.",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 74776,
+          "direction": "inbound",
+          "timestamp": "2026-09-15 18:48:56.155142+00:00",
+          "text": "Ja habe ich doch",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 74775,
+          "direction": "inbound",
+          "timestamp": "2026-09-15 18:49:03.873663+00:00",
+          "text": "Für Outlook",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 74774,
+          "direction": "inbound",
+          "timestamp": "2026-09-15 18:49:10.735615+00:00",
+          "text": "Meine fs",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 74773,
+          "direction": "outbound",
+          "timestamp": "2026-09-15 18:49:21.597792+00:00",
+          "text": "Okay, stopp, wir vermischen gerade zwei Sachen.",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 74772,
+          "direction": "outbound",
+          "timestamp": "2026-09-15 18:49:26.600580+00:00",
+          "text": "*Outlook* läuft mit deiner *FS-E-Mail-Adresse* über `[link] oder `[link]",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 74771,
+          "direction": "outbound",
+          "timestamp": "2026-09-15 18:49:31.592487+00:00",
+          "text": "Der *rote Satz* mit „keine Geschäfts-, Schul- oder Uni-E-Mail-Adresse“ war von der *anderen Registrierungsseite*, also *nicht* Outlook.",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 74770,
+          "direction": "outbound",
+          "timestamp": "2026-09-15 18:49:36.602578+00:00",
+          "text": "Sag mir bitte nur eins: *Welcher Bildschirm macht gerade Probleme?* 1. Outlook-Anmeldung 2. die andere Registrierungsseite mit dem roten Satz",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 74769,
+          "direction": "outbound",
+          "timestamp": "2026-09-15 18:49:41.598088+00:00",
+          "text": "Dann bleibe ich genau bei dem einen Ding und wir ziehen das sauber durch.",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 74768,
+          "direction": "inbound",
+          "timestamp": "2026-09-15 19:06:33.168960+00:00",
+          "text": "Hat geklappt",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 74767,
+          "direction": "outbound",
+          "timestamp": "2026-09-15 19:06:41.784972+00:00",
+          "text": "Perfekt, dann ist ja alles durch. Gut gemacht, ehrlich.",
+          "template": "",
+          "sources": []
+        }
+      ]
+    },
+    {
+      "topic": "Opening Week / onboarding",
+      "user": "User 0771",
+      "start": "2026-08-20 16:48:00.730151+00:00",
+      "request_records": 7,
+      "id": "EP014418",
+      "response_records": 40,
+      "regular_responses": 39,
+      "related_templates": 1,
+      "source_linked": false,
+      "fallback": true,
+      "clarification": false,
+      "referral": false,
+      "user_confirmation": true,
+      "user_negative": false,
+      "transcript": [
+        {
+          "line": 124848,
+          "direction": "inbound",
+          "timestamp": "2026-08-20 16:48:00.730151+00:00",
+          "text": "Hey wie regestriere ich mich für die opening week",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 124847,
+          "direction": "template",
+          "timestamp": "2026-08-20 16:48:01.575944+00:00",
+          "text": "Welcome to the Frankfurt School of Finance and Management 🎉 I'm Frankie, here to help you settle in and get ready for your journey ahead. Let’s get to know each other and dive into your schedule.",
+          "template": "frankie_ow_before_onboarding2",
+          "sources": []
+        },
+        {
+          "line": 124846,
+          "direction": "template",
+          "timestamp": "2026-08-20 16:49:30.416112+00:00",
+          "text": "Glad you made it, <first_name> 🎉 Give me couple of minutes and I’ll send over your invite to register for the Opening Week activities!",
+          "template": "after_onboarding_2026",
+          "sources": []
+        },
+        {
+          "line": 124845,
+          "direction": "template",
+          "timestamp": "2026-08-20 16:49:54.111443+00:00",
+          "text": "Your journey at FS is about to begin 🏁🎓 Register for the Opening Week (August 26–29) to secure your spot and stay updated on everything happening during the week. International students can get a head start on August 25, with optional introductory sessions before the main programme starts.",
+          "template": "invite_bachelors_2026",
+          "sources": []
+        },
+        {
+          "line": 124844,
+          "direction": "inbound",
+          "timestamp": "2026-08-20 16:51:49.092065+00:00",
+          "text": "Verstehst du wie ser online campus funktuoniert, weil bis jetzt loge ich ich mich über eine link in einen browser immer an.",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 124843,
+          "direction": "outbound",
+          "timestamp": "2026-08-20 16:52:00.662143+00:00",
+          "text": "Ja, genau, das ist normal. Der *Online Campus* ist im Grunde das Admin-System von FS, also für Sachen wie persönliche Daten, Immatrikulation, Rechnungen, Zertifikate und andere akademische Unterlagen.",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 124842,
+          "direction": "outbound",
+          "timestamp": "2026-08-20 16:52:05.652336+00:00",
+          "text": "Dass du dich dafür über einen Link im Browser einloggst, ist also völlig richtig, du brauchst dafür keine extra App.",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 124841,
+          "direction": "outbound",
+          "timestamp": "2026-08-20 16:52:10.637244+00:00",
+          "text": "*Wichtig ist nur die Trennung:* - *Online Campus* = Verwaltung, also Enrollment, Rechnungen, Zertifikate, Prüfungsanmeldung - *Canvas* = Vorlesungen, Aufgaben, Noten, Kursmaterialien",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 124840,
+          "direction": "outbound",
+          "timestamp": "2026-08-20 16:52:15.656017+00:00",
+          "text": "Wenn du willst, kann ich dir auch kurz sagen, *wofür du in den ersten Wochen eher Canvas und wofür eher den Online Campus brauchst*.",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 124839,
+          "direction": "inbound",
+          "timestamp": "2026-08-20 16:52:44.279112+00:00",
+          "text": "Wie lade ich fpr beides die app herunter, weil ich finde es unübersichtlich in einem browser",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 124838,
+          "direction": "outbound",
+          "timestamp": "2026-08-20 16:52:55.073197+00:00",
+          "text": "Ja, versteh ich, Browser für alles ist echt schnell nervig.",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 124837,
+          "direction": "outbound",
+          "timestamp": "2026-08-20 16:53:00.085994+00:00",
+          "text": "Für *Canvas* kannst du die *Canvas Student App* nutzen, da sind Kursinhalte, Aufgaben und Noten drin.",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 124836,
+          "direction": "outbound",
+          "timestamp": "2026-08-20 16:53:05.080582+00:00",
+          "text": "Der *Online Campus* läuft bei FS normalerweise weiter über den Browser, also über `[link]",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 124835,
+          "direction": "outbound",
+          "timestamp": "2026-08-20 16:53:10.091630+00:00",
+          "text": "Heißt kurz, es gibt nicht eine gemeinsame App für beides, sondern eher: *Canvas in der App, Online Campus im Browser*.",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 124834,
+          "direction": "outbound",
+          "timestamp": "2026-08-20 16:53:15.098214+00:00",
+          "text": "Wenn du willst, kann ich dir auch kurz sagen, *welches von beiden du für welche FS-Sache öffnest*.",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 124833,
+          "direction": "inbound",
+          "timestamp": "2026-08-20 16:56:35.761754+00:00",
+          "text": "",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 124832,
+          "direction": "inbound",
+          "timestamp": "2026-08-20 16:56:46.697320+00:00",
+          "text": "ich muss noch mein passfoto hochladen, wir mache ich das?",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 124831,
+          "direction": "outbound",
+          "timestamp": "2026-08-20 16:56:58.217762+00:00",
+          "text": "Ja, das machst du im *Online Campus* unter *My Profile → Photograph*, dann auf das Bild mit der Kopf-Silhouette klicken und dort das Foto hochladen.",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 124830,
+          "direction": "outbound",
+          "timestamp": "2026-08-20 16:57:03.223032+00:00",
+          "text": "Das Foto sollte ein klares Porträt sein, nur Kopf, im *3:4-Format* und mindestens *480 x 640 Pixel*. Es muss *nicht biometrisch* sein.",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 124829,
+          "direction": "outbound",
+          "timestamp": "2026-08-20 16:57:08.209678+00:00",
+          "text": "Lad es am besten so schnell wie möglich hoch, spätestens *2 Wochen vor der Orientation Week*, sonst bekommst du deine Student ID Card nicht.",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 124828,
+          "direction": "inbound",
+          "timestamp": "2026-08-20 17:00:39.371111+00:00",
+          "text": "was ist 3:4 format?",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 124827,
+          "direction": "inbound",
+          "timestamp": "2026-08-20 17:00:43.639642+00:00",
+          "text": "ist es das querformat",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 124826,
+          "direction": "outbound",
+          "timestamp": "2026-08-20 17:00:57.143306+00:00",
+          "text": "Nein, 3:4 ist *nicht* Querformat. Es ist *Hochformat*, also höher als breit. Für dich heißt das: ein vertikales Kopfporträt hochladen, kein breites Foto.",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 124825,
+          "direction": "inbound",
+          "timestamp": "2026-08-20 17:01:33.702606+00:00",
+          "text": "ist es dieses format",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 124824,
+          "direction": "outbound",
+          "timestamp": "2026-08-20 17:01:46.555973+00:00",
+          "text": "Ich kann das Bild hier nicht sehen, also kann ich dir nicht sicher ja oder nein sagen. Wenn es *hochkant* ist und nur Kopf/Schultern zeigt, dann passt es eher. Wenn es breiter als hoch ist, dann nicht.",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 124823,
+          "direction": "inbound",
+          "timestamp": "2026-08-20 17:04:34.453851+00:00",
+          "text": "",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 124822,
+          "direction": "inbound",
+          "timestamp": "2026-08-20 17:04:40.259484+00:00",
+          "text": "wenn ich versuche das hochzuladen funktioniert es nicht",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 124821,
+          "direction": "outbound",
+          "timestamp": "2026-08-20 17:04:51.813515+00:00",
+          "text": "Okay, dann ist es wahrscheinlich kein „wo klicken“-Problem mehr, sondern irgendwas mit dem Upload selbst.",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 124820,
+          "direction": "outbound",
+          "timestamp": "2026-08-20 17:04:56.814117+00:00",
+          "text": "Was genau passiert denn, wenn du es versuchst, passiert gar nichts, kommt eine Fehlermeldung, wird die Datei direkt abgelehnt, oder lädt die Seite einfach ewig?",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 124819,
+          "direction": "outbound",
+          "timestamp": "2026-08-20 17:05:01.838396+00:00",
+          "text": "Wenn da eine Fehlermeldung steht, paste sie mir einfach hier rein, Wort für Wort, dann schauen wir’s zusammen an.",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 124818,
+          "direction": "inbound",
+          "timestamp": "2026-08-20 17:05:42.048506+00:00",
+          "text": "",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 124817,
+          "direction": "outbound",
+          "timestamp": "2026-08-20 17:05:52.324225+00:00",
+          "text": "Ich kann das Bild hier nicht sehen, also kann ich daraus leider nicht ablesen, was genau schiefgeht.",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 124816,
+          "direction": "outbound",
+          "timestamp": "2026-08-20 17:05:57.324640+00:00",
+          "text": "Schreib mir bitte *genau* den Fehlertext ab, oder sag mir kurz, was passiert, wenn du auf Upload klickst, zum Beispiel: - passiert gar nichts - lädt es ewig - kommt eine Fehlermeldung - wird die Datei sofort abgelehnt",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 124815,
+          "direction": "outbound",
+          "timestamp": "2026-08-20 17:05:59.850332+00:00",
+          "text": "Dann sag ich dir direkt, was es ist.",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 124814,
+          "direction": "inbound",
+          "timestamp": "2026-08-20 17:06:33.529346+00:00",
+          "text": "Das Portraitformat entspricht nicht dem geforderten Seitenverhältnis von 3:4 (Breite / Höhe).",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 124813,
+          "direction": "outbound",
+          "timestamp": "2026-08-20 17:06:46.933826+00:00",
+          "text": "Ja, genau, das heißt das Bild hat gerade nicht das richtige *3:4 Hochformat*. Du musst es also vorher auf *3:4* zuschneiden oder entsprechend neu speichern, dann nochmal hochladen.",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 124812,
+          "direction": "outbound",
+          "timestamp": "2026-08-20 17:06:51.983382+00:00",
+          "text": "Wenn du willst, kann ich dir auch kurz sagen, wie du das in 10 Sekunden am Handy zuschneidest.",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 124811,
+          "direction": "inbound",
+          "timestamp": "2026-08-20 17:10:42.610143+00:00",
+          "text": "Ich habe das foto auf 3:4 zugeschnitte es kommt aber trotzdem die gleiche fehlermeldung",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 124810,
+          "direction": "outbound",
+          "timestamp": "2026-08-20 17:10:55.823058+00:00",
+          "text": "Okay, dann liegt’s sehr wahrscheinlich am *Datei-Format selbst*, nicht am Hochladen. Wenn die gleiche Fehlermeldung wiederkommt, erfüllt das Bild noch immer nicht die Vorgaben, auch wenn es für dich schon zugeschnitten aussieht.",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 124809,
+          "direction": "outbound",
+          "timestamp": "2026-08-20 17:11:00.835302+00:00",
+          "text": "Schick mir bitte kurz die *genauen Pixelmaße* der Datei und den *Dateityp*, also zum Beispiel `1200 x 1600, JPG` oder `800 x 1200, PNG`. Dann kann ich dir direkt sagen, ob das Problem am Seitenverhältnis oder an der Auflösung hängt.",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 124808,
+          "direction": "inbound",
+          "timestamp": "2026-08-20 17:11:24.382893+00:00",
+          "text": "",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 124807,
+          "direction": "outbound",
+          "timestamp": "2026-08-20 17:11:33.932992+00:00",
+          "text": "Okay, dann ist der nächste Check nicht das Bild selbst, sondern die *Dateiinfos*.",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 124806,
+          "direction": "outbound",
+          "timestamp": "2026-08-20 17:11:38.929013+00:00",
+          "text": "Schreib mir bitte nur: - die *genauen Pixelmaße* der Datei, zum Beispiel `1200 x 1600` - den *Dateityp*, zum Beispiel `JPG` oder `PNG`",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 124805,
+          "direction": "outbound",
+          "timestamp": "2026-08-20 17:11:43.921519+00:00",
+          "text": "Bitte *nicht* das Bild nochmal schicken, nur diese zwei Angaben. Dann kann ich dir sagen, ob es an der Größe oder am Format hängt.",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 124804,
+          "direction": "inbound",
+          "timestamp": "2026-08-20 17:13:16.107012+00:00",
+          "text": "4284x5712",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 124803,
+          "direction": "outbound",
+          "timestamp": "2026-08-20 17:13:26.914147+00:00",
+          "text": "Ja, das *passt von der Größe her* locker, 4284 x 5712 ist weit über dem Minimum.",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 124802,
+          "direction": "outbound",
+          "timestamp": "2026-08-20 17:13:31.924250+00:00",
+          "text": "Mir fehlt jetzt nur noch *der Dateityp*, also ob es `JPG/JPEG` oder `PNG` ist. Schreib mir bitte nur das, dann kann ich dir sagen, warum der Upload noch meckert.",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 124801,
+          "direction": "inbound",
+          "timestamp": "2026-08-20 17:13:47.831365+00:00",
+          "text": "IMG",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 124800,
+          "direction": "outbound",
+          "timestamp": "2026-08-20 17:13:57.764917+00:00",
+          "text": "`IMG` reicht leider nicht, das ist nur der Dateiname, nicht das Format.",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 124799,
+          "direction": "outbound",
+          "timestamp": "2026-08-20 17:14:02.785405+00:00",
+          "text": "Schick mir bitte genau die Endung, also zum Beispiel `JPG`, `JPEG` oder `PNG`. Dann kann ich dir sagen, warum der Upload noch meckert.",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 124798,
+          "direction": "inbound",
+          "timestamp": "2026-08-20 17:14:36.298922+00:00",
+          "text": "HEIC",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 124797,
+          "direction": "outbound",
+          "timestamp": "2026-08-20 17:14:47.455934+00:00",
+          "text": "Ja, *HEIC* ist sehr wahrscheinlich der Grund, warum es weiter abgelehnt wird. Der Online Campus will das Foto in *JPG/JPEG oder PNG*, nicht als HEIC.",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 124796,
+          "direction": "outbound",
+          "timestamp": "2026-08-20 17:14:52.483017+00:00",
+          "text": "Also kurz: Foto in *JPG* oder *PNG* umwandeln, dann nochmal unter *Online Campus → My Profile → Photograph* hochladen.",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 124795,
+          "direction": "outbound",
+          "timestamp": "2026-08-20 17:14:57.464644+00:00",
+          "text": "Das Foto brauchst du für die *Student ID Card*, also am besten direkt erledigen, spätestens *2 Wochen vor der Orientation Week*.",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 124794,
+          "direction": "inbound",
+          "timestamp": "2026-08-20 17:17:52.741931+00:00",
+          "text": "es hat geklappt. dank! so jetzt muss ich meine opening week planen",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 124793,
+          "direction": "outbound",
+          "timestamp": "2026-08-20 17:18:02.055453+00:00",
+          "text": "Nice, hat geklappt 😌",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 124792,
+          "direction": "inbound",
+          "timestamp": "2026-08-20 17:18:04.426814+00:00",
+          "text": "welche evemts gibt es und wie melde ich mich an",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 124791,
+          "direction": "outbound",
+          "timestamp": "2026-08-20 17:18:07.080534+00:00",
+          "text": "Für die Opening Week ist jetzt wirklich dein *persönlicher Stundenplan* die Quelle der Wahrheit, weil Zeiten und Räume je nach Programm anders sind.",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 124790,
+          "direction": "outbound",
+          "timestamp": "2026-08-20 17:18:12.085689+00:00",
+          "text": "Sag mir einfach, *welches Programm du hast* oder *welchen Tag* du planen willst, dann sortieren wir’s direkt zusammen.",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 124789,
+          "direction": "outbound",
+          "timestamp": "2026-08-20 17:18:17.096294+00:00",
+          "text": "Schick mir einfach die *Opening-Week-Liste* oder den *Anmeldelink / die Einladung* hier rein, dann sag ich dir direkt, welche Events es gibt und wie du dich anmeldest.",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 124788,
+          "direction": "outbound",
+          "timestamp": "2026-08-20 17:18:22.080186+00:00",
+          "text": "Ohne die konkrete Liste würde ich dir sonst nur irgendwas zusammenraten, und das bringt dir null. Paste einfach den Text oder die Optionen, dann sortieren wir’s zusammen.",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 124787,
+          "direction": "template",
+          "timestamp": "2026-08-20 17:21:17.512180+00:00",
+          "text": "You have been registered for the Opening Week, Team Day, the Opening Ceremony and your preferred Workshop 🎉✅ I will send you the tickets on the morning of the events. But more on that later. See you soon 💙",
+          "template": "ow_after_invite_2026_v2",
+          "sources": []
+        }
+      ]
+    },
+    {
+      "topic": "Timetables / classes / courses",
+      "user": "User 0907",
+      "start": "2026-08-18 10:04:28.400556+00:00",
+      "request_records": 2,
+      "id": "EP015676",
+      "response_records": 6,
+      "regular_responses": 6,
+      "related_templates": 0,
+      "source_linked": false,
+      "fallback": false,
+      "clarification": false,
+      "referral": false,
+      "user_confirmation": true,
+      "user_negative": false,
+      "transcript": [
+        {
+          "line": 135915,
+          "direction": "inbound",
+          "timestamp": "2026-08-18 10:04:28.400556+00:00",
+          "text": "Hi where can I find my schedule for my classes",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 135914,
+          "direction": "outbound",
+          "timestamp": "2026-08-18 10:04:38.271574+00:00",
+          "text": "Your lecture schedule is in *Canvas*, under the *Calendar* icon on the left menu bar.",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 135913,
+          "direction": "outbound",
+          "timestamp": "2026-08-18 10:04:43.277169+00:00",
+          "text": "You can also open it directly here: [link]",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 135912,
+          "direction": "outbound",
+          "timestamp": "2026-08-18 10:04:47.558158+00:00",
+          "text": "After you log in, your personal schedule should appear there.",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 135911,
+          "direction": "inbound",
+          "timestamp": "2026-08-18 10:07:29.410395+00:00",
+          "text": "Yes it worked thank you!!!",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 135910,
+          "direction": "outbound",
+          "timestamp": "2026-08-18 10:07:36.930650+00:00",
+          "text": "yayyy, love that for you 💙",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 135909,
+          "direction": "inbound",
+          "timestamp": "2026-08-18 10:07:54.588526+00:00",
+          "text": "When a class is cancelled or something will it be changed in the calendar? Or where do I get this kind of information",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 135908,
+          "direction": "outbound",
+          "timestamp": "2026-08-18 10:08:04.058897+00:00",
+          "text": "Yep, the *important updates and cancellations* should come through *Canvas Announcements*.",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 135907,
+          "direction": "outbound",
+          "timestamp": "2026-08-18 10:08:09.071546+00:00",
+          "text": "For the latest info, check the *course page* on your *Dashboard* or under *Courses* in the left menu, not just the calendar.",
+          "template": "",
+          "sources": []
+        }
+      ]
+    },
+    {
+      "topic": "Registration / tickets / attendance",
+      "user": "User 1198",
+      "start": "2026-08-25 08:17:26.203799+00:00",
+      "request_records": 1,
+      "id": "EP020185",
+      "response_records": 5,
+      "regular_responses": 4,
+      "related_templates": 1,
+      "source_linked": false,
+      "fallback": false,
+      "clarification": false,
+      "referral": false,
+      "user_confirmation": true,
+      "user_negative": false,
+      "transcript": [
+        {
+          "line": 176988,
+          "direction": "inbound",
+          "timestamp": "2026-08-25 08:17:26.203799+00:00",
+          "text": "Ich will mich einfach für den real Estate Day anmelden",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 176987,
+          "direction": "inbound",
+          "timestamp": "2026-08-25 08:17:32.763750+00:00",
+          "text": "Das hat letztes Jahr nicht funktioniert",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 176986,
+          "direction": "inbound",
+          "timestamp": "2026-08-25 08:17:40.245415+00:00",
+          "text": "Und funktioniert wieder nicht",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 176985,
+          "direction": "outbound",
+          "timestamp": "2026-08-25 08:17:54.158004+00:00",
+          "text": "Okay, dann brauchen wir jetzt den genauen Fehlerpunkt, sonst drehen wir uns nur im Kreis.",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 176984,
+          "direction": "outbound",
+          "timestamp": "2026-08-25 08:17:59.167499+00:00",
+          "text": "Bricht es schon beim *Link*, lädt die *Seite* nicht, oder scheitert es erst beim *Formular*?",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 176983,
+          "direction": "inbound",
+          "timestamp": "2026-08-25 08:18:20.286010+00:00",
+          "text": "Bei dem Link kommt eine Fehlermeldung",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 176982,
+          "direction": "outbound",
+          "timestamp": "2026-08-25 08:18:33.849064+00:00",
+          "text": "Ja, dann ist der Link selbst kaputt. Schick mir bitte den *genauen Wortlaut der Fehlermeldung* oder einen Screenshot, dann kann ich dir sagen, ob es ein Link-Problem oder ein Seitenproblem ist.",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 176981,
+          "direction": "template",
+          "timestamp": "2026-08-25 08:18:39.743471+00:00",
+          "text": "Hey <first_name>, you’ve successfully booked a seat for 2. Frankfurt School Real Estate Career Day 2026 ! 🎉 📍 Location: FS Campus 🕓 Date & Time: Foyer Let me know if you have any questions or need anything before the event. Happy to help! ✨",
+          "template": "frankie_events_physical_event_confirmation_v2",
+          "sources": []
+        },
+        {
+          "line": 176980,
+          "direction": "inbound",
+          "timestamp": "2026-08-25 08:18:53.550406+00:00",
+          "text": "Jetzt hat es funktioniert",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 176979,
+          "direction": "inbound",
+          "timestamp": "2026-08-25 08:18:57.641332+00:00",
+          "text": "Danke",
+          "template": "",
+          "sources": []
+        },
+        {
+          "line": 176978,
+          "direction": "outbound",
+          "timestamp": "2026-08-25 08:19:12.639295+00:00",
+          "text": "Ja, endlich 😭 freut mich echt. Viel besser so, und gut dass es jetzt durch ist.",
+          "template": "",
+          "sources": []
+        }
+      ]
+    }
+  ]
+}

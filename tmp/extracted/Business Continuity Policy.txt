@@ -1,0 +1,631 @@
+
+--- PAGE 1 ---
+ 
+ 
+Business  Continuity  Policy  
+ID  BCP  Author  Bojan  Stipić  Version  1.1  Date  01.03.2021.  
+  
+ 
+Content
+ History  of  Changes  in  documented  information 1 
+1.  Introduction 1 
+2.  Aims  and  scope 2 
+3.  Legal  and  regulatory  requirements 2 
+4.  Roles  and  responsibilities 2 
+5.  Related  policies 5 
+6.  Document  control 5 
+ 
+History  of  Changes  in  documented  information  
+Date  Created  by  ID  Version  Change  30.09.2020.  Bojan  Stipić  BCP  1.0  Initial  document  created  01.03.2021  Bojan  Stipić  BCP  1.1  Update                                
+ 
+1.  Introduction  Mindsmiths  d.o.o.  is  committed  to  providing  a  business  continuity  programme  that  
+seeks
+ 
+to
+ 
+protect
+ 
+the
+ 
+welfare
+ 
+of
+ 
+staﬀ,
+ 
+customers/clients
+ 
+and
+ 
+contractors
+ 
+and
+ 
+continue
+ 
+the
+ 
+delivery
+ 
+of
+ 
+services
+ 
+at
+ 
+acceptable
+ 
+predeﬁned
+ 
+levels,
+ 
+following
+ 
+a
+ 
+disruptive
+ 
+incident.
+ 
+ ID  BCP  Authorized  ISMS  Management  Representative  Version  1.1  Date  01.03.2021. 
+ORIGINAL
+ 
+SIGNATURE  __________________________________  
+ISMS
+ 
+Management
+ 
+Representative
+ 
+  
+
+
+--- PAGE 2 ---
+ 
+ 
+Business  Continuity  Policy  
+ID  BCP  Author  Bojan  Stipić  Version  1.1  Date  01.03.2021  
+ This  policy  provides  the  aims  of  the  programme,  the  scope  of  products  and  services  
+included,
+ 
+and
+ 
+the
+ 
+responsibilities
+ 
+of
+ 
+staﬀ
+ 
+for
+ 
+the
+ 
+successful
+ 
+delivery
+ 
+and
+ 
+continuous
+ 
+improvement
+ 
+of
+ 
+the
+ 
+Business
+ 
+Continuity
+ 
+Management
+ 
+System
+ 
+(BCMS).
+ 
+2.  Aims  and  scope  2.1  Aims:  1.  Establish  a  framework  for  building  organizational  resilience  with  the  capability  
+of
+ 
+an
+ 
+eﬀective
+ 
+response
+ 
+that
+ 
+safeguards
+ 
+the
+ 
+interests
+ 
+of
+ 
+stakeholders.
+ 2.  Minimize  risk  of  disruptive  incidents  to  the  organization  through  collaboration  
+with
+ 
+other
+ 
+relevant
+ 
+disciplines
+ 
+to
+ 
+establish
+ 
+the
+ 
+necessary
+ 
+controls
+ 
+to
+ 
+reduce
+ 
+risk
+ 
+within
+ 
+the
+ 
+organization’s
+ 
+risk
+ 
+appetite.
+ 3.  Establish  appropriate  business  continuity  targets  and  solutions  for  prioritized  
+products,
+ 
+services
+ 
+and
+ 
+activities
+ 
+that
+ 
+protects
+ 
+the
+ 
+successful
+ 
+delivery
+ 
+of
+ 
+the
+ 
+corporate
+ 
+strategy.
+ 4.  Embed  business  continuity  within  the  organization  so  that  it  becomes  part  of  
+business
+ 
+as
+ 
+usual.
+ 5.  Continuously  improve  the  business  continuity  programme  and  align  it  with  ISO  
+27001
+ 
+standard
+ 6.  Establish  stuﬀ  Back-up  procedures  for  every  project.  If  a  manager  or  staﬀ  
+member
+ 
+is
+ 
+unavailable
+ 
+or
+ 
+incapacitated,
+ 
+the
+ 
+designated
+ 
+backup
+ 
+staﬀ
+ 
+member
+ 
+will
+ 
+perform
+ 
+notiﬁcation
+ 
+duties.
+  2.2  Scope  In  scope:  all  Mindsmiths  business  projects  and  services.  Out  of  scope:  non-essential  business  services.  
+3.  Legal  and  regulatory  requirements  Polices,  procedures,  plans,  guidelines  and  training  programs  have  to  be  in  line  with  ISO  
+27000
+ 
+standard
+ 
+and
+ 
+positive
+ 
+regulations
+ 
+of
+ 
+the
+ 
+Republic
+ 
+of
+ 
+Croatia.
+  
+4.  Roles  and  responsibilities  4.1  Management  ●  Allocate  executive  responsibility  for  business  continuity.  ●  Approve  the  business  continuity  policy  and  ensure  the  objectives  of  the  
+business
+ 
+continuity
+ 
+programme
+ 
+align
+ 
+with
+ 
+the
+ 
+strategic
+ 
+direction
+ 
+of
+ 
+the
+ 
+organization.
+ 
+ 
+
+
+--- PAGE 3 ---
+ 
+ 
+Business  Continuity  Policy  
+ID  BCP  Author  Bojan  Stipić  Version  1.1  Date  01.03.2021  
+ ●  Communicate  the  importance  of  business  continuity  to  staﬀ  and  the  need  to  
+conform
+ 
+to
+ 
+the
+ 
+requirements
+ 
+of
+ 
+the
+ 
+BCMS.
+ ●  Provide  direction  and  strategic  support  to  major  incidents  when  necessary.  ●  Participate  in  business  continuity  exercises,  as  required,  and  promote  continual  
+improvement.
+  4.2   Director/CEO  ●  Appoint  one  or  more  persons  to  be  responsible  for  the  BCMS  with  appropriate  
+authority
+ 
+and
+ 
+competency
+ 
+to
+ 
+establish,
+ 
+implement,
+ 
+maintain
+ 
+and
+ 
+improve
+ 
+the
+ 
+BCMS.
+ ●  Oversee  the  development  and  monitor  the  implementation  of  the  BCMS  to  
+ensure
+ 
+it
+ 
+achieves
+ 
+its
+ 
+intended
+ 
+outcomes.
+ ●  Ensure  the  resources  and  budget  needed  for  the  BCMS  are  made  available.  ●  Conduct  management  reviews  of  the  performance  of  the  business  continuity  
+programme.
+  4.3  Steering  Group  ●  Agree  policies  and  targets  for  the  BCMS  that  are  compatible  with  the  strategic  
+direction
+ 
+of
+ 
+the
+ 
+organization.
+ ●  Monitor  performance  of  the  BCMS  and  support  corrective  actions  within  areas  of  
+responsibility.
+ ●  Communicate  the  importance  of  eﬀective  business  continuity  management  and  
+conforming
+ 
+to
+ 
+the
+ 
+requirements.
+ ●  Promote  continual  improvement.    4.4  Business  Continuity  Professional  ●  Establish  a  BCMS  that  aligns  with  Mindsmiths  Security  Policies  and  Guidelines  
+and
+ 
+ISO
+ 
+27001.
+ ●  Develop  the  business  continuity  processes  and  procedures  required  toba  
+deliver
+ 
+the
+ 
+BCMS.
+ 
+ ●  Support  and  coordinate  planning  across  departments.  This  will  include,  where  
+appropriate:
+ ●  Provision  of  business  continuity  templates.  ●  Provision  of  training  material  for  completing  the  templates.  ●  Collaborating  with  relevant  disciplines  to  address  risk.  ●  Support  and  advice  regarding  appropriate  business  continuity  solutions.  
+ 
+
+
+--- PAGE 4 ---
+ 
+ 
+Business  Continuity  Policy  
+ID  BCP  Author  Bojan  Stipić  Version  1.1  Date  01.03.2021  
+ ●  Guidance  for  validating  business  continuity  plans.  ●  Monitoring  the  progress  of  business  continuity  planning.  ●  Establish,  maintain  and  improve  a  major  incident  management  plan  and  exercise  
+the
+ 
+plan
+ 
+once
+ 
+annually.
+ ●  Establish  performance  metrics  and  provide  regular  updates  to  the  Executive  
+Director.
+ 
+ ●  Provide  quarterly  reports  to  the  Steering  Group.   4.5  Department  Heads  ●  Understand  the  most  serious  risks  that  could  disrupt  the  prioritised  activities  and  
+provide
+ 
+direction
+ 
+on
+ 
+the
+ 
+business
+ 
+continuity
+ 
+planning
+ 
+priorities
+ 
+where
+ 
+necessary.
+ ●  Ensure  the  department  resources  needed  for  the  BCMS  are  available  by  
+assigning
+ 
+responsibility
+ 
+for
+ 
+business
+ 
+continuity
+ 
+planning
+ 
+within
+ 
+areas
+ 
+of
+ 
+responsibility.
+ ●  Ensure  the  integration  of  business  continuity  in  the  department  business  
+processes.
+ ●  Approve  business  continuity  plans  within  areas  of  responsibility.   4.6  Department  Business  Continuity  Representatives  ●  Complete  and  maintain  a  business  impact  analysis  for  the  department.  This  will  
+be
+ 
+reviewed
+ 
+once
+ 
+annually
+ 
+and
+ 
+immediately
+ 
+after
+ 
+any
+ 
+signiﬁcant
+ 
+change
+ 
+to
+ 
+the
+ 
+structure
+ 
+of
+ 
+the
+ 
+department
+ 
+or
+ 
+services
+ 
+provided.
+ ●  Identify  and  regularly  review  risks  to  prioritised  products,  services  and  activities  
+and
+ 
+establish
+ 
+the
+ 
+controls
+ 
+necessary
+ 
+to
+ 
+bring
+ 
+the
+ 
+risk
+ 
+within
+ 
+the
+ 
+organization’s
+ 
+risk
+ 
+appetite.
+ ●  Design  and  develop  appropriate  business  continuity  solutions  to  continue  the  
+delivery
+ 
+of
+ 
+prioritised
+ 
+products
+ 
+and
+ 
+services
+ 
+following
+ 
+a
+ 
+disruptive
+ 
+incident.
+ 
+Business
+ 
+continuity
+ 
+solutions
+ 
+will
+ 
+be
+ 
+documented
+ 
+in
+ 
+a
+ 
+business
+ 
+continuity
+ 
+plan
+ 
+and
+ 
+reviewed
+ 
+after
+ 
+any
+ 
+signiﬁcant
+ 
+changes,
+ 
+once
+ 
+annually,
+ 
+after
+ 
+the
+ 
+delivery
+ 
+of
+ 
+all
+ 
+exercises
+ 
+and
+ 
+after
+ 
+the
+ 
+resolution
+ 
+of
+ 
+all
+ 
+disruptive
+ 
+incidents.
+ ●  Support  business  continuity  awareness  activities  within  the  department.  ●  Validate  the  business  continuity  plan  with  the  use  of  exercises  to  an  agreed  
+schedule.
+  4.7  All  staﬀ  ●  Recognise  an  incident  and  report  it  to  the  relevant  area.  
+ 
+
+
+--- PAGE 5 ---
+ 
+ 
+Business  Continuity  Policy  
+ID  BCP  Author  Bojan  Stipić  Version  1.1  Date  01.03.2021  
+ ●  Understand  relevant  business  continuity  plans  and  associated  roles  and  
+responsibilities.
+ 
+5.  Related  policies  1.  Mindsmiths  Disaster  Recovery  Plan  2.  Change  Control  &  Conﬁguration  Management  Policy  3.  Information  Security  Policies   
+6.  Document  control  This  policy  will  be  reviewed  by  the  Steering  Group  once  annually  or  after  any  changes  
+to:
+ ●  products  or  services  ●  market  conditions  ●  legal  or  regulatory  requirements  ●  the  approach  to  risk.  ●  Once  the  policy  has  been  agreed  by  the  Steering  Group,  it  will  go  to  the  Board  
+for
+ 
+sign-oﬀ
+ 
+and
+ 
+then
+ 
+communicated
+ 
+to
+ 
+staﬀ.
+    
+ 

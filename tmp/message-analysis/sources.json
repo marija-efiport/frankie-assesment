@@ -1,0 +1,5729 @@
+{
+  "rows": [
+    {
+      "category": "Unattributed outgoing content",
+      "messages": 129923,
+      "directions": {
+        "outbound": 129495,
+        "ucs": 428
+      }
+    },
+    {
+      "category": "User-authored input",
+      "messages": 93987,
+      "directions": {
+        "inbound": 93987
+      }
+    },
+    {
+      "category": "CRM event workflow (event ID present)",
+      "messages": 92086,
+      "directions": {
+        "template": 89954,
+        "outbound": 2132
+      }
+    },
+    {
+      "category": "CRM/event communication (inferred)",
+      "messages": 38672,
+      "directions": {
+        "template": 38672
+      }
+    },
+    {
+      "category": "BookStack-linked knowledge base",
+      "messages": 36774,
+      "directions": {
+        "outbound": 36773,
+        "ucs": 1
+      }
+    },
+    {
+      "category": "Other templates / workflow content",
+      "messages": 28145,
+      "directions": {
+        "template": 28145
+      }
+    },
+    {
+      "category": "Canteen / lunch service (inferred)",
+      "messages": 7485,
+      "directions": {
+        "template": 7485
+      }
+    },
+    {
+      "category": "Mixed KB sources (BookStack candidate + other)",
+      "messages": 9,
+      "directions": {
+        "outbound": 9
+      }
+    }
+  ],
+  "files": [
+    {
+      "file_id": "1151",
+      "file_name": "1151 - Intake 2025-BSc Orientation Week (bsc-2)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 29003,
+      "messages": 6404,
+      "paragraphs": 3575,
+      "example_line": 1860
+    },
+    {
+      "file_id": "10",
+      "file_name": "10 - Frankfurt campus (all-programs)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 8496,
+      "messages": 5012,
+      "paragraphs": 1661,
+      "example_line": 170
+    },
+    {
+      "file_id": "892",
+      "file_name": "892 - General Examination Info (examination-office)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 11079,
+      "messages": 4804,
+      "paragraphs": 1372,
+      "example_line": 162
+    },
+    {
+      "file_id": "840",
+      "file_name": "840 - Semester abroad - All programs (international-office)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 9921,
+      "messages": 4583,
+      "paragraphs": 623,
+      "example_line": 876
+    },
+    {
+      "file_id": "19",
+      "file_name": "19 - The Steubing Learning Centre - Library (library)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 7491,
+      "messages": 4330,
+      "paragraphs": 1427,
+      "example_line": 182
+    },
+    {
+      "file_id": "27",
+      "file_name": "27 - IT Support (all-programs)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 6954,
+      "messages": 3334,
+      "paragraphs": 1477,
+      "example_line": 182
+    },
+    {
+      "file_id": "980",
+      "file_name": "980 - Other people (fs-staff)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 5473,
+      "messages": 3246,
+      "paragraphs": 1141,
+      "example_line": 1730
+    },
+    {
+      "file_id": "181",
+      "file_name": "181 - Career Services - General (career-services)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 5131,
+      "messages": 3096,
+      "paragraphs": 1056,
+      "example_line": 182
+    },
+    {
+      "file_id": "1098",
+      "file_name": "1098 - Homecoming attendees info (alumni)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 5017,
+      "messages": 3048,
+      "paragraphs": 902,
+      "example_line": 1730
+    },
+    {
+      "file_id": "48",
+      "file_name": "48 - Student ID (all-programs)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 5531,
+      "messages": 2875,
+      "paragraphs": 628,
+      "example_line": 174
+    },
+    {
+      "file_id": "638",
+      "file_name": "638 - Information on how to use the library 20250218 (library)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 3800,
+      "messages": 2777,
+      "paragraphs": 425,
+      "example_line": 184
+    },
+    {
+      "file_id": "54",
+      "file_name": "54 - Exam schedule (all-programs)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 3724,
+      "messages": 2670,
+      "paragraphs": 323,
+      "example_line": 425
+    },
+    {
+      "file_id": "15",
+      "file_name": "15 - Studying at FS - general information (all-programs)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 3290,
+      "messages": 2662,
+      "paragraphs": 634,
+      "example_line": 162
+    },
+    {
+      "file_id": "1153",
+      "file_name": "1153 - Your FS Team BBA Intake 2025 (bba)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 4815,
+      "messages": 2354,
+      "paragraphs": 253,
+      "example_line": 1864
+    },
+    {
+      "file_id": "12",
+      "file_name": "12 - Frankfurt campus - floor plan directions (all-programs)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 5754,
+      "messages": 2315,
+      "paragraphs": 1150,
+      "example_line": 205
+    },
+    {
+      "file_id": "16",
+      "file_name": "16 - Programme information (all-programs)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 3060,
+      "messages": 2234,
+      "paragraphs": 336,
+      "example_line": 1817
+    },
+    {
+      "file_id": "1169",
+      "file_name": "1169 - Buddies - intake 2025 (bsc-2)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 2124,
+      "messages": 1840,
+      "paragraphs": 212,
+      "example_line": 3008
+    },
+    {
+      "file_id": "1155",
+      "file_name": "1155 - Intake 2025 - Academic Calendar (BBA) (bsc-2)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 5569,
+      "messages": 1808,
+      "paragraphs": 643,
+      "example_line": 4425
+    },
+    {
+      "file_id": "407",
+      "file_name": "407 - Jürgen Moormann (fs-staff)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 2638,
+      "messages": 1710,
+      "paragraphs": 250,
+      "example_line": 363
+    },
+    {
+      "file_id": "817",
+      "file_name": "817 - Intake 2025-MoF Specific Academic Calendar Info & Links (pem)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 5691,
+      "messages": 1664,
+      "paragraphs": 26,
+      "example_line": 195
+    },
+    {
+      "file_id": "209",
+      "file_name": "209 - Language courses - general information (languages)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 1936,
+      "messages": 1567,
+      "paragraphs": 173,
+      "example_line": 1823
+    },
+    {
+      "file_id": "185",
+      "file_name": "185 - Career Services (career-services)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 1928,
+      "messages": 1498,
+      "paragraphs": 194,
+      "example_line": 2823
+    },
+    {
+      "file_id": "893",
+      "file_name": "893 - Sick Notes/Inability to Take an Exam Info (examination-office)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 2916,
+      "messages": 1421,
+      "paragraphs": 198,
+      "example_line": 162
+    },
+    {
+      "file_id": "202",
+      "file_name": "202 - House Rules (all-programs)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 1454,
+      "messages": 1409,
+      "paragraphs": 56,
+      "example_line": 170
+    },
+    {
+      "file_id": "841",
+      "file_name": "841 - International Office - General Info (international-office)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 1592,
+      "messages": 1394,
+      "paragraphs": 138,
+      "example_line": 859
+    },
+    {
+      "file_id": "826",
+      "file_name": "826 - Canvas (canvas-online-campus)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 1985,
+      "messages": 1376,
+      "paragraphs": 208,
+      "example_line": 2554
+    },
+    {
+      "file_id": "46",
+      "file_name": "46 - Public transport - D-ticket (all-programs)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 4480,
+      "messages": 1368,
+      "paragraphs": 679,
+      "example_line": 170
+    },
+    {
+      "file_id": "14",
+      "file_name": "14 - Frankfurt School - general information (all-programs)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 1737,
+      "messages": 1354,
+      "paragraphs": 241,
+      "example_line": 162
+    },
+    {
+      "file_id": "197",
+      "file_name": "197 - Alliance - Canteen (alliance)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 1935,
+      "messages": 1332,
+      "paragraphs": 299,
+      "example_line": 2900
+    },
+    {
+      "file_id": "35",
+      "file_name": "35 - Studying in Frankfurt (all-programs)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 1459,
+      "messages": 1324,
+      "paragraphs": 191,
+      "example_line": 170
+    },
+    {
+      "file_id": "1141",
+      "file_name": "1141 - Admission & Assessment Centre (admission)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 1668,
+      "messages": 1270,
+      "paragraphs": 157,
+      "example_line": 2545
+    },
+    {
+      "file_id": "947",
+      "file_name": "947 - Semester on Leave (all-programs)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 1861,
+      "messages": 1269,
+      "paragraphs": 93,
+      "example_line": 1807
+    },
+    {
+      "file_id": "288",
+      "file_name": "288 - Literature databases (library)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 1473,
+      "messages": 1248,
+      "paragraphs": 130,
+      "example_line": 188
+    },
+    {
+      "file_id": "196",
+      "file_name": "196 - Alliance - Deli (alliance)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 1655,
+      "messages": 1231,
+      "paragraphs": 152,
+      "example_line": 4868
+    },
+    {
+      "file_id": "1179",
+      "file_name": "1179 - Residence permit (international-office)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 1606,
+      "messages": 1203,
+      "paragraphs": 152,
+      "example_line": 2963
+    },
+    {
+      "file_id": "1146",
+      "file_name": "1146 - Full-time MBA FAQ (admission)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 1426,
+      "messages": 1193,
+      "paragraphs": 37,
+      "example_line": 2538
+    },
+    {
+      "file_id": "195",
+      "file_name": "195 - FS Bachelors in PEM (all-programs)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 2034,
+      "messages": 1192,
+      "paragraphs": 76,
+      "example_line": 201
+    },
+    {
+      "file_id": "1145",
+      "file_name": "1145 - Master Admission FAQ (admission)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 1743,
+      "messages": 1174,
+      "paragraphs": 37,
+      "example_line": 4735
+    },
+    {
+      "file_id": "201",
+      "file_name": "201 - Payment portal instructions (alliance)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 1577,
+      "messages": 1097,
+      "paragraphs": 97,
+      "example_line": 174
+    },
+    {
+      "file_id": "40",
+      "file_name": "40 - Break-out rooms (all-programs)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 2323,
+      "messages": 1087,
+      "paragraphs": 236,
+      "example_line": 2871
+    },
+    {
+      "file_id": "824",
+      "file_name": "824 - Invoices & Tuition Fees (all-programs)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 1476,
+      "messages": 1085,
+      "paragraphs": 91,
+      "example_line": 2562
+    },
+    {
+      "file_id": "28",
+      "file_name": "28 - Academic calendar (all-programs)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 1231,
+      "messages": 1054,
+      "paragraphs": 57,
+      "example_line": 195
+    },
+    {
+      "file_id": "825",
+      "file_name": "825 - Online Campus (CLM) (canvas-online-campus)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 1448,
+      "messages": 1038,
+      "paragraphs": 94,
+      "example_line": 1860
+    },
+    {
+      "file_id": "184",
+      "file_name": "184 - Career Services - Events (career-services)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 1234,
+      "messages": 1034,
+      "paragraphs": 90,
+      "example_line": 2956
+    },
+    {
+      "file_id": "646",
+      "file_name": "646 - Intake 2025-Programme Overview & Course Plan (4 Semester Track) (MoF) (mof)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 1651,
+      "messages": 1028,
+      "paragraphs": 19,
+      "example_line": 1869
+    },
+    {
+      "file_id": "37",
+      "file_name": "37 - Workshops (all-programs)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 1163,
+      "messages": 1010,
+      "paragraphs": 97,
+      "example_line": 2564
+    },
+    {
+      "file_id": "20",
+      "file_name": "20 - Printing (all-programs)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 2039,
+      "messages": 979,
+      "paragraphs": 164,
+      "example_line": 178
+    },
+    {
+      "file_id": "45",
+      "file_name": "45 - Orientation/Opening Week/Days (all-programs)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 1485,
+      "messages": 957,
+      "paragraphs": 322,
+      "example_line": 178
+    },
+    {
+      "file_id": "424",
+      "file_name": "424 - Christoph Schalast (fs-staff)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 1290,
+      "messages": 934,
+      "paragraphs": 119,
+      "example_line": 363
+    },
+    {
+      "file_id": "378",
+      "file_name": "378 - Ronald Gleich (fs-staff)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 1363,
+      "messages": 927,
+      "paragraphs": 148,
+      "example_line": 363
+    },
+    {
+      "file_id": "982",
+      "file_name": "982 - Grades (all-programs)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 1260,
+      "messages": 902,
+      "paragraphs": 102,
+      "example_line": 162
+    },
+    {
+      "file_id": "57",
+      "file_name": "57 - Study spots (all-programs)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 1050,
+      "messages": 894,
+      "paragraphs": 237,
+      "example_line": 5361
+    },
+    {
+      "file_id": "21",
+      "file_name": "21 - Gym (all-programs)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 1128,
+      "messages": 867,
+      "paragraphs": 196,
+      "example_line": 859
+    },
+    {
+      "file_id": "193",
+      "file_name": "193 - Business German (languages)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 1143,
+      "messages": 866,
+      "paragraphs": 57,
+      "example_line": 193
+    },
+    {
+      "file_id": "188",
+      "file_name": "188 - Career Days 2024 (career-services)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 1332,
+      "messages": 860,
+      "paragraphs": 272,
+      "example_line": 876
+    },
+    {
+      "file_id": "667",
+      "file_name": "667 - Intake 2025-3-Day Model (MoF) (mof)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 1079,
+      "messages": 848,
+      "paragraphs": 3,
+      "example_line": 205
+    },
+    {
+      "file_id": "1140",
+      "file_name": "1140 - FS REI Web (fs-rei)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 1385,
+      "messages": 826,
+      "paragraphs": 55,
+      "example_line": 162
+    },
+    {
+      "file_id": "695",
+      "file_name": "695 - Intake 2025-Programme Overview & Course Plan (3 Semester Track) (MoF) (mof)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 1170,
+      "messages": 826,
+      "paragraphs": 14,
+      "example_line": 197
+    },
+    {
+      "file_id": "351",
+      "file_name": "351 - Facts & History (general-fs-info)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 1017,
+      "messages": 826,
+      "paragraphs": 170,
+      "example_line": 1858
+    },
+    {
+      "file_id": "878",
+      "file_name": "878 - Top 30 Alumni (alumni)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 1061,
+      "messages": 796,
+      "paragraphs": 204,
+      "example_line": 1809
+    },
+    {
+      "file_id": "723",
+      "file_name": "723 - Intake 2025-MiM Specific Academic Calendar Info & Links (pem)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 4401,
+      "messages": 771,
+      "paragraphs": 36,
+      "example_line": 14088
+    },
+    {
+      "file_id": "1185",
+      "file_name": "1185 - Intro/Opening Week StuCo events - BSc (student-council)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 1271,
+      "messages": 754,
+      "paragraphs": 315,
+      "example_line": 2961
+    },
+    {
+      "file_id": "1100",
+      "file_name": "1100 - Frankie club (frankie-general-info)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 1108,
+      "messages": 736,
+      "paragraphs": 182,
+      "example_line": 1734
+    },
+    {
+      "file_id": "30",
+      "file_name": "30 - Scholarships (all-programs)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 860,
+      "messages": 727,
+      "paragraphs": 140,
+      "example_line": 2823
+    },
+    {
+      "file_id": "709",
+      "file_name": "709 - Intake 2025-Programme Overview & Course Plan (3 Semester Lateral Track) (MoF) (mof)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 919,
+      "messages": 707,
+      "paragraphs": 18,
+      "example_line": 197
+    },
+    {
+      "file_id": "895",
+      "file_name": "895 - Fallback kb in one file (fallback-kb)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 2950,
+      "messages": 707,
+      "paragraphs": 1285,
+      "example_line": 24825
+    },
+    {
+      "file_id": "11",
+      "file_name": "11 - Student Help Desk (all-programs)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 1161,
+      "messages": 692,
+      "paragraphs": 146,
+      "example_line": 205
+    },
+    {
+      "file_id": "1099",
+      "file_name": "1099 - Alumni Homecoming event (alumni)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 1181,
+      "messages": 689,
+      "paragraphs": 183,
+      "example_line": 5465
+    },
+    {
+      "file_id": "483",
+      "file_name": "483 - Alumni - General info (alumni)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 946,
+      "messages": 688,
+      "paragraphs": 43,
+      "example_line": 1838
+    },
+    {
+      "file_id": "1187",
+      "file_name": "1187 - Intro/Opening Week StuCo events - Master (student-council)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 1694,
+      "messages": 669,
+      "paragraphs": 327,
+      "example_line": 24712
+    },
+    {
+      "file_id": "402",
+      "file_name": "402 - Edgar Löw (fs-staff)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 941,
+      "messages": 658,
+      "paragraphs": 61,
+      "example_line": 7064
+    },
+    {
+      "file_id": "31",
+      "file_name": "31 - (Psycho-)Social Counselling and Coaching (personal-well-being-and-coaching)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 735,
+      "messages": 647,
+      "paragraphs": 82,
+      "example_line": 867
+    },
+    {
+      "file_id": "855",
+      "file_name": "855 - FS Entrepreneurship (student-initiatives)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 1104,
+      "messages": 644,
+      "paragraphs": 187,
+      "example_line": 2577
+    },
+    {
+      "file_id": "182",
+      "file_name": "182 - Career Services - Career Counseling (career-services)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 744,
+      "messages": 641,
+      "paragraphs": 87,
+      "example_line": 182
+    },
+    {
+      "file_id": "729",
+      "file_name": "729 - Student Council (student-council)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 775,
+      "messages": 636,
+      "paragraphs": 60,
+      "example_line": 880
+    },
+    {
+      "file_id": "1168",
+      "file_name": "1168 - BBA 2025 Pre-course Math (bba-2)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 933,
+      "messages": 634,
+      "paragraphs": 139,
+      "example_line": 4982
+    },
+    {
+      "file_id": "1026",
+      "file_name": "1026 - Intake 2025-Academic Calendar Link (BBA) (bsc-2)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 618,
+      "messages": 615,
+      "paragraphs": 59,
+      "example_line": 3527
+    },
+    {
+      "file_id": "183",
+      "file_name": "183 - Career Days (career-services)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 798,
+      "messages": 612,
+      "paragraphs": 69,
+      "example_line": 1713
+    },
+    {
+      "file_id": "382",
+      "file_name": "382 - Rainer Hegselmann (fs-staff)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 839,
+      "messages": 607,
+      "paragraphs": 61,
+      "example_line": 1730
+    },
+    {
+      "file_id": "1079",
+      "file_name": "1079 - Intake 2024-Concentrations Descriptions & Links (BBA) (bba-2)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 984,
+      "messages": 602,
+      "paragraphs": 34,
+      "example_line": 10406
+    },
+    {
+      "file_id": "1142",
+      "file_name": "1142 - Executive MBA FAQ (admission)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 645,
+      "messages": 599,
+      "paragraphs": 24,
+      "example_line": 2602
+    },
+    {
+      "file_id": "38",
+      "file_name": "38 - Programme contact partners (all-programs)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 663,
+      "messages": 595,
+      "paragraphs": 56,
+      "example_line": 1807
+    },
+    {
+      "file_id": "643",
+      "file_name": "643 - Intake 2025-Orientation Week links (MoF) (mof)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 768,
+      "messages": 589,
+      "paragraphs": 2,
+      "example_line": 2992
+    },
+    {
+      "file_id": "868",
+      "file_name": "868 - FS Student Consulting (student-initiatives)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 985,
+      "messages": 552,
+      "paragraphs": 227,
+      "example_line": 4735
+    },
+    {
+      "file_id": "1144",
+      "file_name": "1144 - FAQ (admission)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 578,
+      "messages": 529,
+      "paragraphs": 14,
+      "example_line": 2518
+    },
+    {
+      "file_id": "379",
+      "file_name": "379 - Michael H. Grote (fs-staff)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 590,
+      "messages": 520,
+      "paragraphs": 35,
+      "example_line": 867
+    },
+    {
+      "file_id": "383",
+      "file_name": "383 - Thomas Heidorn (fs-staff)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 636,
+      "messages": 500,
+      "paragraphs": 62,
+      "example_line": 1819
+    },
+    {
+      "file_id": "894",
+      "file_name": "894 - Compensation for Students with Disabilities (examination-office)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 510,
+      "messages": 491,
+      "paragraphs": 8,
+      "example_line": 2542
+    },
+    {
+      "file_id": "1170",
+      "file_name": "1170 - Buddy registration link - BBA 2025 (bba-2)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 488,
+      "messages": 488,
+      "paragraphs": 69,
+      "example_line": 1872
+    },
+    {
+      "file_id": "847",
+      "file_name": "847 - FS Business Game (student-initiatives)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 572,
+      "messages": 486,
+      "paragraphs": 101,
+      "example_line": 869
+    },
+    {
+      "file_id": "634",
+      "file_name": "634 - BSc Exam retake schedule & other info (other-bsc)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 819,
+      "messages": 479,
+      "paragraphs": 127,
+      "example_line": 32116
+    },
+    {
+      "file_id": "838",
+      "file_name": "838 - FS Business Forum (student-initiatives)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 666,
+      "messages": 461,
+      "paragraphs": 120,
+      "example_line": 4416
+    },
+    {
+      "file_id": "1118",
+      "file_name": "1118 - FS Real Estate (student-initiatives)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 680,
+      "messages": 458,
+      "paragraphs": 87,
+      "example_line": 5386
+    },
+    {
+      "file_id": "41",
+      "file_name": "41 - Selecting electives (all-programs)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 507,
+      "messages": 455,
+      "paragraphs": 23,
+      "example_line": 1807
+    },
+    {
+      "file_id": "639",
+      "file_name": "639 - FSEC Intro & Web (fsec)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 771,
+      "messages": 450,
+      "paragraphs": 130,
+      "example_line": 867
+    },
+    {
+      "file_id": "18",
+      "file_name": "18 - DB Event ticket (all-programs)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 499,
+      "messages": 429,
+      "paragraphs": 20,
+      "example_line": 1858
+    },
+    {
+      "file_id": "1176",
+      "file_name": "1176 - Study start documents - BSc (admission)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 451,
+      "messages": 428,
+      "paragraphs": 76,
+      "example_line": 2976
+    },
+    {
+      "file_id": "289",
+      "file_name": "289 - Factual databases (library)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 471,
+      "messages": 420,
+      "paragraphs": 38,
+      "example_line": 20023
+    },
+    {
+      "file_id": "876",
+      "file_name": "876 - TEDxFS (student-initiatives)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 468,
+      "messages": 403,
+      "paragraphs": 76,
+      "example_line": 869
+    },
+    {
+      "file_id": "430",
+      "file_name": "430 - Rainer Sibbel (fs-staff)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 454,
+      "messages": 395,
+      "paragraphs": 47,
+      "example_line": 1822
+    },
+    {
+      "file_id": "865",
+      "file_name": "865 - FS Rowing (student-initiatives)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 540,
+      "messages": 393,
+      "paragraphs": 72,
+      "example_line": 5311
+    },
+    {
+      "file_id": "415",
+      "file_name": "415 - Julia Redenius-Hövermann (fs-staff)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 482,
+      "messages": 390,
+      "paragraphs": 53,
+      "example_line": 1819
+    },
+    {
+      "file_id": "1190",
+      "file_name": "1190 - BPS and OW schedule - BBA 2025 (bba-2)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 628,
+      "messages": 380,
+      "paragraphs": 141,
+      "example_line": 17782
+    },
+    {
+      "file_id": "443",
+      "file_name": "443 - Jörg R. Werner (fs-staff)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 416,
+      "messages": 379,
+      "paragraphs": 29,
+      "example_line": 867
+    },
+    {
+      "file_id": "1177",
+      "file_name": "1177 - Study start documents - PEM (admission)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 377,
+      "messages": 377,
+      "paragraphs": 51,
+      "example_line": 31469
+    },
+    {
+      "file_id": "42",
+      "file_name": "42 - Graduations (all-programs)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 419,
+      "messages": 373,
+      "paragraphs": 27,
+      "example_line": 2602
+    },
+    {
+      "file_id": "187",
+      "file_name": "187 - Academic Business English course outline (languages)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 481,
+      "messages": 371,
+      "paragraphs": 64,
+      "example_line": 2602
+    },
+    {
+      "file_id": "873",
+      "file_name": "873 - FS Venture Capital (student-initiatives)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 455,
+      "messages": 358,
+      "paragraphs": 54,
+      "example_line": 1730
+    },
+    {
+      "file_id": "728",
+      "file_name": "728 - Presidium / Management members (faculty)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 381,
+      "messages": 348,
+      "paragraphs": 68,
+      "example_line": 876
+    },
+    {
+      "file_id": "849",
+      "file_name": "849 - FS Charity (student-initiatives)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 444,
+      "messages": 345,
+      "paragraphs": 74,
+      "example_line": 2904
+    },
+    {
+      "file_id": "1143",
+      "file_name": "1143 - MoF prospective students - FAQ (admission)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 371,
+      "messages": 345,
+      "paragraphs": 13,
+      "example_line": 4727
+    },
+    {
+      "file_id": "213",
+      "file_name": "213 - Student Initiatives (student-initiatives)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 691,
+      "messages": 342,
+      "paragraphs": 243,
+      "example_line": 42848
+    },
+    {
+      "file_id": "844",
+      "file_name": "844 - Internship Abroad (international-office)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 446,
+      "messages": 342,
+      "paragraphs": 44,
+      "example_line": 56941
+    },
+    {
+      "file_id": "1117",
+      "file_name": "1117 - FS Invest (student-initiatives)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 531,
+      "messages": 335,
+      "paragraphs": 52,
+      "example_line": 10425
+    },
+    {
+      "file_id": "698",
+      "file_name": "698 - Intake 2025-FS Team Link (MoF) (mof)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 333,
+      "messages": 333,
+      "paragraphs": 1,
+      "example_line": 2992
+    },
+    {
+      "file_id": "854",
+      "file_name": "854 - FS Data Science (student-initiatives)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 442,
+      "messages": 330,
+      "paragraphs": 54,
+      "example_line": 869
+    },
+    {
+      "file_id": "1230",
+      "file_name": "1230 - FS Newsroom - September 2025 (fs-news)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 383,
+      "messages": 329,
+      "paragraphs": 34,
+      "example_line": 1838
+    },
+    {
+      "file_id": "44",
+      "file_name": "44 - Dean's list (all-programs)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 443,
+      "messages": 328,
+      "paragraphs": 17,
+      "example_line": 2538
+    },
+    {
+      "file_id": "23",
+      "file_name": "23 - Honour Council, Honour Code, Diversity & Inclusion (all-programs)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 609,
+      "messages": 327,
+      "paragraphs": 58,
+      "example_line": 2577
+    },
+    {
+      "file_id": "459",
+      "file_name": "459 - Jan Vecer (fs-staff)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 347,
+      "messages": 325,
+      "paragraphs": 26,
+      "example_line": 2936
+    },
+    {
+      "file_id": "36",
+      "file_name": "36 - Extracurricular courses and programmes (all-programs)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 358,
+      "messages": 322,
+      "paragraphs": 23,
+      "example_line": 2545
+    },
+    {
+      "file_id": "875",
+      "file_name": "875 - FS Women's Soccer (student-initiatives)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 394,
+      "messages": 320,
+      "paragraphs": 59,
+      "example_line": 5452
+    },
+    {
+      "file_id": "453",
+      "file_name": "453 - Jörg Schlüchtermann (fs-staff)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 482,
+      "messages": 315,
+      "paragraphs": 29,
+      "example_line": 1828
+    },
+    {
+      "file_id": "186",
+      "file_name": "186 - Career Services - JobTeaser (career-services)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 394,
+      "messages": 315,
+      "paragraphs": 25,
+      "example_line": 2871
+    },
+    {
+      "file_id": "401",
+      "file_name": "401 - Horst Löchel (fs-staff)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 384,
+      "messages": 315,
+      "paragraphs": 52,
+      "example_line": 2904
+    },
+    {
+      "file_id": "375",
+      "file_name": "375 - Afschin Gandjour (fs-staff)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 352,
+      "messages": 315,
+      "paragraphs": 57,
+      "example_line": 4894
+    },
+    {
+      "file_id": "833",
+      "file_name": "833 - FS Associates (student-initiatives)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 440,
+      "messages": 313,
+      "paragraphs": 61,
+      "example_line": 14031
+    },
+    {
+      "file_id": "25",
+      "file_name": "25 - FS Ambassador programme (all-programs)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 365,
+      "messages": 292,
+      "paragraphs": 14,
+      "example_line": 1838
+    },
+    {
+      "file_id": "1023",
+      "file_name": "1023 - Intake 2024-Academic Calendar Link (BBA) (bsc-2)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 282,
+      "messages": 282,
+      "paragraphs": 57,
+      "example_line": 7232
+    },
+    {
+      "file_id": "858",
+      "file_name": "858 - FS Hockey (student-initiatives)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 285,
+      "messages": 271,
+      "paragraphs": 46,
+      "example_line": 19800
+    },
+    {
+      "file_id": "53",
+      "file_name": "53 - Student initiatives - general info (all-programs)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 286,
+      "messages": 269,
+      "paragraphs": 31,
+      "example_line": 7324
+    },
+    {
+      "file_id": "441",
+      "file_name": "441 - Thomas Weck (fs-staff)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 305,
+      "messages": 266,
+      "paragraphs": 27,
+      "example_line": 13299
+    },
+    {
+      "file_id": "292",
+      "file_name": "292 - Learning Lab (other-bsc)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 266,
+      "messages": 264,
+      "paragraphs": 9,
+      "example_line": 5361
+    },
+    {
+      "file_id": "1204",
+      "file_name": "1204 - FS Email (all-programs)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 265,
+      "messages": 262,
+      "paragraphs": 28,
+      "example_line": 4420
+    },
+    {
+      "file_id": "421",
+      "file_name": "421 - Philipp Sandner (fs-staff)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 316,
+      "messages": 261,
+      "paragraphs": 47,
+      "example_line": 867
+    },
+    {
+      "file_id": "26",
+      "file_name": "26 - Language courses (all-programs)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 323,
+      "messages": 260,
+      "paragraphs": 14,
+      "example_line": 1807
+    },
+    {
+      "file_id": "661",
+      "file_name": "661 - Intake 2025-Academic Regulations Link (MoF) (mof)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 260,
+      "messages": 260,
+      "paragraphs": 1,
+      "example_line": 6310
+    },
+    {
+      "file_id": "872",
+      "file_name": "872 - FS Unity (student-initiatives)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 377,
+      "messages": 258,
+      "paragraphs": 71,
+      "example_line": 31422
+    },
+    {
+      "file_id": "1153",
+      "file_name": "1153 - Your FS Team BBA Intake 2025 (bba-2)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 369,
+      "messages": 256,
+      "paragraphs": 84,
+      "example_line": 1809
+    },
+    {
+      "file_id": "45",
+      "file_name": "45 - Orientation Days (all-programs)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 313,
+      "messages": 255,
+      "paragraphs": 48,
+      "example_line": 24820
+    },
+    {
+      "file_id": "613",
+      "file_name": "613 - Your FS Team BBA Intake 2024 (bba-2)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 287,
+      "messages": 254,
+      "paragraphs": 37,
+      "example_line": 32089
+    },
+    {
+      "file_id": "456",
+      "file_name": "456 - Wolfgang Reittinger (fs-staff)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 263,
+      "messages": 250,
+      "paragraphs": 37,
+      "example_line": 1817
+    },
+    {
+      "file_id": "372",
+      "file_name": "372 - Martin Faust (fs-staff)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 290,
+      "messages": 250,
+      "paragraphs": 30,
+      "example_line": 4388
+    },
+    {
+      "file_id": "1039",
+      "file_name": "1039 - Intake 2024-Programme Overview & Course Plan (BBA) (bba-2)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 635,
+      "messages": 250,
+      "paragraphs": 36,
+      "example_line": 10406
+    },
+    {
+      "file_id": "869",
+      "file_name": "869 - FS Sustainability (student-initiatives)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 320,
+      "messages": 249,
+      "paragraphs": 52,
+      "example_line": 859
+    },
+    {
+      "file_id": "730",
+      "file_name": "730 - Mental Health First Aid (all-programs)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 342,
+      "messages": 248,
+      "paragraphs": 57,
+      "example_line": 4901
+    },
+    {
+      "file_id": "856",
+      "file_name": "856 - FS Fashion Business (student-initiatives)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 316,
+      "messages": 246,
+      "paragraphs": 63,
+      "example_line": 859
+    },
+    {
+      "file_id": "49",
+      "file_name": "49 - FS Merch (all-programs)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 277,
+      "messages": 244,
+      "paragraphs": 35,
+      "example_line": 5311
+    },
+    {
+      "file_id": "867",
+      "file_name": "867 - FS Sports Business (student-initiatives)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 381,
+      "messages": 244,
+      "paragraphs": 59,
+      "example_line": 19781
+    },
+    {
+      "file_id": "1102",
+      "file_name": "1102 - FS Championship (Bulls) (student-initiatives)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 444,
+      "messages": 242,
+      "paragraphs": 74,
+      "example_line": 869
+    },
+    {
+      "file_id": "55",
+      "file_name": "55 - Statista (all-programs)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 299,
+      "messages": 241,
+      "paragraphs": 11,
+      "example_line": 34641
+    },
+    {
+      "file_id": "1018",
+      "file_name": "1018 - Intake 2024-Academic Calendar (BSc) (bsc-2)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 394,
+      "messages": 235,
+      "paragraphs": 12,
+      "example_line": 10390
+    },
+    {
+      "file_id": "864",
+      "file_name": "864 - FS Photo (student-initiatives)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 261,
+      "messages": 234,
+      "paragraphs": 37,
+      "example_line": 2976
+    },
+    {
+      "file_id": "1150",
+      "file_name": "1150 - Intake 2025 - Academic Calendar (CBA) (bsc-2)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 821,
+      "messages": 232,
+      "paragraphs": 22,
+      "example_line": 12407
+    },
+    {
+      "file_id": "1186",
+      "file_name": "1186 - FY 2025 SG (fy)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 956,
+      "messages": 232,
+      "paragraphs": 338,
+      "example_line": 68839
+    },
+    {
+      "file_id": "732",
+      "file_name": "732 - Contacting Instructor via Canvas (faculty)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 231,
+      "messages": 231,
+      "paragraphs": 6,
+      "example_line": 4437
+    },
+    {
+      "file_id": "408",
+      "file_name": "408 - Ulf Moslener (fs-staff)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 262,
+      "messages": 228,
+      "paragraphs": 43,
+      "example_line": 10432
+    },
+    {
+      "file_id": "1160",
+      "file_name": "1160 - Intake 2025-FY Orientation Week (fy)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 315,
+      "messages": 227,
+      "paragraphs": 83,
+      "example_line": 68850
+    },
+    {
+      "file_id": "850",
+      "file_name": "850 - FS Cheerleading (student-initiatives)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 276,
+      "messages": 220,
+      "paragraphs": 31,
+      "example_line": 24089
+    },
+    {
+      "file_id": "832",
+      "file_name": "832 - FS Arts (student-initiatives)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 250,
+      "messages": 218,
+      "paragraphs": 56,
+      "example_line": 4725
+    },
+    {
+      "file_id": "445",
+      "file_name": "445 - Adalbert Winkler (fs-staff)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 255,
+      "messages": 218,
+      "paragraphs": 51,
+      "example_line": 7029
+    },
+    {
+      "file_id": "448",
+      "file_name": "448 - Erich Barthel (fs-staff)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 311,
+      "messages": 217,
+      "paragraphs": 28,
+      "example_line": 14035
+    },
+    {
+      "file_id": "1188",
+      "file_name": "1188 - Intro/Opening Week StuCo events - FY (student-council)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 678,
+      "messages": 210,
+      "paragraphs": 176,
+      "example_line": 68850
+    },
+    {
+      "file_id": "437",
+      "file_name": "437 - Jörn-Henrik Thun (fs-staff)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 252,
+      "messages": 208,
+      "paragraphs": 43,
+      "example_line": 31624
+    },
+    {
+      "file_id": "403",
+      "file_name": "403 - Matthias Mahlendorf (fs-staff)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 279,
+      "messages": 207,
+      "paragraphs": 41,
+      "example_line": 1809
+    },
+    {
+      "file_id": "179",
+      "file_name": "179 - Hamburg (all-programs)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 203,
+      "messages": 203,
+      "paragraphs": 12,
+      "example_line": 1828
+    },
+    {
+      "file_id": "857",
+      "file_name": "857 - FS Golf (student-initiatives)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 234,
+      "messages": 203,
+      "paragraphs": 43,
+      "example_line": 24377
+    },
+    {
+      "file_id": "43",
+      "file_name": "43 - StuCo (all-programs)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 249,
+      "messages": 202,
+      "paragraphs": 25,
+      "example_line": 880
+    },
+    {
+      "file_id": "419",
+      "file_name": "419 - Peter Roßbach (fs-staff)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 248,
+      "messages": 200,
+      "paragraphs": 30,
+      "example_line": 1844
+    },
+    {
+      "file_id": "896",
+      "file_name": "896 - FS Research staff - all (fs-staff)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 323,
+      "messages": 200,
+      "paragraphs": 156,
+      "example_line": 24829
+    },
+    {
+      "file_id": "1156",
+      "file_name": "1156 - Your FS Team MPE Intake 2025 (mpe)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 325,
+      "messages": 199,
+      "paragraphs": 15,
+      "example_line": 3001
+    },
+    {
+      "file_id": "1108",
+      "file_name": "1108 - Mentoring (all-programs)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 294,
+      "messages": 199,
+      "paragraphs": 22,
+      "example_line": 13976
+    },
+    {
+      "file_id": "859",
+      "file_name": "859 - FS Internationals (student-initiatives)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 276,
+      "messages": 198,
+      "paragraphs": 42,
+      "example_line": 5386
+    },
+    {
+      "file_id": "1114",
+      "file_name": "1114 - FS Hunting Club (student-initiatives)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 214,
+      "messages": 198,
+      "paragraphs": 24,
+      "example_line": 7294
+    },
+    {
+      "file_id": "1068",
+      "file_name": "1068 - Intake 2024-Concentrations General Info (BBA) (bba-2)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 262,
+      "messages": 197,
+      "paragraphs": 16,
+      "example_line": 10383
+    },
+    {
+      "file_id": "455",
+      "file_name": "455 - Michael Grüning (fs-staff)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 225,
+      "messages": 196,
+      "paragraphs": 24,
+      "example_line": 363
+    },
+    {
+      "file_id": "1126",
+      "file_name": "1126 - Bloomberg Certificate (bloomberg-terminal-excel-addon)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 629,
+      "messages": 194,
+      "paragraphs": 7,
+      "example_line": 4437
+    },
+    {
+      "file_id": "1194",
+      "file_name": "1194 - BPS and OW schedule link - MoF 2025 (mof)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 362,
+      "messages": 194,
+      "paragraphs": 132,
+      "example_line": 31469
+    },
+    {
+      "file_id": "434",
+      "file_name": "434 - Olaf Stotz (fs-staff)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 215,
+      "messages": 191,
+      "paragraphs": 32,
+      "example_line": 1828
+    },
+    {
+      "file_id": "1148",
+      "file_name": "1148 - Your FS Team CBA Intake 2025 (cba)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 311,
+      "messages": 191,
+      "paragraphs": 14,
+      "example_line": 12566
+    },
+    {
+      "file_id": "1154",
+      "file_name": "1154 - Intake 2025 Study guide link (BBA) (bba)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 189,
+      "messages": 189,
+      "paragraphs": 2,
+      "example_line": 1864
+    },
+    {
+      "file_id": "835",
+      "file_name": "835 - FS Badminton (student-initiatives)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 285,
+      "messages": 188,
+      "paragraphs": 48,
+      "example_line": 2591
+    },
+    {
+      "file_id": "1163",
+      "file_name": "1163 - FS Newsroom - July 2025 (fs-news)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 240,
+      "messages": 188,
+      "paragraphs": 15,
+      "example_line": 7294
+    },
+    {
+      "file_id": "1013",
+      "file_name": "1013 - Intake 2024-May '25 Exam Schedule (BBA) (bba-2)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 487,
+      "messages": 186,
+      "paragraphs": 18,
+      "example_line": 425
+    },
+    {
+      "file_id": "458",
+      "file_name": "458 - Udo Steffens (fs-staff)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 226,
+      "messages": 185,
+      "paragraphs": 34,
+      "example_line": 3417
+    },
+    {
+      "file_id": "1122",
+      "file_name": "1122 - FS MUN (student-initiatives)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 236,
+      "messages": 185,
+      "paragraphs": 50,
+      "example_line": 5386
+    },
+    {
+      "file_id": "877",
+      "file_name": "877 - InnoCom (student-initiatives)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 206,
+      "messages": 182,
+      "paragraphs": 43,
+      "example_line": 2963
+    },
+    {
+      "file_id": "435",
+      "file_name": "435 - Jürgen Strohhecker (fs-staff)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 265,
+      "messages": 182,
+      "paragraphs": 30,
+      "example_line": 10385
+    },
+    {
+      "file_id": "395",
+      "file_name": "395 - Mirko Kremer (fs-staff)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 199,
+      "messages": 181,
+      "paragraphs": 29,
+      "example_line": 1732
+    },
+    {
+      "file_id": "433",
+      "file_name": "433 - Nils Stieglitz (fs-staff)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 255,
+      "messages": 177,
+      "paragraphs": 37,
+      "example_line": 1850
+    },
+    {
+      "file_id": "252",
+      "file_name": "252 - Frankie - general info (frankie-general-info)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 237,
+      "messages": 175,
+      "paragraphs": 29,
+      "example_line": 2864
+    },
+    {
+      "file_id": "846",
+      "file_name": "846 - Student Council members (student-council)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 217,
+      "messages": 172,
+      "paragraphs": 42,
+      "example_line": 880
+    },
+    {
+      "file_id": "364",
+      "file_name": "364 - Lucas Böttcher (fs-staff)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 189,
+      "messages": 168,
+      "paragraphs": 28,
+      "example_line": 13351
+    },
+    {
+      "file_id": "22",
+      "file_name": "22 - Alumni (all-programs)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 168,
+      "messages": 168,
+      "paragraphs": 11,
+      "example_line": 20100
+    },
+    {
+      "file_id": "440",
+      "file_name": "440 - Timo Vogelsang (fs-staff)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 197,
+      "messages": 166,
+      "paragraphs": 25,
+      "example_line": 21891
+    },
+    {
+      "file_id": "59",
+      "file_name": "59 - Kubicle platform (all-programs)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 201,
+      "messages": 165,
+      "paragraphs": 11,
+      "example_line": 1724
+    },
+    {
+      "file_id": "834",
+      "file_name": "834 - FS Automotive (student-initiatives)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 175,
+      "messages": 165,
+      "paragraphs": 38,
+      "example_line": 5448
+    },
+    {
+      "file_id": "900",
+      "file_name": "900 - Advisory Board (faculty)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 181,
+      "messages": 163,
+      "paragraphs": 38,
+      "example_line": 7252
+    },
+    {
+      "file_id": "614",
+      "file_name": "614 - Before Programme Start BBA Intake 2024 (bba-2)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 188,
+      "messages": 163,
+      "paragraphs": 15,
+      "example_line": 57081
+    },
+    {
+      "file_id": "384",
+      "file_name": "384 - Kerstin Hennig (fs-staff)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 172,
+      "messages": 160,
+      "paragraphs": 24,
+      "example_line": 869
+    },
+    {
+      "file_id": "863",
+      "file_name": "863 - FS Padel (student-initiatives)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 244,
+      "messages": 158,
+      "paragraphs": 35,
+      "example_line": 5320
+    },
+    {
+      "file_id": "853",
+      "file_name": "853 - FS Dance (student-initiatives)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 161,
+      "messages": 155,
+      "paragraphs": 30,
+      "example_line": 4727
+    },
+    {
+      "file_id": "1113",
+      "file_name": "1113 - FS Women in Business (student-initiatives)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 184,
+      "messages": 155,
+      "paragraphs": 38,
+      "example_line": 40115
+    },
+    {
+      "file_id": "871",
+      "file_name": "871 - FS Tennis HH (student-initiatives)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 196,
+      "messages": 154,
+      "paragraphs": 33,
+      "example_line": 15005
+    },
+    {
+      "file_id": "861",
+      "file_name": "861 - FS Latino Society (student-initiatives)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 181,
+      "messages": 153,
+      "paragraphs": 36,
+      "example_line": 3520
+    },
+    {
+      "file_id": "874",
+      "file_name": "874 - FS Volleyball (student-initiatives)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 192,
+      "messages": 150,
+      "paragraphs": 31,
+      "example_line": 1724
+    },
+    {
+      "file_id": "369",
+      "file_name": "369 - Pia Domschke (fs-staff)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 180,
+      "messages": 150,
+      "paragraphs": 24,
+      "example_line": 1828
+    },
+    {
+      "file_id": "444",
+      "file_name": "444 - Gregory Wheeler (fs-staff)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 166,
+      "messages": 150,
+      "paragraphs": 25,
+      "example_line": 2540
+    },
+    {
+      "file_id": "926",
+      "file_name": "926 - Intake 2024-Examination Links (BBA) (examination-office)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 233,
+      "messages": 148,
+      "paragraphs": 13,
+      "example_line": 10403
+    },
+    {
+      "file_id": "1157",
+      "file_name": "1157 - Intake 2025 - Academic Calendar (MPE) (bsc-2)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 424,
+      "messages": 146,
+      "paragraphs": 20,
+      "example_line": 2585
+    },
+    {
+      "file_id": "199",
+      "file_name": "199 - Alliance - Food truck (Cityliner) (alliance)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 146,
+      "messages": 146,
+      "paragraphs": 9,
+      "example_line": 24812
+    },
+    {
+      "file_id": "1195",
+      "file_name": "1195 - BPS and OW schedule link - MiM 2025 (mim)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 295,
+      "messages": 145,
+      "paragraphs": 97,
+      "example_line": 59252
+    },
+    {
+      "file_id": "406",
+      "file_name": "406 - Britta Meinert (fs-staff)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 173,
+      "messages": 144,
+      "paragraphs": 10,
+      "example_line": 1860
+    },
+    {
+      "file_id": "866",
+      "file_name": "866 - FS Soccer (student-initiatives)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 174,
+      "messages": 142,
+      "paragraphs": 34,
+      "example_line": 5395
+    },
+    {
+      "file_id": "836",
+      "file_name": "836 - FS Basketball (student-initiatives)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 162,
+      "messages": 140,
+      "paragraphs": 26,
+      "example_line": 10383
+    },
+    {
+      "file_id": "1166",
+      "file_name": "1166 - SuSy - submission of master thesis / Intake 2024 (pem)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 214,
+      "messages": 140,
+      "paragraphs": 2,
+      "example_line": 143284
+    },
+    {
+      "file_id": "837",
+      "file_name": "837 - FS Blockchain (student-initiatives)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 160,
+      "messages": 139,
+      "paragraphs": 33,
+      "example_line": 4725
+    },
+    {
+      "file_id": "1120",
+      "file_name": "1120 - FS Finance and Consulting (student-initiatives)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 167,
+      "messages": 136,
+      "paragraphs": 13,
+      "example_line": 2956
+    },
+    {
+      "file_id": "726",
+      "file_name": "726 - Intake 2024-Master Thesis Timeline Info (pem)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 187,
+      "messages": 135,
+      "paragraphs": 4,
+      "example_line": 40934
+    },
+    {
+      "file_id": "394",
+      "file_name": "394 - Roland Koch (fs-staff)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 169,
+      "messages": 132,
+      "paragraphs": 24,
+      "example_line": 4894
+    },
+    {
+      "file_id": "32",
+      "file_name": "32 - Health insurance (all-programs)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 179,
+      "messages": 132,
+      "paragraphs": 13,
+      "example_line": 24742
+    },
+    {
+      "file_id": "852",
+      "file_name": "852 - FS Cycling Club (student-initiatives)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 231,
+      "messages": 132,
+      "paragraphs": 45,
+      "example_line": 41020
+    },
+    {
+      "file_id": "438",
+      "file_name": "438 - Christine Tiefensee (fs-staff)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 189,
+      "messages": 131,
+      "paragraphs": 31,
+      "example_line": 4388
+    },
+    {
+      "file_id": "373",
+      "file_name": "373 - Eric Fellhauer (fs-staff)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 139,
+      "messages": 131,
+      "paragraphs": 22,
+      "example_line": 20073
+    },
+    {
+      "file_id": "1115",
+      "file_name": "1115 - FS Asia Society (student-initiatives)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 167,
+      "messages": 130,
+      "paragraphs": 22,
+      "example_line": 15005
+    },
+    {
+      "file_id": "848",
+      "file_name": "848 - FS Chance (student-initiatives)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 150,
+      "messages": 130,
+      "paragraphs": 37,
+      "example_line": 20039
+    },
+    {
+      "file_id": "180",
+      "file_name": "180 - Munich (all-programs)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 162,
+      "messages": 128,
+      "paragraphs": 17,
+      "example_line": 1850
+    },
+    {
+      "file_id": "432",
+      "file_name": "432 - Sascha Steffen (fs-staff)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 139,
+      "messages": 127,
+      "paragraphs": 26,
+      "example_line": 20073
+    },
+    {
+      "file_id": "851",
+      "file_name": "851 - FS Coding (student-initiatives)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 146,
+      "messages": 125,
+      "paragraphs": 30,
+      "example_line": 20086
+    },
+    {
+      "file_id": "891",
+      "file_name": "891 - Review session Q3 SS 2025 (all-programs)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 125,
+      "messages": 125,
+      "paragraphs": 6,
+      "example_line": 38557
+    },
+    {
+      "file_id": "439",
+      "file_name": "439 - Grigory Vilkov (fs-staff)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 135,
+      "messages": 124,
+      "paragraphs": 27,
+      "example_line": 1817
+    },
+    {
+      "file_id": "870",
+      "file_name": "870 - FS Tennis (student-initiatives)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 158,
+      "messages": 123,
+      "paragraphs": 21,
+      "example_line": 24379
+    },
+    {
+      "file_id": "1109",
+      "file_name": "1109 - FS Chess (student-initiatives)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 154,
+      "messages": 122,
+      "paragraphs": 21,
+      "example_line": 24143
+    },
+    {
+      "file_id": "194",
+      "file_name": "194 - Academic Directors (fs-staff)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 182,
+      "messages": 121,
+      "paragraphs": 21,
+      "example_line": 1860
+    },
+    {
+      "file_id": "425",
+      "file_name": "425 - Jochen Schlapp (fs-staff)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 131,
+      "messages": 120,
+      "paragraphs": 15,
+      "example_line": 7294
+    },
+    {
+      "file_id": "363",
+      "file_name": "363 - Adrian Buss (fs-staff)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 131,
+      "messages": 120,
+      "paragraphs": 17,
+      "example_line": 40072
+    },
+    {
+      "file_id": "716",
+      "file_name": "716 - Master Thesis-General Info (pem)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 378,
+      "messages": 120,
+      "paragraphs": 121,
+      "example_line": 53688
+    },
+    {
+      "file_id": "1232",
+      "file_name": "1232 - FS MUN - from blog (student-initiatives)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 149,
+      "messages": 119,
+      "paragraphs": 43,
+      "example_line": 18505
+    },
+    {
+      "file_id": "761",
+      "file_name": "761 - Intake 2024-Skills Development Courses (MoF & MiM) (pem)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 128,
+      "messages": 118,
+      "paragraphs": 13,
+      "example_line": 40996
+    },
+    {
+      "file_id": "1116",
+      "file_name": "1116 - FS Economy & Politics (student-initiatives)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 130,
+      "messages": 116,
+      "paragraphs": 16,
+      "example_line": 12475
+    },
+    {
+      "file_id": "784",
+      "file_name": "784 - Self-directed Learning (languages)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 116,
+      "messages": 116,
+      "paragraphs": 9,
+      "example_line": 25936
+    },
+    {
+      "file_id": "431",
+      "file_name": "431 - Kai Spohrer (fs-staff)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 120,
+      "messages": 115,
+      "paragraphs": 19,
+      "example_line": 4447
+    },
+    {
+      "file_id": "56",
+      "file_name": "56 - Community Life Fair (all-programs)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 113,
+      "messages": 113,
+      "paragraphs": 3,
+      "example_line": 38286
+    },
+    {
+      "file_id": "370",
+      "file_name": "370 - Frank Ecker (fs-staff)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 117,
+      "messages": 113,
+      "paragraphs": 15,
+      "example_line": 39957
+    },
+    {
+      "file_id": "391",
+      "file_name": "391 - Katja Kisseleva-Scherenberger (fs-staff)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 117,
+      "messages": 112,
+      "paragraphs": 17,
+      "example_line": 1730
+    },
+    {
+      "file_id": "426",
+      "file_name": "426 - Christian Schulze (fs-staff)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 127,
+      "messages": 112,
+      "paragraphs": 38,
+      "example_line": 2976
+    },
+    {
+      "file_id": "733",
+      "file_name": "733 - Meeting with Instructors (faculty)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 112,
+      "messages": 112,
+      "paragraphs": 3,
+      "example_line": 7029
+    },
+    {
+      "file_id": "862",
+      "file_name": "862 - FS Music (student-initiatives)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 174,
+      "messages": 112,
+      "paragraphs": 39,
+      "example_line": 15047
+    },
+    {
+      "file_id": "860",
+      "file_name": "860 - FS Wine Studies (student-initiatives)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 127,
+      "messages": 112,
+      "paragraphs": 24,
+      "example_line": 31678
+    },
+    {
+      "file_id": "396",
+      "file_name": "396 - Sebastian Köhler (fs-staff)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 113,
+      "messages": 110,
+      "paragraphs": 17,
+      "example_line": 7207
+    },
+    {
+      "file_id": "34",
+      "file_name": "34 - Maternal and Parental leave (personal-well-being-and-coaching)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 110,
+      "messages": 110,
+      "paragraphs": 9,
+      "example_line": 24305
+    },
+    {
+      "file_id": "1119",
+      "file_name": "1119 - FS Running (student-initiatives)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 130,
+      "messages": 107,
+      "paragraphs": 19,
+      "example_line": 5331
+    },
+    {
+      "file_id": "355",
+      "file_name": "355 - Vahe Andonians Salmas (fs-staff)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 131,
+      "messages": 106,
+      "paragraphs": 19,
+      "example_line": 1819
+    },
+    {
+      "file_id": "1181",
+      "file_name": "1181 - Study start documents - BBA 2025 (admission)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 104,
+      "messages": 104,
+      "paragraphs": 9,
+      "example_line": 7245
+    },
+    {
+      "file_id": "362",
+      "file_name": "362 - Benjamin Born (fs-staff)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 108,
+      "messages": 103,
+      "paragraphs": 16,
+      "example_line": 2936
+    },
+    {
+      "file_id": "361",
+      "file_name": "361 - Alexander Bleier (fs-staff)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 107,
+      "messages": 102,
+      "paragraphs": 19,
+      "example_line": 2581
+    },
+    {
+      "file_id": "1183",
+      "file_name": "1183 - Study start documents - MPE 2025 (admission)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 102,
+      "messages": 102,
+      "paragraphs": 9,
+      "example_line": 7245
+    },
+    {
+      "file_id": "645",
+      "file_name": "645 - Intake 2024-Programme Overview & Course Plan (4 Semester Track) (MoF) (mof)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 116,
+      "messages": 102,
+      "paragraphs": 8,
+      "example_line": 107983
+    },
+    {
+      "file_id": "1052",
+      "file_name": "1052 - Francesco Pisani (fs-staff)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 103,
+      "messages": 100,
+      "paragraphs": 20,
+      "example_line": 2542
+    },
+    {
+      "file_id": "783",
+      "file_name": "783 - Lehrwerk/Textbook (languages)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 115,
+      "messages": 100,
+      "paragraphs": 14,
+      "example_line": 12542
+    },
+    {
+      "file_id": "457",
+      "file_name": "457 - Wolfgang Schmidt (fs-staff)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 118,
+      "messages": 99,
+      "paragraphs": 21,
+      "example_line": 1817
+    },
+    {
+      "file_id": "1077",
+      "file_name": "1077 - Intake 2024-PEM Partner University List (international-office)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 175,
+      "messages": 98,
+      "paragraphs": 47,
+      "example_line": 57487
+    },
+    {
+      "file_id": "420",
+      "file_name": "420 - Halil Sabanci (fs-staff)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 122,
+      "messages": 97,
+      "paragraphs": 16,
+      "example_line": 1713
+    },
+    {
+      "file_id": "393",
+      "file_name": "393 - Thorbjørn Knudsen (fs-staff)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 101,
+      "messages": 97,
+      "paragraphs": 22,
+      "example_line": 5442
+    },
+    {
+      "file_id": "1229",
+      "file_name": "1229 - FS Newsroom - October 2025 (fs-news)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 116,
+      "messages": 96,
+      "paragraphs": 12,
+      "example_line": 5386
+    },
+    {
+      "file_id": "1233",
+      "file_name": "1233 - FS Business Forum 2025 (event-details)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 167,
+      "messages": 96,
+      "paragraphs": 57,
+      "example_line": 19896
+    },
+    {
+      "file_id": "423",
+      "file_name": "423 - Francesco Sannino (fs-staff)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 117,
+      "messages": 95,
+      "paragraphs": 15,
+      "example_line": 42819
+    },
+    {
+      "file_id": "409",
+      "file_name": "409 - Markus Mädler (fs-staff)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 101,
+      "messages": 93,
+      "paragraphs": 16,
+      "example_line": 4687
+    },
+    {
+      "file_id": "368",
+      "file_name": "368 - Andrea Diefenhardt (fs-staff)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 103,
+      "messages": 92,
+      "paragraphs": 15,
+      "example_line": 18505
+    },
+    {
+      "file_id": "58",
+      "file_name": "58 - Learning Centre expansion pop-up (all-programs)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 94,
+      "messages": 92,
+      "paragraphs": 14,
+      "example_line": 60053
+    },
+    {
+      "file_id": "1172",
+      "file_name": "1172 - Buddy registration link - MPE 2025 (mpe-2)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 90,
+      "messages": 90,
+      "paragraphs": 23,
+      "example_line": 2993
+    },
+    {
+      "file_id": "353",
+      "file_name": "353 - Selin Atalay (fs-staff)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 104,
+      "messages": 90,
+      "paragraphs": 14,
+      "example_line": 4388
+    },
+    {
+      "file_id": "615",
+      "file_name": "615 - Academic Information BBA Intake 2024 (bba-2)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 114,
+      "messages": 89,
+      "paragraphs": 11,
+      "example_line": 18073
+    },
+    {
+      "file_id": "389",
+      "file_name": "389 - Heiko Karle (fs-staff)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 101,
+      "messages": 88,
+      "paragraphs": 16,
+      "example_line": 3417
+    },
+    {
+      "file_id": "417",
+      "file_name": "417 - Claus Rerup (fs-staff)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 90,
+      "messages": 87,
+      "paragraphs": 25,
+      "example_line": 876
+    },
+    {
+      "file_id": "1110",
+      "file_name": "1110 - FS Charity Gala (student-initiatives)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 141,
+      "messages": 87,
+      "paragraphs": 16,
+      "example_line": 20001
+    },
+    {
+      "file_id": "637",
+      "file_name": "637 - Kulturticket (all-programs)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 93,
+      "messages": 85,
+      "paragraphs": 7,
+      "example_line": 19784
+    },
+    {
+      "file_id": "374",
+      "file_name": "374 - Markus Fitza (fs-staff)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 88,
+      "messages": 84,
+      "paragraphs": 19,
+      "example_line": 20097
+    },
+    {
+      "file_id": "822",
+      "file_name": "822 - Intake 2025-MADS Specific Academic Calendar Info & Link (pem)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 293,
+      "messages": 82,
+      "paragraphs": 14,
+      "example_line": 107173
+    },
+    {
+      "file_id": "708",
+      "file_name": "708 - Intake 2024-Programme Overview & Course Plan (3 Semester Lateral Track) (MoF) (mof)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 105,
+      "messages": 82,
+      "paragraphs": 10,
+      "example_line": 143293
+    },
+    {
+      "file_id": "392",
+      "file_name": "392 - Ronald Klingebiel (fs-staff)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 100,
+      "messages": 80,
+      "paragraphs": 23,
+      "example_line": 46785
+    },
+    {
+      "file_id": "412",
+      "file_name": "412 - Stevo Pavicevic (fs-staff)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 103,
+      "messages": 79,
+      "paragraphs": 26,
+      "example_line": 12528
+    },
+    {
+      "file_id": "446",
+      "file_name": "446 - Jens Witkowski (fs-staff)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 88,
+      "messages": 79,
+      "paragraphs": 17,
+      "example_line": 24044
+    },
+    {
+      "file_id": "1171",
+      "file_name": "1171 - Buddy registration link - CBA 2025 (cba-2)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 78,
+      "messages": 78,
+      "paragraphs": 17,
+      "example_line": 12566
+    },
+    {
+      "file_id": "1162",
+      "file_name": "1162 - Intake 2025-Preparing for First Semester (MADS) (mads)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 152,
+      "messages": 78,
+      "paragraphs": 17,
+      "example_line": 107199
+    },
+    {
+      "file_id": "256",
+      "file_name": "256 - Before Programme Start_ BBA- Intake 2022 (bba)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 248,
+      "messages": 76,
+      "paragraphs": 22,
+      "example_line": 89609
+    },
+    {
+      "file_id": "728",
+      "file_name": "728 - Management Board (faculty)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 141,
+      "messages": 76,
+      "paragraphs": 16,
+      "example_line": 115046
+    },
+    {
+      "file_id": "387",
+      "file_name": "387 - Yuping Jia (fs-staff)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 77,
+      "messages": 74,
+      "paragraphs": 13,
+      "example_line": 21980
+    },
+    {
+      "file_id": "1242",
+      "file_name": "1242 - Intake 2025 - Concentrations General Info (BBA) (bba-2)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 74,
+      "messages": 74,
+      "paragraphs": 1,
+      "example_line": 99111
+    },
+    {
+      "file_id": "1200",
+      "file_name": "1200 - BPS and OW schedule link - FY 2025 (fy)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 132,
+      "messages": 73,
+      "paragraphs": 47,
+      "example_line": 140236
+    },
+    {
+      "file_id": "377",
+      "file_name": "377 - Marcus Giamattei (fs-staff)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 102,
+      "messages": 72,
+      "paragraphs": 14,
+      "example_line": 5465
+    },
+    {
+      "file_id": "416",
+      "file_name": "416 - Markus Reisinger (fs-staff)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 83,
+      "messages": 72,
+      "paragraphs": 14,
+      "example_line": 12341
+    },
+    {
+      "file_id": "1214",
+      "file_name": "1214 - Career Days 2025 (career-services)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 70,
+      "messages": 70,
+      "paragraphs": 1,
+      "example_line": 4427
+    },
+    {
+      "file_id": "398",
+      "file_name": "398 - Laurence van Lent (fs-staff)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 104,
+      "messages": 70,
+      "paragraphs": 25,
+      "example_line": 12457
+    },
+    {
+      "file_id": "356",
+      "file_name": "356 - Ionela Andreicovici (fs-staff)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 76,
+      "messages": 70,
+      "paragraphs": 15,
+      "example_line": 28257
+    },
+    {
+      "file_id": "759",
+      "file_name": "759 - Intake 2024-Internship/Work Experience (MoF & MiM) (pem)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 119,
+      "messages": 70,
+      "paragraphs": 8,
+      "example_line": 40996
+    },
+    {
+      "file_id": "793",
+      "file_name": "793 - FS Team (MADS) (mads)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 157,
+      "messages": 70,
+      "paragraphs": 13,
+      "example_line": 41483
+    },
+    {
+      "file_id": "371",
+      "file_name": "371 - Florian Ellsäßer (fs-staff)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 88,
+      "messages": 70,
+      "paragraphs": 13,
+      "example_line": 49826
+    },
+    {
+      "file_id": "449",
+      "file_name": "449 - Arie Ben-Josef (fs-staff)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 78,
+      "messages": 70,
+      "paragraphs": 11,
+      "example_line": 87615
+    },
+    {
+      "file_id": "450",
+      "file_name": "450 - Falko Fecht (fs-staff)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 68,
+      "messages": 68,
+      "paragraphs": 17,
+      "example_line": 2560
+    },
+    {
+      "file_id": "380",
+      "file_name": "380 - Andreas Grunewald (fs-staff)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 76,
+      "messages": 68,
+      "paragraphs": 16,
+      "example_line": 24014
+    },
+    {
+      "file_id": "1065",
+      "file_name": "1065 - Intake 2024-PEM Semester Abroad Steps (international-office)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 92,
+      "messages": 68,
+      "paragraphs": 11,
+      "example_line": 143373
+    },
+    {
+      "file_id": "1080",
+      "file_name": "1080 - Intake 2023-Concentrations Descriptions & Links (BBA) (bba-2)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 82,
+      "messages": 66,
+      "paragraphs": 19,
+      "example_line": 114715
+    },
+    {
+      "file_id": "422",
+      "file_name": "422 - Francesco Sangiorgi (fs-staff)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 69,
+      "messages": 65,
+      "paragraphs": 18,
+      "example_line": 39452
+    },
+    {
+      "file_id": "1075",
+      "file_name": "1075 - BSc Concentration Module Descriptions May 2025 (bsc)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 64,
+      "messages": 64,
+      "paragraphs": 11,
+      "example_line": 7228
+    },
+    {
+      "file_id": "404",
+      "file_name": "404 - Jonathan Marks (fs-staff)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 70,
+      "messages": 64,
+      "paragraphs": 10,
+      "example_line": 12449
+    },
+    {
+      "file_id": "1063",
+      "file_name": "1063 - Intake 2024-PEM Semester Abroad General Info (international-office)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 73,
+      "messages": 64,
+      "paragraphs": 11,
+      "example_line": 187089
+    },
+    {
+      "file_id": "842",
+      "file_name": "842 - Semester abroad - BSc (international-office)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 84,
+      "messages": 63,
+      "paragraphs": 16,
+      "example_line": 2518
+    },
+    {
+      "file_id": "1231",
+      "file_name": "1231 - FS Christmas Gala (event-details)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 63,
+      "messages": 63,
+      "paragraphs": 14,
+      "example_line": 12318
+    },
+    {
+      "file_id": "411",
+      "file_name": "411 - Jan Nagler (fs-staff)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 70,
+      "messages": 63,
+      "paragraphs": 19,
+      "example_line": 18505
+    },
+    {
+      "file_id": "367",
+      "file_name": "367 - Paula Cocoma (fs-staff)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 69,
+      "messages": 63,
+      "paragraphs": 12,
+      "example_line": 38551
+    },
+    {
+      "file_id": "1213",
+      "file_name": "1213 - BSc Intake 2024 Review Session (bsc)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 63,
+      "messages": 63,
+      "paragraphs": 4,
+      "example_line": 43146
+    },
+    {
+      "file_id": "1222",
+      "file_name": "1222 - Information session for semester abroad in winter semester 2026: Study Guide BSc Intake 2024 (bsc)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 61,
+      "messages": 61,
+      "paragraphs": 6,
+      "example_line": 74087
+    },
+    {
+      "file_id": "253",
+      "file_name": "253 - Programme Specific_ BBA- Intake 2022 (bba)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 137,
+      "messages": 60,
+      "paragraphs": 24,
+      "example_line": 1730
+    },
+    {
+      "file_id": "1173",
+      "file_name": "1173 - BestChoice vouchers (all-programs)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 60,
+      "messages": 60,
+      "paragraphs": 3,
+      "example_line": 1838
+    },
+    {
+      "file_id": "1147",
+      "file_name": "1147 - PEM - Opening/Orientation week 2025 (pem)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 432,
+      "messages": 59,
+      "paragraphs": 140,
+      "example_line": 46356
+    },
+    {
+      "file_id": "399",
+      "file_name": "399 - Jiping Li (fs-staff)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 74,
+      "messages": 59,
+      "paragraphs": 12,
+      "example_line": 56934
+    },
+    {
+      "file_id": "1155",
+      "file_name": "1155 - Intake 2025 - Academic Calendar (BBA) (bsc)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 121,
+      "messages": 58,
+      "paragraphs": 35,
+      "example_line": 12361
+    },
+    {
+      "file_id": "1121",
+      "file_name": "1121 - FS Middle Eastern Society (student-initiatives)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 59,
+      "messages": 58,
+      "paragraphs": 8,
+      "example_line": 20110
+    },
+    {
+      "file_id": "1216",
+      "file_name": "1216 - PEM Master Thesis (3-semester track) Intake 2024 (pem)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 65,
+      "messages": 58,
+      "paragraphs": 6,
+      "example_line": 143335
+    },
+    {
+      "file_id": "1189",
+      "file_name": "1189 - FS Real Estate Career Day (event-details)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 57,
+      "messages": 57,
+      "paragraphs": 7,
+      "example_line": 53843
+    },
+    {
+      "file_id": "427",
+      "file_name": "427 - Frederik Schwerter (fs-staff)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 61,
+      "messages": 56,
+      "paragraphs": 16,
+      "example_line": 2581
+    },
+    {
+      "file_id": "1164",
+      "file_name": "1164 - Conference on artificial intelligence and market regulation - 9–10 September 2025 (event-details)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 61,
+      "messages": 55,
+      "paragraphs": 7,
+      "example_line": 24731
+    },
+    {
+      "file_id": "676",
+      "file_name": "676 - Assistants to the Faculty (faculty)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 57,
+      "messages": 54,
+      "paragraphs": 16,
+      "example_line": 56918
+    },
+    {
+      "file_id": "428",
+      "file_name": "428 - Larissa Schäfer (fs-staff)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 76,
+      "messages": 54,
+      "paragraphs": 24,
+      "example_line": 64569
+    },
+    {
+      "file_id": "1191",
+      "file_name": "1191 - BPS and OW schedule link - MPE 2025 (mpe-2)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 87,
+      "messages": 53,
+      "paragraphs": 33,
+      "example_line": 2961
+    },
+    {
+      "file_id": "447",
+      "file_name": "447 - Kaspar Zimmermann (fs-staff)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 56,
+      "messages": 52,
+      "paragraphs": 14,
+      "example_line": 21891
+    },
+    {
+      "file_id": "1276",
+      "file_name": "1276 - Concentrations (bsc)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 52,
+      "messages": 52,
+      "paragraphs": 1,
+      "example_line": 75939
+    },
+    {
+      "file_id": "198",
+      "file_name": "198 - ReCup (alliance)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 51,
+      "messages": 51,
+      "paragraphs": 3,
+      "example_line": 6272
+    },
+    {
+      "file_id": "1107",
+      "file_name": "1107 - Master Thesis-Writing & Structure (pem)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 73,
+      "messages": 51,
+      "paragraphs": 20,
+      "example_line": 101757
+    },
+    {
+      "file_id": "1219",
+      "file_name": "1219 - Appeal Info- For BSc Intake 2024 (bsc)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 61,
+      "messages": 50,
+      "paragraphs": 6,
+      "example_line": 32225
+    },
+    {
+      "file_id": "13",
+      "file_name": "13 - Frankfurt - city general information (all-programs)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 59,
+      "messages": 50,
+      "paragraphs": 11,
+      "example_line": 140138
+    },
+    {
+      "file_id": "672",
+      "file_name": "672 - Academic Partnership Programmes (MoF) (mof)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 63,
+      "messages": 50,
+      "paragraphs": 8,
+      "example_line": 143307
+    },
+    {
+      "file_id": "248",
+      "file_name": "248 - Your FS Team_ BBA- Intake 2022 (bba)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 102,
+      "messages": 50,
+      "paragraphs": 16,
+      "example_line": 213481
+    },
+    {
+      "file_id": "1028",
+      "file_name": "1028 - Intake 2025-Academic Calendar Link (MPE) (bsc-2)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 48,
+      "messages": 48,
+      "paragraphs": 1,
+      "example_line": 3016
+    },
+    {
+      "file_id": "388",
+      "file_name": "388 - Yigitcan Karabulut (fs-staff)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 52,
+      "messages": 47,
+      "paragraphs": 15,
+      "example_line": 49713
+    },
+    {
+      "file_id": "1041",
+      "file_name": "1041 - Intake 2024-Programme Overview & Course Plan (CBA) (cba-2)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 71,
+      "messages": 46,
+      "paragraphs": 7,
+      "example_line": 73363
+    },
+    {
+      "file_id": "29",
+      "file_name": "29 - Examination regulations (all-programs)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 76,
+      "messages": 46,
+      "paragraphs": 21,
+      "example_line": 74160
+    },
+    {
+      "file_id": "1241",
+      "file_name": "1241 - Intake 2025 - Internship abroad regulations (bba-2)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 46,
+      "messages": 46,
+      "paragraphs": 7,
+      "example_line": 78997
+    },
+    {
+      "file_id": "680",
+      "file_name": "680 - Heinz Cremers (fs-staff)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 45,
+      "messages": 45,
+      "paragraphs": 8,
+      "example_line": 60053
+    },
+    {
+      "file_id": "1165",
+      "file_name": "1165 - Ranking for International Management Concentration: Study Guide BBA Intake 2024 (bba-2)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 44,
+      "messages": 44,
+      "paragraphs": 1,
+      "example_line": 1813
+    },
+    {
+      "file_id": "1192",
+      "file_name": "1192 - BPS and OW schedule link - CBA 2025 (cba-2)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 67,
+      "messages": 44,
+      "paragraphs": 27,
+      "example_line": 19800
+    },
+    {
+      "file_id": "1190",
+      "file_name": "1190 - BPS and OW schedule link - BBA 2025 (bba-2)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 46,
+      "messages": 44,
+      "paragraphs": 16,
+      "example_line": 35060
+    },
+    {
+      "file_id": "470",
+      "file_name": "470 - Ixart Miquel Flores (fs-staff)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 43,
+      "messages": 43,
+      "paragraphs": 9,
+      "example_line": 31598
+    },
+    {
+      "file_id": "410",
+      "file_name": "410 - Emanuel Mönch (fs-staff)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 46,
+      "messages": 43,
+      "paragraphs": 10,
+      "example_line": 31604
+    },
+    {
+      "file_id": "1127",
+      "file_name": "1127 - BSc 2023 tutor applications (other-bsc)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 47,
+      "messages": 43,
+      "paragraphs": 2,
+      "example_line": 57232
+    },
+    {
+      "file_id": "1201",
+      "file_name": "1201 - Intake 2025-Programme Overview & Course Plan (MPE) (mpe-2)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 95,
+      "messages": 42,
+      "paragraphs": 15,
+      "example_line": 21867
+    },
+    {
+      "file_id": "251",
+      "file_name": "251 - Citations (all-programs)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 42,
+      "messages": 42,
+      "paragraphs": 3,
+      "example_line": 24137
+    },
+    {
+      "file_id": "24",
+      "file_name": "24 - Entrepreneurship at FS (all-programs)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 42,
+      "messages": 42,
+      "paragraphs": 6,
+      "example_line": 40121
+    },
+    {
+      "file_id": "1069",
+      "file_name": "1069 - Intake 2024-PEM Semester Abroad Funding (international-office)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 50,
+      "messages": 41,
+      "paragraphs": 10,
+      "example_line": 38548
+    },
+    {
+      "file_id": "1206",
+      "file_name": "1206 - External event reminder / de-registration (event-details)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 41,
+      "messages": 41,
+      "paragraphs": 7,
+      "example_line": 42078
+    },
+    {
+      "file_id": "694",
+      "file_name": "694 - Intake 2024-Programme Overview & Course Plan (3 Semester Track) (MoF) (mof)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 47,
+      "messages": 41,
+      "paragraphs": 7,
+      "example_line": 107983
+    },
+    {
+      "file_id": "699",
+      "file_name": "699 - Academic Regulations (MoF) (mof)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 46,
+      "messages": 40,
+      "paragraphs": 5,
+      "example_line": 40964
+    },
+    {
+      "file_id": "613",
+      "file_name": "613 - Your FS Team BBA Intake 2024 (bba)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 56,
+      "messages": 40,
+      "paragraphs": 13,
+      "example_line": 48499
+    },
+    {
+      "file_id": "429",
+      "file_name": "429 - Fabian Seyrich (fs-staff)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 41,
+      "messages": 39,
+      "paragraphs": 12,
+      "example_line": 12449
+    },
+    {
+      "file_id": "463",
+      "file_name": "463 - Daniil Gerchik (fs-staff)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 40,
+      "messages": 38,
+      "paragraphs": 11,
+      "example_line": 56918
+    },
+    {
+      "file_id": "1043",
+      "file_name": "1043 - Intake 2024-Programme Overview & Course Plan (MPE) (mpe-2)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 43,
+      "messages": 38,
+      "paragraphs": 5,
+      "example_line": 74656
+    },
+    {
+      "file_id": "466",
+      "file_name": "466 - Malte Heissel (fs-staff)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 40,
+      "messages": 37,
+      "paragraphs": 8,
+      "example_line": 83643
+    },
+    {
+      "file_id": "1196",
+      "file_name": "1196 - BPS and OW schedule link - MADS 2025 (mads)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 67,
+      "messages": 37,
+      "paragraphs": 29,
+      "example_line": 107189
+    },
+    {
+      "file_id": "405",
+      "file_name": "405 - Thorsten Martin (fs-staff)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 36,
+      "messages": 36,
+      "paragraphs": 9,
+      "example_line": 12538
+    },
+    {
+      "file_id": "474",
+      "file_name": "474 - Robin Schaal (fs-staff)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 36,
+      "messages": 36,
+      "paragraphs": 6,
+      "example_line": 23896
+    },
+    {
+      "file_id": "1015",
+      "file_name": "1015 - Intake 2024-May '25 Exam Schedule (MPE) (mpe-2)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 78,
+      "messages": 36,
+      "paragraphs": 8,
+      "example_line": 31906
+    },
+    {
+      "file_id": "255",
+      "file_name": "255 - Before Programme Start_ BBA- Intake 2021 (bba)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 136,
+      "messages": 36,
+      "paragraphs": 16,
+      "example_line": 171644
+    },
+    {
+      "file_id": "460",
+      "file_name": "460 - Uwe Wystup (fs-staff)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 42,
+      "messages": 35,
+      "paragraphs": 9,
+      "example_line": 42066
+    },
+    {
+      "file_id": "957",
+      "file_name": "957 - Intake 2024-Semester on Leave Links (BBA) (all-programs)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 36,
+      "messages": 35,
+      "paragraphs": 2,
+      "example_line": 171301
+    },
+    {
+      "file_id": "1123",
+      "file_name": "1123 - FS Social Enterprise (student-initiatives)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 36,
+      "messages": 34,
+      "paragraphs": 8,
+      "example_line": 7252
+    },
+    {
+      "file_id": "413",
+      "file_name": "413 - Hari Ramasubramanian (fs-staff)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 39,
+      "messages": 34,
+      "paragraphs": 13,
+      "example_line": 35087
+    },
+    {
+      "file_id": "1130",
+      "file_name": "1130 - Buddy Program BSc 2024 (bsc-2)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 40,
+      "messages": 34,
+      "paragraphs": 3,
+      "example_line": 75588
+    },
+    {
+      "file_id": "625",
+      "file_name": "625 - Before Programme Start CBA Intake 2024 (cba-2)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 33,
+      "messages": 33,
+      "paragraphs": 9,
+      "example_line": 73440
+    },
+    {
+      "file_id": "461",
+      "file_name": "461 - Giulio Bagattini (fs-staff)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 38,
+      "messages": 32,
+      "paragraphs": 4,
+      "example_line": 121974
+    },
+    {
+      "file_id": "1184",
+      "file_name": "1184 - Study start documents - FY 2025 (admission)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 32,
+      "messages": 32,
+      "paragraphs": 12,
+      "example_line": 142972
+    },
+    {
+      "file_id": "798",
+      "file_name": "798 - Intake 2025-Orientation Week (MADS) (mads)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 36,
+      "messages": 32,
+      "paragraphs": 3,
+      "example_line": 206195
+    },
+    {
+      "file_id": "1158",
+      "file_name": "1158 - Intake 2025 Study guide link (MPE) (mpe)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 31,
+      "messages": 31,
+      "paragraphs": 4,
+      "example_line": 3016
+    },
+    {
+      "file_id": "1112",
+      "file_name": "1112 - FS Swimming (student-initiatives)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 36,
+      "messages": 31,
+      "paragraphs": 5,
+      "example_line": 7324
+    },
+    {
+      "file_id": "418",
+      "file_name": "418 - Ansgar Richter (fs-staff)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 34,
+      "messages": 31,
+      "paragraphs": 10,
+      "example_line": 19750
+    },
+    {
+      "file_id": "358",
+      "file_name": "358 - Derek Baker (fs-staff)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 31,
+      "messages": 31,
+      "paragraphs": 7,
+      "example_line": 20097
+    },
+    {
+      "file_id": "1220",
+      "file_name": "1220 - MoF intake 2024 - Change requests- Timelines (mof)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 35,
+      "messages": 31,
+      "paragraphs": 4,
+      "example_line": 40971
+    },
+    {
+      "file_id": "414",
+      "file_name": "414 - Kariyushi Rao (fs-staff)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 31,
+      "messages": 31,
+      "paragraphs": 6,
+      "example_line": 41032
+    },
+    {
+      "file_id": "928",
+      "file_name": "928 - Intake 2024-Examination Links (MPE) (examination-office)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 55,
+      "messages": 31,
+      "paragraphs": 9,
+      "example_line": 74640
+    },
+    {
+      "file_id": "250",
+      "file_name": "250 - Programme Specific_ BBA- Intake 2021 (bba)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 105,
+      "messages": 31,
+      "paragraphs": 10,
+      "example_line": 171644
+    },
+    {
+      "file_id": "795",
+      "file_name": "795 - Intake 2025-FS Team Link (MADS) (mads)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 30,
+      "messages": 30,
+      "paragraphs": 1,
+      "example_line": 41483
+    },
+    {
+      "file_id": "386",
+      "file_name": "386 - Maximilian Jager (fs-staff)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 50,
+      "messages": 30,
+      "paragraphs": 13,
+      "example_line": 42819
+    },
+    {
+      "file_id": "1053",
+      "file_name": "1053 - Maria Pennanen (fs-staff)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 35,
+      "messages": 30,
+      "paragraphs": 5,
+      "example_line": 201825
+    },
+    {
+      "file_id": "1149",
+      "file_name": "1149 - Intake 2025-Academic Calendar Link (CBA) (bsc-2)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 29,
+      "messages": 29,
+      "paragraphs": 1,
+      "example_line": 12574
+    },
+    {
+      "file_id": "1111",
+      "file_name": "1111 - FS Africa Society (student-initiatives)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 39,
+      "messages": 29,
+      "paragraphs": 4,
+      "example_line": 40981
+    },
+    {
+      "file_id": "1129",
+      "file_name": "1129 - Elective Module Descriptions (Intake 2024) (mof)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 45,
+      "messages": 29,
+      "paragraphs": 14,
+      "example_line": 143342
+    },
+    {
+      "file_id": "614",
+      "file_name": "614 - Before Programme Start BBA Intake 2024 (bba)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 40,
+      "messages": 29,
+      "paragraphs": 9,
+      "example_line": 178485
+    },
+    {
+      "file_id": "642",
+      "file_name": "642 - Intake 2024-Orientation Week (MoF) (mof)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 36,
+      "messages": 29,
+      "paragraphs": 5,
+      "example_line": 188581
+    },
+    {
+      "file_id": "397",
+      "file_name": "397 - Christian Landau (fs-staff)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 28,
+      "messages": 28,
+      "paragraphs": 6,
+      "example_line": 869
+    },
+    {
+      "file_id": "381",
+      "file_name": "381 - Jerry M Guo (fs-staff)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 35,
+      "messages": 28,
+      "paragraphs": 7,
+      "example_line": 24386
+    },
+    {
+      "file_id": "1051",
+      "file_name": "1051 - Johannes Gaedicke (fs-staff)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 37,
+      "messages": 28,
+      "paragraphs": 10,
+      "example_line": 74099
+    },
+    {
+      "file_id": "366",
+      "file_name": "366 - Felix Chopra (fs-staff)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 37,
+      "messages": 27,
+      "paragraphs": 7,
+      "example_line": 39517
+    },
+    {
+      "file_id": "1148",
+      "file_name": "1148 - Your FS Team CBA Intake 2025 (cba-2)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 33,
+      "messages": 27,
+      "paragraphs": 9,
+      "example_line": 105192
+    },
+    {
+      "file_id": "1205",
+      "file_name": "1205 - Internships/Skills Development (MoF/MiM 2024 intake) (pem)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 37,
+      "messages": 27,
+      "paragraphs": 6,
+      "example_line": 143410
+    },
+    {
+      "file_id": "681",
+      "file_name": "681 - Valerie Machoba (fs-staff)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 25,
+      "messages": 25,
+      "paragraphs": 3,
+      "example_line": 102160
+    },
+    {
+      "file_id": "927",
+      "file_name": "927 - Intake 2024-Examination Links (CBA) (examination-office)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 33,
+      "messages": 25,
+      "paragraphs": 5,
+      "example_line": 178198
+    },
+    {
+      "file_id": "675",
+      "file_name": "675 - Intake 2024-May '25 Exam Schedule (MoF) (mof)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 73,
+      "messages": 24,
+      "paragraphs": 19,
+      "example_line": 107974
+    },
+    {
+      "file_id": "691",
+      "file_name": "691 - Intake 2024-Concentration Course Information (MoF) (mof)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 27,
+      "messages": 23,
+      "paragraphs": 10,
+      "example_line": 107969
+    },
+    {
+      "file_id": "717",
+      "file_name": "717 - Intake 2024-MoF Specific Academic Calendar Info & Links (pem)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 24,
+      "messages": 23,
+      "paragraphs": 4,
+      "example_line": 143313
+    },
+    {
+      "file_id": "365",
+      "file_name": "365 - Aylin Cakanlar (fs-staff)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 28,
+      "messages": 22,
+      "paragraphs": 8,
+      "example_line": 15011
+    },
+    {
+      "file_id": "1128",
+      "file_name": "1128 - General Dedicated Elective Information (Intake 2024) (mof)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 22,
+      "messages": 22,
+      "paragraphs": 4,
+      "example_line": 160638
+    },
+    {
+      "file_id": "1228",
+      "file_name": "1228 - The Elective Market Place- Intake 2024 (MiM, MADS, MoF students) (pem)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 22,
+      "messages": 22,
+      "paragraphs": 5,
+      "example_line": 249165
+    },
+    {
+      "file_id": "469",
+      "file_name": "469 - Felix Martini (fs-staff)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 21,
+      "messages": 21,
+      "paragraphs": 5,
+      "example_line": 42819
+    },
+    {
+      "file_id": "1225",
+      "file_name": "1225 - Feedback to appeals from Q4 2025: Study Guide BBA Intake 2024 (bba-2)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 31,
+      "messages": 21,
+      "paragraphs": 4,
+      "example_line": 76009
+    },
+    {
+      "file_id": "917",
+      "file_name": "917 - Intake 2024-Examination Links (MoF) (examination-office)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 30,
+      "messages": 21,
+      "paragraphs": 10,
+      "example_line": 188573
+    },
+    {
+      "file_id": "253",
+      "file_name": "253 - Programme Specific_ BBA- Intake 2022 (bba-2)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 24,
+      "messages": 20,
+      "paragraphs": 5,
+      "example_line": 1656
+    },
+    {
+      "file_id": "475",
+      "file_name": "475 - Claudia Schaffranka (fs-staff)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 23,
+      "messages": 20,
+      "paragraphs": 6,
+      "example_line": 42545
+    },
+    {
+      "file_id": "400",
+      "file_name": "400 - Georgia Liadeli (fs-staff)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 19,
+      "messages": 19,
+      "paragraphs": 5,
+      "example_line": 71412
+    },
+    {
+      "file_id": "1081",
+      "file_name": "1081 - Intake 2024-Concentrations General Info (CBA) (cba-2)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 18,
+      "messages": 18,
+      "paragraphs": 1,
+      "example_line": 75493
+    },
+    {
+      "file_id": "666",
+      "file_name": "666 - Intake 2024-3-Day Model (MoF) (mof)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 18,
+      "messages": 18,
+      "paragraphs": 3,
+      "example_line": 107969
+    },
+    {
+      "file_id": "248",
+      "file_name": "248 - Your FS Team_ BBA- Intake 2022 (bba-2)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 28,
+      "messages": 18,
+      "paragraphs": 5,
+      "example_line": 250925
+    },
+    {
+      "file_id": "1156",
+      "file_name": "1156 - Your FS Team MPE Intake 2025 (mpe-2)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 22,
+      "messages": 17,
+      "paragraphs": 7,
+      "example_line": 2587
+    },
+    {
+      "file_id": "472",
+      "file_name": "472 - Sophie-Dorothee Rotermund (fs-staff)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 19,
+      "messages": 17,
+      "paragraphs": 5,
+      "example_line": 24344
+    },
+    {
+      "file_id": "359",
+      "file_name": "359 - Alina Bartscher (fs-staff)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 20,
+      "messages": 16,
+      "paragraphs": 4,
+      "example_line": 1833
+    },
+    {
+      "file_id": "1154",
+      "file_name": "1154 - Intake 2025 Study guide link (BBA) (bba-2)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 16,
+      "messages": 16,
+      "paragraphs": 4,
+      "example_line": 25884
+    },
+    {
+      "file_id": "480",
+      "file_name": "480 - Huiting Xu (fs-staff)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 19,
+      "messages": 16,
+      "paragraphs": 3,
+      "example_line": 64674
+    },
+    {
+      "file_id": "442",
+      "file_name": "442 - Jens Weidmann (fs-staff)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 15,
+      "messages": 15,
+      "paragraphs": 3,
+      "example_line": 71412
+    },
+    {
+      "file_id": "1150",
+      "file_name": "1150 - Intake 2025 - Academic Calendar (CBA) (bsc)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 58,
+      "messages": 15,
+      "paragraphs": 16,
+      "example_line": 105196
+    },
+    {
+      "file_id": "677",
+      "file_name": "677 - Lusine Badalyan (fs-staff)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 15,
+      "messages": 15,
+      "paragraphs": 3,
+      "example_line": 143682
+    },
+    {
+      "file_id": "624",
+      "file_name": "624 - Your FS Team CBA Intake 2024 (cba-2)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 15,
+      "messages": 15,
+      "paragraphs": 3,
+      "example_line": 178182
+    },
+    {
+      "file_id": "1190",
+      "file_name": "1190 - Before Programme Start link - BBA 2025 (bba-2)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 14,
+      "messages": 14,
+      "paragraphs": 7,
+      "example_line": 7245
+    },
+    {
+      "file_id": "1019",
+      "file_name": "1019 - Intake 2023-Academic Calendar (BSc) (bsc)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 21,
+      "messages": 14,
+      "paragraphs": 3,
+      "example_line": 53924
+    },
+    {
+      "file_id": "651",
+      "file_name": "651 - Intake 2024-General Concentration Info (MoF) (mof)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 16,
+      "messages": 14,
+      "paragraphs": 6,
+      "example_line": 107969
+    },
+    {
+      "file_id": "1202",
+      "file_name": "1202 - BSc Pogramme Overview –Concentrations (BBA, CBA, MPE) 2025 (bsc)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 17,
+      "messages": 13,
+      "paragraphs": 8,
+      "example_line": 2556
+    },
+    {
+      "file_id": "1152",
+      "file_name": "1152 - Intake 2025 Study guide link (CBA) (cba)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 13,
+      "messages": 13,
+      "paragraphs": 1,
+      "example_line": 12574
+    },
+    {
+      "file_id": "482",
+      "file_name": "482 - Exam schedule (other-pem)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 14,
+      "messages": 13,
+      "paragraphs": 7,
+      "example_line": 42848
+    },
+    {
+      "file_id": "436",
+      "file_name": "436 - Hui Sun (fs-staff)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 13,
+      "messages": 13,
+      "paragraphs": 6,
+      "example_line": 64674
+    },
+    {
+      "file_id": "1279",
+      "file_name": "1279 - Switching programs (bsc)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 13,
+      "messages": 13,
+      "paragraphs": 1,
+      "example_line": 70914
+    },
+    {
+      "file_id": "1195",
+      "file_name": "1195 - Before Programme Start link - MiM 2025 (mim)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 13,
+      "messages": 13,
+      "paragraphs": 4,
+      "example_line": 73734
+    },
+    {
+      "file_id": "462",
+      "file_name": "462 - Jonas Camargos Jensen (fs-staff)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 13,
+      "messages": 13,
+      "paragraphs": 3,
+      "example_line": 102079
+    },
+    {
+      "file_id": "473",
+      "file_name": "473 - Vittorio Maria Ruffo (fs-staff)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 13,
+      "messages": 13,
+      "paragraphs": 2,
+      "example_line": 131112
+    },
+    {
+      "file_id": "749",
+      "file_name": "749 - Intake 2024-Programme Overview & Course Plan (4 Semester Track) (MiM) (mim)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 16,
+      "messages": 13,
+      "paragraphs": 3,
+      "example_line": 200185
+    },
+    {
+      "file_id": "785",
+      "file_name": "785 - Additional ways to learn German in Frankfurt (languages)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 12,
+      "messages": 12,
+      "paragraphs": 3,
+      "example_line": 13976
+    },
+    {
+      "file_id": "618",
+      "file_name": "618 - Your FS Team MPE Intake 2024 (mpe-2)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 14,
+      "messages": 12,
+      "paragraphs": 4,
+      "example_line": 74591
+    },
+    {
+      "file_id": "249",
+      "file_name": "249 - Your FS Team_ BBA- Intake 2023 (bba)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 12,
+      "messages": 12,
+      "paragraphs": 3,
+      "example_line": 114717
+    },
+    {
+      "file_id": "1091",
+      "file_name": "1091 - Bloomberg terminal Excel addon - BBA 24 (bloomberg-terminal-excel-addon)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 12,
+      "messages": 12,
+      "paragraphs": 1,
+      "example_line": 154535
+    },
+    {
+      "file_id": "1134",
+      "file_name": "1134 - Big Buddy PEM (pem)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 12,
+      "messages": 12,
+      "paragraphs": 2,
+      "example_line": 160581
+    },
+    {
+      "file_id": "753",
+      "file_name": "753 - Intake 2024-Programme Overview & Course Plan (3 Semester Lateral Track) (MiM) (mim)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 15,
+      "messages": 12,
+      "paragraphs": 3,
+      "example_line": 200185
+    },
+    {
+      "file_id": "1050",
+      "file_name": "1050 - Gaja Amigoni (fs-staff)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 12,
+      "messages": 12,
+      "paragraphs": 4,
+      "example_line": 206829
+    },
+    {
+      "file_id": "247",
+      "file_name": "247 - Your FS Team_ BBA- Intake 2021 (bba)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 17,
+      "messages": 12,
+      "paragraphs": 6,
+      "example_line": 294511
+    },
+    {
+      "file_id": "1085",
+      "file_name": "1085 - Interim Exam schedule May 2025 - CBA 2024 (cba)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 20,
+      "messages": 11,
+      "paragraphs": 6,
+      "example_line": 182737
+    },
+    {
+      "file_id": "1218",
+      "file_name": "1218 - MoF/MiM/MADS intake 2024 (pem)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 11,
+      "messages": 11,
+      "paragraphs": 2,
+      "example_line": 188615
+    },
+    {
+      "file_id": "50",
+      "file_name": "50 - Canvas (all-programs)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 18,
+      "messages": 11,
+      "paragraphs": 10,
+      "example_line": 279129
+    },
+    {
+      "file_id": "354",
+      "file_name": "354 - Andres Alban (fs-staff)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 13,
+      "messages": 11,
+      "paragraphs": 5,
+      "example_line": 287136
+    },
+    {
+      "file_id": "1131",
+      "file_name": "1131 - Buddy program quiz link - BBA 2024 (bba-2)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 10,
+      "messages": 10,
+      "paragraphs": 1,
+      "example_line": 178485
+    },
+    {
+      "file_id": "385",
+      "file_name": "385 - María de la O Hervás Zurita (fs-staff)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 9,
+      "messages": 9,
+      "paragraphs": 2,
+      "example_line": 38551
+    },
+    {
+      "file_id": "1235",
+      "file_name": "1235 - Gonder group (alumni)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 26,
+      "messages": 9,
+      "paragraphs": 10,
+      "example_line": 46776
+    },
+    {
+      "file_id": "619",
+      "file_name": "619 - Before Programme Start MPE Intake 2024 (mpe-2)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 13,
+      "messages": 9,
+      "paragraphs": 7,
+      "example_line": 74595
+    },
+    {
+      "file_id": "33",
+      "file_name": "33 - Disabled and chronically ill students (personal-well-being-and-coaching)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 9,
+      "messages": 9,
+      "paragraphs": 2,
+      "example_line": 129579
+    },
+    {
+      "file_id": "465",
+      "file_name": "465 - Jonas Happel (fs-staff)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 9,
+      "messages": 9,
+      "paragraphs": 1,
+      "example_line": 144430
+    },
+    {
+      "file_id": "771",
+      "file_name": "771 - ECTS/CP (MiM) (mim)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 9,
+      "messages": 9,
+      "paragraphs": 3,
+      "example_line": 176822
+    },
+    {
+      "file_id": "807",
+      "file_name": "807 - Intake 2024-Programme Overview & Course Plan (4 Semester Track) (MADS) (mads)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 9,
+      "messages": 9,
+      "paragraphs": 2,
+      "example_line": 187079
+    },
+    {
+      "file_id": "755",
+      "file_name": "755 - Intake 2024-MiM Specific Academic Calendar Info & Links (pem)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 12,
+      "messages": 9,
+      "paragraphs": 4,
+      "example_line": 200194
+    },
+    {
+      "file_id": "1161",
+      "file_name": "1161 - Intake 2025 Study guide link (MADS) (mads)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 9,
+      "messages": 9,
+      "paragraphs": 1,
+      "example_line": 206198
+    },
+    {
+      "file_id": "854",
+      "file_name": "854 - FS Quant & Data Science (student-initiatives)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 9,
+      "messages": 9,
+      "paragraphs": 5,
+      "example_line": 230506
+    },
+    {
+      "file_id": "256",
+      "file_name": "256 - Before Programme Start_ BBA- Intake 2022 (bba-2)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 14,
+      "messages": 9,
+      "paragraphs": 5,
+      "example_line": 250933
+    },
+    {
+      "file_id": "52",
+      "file_name": "52 - Sick notes (all-programs)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 9,
+      "messages": 9,
+      "paragraphs": 2,
+      "example_line": 297490
+    },
+    {
+      "file_id": "1236",
+      "file_name": "1236 - Demo Day 2026 (event-details)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 8,
+      "messages": 8,
+      "paragraphs": 2,
+      "example_line": 10390
+    },
+    {
+      "file_id": "620",
+      "file_name": "620 - Academic Information MPE Intake 2024 (mpe-2)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 10,
+      "messages": 8,
+      "paragraphs": 6,
+      "example_line": 31906
+    },
+    {
+      "file_id": "1044",
+      "file_name": "1044 - Intake 2023-Concentrations General Info (BBA) (bba-2)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 9,
+      "messages": 8,
+      "paragraphs": 3,
+      "example_line": 53924
+    },
+    {
+      "file_id": "1194",
+      "file_name": "1194 - Before Programme Start link - MoF 2025 (mof)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 8,
+      "messages": 8,
+      "paragraphs": 2,
+      "example_line": 94486
+    },
+    {
+      "file_id": "265",
+      "file_name": "265 - Before Programme Start_ CBA- Intake 2022 (cba-2)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 10,
+      "messages": 8,
+      "paragraphs": 5,
+      "example_line": 106793
+    },
+    {
+      "file_id": "1176",
+      "file_name": "1176 - Study start documents (admission)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 8,
+      "messages": 8,
+      "paragraphs": 2,
+      "example_line": 144237
+    },
+    {
+      "file_id": "737",
+      "file_name": "737 - Intake 2024-Orientation Week (MiM) (mim)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 8,
+      "messages": 8,
+      "paragraphs": 3,
+      "example_line": 162407
+    },
+    {
+      "file_id": "776",
+      "file_name": "776 - Intake 2024-Concentration Course Information (MiM) (mim)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 16,
+      "messages": 8,
+      "paragraphs": 7,
+      "example_line": 162412
+    },
+    {
+      "file_id": "1215",
+      "file_name": "1215 - CFA Institute Research Challenge - MoF Intake 2024 (mof)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 12,
+      "messages": 8,
+      "paragraphs": 3,
+      "example_line": 188654
+    },
+    {
+      "file_id": "476",
+      "file_name": "476 - Jana-Lynn Schuster (fs-staff)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 8,
+      "messages": 8,
+      "paragraphs": 3,
+      "example_line": 276192
+    },
+    {
+      "file_id": "899",
+      "file_name": "899 - Presidium-fallback (fallback-kb)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 20,
+      "messages": 8,
+      "paragraphs": 5,
+      "example_line": 302209
+    },
+    {
+      "file_id": "1214",
+      "file_name": "1214 - Career Days 2026 (career-services)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 7,
+      "messages": 7,
+      "paragraphs": 3,
+      "example_line": 17941
+    },
+    {
+      "file_id": "1221",
+      "file_name": "1221 - MoF Intake 2024- Scholarships (mof)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 7,
+      "messages": 7,
+      "paragraphs": 2,
+      "example_line": 160554
+    },
+    {
+      "file_id": "918",
+      "file_name": "918 - Intake 2024-Examination Links (MiM) (examination-office)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 16,
+      "messages": 7,
+      "paragraphs": 6,
+      "example_line": 213993
+    },
+    {
+      "file_id": "679",
+      "file_name": "679 - Jie Cui (fs-staff)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 7,
+      "messages": 7,
+      "paragraphs": 2,
+      "example_line": 222244
+    },
+    {
+      "file_id": "1200",
+      "file_name": "1200 - Before Programme Start link - FY 2025 (fy)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 7,
+      "messages": 7,
+      "paragraphs": 4,
+      "example_line": 227204
+    },
+    {
+      "file_id": "1244",
+      "file_name": "1244 - FS Business Case (student-initiatives)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 7,
+      "messages": 7,
+      "paragraphs": 1,
+      "example_line": 268019
+    },
+    {
+      "file_id": "1207",
+      "file_name": "1207 - MFT 2025 study guide (mft)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 17,
+      "messages": 7,
+      "paragraphs": 5,
+      "example_line": 353760
+    },
+    {
+      "file_id": "948",
+      "file_name": "948 - Intake 2024-Semester on Leave Links (MoF) (all-programs)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 6,
+      "messages": 6,
+      "paragraphs": 1,
+      "example_line": 40971
+    },
+    {
+      "file_id": "1217",
+      "file_name": "1217 - CBA Intake 2024- event Computational Science Seminar (cba-2)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 6,
+      "messages": 6,
+      "paragraphs": 1,
+      "example_line": 75548
+    },
+    {
+      "file_id": "981",
+      "file_name": "981 - Stiftungsrat (faculty)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 20,
+      "messages": 6,
+      "paragraphs": 4,
+      "example_line": 121974
+    },
+    {
+      "file_id": "1278",
+      "file_name": "1278 - Summer internship requirements - MiM 2025 (mim)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 6,
+      "messages": 6,
+      "paragraphs": 1,
+      "example_line": 176832
+    },
+    {
+      "file_id": "808",
+      "file_name": "808 - Intake 2024-Programme Overview & Course Plan (3 Semester Track) (MADS) (mads)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 6,
+      "messages": 6,
+      "paragraphs": 2,
+      "example_line": 187079
+    },
+    {
+      "file_id": "630",
+      "file_name": "630 - Academic Information FY 24 (fy)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 10,
+      "messages": 6,
+      "paragraphs": 6,
+      "example_line": 313863
+    },
+    {
+      "file_id": "k1XAeXVWawbKXtKO",
+      "file_name": "New file 347",
+      "origin": "KB origin unknown",
+      "references": 6,
+      "messages": 6,
+      "paragraphs": 1,
+      "example_line": 425020
+    },
+    {
+      "file_id": "478",
+      "file_name": "478 - Paulina Maria Verhoff (fs-staff)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 5,
+      "messages": 5,
+      "paragraphs": 2,
+      "example_line": 38551
+    },
+    {
+      "file_id": "615",
+      "file_name": "615 - Academic Information BBA Intake 2024 (bba)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 5,
+      "messages": 5,
+      "paragraphs": 2,
+      "example_line": 83721
+    },
+    {
+      "file_id": "781",
+      "file_name": "781 - Language courses - Everything that needs to be updated (links, dates, etc.) (languages)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 14,
+      "messages": 5,
+      "paragraphs": 7,
+      "example_line": 101526
+    },
+    {
+      "file_id": "259",
+      "file_name": "259 - Your FS Team_ CBA- Intake 2022 (cba-2)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 7,
+      "messages": 5,
+      "paragraphs": 4,
+      "example_line": 106793
+    },
+    {
+      "file_id": "254",
+      "file_name": "254 - Programme Specific_ BBA- Intake 2023 (bba)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 5,
+      "messages": 5,
+      "paragraphs": 2,
+      "example_line": 114729
+    },
+    {
+      "file_id": "682",
+      "file_name": "682 - Fan Wu (fs-staff)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 5,
+      "messages": 5,
+      "paragraphs": 1,
+      "example_line": 146456
+    },
+    {
+      "file_id": "249",
+      "file_name": "249 - Your FS Team_ BBA- Intake 2023 (bba-2)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 5,
+      "messages": 5,
+      "paragraphs": 2,
+      "example_line": 146462
+    },
+    {
+      "file_id": "1223",
+      "file_name": "1223 - Feedback to appeals from Q4 May 2025 exams: Study Guide MoF Intake 2024 (mof)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 5,
+      "messages": 5,
+      "paragraphs": 2,
+      "example_line": 160543
+    },
+    {
+      "file_id": "619",
+      "file_name": "619 - Before Programme Start MPE Intake 2024 (mpe)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 5,
+      "messages": 5,
+      "paragraphs": 2,
+      "example_line": 166236
+    },
+    {
+      "file_id": "804",
+      "file_name": "804 - Academic Regulations (MADS) (mads)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 5,
+      "messages": 5,
+      "paragraphs": 3,
+      "example_line": 187126
+    },
+    {
+      "file_id": "778",
+      "file_name": "778 - Intake 2024-General Concentration Info (MiM) (mim)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 5,
+      "messages": 5,
+      "paragraphs": 2,
+      "example_line": 302371
+    },
+    {
+      "file_id": "796",
+      "file_name": "796 - Intake 2024-May '25 Exam Schedule (MADS) (mads)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 5,
+      "messages": 5,
+      "paragraphs": 1,
+      "example_line": 376130
+    },
+    {
+      "file_id": "789",
+      "file_name": "789 - Intake 2024-General Info Mathematics Boot Camp (MiM) (mim)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 5,
+      "messages": 5,
+      "paragraphs": 1,
+      "example_line": 415555
+    },
+    {
+      "file_id": "467",
+      "file_name": "467 - Leonard Jelsch (fs-staff)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 4,
+      "messages": 4,
+      "paragraphs": 2,
+      "example_line": 1734
+    },
+    {
+      "file_id": "464",
+      "file_name": "464 - Jin Guo (fs-staff)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 4,
+      "messages": 4,
+      "paragraphs": 1,
+      "example_line": 84386
+    },
+    {
+      "file_id": "1237",
+      "file_name": "1237 - Alumni - certified copy of FS degree (alumni)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 4,
+      "messages": 4,
+      "paragraphs": 1,
+      "example_line": 101971
+    },
+    {
+      "file_id": "950",
+      "file_name": "950 - Intake 2024-Semester on Leave Links (MADS) (all-programs)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 4,
+      "messages": 4,
+      "paragraphs": 1,
+      "example_line": 187081
+    },
+    {
+      "file_id": "287",
+      "file_name": "287 - Before Programme Start_ MPE- Intake 2023 (mpe)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 4,
+      "messages": 4,
+      "paragraphs": 1,
+      "example_line": 225424
+    },
+    {
+      "file_id": "949",
+      "file_name": "949 - Intake 2024-Semester on Leave Links (MiM) (all-programs)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 4,
+      "messages": 4,
+      "paragraphs": 1,
+      "example_line": 236933
+    },
+    {
+      "file_id": "775",
+      "file_name": "775 - Intake 2024-Concentration Selection Process (MiM) (mim)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 4,
+      "messages": 4,
+      "paragraphs": 1,
+      "example_line": 236965
+    },
+    {
+      "file_id": "1104",
+      "file_name": "1104 - Intake 2024-MoF Study Abroad Links (international-office)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 4,
+      "messages": 4,
+      "paragraphs": 2,
+      "example_line": 248818
+    },
+    {
+      "file_id": "451",
+      "file_name": "451 - Eberhard Feess (fs-staff)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 4,
+      "messages": 4,
+      "paragraphs": 1,
+      "example_line": 290892
+    },
+    {
+      "file_id": "376",
+      "file_name": "376 - Co-Pierre Georg (fs-staff)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 4,
+      "messages": 4,
+      "paragraphs": 3,
+      "example_line": 302088
+    },
+    {
+      "file_id": "1066",
+      "file_name": "1066 - PEM Review session (pem)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 4,
+      "messages": 4,
+      "paragraphs": 2,
+      "example_line": 304748
+    },
+    {
+      "file_id": "1101",
+      "file_name": "1101 - Information event on the semester abroad in spring 2026 - BBA 24 (bba-2)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 4,
+      "messages": 4,
+      "paragraphs": 2,
+      "example_line": 321366
+    },
+    {
+      "file_id": "1110",
+      "file_name": "1110 - FS Benefit Gala (student-initiatives)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 3,
+      "messages": 3,
+      "paragraphs": 2,
+      "example_line": 53598
+    },
+    {
+      "file_id": "266",
+      "file_name": "266 - Before Programme Start_ CBA- Intake 2023 (cba-2)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 3,
+      "messages": 3,
+      "paragraphs": 2,
+      "example_line": 63791
+    },
+    {
+      "file_id": "1224",
+      "file_name": "1224 - Feedback to appeals from Q4 2025: Study Guide MPE Intake 2024 (mpe-2)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 6,
+      "messages": 3,
+      "paragraphs": 4,
+      "example_line": 74605
+    },
+    {
+      "file_id": "1157",
+      "file_name": "1157 - Intake 2025 - Academic Calendar (MPE) (bsc)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 12,
+      "messages": 3,
+      "paragraphs": 4,
+      "example_line": 87157
+    },
+    {
+      "file_id": "7xX4xVqWT9lai1dA",
+      "file_name": "Manually added: FS Alumni Homecoming",
+      "origin": "Manually added KB (name evidence)",
+      "references": 3,
+      "messages": 3,
+      "paragraphs": 2,
+      "example_line": 132610
+    },
+    {
+      "file_id": "390",
+      "file_name": "390 - Tanja Keeve (fs-staff)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 3,
+      "messages": 3,
+      "paragraphs": 2,
+      "example_line": 137440
+    },
+    {
+      "file_id": "1095",
+      "file_name": "1095 - Bloomberg terminal Excel addon - MoF 24 (bloomberg-terminal-excel-addon)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 3,
+      "messages": 3,
+      "paragraphs": 1,
+      "example_line": 143307
+    },
+    {
+      "file_id": "648",
+      "file_name": "648 - Intake 2024-Lecturers for Modules (MoF) (mof)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 9,
+      "messages": 3,
+      "paragraphs": 4,
+      "example_line": 160590
+    },
+    {
+      "file_id": "626",
+      "file_name": "626 - Academic Information CBA Intake 2024 (cba-2)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 3,
+      "messages": 3,
+      "paragraphs": 2,
+      "example_line": 178187
+    },
+    {
+      "file_id": "1085",
+      "file_name": "1085 - Interim Exam schedule May 2025 - CBA 2024 (cba-2)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 10,
+      "messages": 3,
+      "paragraphs": 5,
+      "example_line": 182653
+    },
+    {
+      "file_id": "626",
+      "file_name": "626 - Academic Information CBA Intake 2024 (cba)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 3,
+      "messages": 3,
+      "paragraphs": 1,
+      "example_line": 182689
+    },
+    {
+      "file_id": "1130",
+      "file_name": "1130 - Buddy Program BSc (bsc-2)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 6,
+      "messages": 3,
+      "paragraphs": 2,
+      "example_line": 186974
+    },
+    {
+      "file_id": "1245",
+      "file_name": "1245 - Semester abroad - BBA 2025 (international-office)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 3,
+      "messages": 3,
+      "paragraphs": 1,
+      "example_line": 198434
+    },
+    {
+      "file_id": "281",
+      "file_name": "281 - Your FS Team_ MPE- Intake 2023 (mpe)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 3,
+      "messages": 3,
+      "paragraphs": 1,
+      "example_line": 225418
+    },
+    {
+      "file_id": "286",
+      "file_name": "286 - Before Programme Start_ MPE- Intake 2022 (mpe)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 3,
+      "messages": 3,
+      "paragraphs": 1,
+      "example_line": 241818
+    },
+    {
+      "file_id": "654",
+      "file_name": "654 - Intake 2024-Concentration Selection Process (MoF) (mof)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 3,
+      "messages": 3,
+      "paragraphs": 1,
+      "example_line": 291754
+    },
+    {
+      "file_id": "247",
+      "file_name": "247 - Your FS Team_ BBA- Intake 2021 (bba-2)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 3,
+      "messages": 3,
+      "paragraphs": 1,
+      "example_line": 294482
+    },
+    {
+      "file_id": "932",
+      "file_name": "932 - Intake 2024-Invoices & Tuition Fees Link (MoF) (all-programs)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 3,
+      "messages": 3,
+      "paragraphs": 1,
+      "example_line": 303287
+    },
+    {
+      "file_id": "1196",
+      "file_name": "1196 - Before Programme Start link - MADS 2025 (mads)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 3,
+      "messages": 3,
+      "paragraphs": 1,
+      "example_line": 307792
+    },
+    {
+      "file_id": "1180",
+      "file_name": "1180 - Frankfurt Galaxy (event-details)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 3,
+      "messages": 3,
+      "paragraphs": 1,
+      "example_line": 342166
+    },
+    {
+      "file_id": "264",
+      "file_name": "264 - Before Programme Start_ CBA- Intake 2021 (cba)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 5,
+      "messages": 3,
+      "paragraphs": 2,
+      "example_line": 353591
+    },
+    {
+      "file_id": "1193",
+      "file_name": "1193 - BPS and OW schedule link - MFT 2025 (mft)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 3,
+      "messages": 3,
+      "paragraphs": 1,
+      "example_line": 356058
+    },
+    {
+      "file_id": "801",
+      "file_name": "801 - ECTS/CP (MADS) (mads)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 3,
+      "messages": 3,
+      "paragraphs": 1,
+      "example_line": 378515
+    },
+    {
+      "file_id": "1191",
+      "file_name": "1191 - Before Programme Start link - MPE 2025 (mpe-2)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 3,
+      "messages": 3,
+      "paragraphs": 1,
+      "example_line": 411148
+    },
+    {
+      "file_id": "628",
+      "file_name": "628 - Before Programme Start FY 24 (fy)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 10,
+      "messages": 3,
+      "paragraphs": 4,
+      "example_line": 422155
+    },
+    {
+      "file_id": "627",
+      "file_name": "627 - Your FS Team FY 24 (fy)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 6,
+      "messages": 3,
+      "paragraphs": 3,
+      "example_line": 422155
+    },
+    {
+      "file_id": "452",
+      "file_name": "452 - Meik Friedrich (fs-staff)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 2,
+      "messages": 2,
+      "paragraphs": 1,
+      "example_line": 42429
+    },
+    {
+      "file_id": "715",
+      "file_name": "715 - PEM Teaching Hours (pem)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 2,
+      "messages": 2,
+      "paragraphs": 1,
+      "example_line": 101543
+    },
+    {
+      "file_id": "760",
+      "file_name": "760 - Intake 2024-Internship/Work Experience/Skills Development Links(MoF) (pem)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 2,
+      "messages": 2,
+      "paragraphs": 1,
+      "example_line": 188634
+    },
+    {
+      "file_id": "742",
+      "file_name": "742 - Intake 2024-Class Profile (MiM) (mim)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 2,
+      "messages": 2,
+      "paragraphs": 1,
+      "example_line": 200231
+    },
+    {
+      "file_id": "1282",
+      "file_name": "1282 - Internship - MoF & MiM (pem)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 2,
+      "messages": 2,
+      "paragraphs": 1,
+      "example_line": 206313
+    },
+    {
+      "file_id": "958",
+      "file_name": "958 - Intake 2024-Semester on Leave Links (CBA) (all-programs)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 2,
+      "messages": 2,
+      "paragraphs": 1,
+      "example_line": 206915
+    },
+    {
+      "file_id": "920",
+      "file_name": "920 - Intake 2023-Examination Links (BBA) (examination-office)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 4,
+      "messages": 2,
+      "paragraphs": 2,
+      "example_line": 208726
+    },
+    {
+      "file_id": "1133",
+      "file_name": "1133 - Buddy program quiz link - MPE 2024 (mpe-2)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 2,
+      "messages": 2,
+      "paragraphs": 1,
+      "example_line": 224033
+    },
+    {
+      "file_id": "262",
+      "file_name": "262 - Programme Specific_ CBA- Intake 2022 (cba)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 2,
+      "messages": 2,
+      "paragraphs": 1,
+      "example_line": 256858
+    },
+    {
+      "file_id": "1209",
+      "file_name": "1209 - Academic calendar MFT 2025 / Class of 27 (mft)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 2,
+      "messages": 2,
+      "paragraphs": 1,
+      "example_line": 285162
+    },
+    {
+      "file_id": "1208",
+      "file_name": "1208 - Specific Study and Examination Regulations MFT (30 January 2025) (mft)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 2,
+      "messages": 2,
+      "paragraphs": 1,
+      "example_line": 353760
+    },
+    {
+      "file_id": "1182",
+      "file_name": "1182 - Study start documents - CBA 2025 (admission)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 2,
+      "messages": 2,
+      "paragraphs": 1,
+      "example_line": 369143
+    },
+    {
+      "file_id": "283",
+      "file_name": "283 - Programme Specific_ MPE- Intake 2022 (mpe-2)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 2,
+      "messages": 2,
+      "paragraphs": 1,
+      "example_line": 370325
+    },
+    {
+      "file_id": "257",
+      "file_name": "257 - Before Programme Start BBA Intake 2023 (bba-2)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 2,
+      "messages": 2,
+      "paragraphs": 1,
+      "example_line": 370858
+    },
+    {
+      "file_id": "799",
+      "file_name": "799 - Intake 2024-Preparing for First Semester (MADS) (mads)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 2,
+      "messages": 2,
+      "paragraphs": 1,
+      "example_line": 397415
+    },
+    {
+      "file_id": "1134",
+      "file_name": "1134 - Big Buddy PEM 2025 (pem)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 6,
+      "messages": 2,
+      "paragraphs": 3,
+      "example_line": 407532
+    },
+    {
+      "file_id": "678",
+      "file_name": "678 - Mahsa Faridmehr (fs-staff)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 1,
+      "messages": 1,
+      "paragraphs": 1,
+      "example_line": 20110
+    },
+    {
+      "file_id": "1152",
+      "file_name": "1152 - Intake 2025 Study guide link (CBA) (cba-2)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 1,
+      "messages": 1,
+      "paragraphs": 1,
+      "example_line": 105308
+    },
+    {
+      "file_id": "1192",
+      "file_name": "1192 - Before Programme Start link - CBA 2025 (cba-2)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 1,
+      "messages": 1,
+      "paragraphs": 1,
+      "example_line": 105308
+    },
+    {
+      "file_id": "1273",
+      "file_name": "1273 - BBA Earning potential after graduation (bba-2)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 1,
+      "messages": 1,
+      "paragraphs": 1,
+      "example_line": 117440
+    },
+    {
+      "file_id": "622",
+      "file_name": "622 - Before Programme Start MiM Intake 2024 (archive)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 1,
+      "messages": 1,
+      "paragraphs": 1,
+      "example_line": 155838
+    },
+    {
+      "file_id": "1023",
+      "file_name": "1023 - Intake 2024-Academic Calendar Link (BBA) (bsc)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 1,
+      "messages": 1,
+      "paragraphs": 1,
+      "example_line": 171214
+    },
+    {
+      "file_id": "286",
+      "file_name": "286 - Before Programme Start_ MPE- Intake 2022 (mpe-2)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 1,
+      "messages": 1,
+      "paragraphs": 1,
+      "example_line": 241815
+    },
+    {
+      "file_id": "262",
+      "file_name": "262 - Programme Specific_ CBA- Intake 2022 (cba-2)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 1,
+      "messages": 1,
+      "paragraphs": 1,
+      "example_line": 256851
+    },
+    {
+      "file_id": "261",
+      "file_name": "261 - Programme Specific_ CBA- Intake 2021 (cba-2)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 1,
+      "messages": 1,
+      "paragraphs": 1,
+      "example_line": 309292
+    },
+    {
+      "file_id": "618",
+      "file_name": "618 - Your FS Team MPE Intake 2024 (mpe)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 1,
+      "messages": 1,
+      "paragraphs": 1,
+      "example_line": 309716
+    },
+    {
+      "file_id": "357",
+      "file_name": "357 - Cristian Badarinza (fs-staff)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 1,
+      "messages": 1,
+      "paragraphs": 1,
+      "example_line": 336431
+    },
+    {
+      "file_id": "919",
+      "file_name": "919 - Intake 2024-Examination Links (MADS) (examination-office)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 3,
+      "messages": 1,
+      "paragraphs": 3,
+      "example_line": 376119
+    },
+    {
+      "file_id": "720",
+      "file_name": "720 - Intake 2024-MADS Specific Academic Calendar Info & Link (pem)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 1,
+      "messages": 1,
+      "paragraphs": 1,
+      "example_line": 378509
+    },
+    {
+      "file_id": "751",
+      "file_name": "751 - Intake 2024-Programme Overview & Course Plan (3 Semester Track) (MiM) (mim)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 1,
+      "messages": 1,
+      "paragraphs": 1,
+      "example_line": 393827
+    },
+    {
+      "file_id": "9",
+      "file_name": "9 - Study guide info (all-programs)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 1,
+      "messages": 1,
+      "paragraphs": 1,
+      "example_line": 396841
+    },
+    {
+      "file_id": "1078",
+      "file_name": "1078 - Foundation Year Celebration (fy)",
+      "origin": "BookStack candidate (unverified)",
+      "references": 1,
+      "messages": 1,
+      "paragraphs": 1,
+      "example_line": 422163
+    }
+  ],
+  "examples": [
+    [
+      1,
+      "outbound",
+      "Unattributed outgoing content",
+      "No knowledge references or reliable source marker; may be conversation, workflow, model or other integration",
+      "",
+      "",
+      "For document stuff, the *Student Help Desk* is still the place to check, they’ll know whether it’s stored digitally or only handled there."
+    ],
+    [
+      2,
+      "outbound",
+      "Unattributed outgoing content",
+      "No knowledge references or reliable source marker; may be conversation, workflow, model or other integration",
+      "",
+      "",
+      "I can’t confirm a digital location for the *Studienvertrag* from the info I have."
+    ],
+    [
+      4,
+      "outbound",
+      "Unattributed outgoing content",
+      "No knowledge references or reliable source marker; may be conversation, workflow, model or other integration",
+      "",
+      "",
+      "Student Help Desk, 2nd floor, Tower B. That’s the place to ask about your *Studienvertrag* and to hand in or receive documents from Frankfurt School."
+    ],
+    [
+      6,
+      "outbound",
+      "Unattributed outgoing content",
+      "No knowledge references or reliable source marker; may be conversation, workflow, model or other integration",
+      "",
+      "",
+      "So, if January 31st is your deadline and you get sick, the key thing is to file that SuSy request properly, then the deadline gets pushed accordingly."
+    ],
+    [
+      7,
+      "outbound",
+      "Unattributed outgoing content",
+      "No knowledge references or reliable source marker; may be conversation, workflow, model or other integration",
+      "",
+      "",
+      "If you *don’t* submit on time and there’s no approved extension, the thesis is failed with 0 points."
+    ],
+    [
+      8,
+      "outbound",
+      "Unattributed outgoing content",
+      "No knowledge references or reliable source marker; may be conversation, workflow, model or other integration",
+      "",
+      "",
+      "You can request this any time during the writing period."
+    ],
+    [
+      9,
+      "outbound",
+      "Unattributed outgoing content",
+      "No knowledge references or reliable source marker; may be conversation, workflow, model or other integration",
+      "",
+      "",
+      "Then your study advisor adjusts the submission deadline by the number of sick days, so if you’re sick for 6 days, the deadline moves by 6 days."
+    ],
+    [
+      10,
+      "outbound",
+      "Unattributed outgoing content",
+      "No knowledge references or reliable source marker; may be conversation, workflow, model or other integration",
+      "",
+      "",
+      "You need to submit the *inability to take an exam* form in SuSy, with the sick note upload in the corresponding place. No other sick note format is accepted, and you do not need to submit the original sick note."
+    ],
+    [
+      3,
+      "inbound",
+      "User-authored input",
+      "Inbound direction; not a Frankie answer",
+      "",
+      "",
+      "can i not find it digitally?"
+    ],
+    [
+      5,
+      "inbound",
+      "User-authored input",
+      "Inbound direction; not a Frankie answer",
+      "",
+      "",
+      "where can i find my studienvertrag?"
+    ],
+    [
+      12,
+      "inbound",
+      "User-authored input",
+      "Inbound direction; not a Frankie answer",
+      "",
+      "",
+      "I am aiming for the period where the thesis submission deadline is January 31st. What happens if i get sick and need to submit after January 31st which is when the semester ends?"
+    ],
+    [
+      17,
+      "inbound",
+      "User-authored input",
+      "Inbound direction; not a Frankie answer",
+      "",
+      "",
+      "So i will do an extra semester if i dont register?"
+    ],
+    [
+      20,
+      "inbound",
+      "User-authored input",
+      "Inbound direction; not a Frankie answer",
+      "",
+      "",
+      "What if i miss the registration period for the last official writing period"
+    ],
+    [
+      23,
+      "inbound",
+      "User-authored input",
+      "Inbound direction; not a Frankie answer",
+      "",
+      "",
+      "What happens if i don’t register my masters thesis on time"
+    ],
+    [
+      75,
+      "inbound",
+      "User-authored input",
+      "Inbound direction; not a Frankie answer",
+      "",
+      "",
+      "So you dont have a number for Bochao, Fu?"
+    ],
+    [
+      77,
+      "inbound",
+      "User-authored input",
+      "Inbound direction; not a Frankie answer",
+      "",
+      "",
+      "Who has the suffix number with a 406 at the end?"
+    ],
+    [
+      24,
+      "template",
+      "CRM event workflow (event ID present)",
+      "Event ID in payload; proves an event association, not a logged CRM retrieval",
+      "frankie_invite_template_reg_2",
+      "",
+      "Just dropping in with a quick heads-up 💌 Career Services Presents: Grow Your Professional Network is happening on Tuesday, November 3rd at 08:30h @ online. You’ll need to register to join, but it’s super easy. Want in? Tap below 👇"
+    ],
+    [
+      25,
+      "template",
+      "CRM event workflow (event ID present)",
+      "Event ID in payload; proves an event association, not a logged CRM retrieval",
+      "frankie_invite_template_reg_1",
+      "",
+      "We’ve got a new event alert going off 🪩 Futury Build Days #3 – Tech by Hessian.AI is coming up on Sunday, October 25th at 09:30h @ TBC, TBC and I didn’t want you to miss out. You’ll need to register to attend, so grab your spot while it’s open! Get things sorted below 👇"
+    ],
+    [
+      26,
+      "template",
+      "CRM event workflow (event ID present)",
+      "Event ID in payload; proves an event association, not a logged CRM retrieval",
+      "frankie_invite_template_reg_4",
+      "",
+      "A little invite from me to you 💫 Financial Modelling Like a Banker: Investment Banking & Private Equity with Goldman Sachs Executive Director Florian P. Meyer is happening on Saturday, November 28th at 09:00h @ FS Campus, S0.03, and it sounds like a cool one. Spots are limited, so make sure to secure one before it fills up! Ready to sign up? Click below 👇"
+    ],
+    [
+      27,
+      "template",
+      "CRM event workflow (event ID present)",
+      "Event ID in payload; proves an event association, not a logged CRM retrieval",
+      "frankie_invite_template_reg_4",
+      "",
+      "A little invite from me to you 💫 Co-Founder Wanted 9.0 is happening on Thursday, November 5th at 18:00h @ FS Entrepreneurship Centre, Praesidialbau, and it sounds like a cool one. Spots are limited, so make sure to secure one before it fills up! Ready to sign up? Click below 👇"
+    ],
+    [
+      28,
+      "template",
+      "CRM event workflow (event ID present)",
+      "Event ID in payload; proves an event association, not a logged CRM retrieval",
+      "frankie_invite_template_reg_4",
+      "",
+      "A little invite from me to you 💫 Inside Investment Banking & Private Equity: From M&A to IPOs with Goldman Sachs Executive Director Florian P. Meyer is happening on Saturday, November 21st at 09:00h @ FS Campus, S0.03, and it sounds like a cool one. Spots are limited, so make sure to secure one before it fills up! Ready to sign up? Click below 👇"
+    ],
+    [
+      29,
+      "template",
+      "CRM event workflow (event ID present)",
+      "Event ID in payload; proves an event association, not a logged CRM retrieval",
+      "frankie_invite_template_reg_4",
+      "",
+      "A little invite from me to you 💫 Company Visit at JLL Frankfurt | Real Estate Debt & Structured Finance is happening on Wednesday, October 28th at 18:30h @ Bockenheimer Landstraße 55, 60325 Frankfurt am Main-Innenstadt II, Deutschland, JLL Office, and it sounds like a cool one. Spots are limited, so make sure to secure one before it fills up! Ready to sign up? Click below 👇"
+    ],
+    [
+      30,
+      "template",
+      "CRM event workflow (event ID present)",
+      "Event ID in payload; proves an event association, not a logged CRM retrieval",
+      "frankie_invite_template_reg_2",
+      "",
+      "Just dropping in with a quick heads-up 💌 Career Services presents: Boost Your LinkedIn Profile is happening on Wednesday, October 28th at 08:30h @ online. You’ll need to register to join, but it’s super easy. Want in? Tap below 👇"
+    ],
+    [
+      31,
+      "template",
+      "CRM event workflow (event ID present)",
+      "Event ID in payload; proves an event association, not a logged CRM retrieval",
+      "frankie_invite_template_reg_3",
+      "",
+      "Have you heard? Frankfurt School Career Days 2026 is happening on Tuesday, November 3rd at 17:30h @ FS Campus, Ground Floor 🎉 Thought it might be something you’d like, sounds right up your alley. Just an FYI, seats are limited, so maybe grab one early! Whenever you’re ready… 👇"
+    ],
+    [
+      32,
+      "template",
+      "CRM/event communication (inferred)",
+      "Event-related template family; exact content source not recorded",
+      "new_events_oct05",
+      "",
+      "Hi <first_name>, here’s what’s coming up at FS next week: 🇩🇪 *My German Success:* Hear firsthand from international FS alumni about launching a career in Germany, from finding internships and navigating the German job market to networking, German language skills and Career Services • Wed, 7 Oct • 18:00–19:45 • Online 📊 *Ace your Data Science Job Interview:* Get practical tips on Data Science interview processes, elevator pitches, different interview questions and how to make a strong impression on recruiters • Thu, 8 Oct • 18:00–19:45 • FS Campus 🚀 *FS Invest | How to Break into Finance:* Expl"
+    ],
+    [
+      36,
+      "template",
+      "CRM/event communication (inferred)",
+      "Event-related template family; exact content source not recorded",
+      "sep28_event_invites",
+      "",
+      "Hi <first_name>, here’s what’s coming up at FS: 🧇 *The First Weeks Unpacked:* Talk openly about how your first weeks at FS are really going, with anonymous polls, senior student insights, Q&A and fresh waffles • Mon, 28 Sep • 19:00–20:30 • Skyline Student Lounge 💼 *Consulting Career Workshop:* Learn about consulting careers, recruiting, fit & case interviews, with first-hand insights from a McKinsey consultant and FS alumna • Tue, 29 Sep • 18:00–19:45 • FS Campus ✨ *Stand Out from the Crowd:* Learn how to identify and communicate your strengths, stand out in applications and make employers rem"
+    ],
+    [
+      39,
+      "template",
+      "CRM/event communication (inferred)",
+      "Event-related template family; exact content source not recorded",
+      "sep21_event_invites",
+      "",
+      "Hi <first_name>, here’s what’s coming up at FS: 🎓 *Honorary Doctorate Ceremony*: FS honors Professor Daniel Levinthal, one of the world’s leading management scholars, followed by his keynote on machine learning & organizational intelligence • Mon, 21 Sep • 14:00–17:00 • FS Campus 📊 *Presentation Design Workshop*: Learn how to create clear, engaging and memorable presentations that go beyond text-heavy slides • Wed, 23 Sep • 18:00–21:00 🚀 *Startup Funding Workshop*: Understand funding options, investor readiness, finding the right investors and navigating the fundraising process • Wed, 23 Sep •"
+    ],
+    [
+      49,
+      "template",
+      "CRM/event communication (inferred)",
+      "Event-related template family; exact content source not recorded",
+      "event_message_sep14",
+      "",
+      "Hi <first_name>, here’s what’s coming up at FS: 🚀 *Frankfurt Venture Hub:* Connect with founders, investors and entrepreneurs, explore the startup ecosystem and network with the Frankfurt venture community • Tue, 15 Sep • From 15:30 • FS Campus • Apply by 15 Sep, 15:30 📄 *Get Your CV Recruiter and ATS-ready:* Learn how to optimise your CV for recruiters and Applicant Tracking Systems and improve your chances of getting noticed • Wed, 16 Sep • 08:30–09:00 • Online • Apply by 15 Sep, 08:00 🌏 *SGC’s Virtual Roundtable:* EU-China Trade Dispute: Discuss current developments and perspectives on the "
+    ],
+    [
+      55,
+      "template",
+      "CRM/event communication (inferred)",
+      "Event-related template family; exact content source not recorded",
+      "sep7_event_invites",
+      "",
+      "Hi <first_name>, here’s what’s coming up at FS: 🏢 *FS Real Estate Career Day 2026:* Meet leading employers from real estate & finance, network with professionals and explore career opportunities • Wed, 9 Sep • 16:00–18:00 • FS Campus • Apply by 8 Sep, 23:59 😴 *A Good Night’s Sleep: Sleep Hygiene:* Learn practical ways to improve sleep, mental strength and overall health based on sleep medicine & brain research • Wed, 9 Sep • 18:00–19:30 • Online • Apply by 8 Sep, 23:59 🎯 *Master the Assessment Center:* Interactive Career Services workshop covering interviews, case studies, group exercises, sel"
+    ],
+    [
+      60,
+      "template",
+      "CRM/event communication (inferred)",
+      "Event-related template family; exact content source not recorded",
+      "mon_aug31_proactive",
+      "",
+      "Hi <first_name>, here’s what’s coming up at FS: 🚀 *FSEC Accelerator Summer ’26 Demo Day:* Watch 8 startups pitch across AI, FinTech, FemTech, Crypto, Dual-use Tech & Logistics, followed by food, drinks & networking • Tue, 1 Sep • 18:30–22:00 • Audimax 🤝 *Community Life Fair:* Meet FS student initiatives, organizations & partners at the semester kick-off and discover ways to get involved • Wed, 2 Sep • 17:00–20:00 • Frankfurt School 💰 *Capital Days 2026:* Two days of finance, recruiting & networking with leading investors, executives and firms across IB, PE & consulting • Thu–Fri, 3–4 Sep • Fra"
+    ],
+    [
+      91,
+      "template",
+      "CRM/event communication (inferred)",
+      "Event-related template family; exact content source not recorded",
+      "capital_days_2026",
+      "",
+      "Hi! I hope you’re enjoying your summer break ☀️ Excited to inform you that the *Capital Days 2026* will take place on September 3–4 at the FS Campus! You’ll have the opportunity to meet leading firms such as *McKinsey, BCG, Advent International, Permira, CVC Capital Partners, Oliver Wyman, Triton Partners, Nomura, and OC&C*, while exploring exciting internship and recruitment opportunities. Until Wednesday, August 5, you can use the code *EARLY25* to receive 25% off your ticket. Get it here: [link] If you have any questions, I’m here 💙"
+    ],
+    [
+      94,
+      "template",
+      "CRM/event communication (inferred)",
+      "Event-related template family; exact content source not recorded",
+      "fs_accelerator_v2",
+      "",
+      "Hey <first_name>, ever thought about building something yourself or just want to understand how the startup world actually works? The FS Accelerator is opening a few of its workshops to everyone 👇 📅 30 June, Negotiating a VC Term Sheet: [link] 📅 1 July, Financial Planning for Startups: [link] 📅 18 August, How to Avoid Captable Disasters: [link] Could be a fun one to join if you've ever had a \"wait... maybe I should build something someday\" moment 💙"
+    ],
+    [
+      33,
+      "template",
+      "Other templates / workflow content",
+      "Template name recorded; authoring or upstream content source unspecified",
+      "campus_sorgenfrei_scholarship_2026",
+      "",
+      "*Campus Sorgenfrei Scholarship 2026 - Applications Are Open!* With the Campus Sorgenfrei Scholarship 2026, you have the chance to receive *1,000 EUR* in financial support for your studies. The best part: Your field of study and grade point average do not matter. Apply now and enjoy a stress-free start to the 2026/27 winter semester. Here’s how to secure your chance for a worry-free study experience: - Register on Santander Open Academy - Complete the application form - Submit your application by 20 November 2026"
+    ],
+    [
+      71,
+      "template",
+      "Other templates / workflow content",
+      "Template name recorded; authoring or upstream content source unspecified",
+      "balance_group",
+      "",
+      "Hi! 🧘 We’re working on a new partnership with Balance Group to be able to offer you discounted Yoga, Pilates, and Reformer Pilates classes. To make sure the offer matches what students actually want, we’d love your feedback. The survey takes just 2 minutes: [link] Fun fact: the founder and CEO of Balance Group is an FS alumna 💙"
+    ],
+    [
+      95,
+      "template",
+      "Other templates / workflow content",
+      "Template name recorded; authoring or upstream content source unspecified",
+      "career_services_summer_break",
+      "",
+      "FYI: Career Services will still be around during the summer break if you need support with career planning, applications, interview prep, or your job search. You can book appointments via JobTeaser, online or on campus, for 45-minute Career Counselling or 15-minute Career Advice. Drop-ins are also available on campus from Tuesday to Wednesday, 09:00–10:00, with no appointment needed. For urgent questions, especially before an upcoming interview, email [email]"
+    ],
+    [
+      150,
+      "template",
+      "Other templates / workflow content",
+      "Template name recorded; authoring or upstream content source unspecified",
+      "buddy_program",
+      "",
+      "Hey <first_name>, there's still time to register for the *Buddy Programme* if you've been thinking about it. If that sounds like your kind of thing, here's what you need to know: - Final online workshops take place on *June 9 at 1:00 p.m.* and *June 10 at 8:00 a.m.* - After completing a workshop, you'll be eligible to be matched with a Little Buddy for the upcoming semester. - It's a great way to help new students settle into life at Frankfurt School and have a friendly face to turn to from day one. Don't miss your chance to join before registration closes 💙"
+    ],
+    [
+      151,
+      "template",
+      "Other templates / workflow content",
+      "Template name recorded; authoring or upstream content source unspecified",
+      "courses_lang_eng",
+      "",
+      "Thinking about improving your 🇩🇪 German next semester? Registration for the Winter Semester 2026 language courses is now open! Free German courses are available from A1–C1+, including Business German and Conversation classes to help you feel more confident in everyday life, your studies, and future jobs in Germany. Courses take place on campus in small groups from 2 September to 12 December 2026. If you would like to register, send me a message and I’ll share the appropriate course link. For more information, please visit the Languages Canvas page or contact Timm Faust at [email]."
+    ],
+    [
+      152,
+      "template",
+      "Other templates / workflow content",
+      "Template name recorded; authoring or upstream content source unspecified",
+      "quick_campus_update",
+      "",
+      "Quick campus update 🍽️ The restaurant will remain closed today due to technical issues, but the coffee bar is open and serving: - Fresh salads - Sausage rolls with potato salad - Desserts So nobody has to survive on caffeine alone today. Thank you for your understanding, and hopefully normal restaurant operations will be back soon 💙"
+    ],
+    [
+      154,
+      "template",
+      "Other templates / workflow content",
+      "Template name recorded; authoring or upstream content source unspecified",
+      "frankie_weekly_message_may_28",
+      "",
+      "Hey <first_name>, just a quick note from me 💙 Following this week's incident, we want to reassure you that the situation was handled immediately and there is no ongoing threat to campus safety. As an extra precaution, temporary security measures have been put in place, so please remember to bring your FS Card, or a national ID together with your Immatrikulationsbescheinigung for campus access. We know situations like this can feel a little unsettling, so check in on yourselves and your friends tonight 💙"
+    ],
+    [
+      156,
+      "template",
+      "Other templates / workflow content",
+      "Template name recorded; authoring or upstream content source unspecified",
+      "frankie_8_downtime_end",
+      "",
+      "We’re back ✨ The upgrade is done and I’m ready to help. Feel free to ask me anything!"
+    ],
+    [
+      162,
+      "outbound",
+      "BookStack-linked knowledge base",
+      "Recorded knowledge_sources; numeric file IDs are BookStack candidates based on documentation, not verified page mappings; nonnumeric sources kept separate",
+      "",
+      "1140 - FS REI Web (fs-rei); 14 - Frankfurt School - general information (all-programs); 15 - Studying at FS - general information (all-programs); 892 - General Examination Info (examination-office); 893 - Sick Notes/Inability to Take an Exam Info (examination-office); 982 - Grades (all-programs)",
+      "Remember, patience is key, but a little nudge never hurts!"
+    ],
+    [
+      163,
+      "outbound",
+      "BookStack-linked knowledge base",
+      "Recorded knowledge_sources; numeric file IDs are BookStack candidates based on documentation, not verified page mappings; nonnumeric sources kept separate",
+      "",
+      "1140 - FS REI Web (fs-rei); 14 - Frankfurt School - general information (all-programs); 15 - Studying at FS - general information (all-programs); 892 - General Examination Info (examination-office); 893 - Sick Notes/Inability to Take an Exam Info (examination-office); 982 - Grades (all-programs)",
+      "You can reach them at [email] or book an appointment here: [link]"
+    ],
+    [
+      164,
+      "outbound",
+      "BookStack-linked knowledge base",
+      "Recorded knowledge_sources; numeric file IDs are BookStack candidates based on documentation, not verified page mappings; nonnumeric sources kept separate",
+      "",
+      "1140 - FS REI Web (fs-rei); 14 - Frankfurt School - general information (all-programs); 15 - Studying at FS - general information (all-programs); 892 - General Examination Info (examination-office); 893 - Sick Notes/Inability to Take an Exam Info (examination-office); 982 - Grades (all-programs)",
+      "Once you've submitted an appeal, the process is typically communicated during the exam info sessions. If you haven't heard back yet, it might be worth checking in with your Study Advisor, Ute Höne, for guidance."
+    ],
+    [
+      170,
+      "outbound",
+      "BookStack-linked knowledge base",
+      "Recorded knowledge_sources; numeric file IDs are BookStack candidates based on documentation, not verified page mappings; nonnumeric sources kept separate",
+      "",
+      "10 - Frankfurt campus (all-programs); 202 - House Rules (all-programs); 35 - Studying in Frankfurt (all-programs); 46 - Public transport - D-ticket (all-programs)",
+      "Provide your date of birth and matriculation number to activate your ticket for the semester. Keep your student ID with you when using public transport. 🚆"
+    ],
+    [
+      171,
+      "outbound",
+      "BookStack-linked knowledge base",
+      "Recorded knowledge_sources; numeric file IDs are BookStack candidates based on documentation, not verified page mappings; nonnumeric sources kept separate",
+      "",
+      "10 - Frankfurt campus (all-programs); 202 - House Rules (all-programs); 35 - Studying in Frankfurt (all-programs); 46 - Public transport - D-ticket (all-programs)",
+      "Here's the link: [link]"
+    ],
+    [
+      174,
+      "outbound",
+      "BookStack-linked knowledge base",
+      "Recorded knowledge_sources; numeric file IDs are BookStack candidates based on documentation, not verified page mappings; nonnumeric sources kept separate",
+      "",
+      "201 - Payment portal instructions (alliance); 48 - Student ID (all-programs)",
+      "If you haven't registered yet, you can start a registration via \"Register.\" If you've forgotten your password, click on \"Forgot password\" to reset it."
+    ],
+    [
+      175,
+      "outbound",
+      "BookStack-linked knowledge base",
+      "Recorded knowledge_sources; numeric file IDs are BookStack candidates based on documentation, not verified page mappings; nonnumeric sources kept separate",
+      "",
+      "201 - Payment portal instructions (alliance); 48 - Student ID (all-programs)",
+      "For the password, use the one you set during registration for the payment portal."
+    ],
+    [
+      178,
+      "outbound",
+      "BookStack-linked knowledge base",
+      "Recorded knowledge_sources; numeric file IDs are BookStack candidates based on documentation, not verified page mappings; nonnumeric sources kept separate",
+      "",
+      "20 - Printing (all-programs); 45 - Orientation/Opening Week/Days (all-programs); 48 - Student ID (all-programs)",
+      "You have two options: 1) Directly at one of the Alliance cash desks, like in the casino, using an EC card or credit card (amounts from 5-190 euros). 2) Via the payment portal, where you can choose to pay with a credit card or direct debit."
+    ],
+    [
+      369,
+      "template",
+      "Canteen / lunch service (inferred)",
+      "Menu template; documentation describes third-party canteen scraping; no per-message fetch log",
+      "frankie_weekly_lunch_menu_update_v1",
+      "",
+      "Here are your lunch menus for this week! I hope you'll enjoy it 🍔🍴"
+    ],
+    [
+      385,
+      "template",
+      "Canteen / lunch service (inferred)",
+      "Menu template; documentation describes third-party canteen scraping; no per-message fetch log",
+      "frankie_weekly_lunch_menu_update_v1",
+      "",
+      "Here are your lunch menus for this week! I hope you'll enjoy it 🍔🍴"
+    ],
+    [
+      411,
+      "template",
+      "Canteen / lunch service (inferred)",
+      "Menu template; documentation describes third-party canteen scraping; no per-message fetch log",
+      "frankie_weekly_lunch_menu_update_v1",
+      "",
+      "Here are your lunch menus for this week! I hope you'll enjoy it 🍔🍴"
+    ],
+    [
+      427,
+      "template",
+      "Canteen / lunch service (inferred)",
+      "Menu template; documentation describes third-party canteen scraping; no per-message fetch log",
+      "frankie_weekly_lunch_menu_update_v1",
+      "",
+      "Here are your lunch menus for this week! I hope you'll enjoy it 🍔🍴"
+    ],
+    [
+      429,
+      "template",
+      "Canteen / lunch service (inferred)",
+      "Menu template; documentation describes third-party canteen scraping; no per-message fetch log",
+      "frankie_weekly_lunch_menu_update_v1",
+      "",
+      "Here are your lunch menus for this week! I hope you'll enjoy it 🍔🍴"
+    ],
+    [
+      431,
+      "template",
+      "Canteen / lunch service (inferred)",
+      "Menu template; documentation describes third-party canteen scraping; no per-message fetch log",
+      "frankie_weekly_lunch_menu_update_v1",
+      "",
+      "Here are your lunch menus for this week! I hope you'll enjoy it 🍔🍴"
+    ],
+    [
+      4566,
+      "template",
+      "Canteen / lunch service (inferred)",
+      "Menu template; documentation describes third-party canteen scraping; no per-message fetch log",
+      "frankie_lunch_menu_7_options",
+      "",
+      "Hey! Check out what’s on the menu today: 1. *Tomato and semolina soup:* 2,50 € 2. *Penne in sage sauce | Tomato | Rocket:* 4,90 € 3. *FS Curry sausaget | homemade Currysauce | Wedges:* 7,80 € 4. *Crispy chicken strips in a soya and honey glaze | Lime rice | Stir-fry:* 7,80 € 5. *Salad Selection from Buffet | Various Toppings | Cereals | Dressing | around 600 gr:* 5,80 € 6. *Penne in sage sauce | Tomato | Rocket:* 4,90 € 7. *Chocolate Rice Pudding | Strawberries:* 2,30 €"
+    ],
+    [
+      4568,
+      "template",
+      "Canteen / lunch service (inferred)",
+      "Menu template; documentation describes third-party canteen scraping; no per-message fetch log",
+      "frankie_lunch_menu_5_options",
+      "",
+      "Hello! Here are your menu choices for today: 1. *Potato Stew:* 2,50 € 2. *Macaroni and cheese:* 4,90 € 3. *Pan-Fried Turkey Steak | French Fries | Pepper Sauce:* 7,80 € 4. *Potato stew with bread or rolls:* 4,90 € 5. *Vanilla custard | Peach | Crumble:* 2,30 €"
+    ],
+    [
+      132610,
+      "outbound",
+      "Mixed KB sources (BookStack candidate + other)",
+      "Recorded knowledge_sources; numeric file IDs are BookStack candidates based on documentation, not verified page mappings; nonnumeric sources kept separate",
+      "",
+      "188 - Career Days 2024 (career-services); 19 - The Steubing Learning Centre - Library (library); 21 - Gym (all-programs); 35 - Studying in Frankfurt (all-programs); 38 - Programme contact partners (all-programs); 980 - Other people (fs-staff); Manually added: FS Alumni Homecoming",
+      "In the context of Career Days 2024, companies can see your profile if you register for their online sessions or upload your CV/Resume to the database. However, individual profiles within the FS Club aren't publicly visible like on social media platforms. If you're looking to connect with someone specific, attending events or participating in club activities is a great way to meet fellow members! 😊"
+    ],
+    [
+      376164,
+      "outbound",
+      "Mixed KB sources (BookStack candidate + other)",
+      "Recorded knowledge_sources; numeric file IDs are BookStack candidates based on documentation, not verified page mappings; nonnumeric sources kept separate",
+      "",
+      "181 - Career Services - General (career-services); 184 - Career Services - Events (career-services); 847 - FS Business Game (student-initiatives); 849 - FS Charity (student-initiatives); 867 - FS Sports Business (student-initiatives); Manually added: FS Alumni Homecoming",
+      "Hey <first_name>! How can I best support you in your academic endeavors today? 😊 Whether it's about sports, data science, or anything else, I'm here to help!"
+    ],
+    [
+      425020,
+      "outbound",
+      "Mixed KB sources (BookStack candidate + other)",
+      "Recorded knowledge_sources; numeric file IDs are BookStack candidates based on documentation, not verified page mappings; nonnumeric sources kept separate",
+      "",
+      "209 - Language courses - general information (languages); 439 - Grigory Vilkov (fs-staff); 639 - FSEC Intro & Web (fsec); 840 - Semester abroad - All programs (international-office); 878 - Top 30 Alumni (alumni); 980 - Other people (fs-staff); New file 347",
+      "Das liegt leider außerhalb meines Fachgebiets. Ich kann dir jedoch bei Fragen zur Frankfurt School oder zu Veranstaltungen und Programmen hier helfen. 😊 Wenn du mehr über Karrieremöglichkeiten im Trading wissen möchtest, könnte ein Gespräch mit einem unserer Dozenten oder Alumni aus dem Bereich Finanzen hilfreich sein! 📈"
+    ],
+    [
+      426851,
+      "outbound",
+      "Mixed KB sources (BookStack candidate + other)",
+      "Recorded knowledge_sources; numeric file IDs are BookStack candidates based on documentation, not verified page mappings; nonnumeric sources kept separate",
+      "",
+      "16 - Programme information (all-programs); 188 - Career Days 2024 (career-services); 19 - The Steubing Learning Centre - Library (library); 483 - Alumni - General info (alumni); 729 - Student Council (student-council); 878 - Top 30 Alumni (alumni); 980 - Other people (fs-staff); Manually added: FS Alumni Homecoming",
+      "If you have any other questions or need more info about FS, feel free to ask! 😊"
+    ],
+    [
+      426981,
+      "outbound",
+      "Mixed KB sources (BookStack candidate + other)",
+      "Recorded knowledge_sources; numeric file IDs are BookStack candidates based on documentation, not verified page mappings; nonnumeric sources kept separate",
+      "",
+      "181 - Career Services - General (career-services); 185 - Career Services (career-services); 361 - Alexander Bleier (fs-staff); 868 - FS Student Consulting (student-initiatives); 980 - Other people (fs-staff); New file 347",
+      "If there's anything else you'd like to know, just let me know!"
+    ],
+    [
+      426982,
+      "outbound",
+      "Mixed KB sources (BookStack candidate + other)",
+      "Recorded knowledge_sources; numeric file IDs are BookStack candidates based on documentation, not verified page mappings; nonnumeric sources kept separate",
+      "",
+      "181 - Career Services - General (career-services); 185 - Career Services (career-services); 361 - Alexander Bleier (fs-staff); 868 - FS Student Consulting (student-initiatives); 980 - Other people (fs-staff); New file 347",
+      "I currently have information only about Eva Gschwandtner and Alice Friedel in relation to Procter & Gamble. If you're curious about more alumni or specific details, you might want to check with the Career Services or Alumni Office at FS for further insights. 😊"
+    ],
+    [
+      426984,
+      "outbound",
+      "Mixed KB sources (BookStack candidate + other)",
+      "Recorded knowledge_sources; numeric file IDs are BookStack candidates based on documentation, not verified page mappings; nonnumeric sources kept separate",
+      "",
+      "181 - Career Services - General (career-services); 185 - Career Services (career-services); 288 - Literature databases (library); 483 - Alumni - General info (alumni); 868 - FS Student Consulting (student-initiatives); 980 - Other people (fs-staff); New file 347",
+      "If you need more info or have another question, feel free to ask! 😊"
+    ],
+    [
+      426985,
+      "outbound",
+      "Mixed KB sources (BookStack candidate + other)",
+      "Recorded knowledge_sources; numeric file IDs are BookStack candidates based on documentation, not verified page mappings; nonnumeric sources kept separate",
+      "",
+      "181 - Career Services - General (career-services); 185 - Career Services (career-services); 288 - Literature databases (library); 483 - Alumni - General info (alumni); 868 - FS Student Consulting (student-initiatives); 980 - Other people (fs-staff); New file 347",
+      "2. **Alice Friedel**: Currently serves as a Senior Market Strategy and Planning Manager at Gillette, Procter & Gamble."
+    ]
+  ],
+  "references": 292361
+}
